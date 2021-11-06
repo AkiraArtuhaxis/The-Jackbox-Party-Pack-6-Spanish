@@ -1,0 +1,158 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "(risas)... Esa es buena",
+            "t": "A",
+            "v": "827403_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Solo caeré como 3 veces más!",
+            "t": "A",
+            "v": "827402_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es el nombre de tu marca de chicle picante?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es el mejor nombre falso para dar en el teléfono?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién puede hacer la mejor impresión de un cojín tira pedos?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿A quién le parece más gracioso el concepto de los pedos?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién tiene el sentido del humor más turbio?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si fueran peces, ¿quién sería atrapado por un anzuelo primero?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Lamento el identificador de llamadas",
+            "t": "A",
+            "v": "827399_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién tiene la paciencia para envolver por completo un auto deportivo en el que entra una familia de 8?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué broma es más probable que realicen?",
+            "t": "A",
+            "v": "827391_1",
+            "n": "Prompt"
+        }
+    ]
+}

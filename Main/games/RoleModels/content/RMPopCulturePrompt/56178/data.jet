@@ -1,0 +1,156 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "¿A quién dispararías primero?",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "¡¡¡Traidor!!!",
+            "t": "A",
+            "v": "803118_2",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Ahora, ese es un rol que no he escuchado en mucho tiempo...",
+            "t": "A",
+            "v": "803117_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Olvida “Scruffy Nerf Herder”....¿Cuál es tu mejor insulto de ciencia ficción?",
+            "t": "A",
+            "v": "818028_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué jugador se vería mejor con una capa?",
+            "t": "A",
+            "v": "805009_2",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Para qué usarías tus poderes mentales Jedi?",
+            "t": "A",
+            "v": "818030_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién sobreviviría solo en el desierto más tiempo?",
+            "t": "A",
+            "v": "818029_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Eres demasiado genial para el espacio",
+            "t": "A",
+            "v": "803116_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Empezaste desde abajo y ahora estás aquí",
+            "t": "A",
+            "v": "803115_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál sería tu trabajo en la Estrella de la Muerte?",
+            "t": "A",
+            "v": "818031_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "El único que no es un quejumbroso",
+            "t": "A",
+            "v": "803114_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Tal vez deberías trabajar en tus habilidades de crianza",
+            "t": "A",
+            "v": "803113_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué personaje de <i>Star Wars<\/i> combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "803106_1",
+            "n": "Prompt"
+        }
+    ]
+}

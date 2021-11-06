@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "tomarlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "dejárlo ahí",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "hablarle a un/a amigo/a para que te ayude",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ves un collar de diamantes en un oso grizzly durmiendo. Deberías...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ves un collar de diamantes en un oso grizzly durmiendo. Deberías...",
+            "t": "A",
+            "v": "814940_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

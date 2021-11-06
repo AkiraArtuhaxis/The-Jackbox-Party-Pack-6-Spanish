@@ -1,0 +1,160 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Yo los espío con mi pequeño ojito",
+            "t": "A",
+            "v": "813435_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién puede dormirse ante cualquier situación?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Busca en tu aplicación de mapas preferida el último viaje para el que necesitaste indicaciones.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es el mejor juego de auto?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es tu excusa para tener que ir al baño a cada rato?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Quizás deberías ir a que te revisen eso",
+            "t": "A",
+            "v": "813434_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Completa la sentencia: “Dos caminos se bifurcaban en un bosque, y yo tomé el _____.”",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Despierta!",
+            "t": "A",
+            "v": "813433_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la canción de viaje en auto número uno?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Recalculando",
+            "t": "A",
+            "v": "813432_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Acelera",
+            "t": "A",
+            "v": "813431_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Responde como un conductor: ¿Cuál es la regla número uno en tu carro?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué hacen cuando están en un viaje por la carretera?",
+            "t": "A",
+            "v": "813424_1",
+            "n": "Prompt"
+        }
+    ]
+}

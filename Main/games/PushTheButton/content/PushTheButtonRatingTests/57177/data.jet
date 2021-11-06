@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Soy un/una nerd de la gramática.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Hay demasiadas películas de <i>Batman<\/i>.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "El ketchup sabe bien en los hot dogs.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "GIF se pronuncia \u201cyif,\u201d no \u201cguif.\u201d",
+        "n": "HumanPromptText"
+    }, {
+        "s": "GIF se pronuncia \u201cyif,\u201d no \u201cguif.\u201d",
+        "t": "A",
+        "v": "823339_1",
+        "n": "HumanPromptAudio"
+    }]
+}

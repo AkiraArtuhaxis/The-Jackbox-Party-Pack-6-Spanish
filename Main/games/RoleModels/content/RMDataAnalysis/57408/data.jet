@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Tus amigos están a cargo de preparar un baile de secundaria, ¿cuál es tu trabajo?",
+            "t": "A",
+            "v": "830154_1",
+            "n": "Prompt"
+        }
+    ]
+}

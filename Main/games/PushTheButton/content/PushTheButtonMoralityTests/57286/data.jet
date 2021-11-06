@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "\u201c¡Eres asombrosa!\u201d",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "\u201c¡Yo podría hacer eso!\u201d",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "\u201c¡Esto es brujería!\u201d",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Quieres proporcionar ánimo durante un parto. Lo mejor que puedes decir es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Quieres proporcionar ánimo durante un parto. Lo mejor que puedes decir es...",
+            "t": "A",
+            "v": "826476_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

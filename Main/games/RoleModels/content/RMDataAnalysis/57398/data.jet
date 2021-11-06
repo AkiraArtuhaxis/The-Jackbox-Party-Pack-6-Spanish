@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Estás invitado a un afterparty de los Oscar. Hay celebridades por todos lados. ¿Qué haces?",
+            "t": "A",
+            "v": "829894_1",
+            "n": "Prompt"
+        }
+    ]
+}

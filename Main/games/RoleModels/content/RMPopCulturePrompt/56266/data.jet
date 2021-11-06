@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Sip.",
+            "t": "A",
+            "v": "804690_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Nos llevaste allí.",
+            "t": "A",
+            "v": "804689_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Madonna interpretó a Suspiritos. Suspira por la mayor cantidad de tiempo posible.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué fue lo último en lo que derrochaste dinero?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es más probable que se asocie con criminales?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Viviendo en un mundo material.",
+            "t": "A",
+            "v": "804688_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién da discursos con mayor grandeza?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Discurso! ¡Discurso! ¡Discurso!",
+            "t": "A",
+            "v": "804687_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién utiliza metáforas incorrectamente?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Estoy sin aliento. No, espera, tú lo estás.",
+            "t": "A",
+            "v": "804686_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "No hay lloraderas en Modelo a seguir.",
+            "t": "A",
+            "v": "804685_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Sobre qué fue tu último sueño?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿A quién te imaginas adoptando el apodo “Mae la apasionada”?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué Madonna es cada uno?",
+            "t": "A",
+            "v": "804678_1",
+            "n": "Prompt"
+        }
+    ]
+}

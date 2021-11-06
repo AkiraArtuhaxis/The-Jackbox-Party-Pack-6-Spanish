@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "asesinato",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "lavado de dinero",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "violaciones del código de salud",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Debes elegir un restaurante para la cena del ensayo de tu boda y todos menos 3 ya están reservados. Eliges el que es conocido por...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Debes elegir un restaurante para la cena del ensayo de tu boda y todos menos 3 ya están reservados. Eliges el que es conocido por...",
+            "t": "A",
+            "v": "833454_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

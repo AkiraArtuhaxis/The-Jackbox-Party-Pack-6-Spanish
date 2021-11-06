@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Un regalo de San Valentín que he comprado antes es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Algo que solo llevo puesto para ocasiones especiales...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "El peor animal que se puede tener como mascota es...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Algo que actualmente llevo puesto específicamente es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Something I\u2019m specifically wearing right now is...",
+            "t": "A",
+            "v": "832748_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

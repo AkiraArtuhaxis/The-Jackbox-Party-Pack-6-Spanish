@@ -1,0 +1,6192 @@
+{
+    "INHUMAN": {
+        "word_type": "noun",
+        "proto_tag": "INHUMANO",
+        "proto_tag_type": "noun"
+    },
+    "ALIEN": {
+        "word_type": "noun",
+        "proto_tag": "INHUMANO",
+        "proto_tag_type": "noun"
+    },
+    "ANIMAL": {
+        "word_type": "noun",
+        "proto_tag": "INHUMANO",
+        "proto_tag_type": "noun"
+    },
+    "ROBOT BEAST": {
+        "word_type": "adjective",
+        "proto_tag": "INHUMANO",
+        "proto_tag_type": "noun"
+    },
+    "SNEAKY": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SCHEMER": {
+        "word_type": "noun",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "CON ARTIST": {
+        "word_type": "noun",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "LIAR": {
+        "word_type": "noun",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "DECEITFUL": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "DECEPTION": {
+        "word_type": "noun",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "DECEPTIVE": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "DEVIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "GREEDY": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "HUSTLER": {
+        "word_type": "noun",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "POISONOUS": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "RUTHLESS": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SHADY": {
+        "word_type": "adjective",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SPY": {
+        "word_type": "noun",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "THIEF": {
+        "word_type": "noun",
+        "proto_tag": "SIGILOSO",
+        "proto_tag_type": "adjective"
+    },
+    "ANNOYING": {
+        "word_type": "adjective",
+        "proto_tag": "MOLESTO",
+        "proto_tag_type": "adjective"
+    },
+    "BRAT": {
+        "word_type": "noun",
+        "proto_tag": "MOLESTO",
+        "proto_tag_type": "adjective"
+    },
+    "LONER": {
+        "word_type": "noun",
+        "proto_tag": "SOLITARIO",
+        "proto_tag_type": "noun"
+    },
+    "ANTISOCIAL": {
+        "word_type": "adjective",
+        "proto_tag": "SOLITARIO",
+        "proto_tag_type": "noun"
+    },
+    "HERMIT": {
+        "word_type": "noun",
+        "proto_tag": "SOLITARIO",
+        "proto_tag_type": "noun"
+    },
+    "INDEPENDENT": {
+        "word_type": "adjective",
+        "proto_tag": "SOLITARIO",
+        "proto_tag_type": "noun"
+    },
+    "ISOLATED": {
+        "word_type": "adjective",
+        "proto_tag": "SOLITARIO",
+        "proto_tag_type": "noun"
+    },
+    "OUTCAST": {
+        "word_type": "noun",
+        "proto_tag": "SOLITARIO",
+        "proto_tag_type": "noun"
+    },
+    "RECLUSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "SOLITARIO",
+        "proto_tag_type": "noun"
+    },
+    "HEARTTHROB": {
+        "word_type": "noun",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "ROMANTIC": {
+        "word_type": "noun",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "CASSANOVA": {
+        "word_type": "noun",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "FLIRT": {
+        "word_type": "noun",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "FREE-LOVE": {
+        "word_type": "adjective",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "HEARTBREAKER": {
+        "word_type": "noun",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "HORNY": {
+        "word_type": "adjective",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "HUNK": {
+        "word_type": "noun",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "OVERTLY SEXUAL": {
+        "word_type": "adjective",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "SEDUCTIVE": {
+        "word_type": "adjective",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "SENSUAL": {
+        "word_type": "adjective",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "SEXY": {
+        "word_type": "adjective",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "SWINGER": {
+        "word_type": "noun",
+        "proto_tag": "ROMPECORAZONES",
+        "proto_tag_type": "noun"
+    },
+    "TROUBLEMAKER": {
+        "word_type": "noun",
+        "proto_tag": "PROBLEMÁTICO",
+        "proto_tag_type": "noun"
+    },
+    "MISCHIEVOUS": {
+        "word_type": "adjective",
+        "proto_tag": "PROBLEMÁTICO",
+        "proto_tag_type": "noun"
+    },
+    "NAUGHTY": {
+        "word_type": "adjective",
+        "proto_tag": "PROBLEMÁTICO",
+        "proto_tag_type": "noun"
+    },
+    "SCAMP": {
+        "word_type": "noun",
+        "proto_tag": "PROBLEMÁTICO",
+        "proto_tag_type": "noun"
+    },
+    "EVIL": {
+        "word_type": "adjective",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "DEMON": {
+        "word_type": "noun",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "KILLER": {
+        "word_type": "noun",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "NEFARIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "VILLAIN": {
+        "word_type": "noun",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "VILLAINOUS": {
+        "word_type": "adjective",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "MURDEROUS": {
+        "word_type": "adjective",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "SERIAL KILLER": {
+        "word_type": "noun",
+        "proto_tag": "MALVADO",
+        "proto_tag_type": "adjective"
+    },
+    "ETHICAL": {
+        "word_type": "adjective",
+        "proto_tag": "ÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "HONEST": {
+        "word_type": "adjective",
+        "proto_tag": "ÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "DO GOODER": {
+        "word_type": "noun",
+        "proto_tag": "ÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "GOOD-NATURED": {
+        "word_type": "adjective",
+        "proto_tag": "ÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "IMPARTIAL": {
+        "word_type": "adjective",
+        "proto_tag": "ÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "WHOLESOME": {
+        "word_type": "adjective",
+        "proto_tag": "ÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "SPOOKY": {
+        "word_type": "adjective",
+        "proto_tag": "ATERRADOR",
+        "proto_tag_type": "adjective"
+    },
+    "CUTE": {
+        "word_type": "adjective",
+        "proto_tag": "TIERNO",
+        "proto_tag_type": "adjective"
+    },
+    "ADORABLE": {
+        "word_type": "adjective",
+        "proto_tag": "TIERNO",
+        "proto_tag_type": "adjective"
+    },
+    "CUTIE": {
+        "word_type": "noun",
+        "proto_tag": "TIERNO",
+        "proto_tag_type": "adjective"
+    },
+    "PRECOCIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "TIERNO",
+        "proto_tag_type": "adjective"
+    },
+    "WILD CARD": {
+        "word_type": "noun",
+        "proto_tag": "COMODÍN",
+        "proto_tag_type": "noun"
+    },
+    "COLORFUL": {
+        "word_type": "adjective",
+        "proto_tag": "COMODÍN",
+        "proto_tag_type": "noun"
+    },
+    "WILD": {
+        "word_type": "adjective",
+        "proto_tag": "COMODÍN",
+        "proto_tag_type": "noun"
+    },
+    "DEPENDABLE": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "LOYAL": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "RESPONSIBLE": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "PARENTAL": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "CAREGIVER": {
+        "word_type": "noun",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "COMFORTING": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "MATRIARCH": {
+        "word_type": "noun",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "MOM": {
+        "word_type": "noun",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "SUPPORTER": {
+        "word_type": "noun",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "SUPPORTIVE": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "AGGRESSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "VIOLENT": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "ANGRY": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "BLOODTHIRSTY": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "BULLY": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "DESTRUCTIVE": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "TOUGH": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "STRONG": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "POWERHOUSE": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "ENERGETIC": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "ENFORCER": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "TOUGH GUY": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "BRUISER": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "BRUTAL": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "INDESTRUCTIBLE": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "JUGGERNAUT": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "POWERFUL": {
+        "word_type": "adjective",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "WARRIOR": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "BADASS": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "RENEGADE": {
+        "word_type": "noun",
+        "proto_tag": "AGRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "SWEETHEART": {
+        "word_type": "noun",
+        "proto_tag": "DULCE",
+        "proto_tag_type": "noun"
+    },
+    "SWEET": {
+        "word_type": "adjective",
+        "proto_tag": "DULCE",
+        "proto_tag_type": "noun"
+    },
+    "SACCHARINE": {
+        "word_type": "adjective",
+        "proto_tag": "DULCE",
+        "proto_tag_type": "noun"
+    },
+    "PARTY DUDE": {
+        "word_type": "noun",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "ALCOHOLIC": {
+        "word_type": "noun",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "BUZZED": {
+        "word_type": "adjective",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "DRINKER": {
+        "word_type": "noun",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "DRINKING": {
+        "word_type": "adjective",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "INEBRIATED": {
+        "word_type": "adjective",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "PARTIER": {
+        "word_type": "noun",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "SAUCED": {
+        "word_type": "adjective",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "TIPSY": {
+        "word_type": "adjective",
+        "proto_tag": "CHICO FIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "SQUARE": {
+        "word_type": "noun",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "BORING": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "HOMEBODY": {
+        "word_type": "noun",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "ORDINARY": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "BYSTANDER": {
+        "word_type": "noun",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "BASIC": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "BLAND": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "HUMBLE": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "SIMPLE": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "CLICHE": {
+        "word_type": "noun",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "MODEST": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "MUGGLE": {
+        "word_type": "noun",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "NORMAL": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "OBEDIENT": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "OBVIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "PLAIN": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "POLITE": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "PRACTICAL": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "TRADITIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "TRADITIONALIST": {
+        "word_type": "noun",
+        "proto_tag": "CUADRADO",
+        "proto_tag_type": "noun"
+    },
+    "WORRIER": {
+        "word_type": "noun",
+        "proto_tag": "PREOCUPADO",
+        "proto_tag_type": "noun"
+    },
+    "PLANNER": {
+        "word_type": "noun",
+        "proto_tag": "PREOCUPADO",
+        "proto_tag_type": "noun"
+    },
+    "CAREFREE": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "FREE SPIRIT": {
+        "word_type": "noun",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "FREE-SPIRITED": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "CASUAL": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "CHILL": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "EASY GOING": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "IMPULSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "IRRESPONSIBLE": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "LAID BACK": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "RECKLESS": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "RELAXED": {
+        "word_type": "adjective",
+        "proto_tag": "DESPREOCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "CAUTIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "CAUTO",
+        "proto_tag_type": "adjective"
+    },
+    "DEFENSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "CAUTO",
+        "proto_tag_type": "adjective"
+    },
+    "GUARDED": {
+        "word_type": "adjective",
+        "proto_tag": "CAUTO",
+        "proto_tag_type": "adjective"
+    },
+    "OBSERVANT": {
+        "word_type": "adjective",
+        "proto_tag": "CAUTO",
+        "proto_tag_type": "adjective"
+    },
+    "OBSERVER": {
+        "word_type": "noun",
+        "proto_tag": "CAUTO",
+        "proto_tag_type": "adjective"
+    },
+    "PREPARED": {
+        "word_type": "adjective",
+        "proto_tag": "CAUTO",
+        "proto_tag_type": "adjective"
+    },
+    "THRILLSEEKER": {
+        "word_type": "noun",
+        "proto_tag": "BUSCADOR DE EMOCIÓN",
+        "proto_tag_type": "noun"
+    },
+    "DAREDEVIL": {
+        "word_type": "noun",
+        "proto_tag": "BUSCADOR DE EMOCIÓN",
+        "proto_tag_type": "noun"
+    },
+    "DARING": {
+        "word_type": "adjective",
+        "proto_tag": "BUSCADOR DE EMOCIÓN",
+        "proto_tag_type": "noun"
+    },
+    "DEATH-DEFYING": {
+        "word_type": "adjective",
+        "proto_tag": "BUSCADOR DE EMOCIÓN",
+        "proto_tag_type": "noun"
+    },
+    "RISKY": {
+        "word_type": "adjective",
+        "proto_tag": "BUSCADOR DE EMOCIÓN",
+        "proto_tag_type": "noun"
+    },
+    "LEADER": {
+        "word_type": "noun",
+        "proto_tag": "LÍDER",
+        "proto_tag_type": "noun"
+    },
+    "AUTHORITY": {
+        "word_type": "noun",
+        "proto_tag": "LÍDER",
+        "proto_tag_type": "noun"
+    },
+    "BOSS": {
+        "word_type": "noun",
+        "proto_tag": "LÍDER",
+        "proto_tag_type": "noun"
+    },
+    "FRONTMAN": {
+        "word_type": "noun",
+        "proto_tag": "LÍDER",
+        "proto_tag_type": "noun"
+    },
+    "HEAD HONCHO": {
+        "word_type": "noun",
+        "proto_tag": "LÍDER",
+        "proto_tag_type": "noun"
+    },
+    "MANAGER": {
+        "word_type": "noun",
+        "proto_tag": "LÍDER",
+        "proto_tag_type": "noun"
+    },
+    "SIDEKICK": {
+        "word_type": "noun",
+        "proto_tag": "COMPAÑERO",
+        "proto_tag_type": "noun"
+    },
+    "FOLLOWER": {
+        "word_type": "noun",
+        "proto_tag": "COMPAÑERO",
+        "proto_tag_type": "noun"
+    },
+    "STYLISH": {
+        "word_type": "adjective",
+        "proto_tag": "ELEGANTE",
+        "proto_tag_type": "adjective"
+    },
+    "FANCY": {
+        "word_type": "adjective",
+        "proto_tag": "ELEGANTE",
+        "proto_tag_type": "adjective"
+    },
+    "FASHION ICON": {
+        "word_type": "noun",
+        "proto_tag": "ELEGANTE",
+        "proto_tag_type": "adjective"
+    },
+    "FASHION PLATE": {
+        "word_type": "noun",
+        "proto_tag": "ELEGANTE",
+        "proto_tag_type": "adjective"
+    },
+    "GLAMOROUS": {
+        "word_type": "adjective",
+        "proto_tag": "ELEGANTE",
+        "proto_tag_type": "adjective"
+    },
+    "MESSY": {
+        "word_type": "adjective",
+        "proto_tag": "DESORDENADO",
+        "proto_tag_type": "adjective"
+    },
+    "SLOPPY": {
+        "word_type": "adjective",
+        "proto_tag": "DESORDENADO",
+        "proto_tag_type": "adjective"
+    },
+    "GROSS": {
+        "word_type": "adjective",
+        "proto_tag": "DESORDENADO",
+        "proto_tag_type": "adjective"
+    },
+    "GRUNGY": {
+        "word_type": "adjective",
+        "proto_tag": "DESORDENADO",
+        "proto_tag_type": "adjective"
+    },
+    "SLOB": {
+        "word_type": "noun",
+        "proto_tag": "DESORDENADO",
+        "proto_tag_type": "adjective"
+    },
+    "CHILDLIKE": {
+        "word_type": "adjective",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "JUVENILE": {
+        "word_type": "noun",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "ADOLESCENT": {
+        "word_type": "noun",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "BABY": {
+        "word_type": "noun",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "TEEN": {
+        "word_type": "noun",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "CHILD": {
+        "word_type": "noun",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "IMMATURE": {
+        "word_type": "adjective",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "INFANT": {
+        "word_type": "noun",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "TODDLER": {
+        "word_type": "noun",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "YOUNG": {
+        "word_type": "adjective",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "YOUTHFUL": {
+        "word_type": "adjective",
+        "proto_tag": "INFANTIL",
+        "proto_tag_type": "adjective"
+    },
+    "MATURE": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "ADULT": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "AGED": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "AGELESS": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "ANCIENT": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "ARCHAIC": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "RELIC": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "CAVEMAN": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "ELDER": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "FOSSIL": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "GRANDMA": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "GRANDPA": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "GRANDPARENT": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "HISTORIC": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "IMMORTAL": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "NEANDERTHAL": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "OLD": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "OLD SOUL": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "OLD TIMEY": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "OLD-FASHIONED": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "OUT OF TOUCH": {
+        "word_type": "adjective",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "SENIOR": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "SENIOR CITIZEN": {
+        "word_type": "noun",
+        "proto_tag": "MADURO",
+        "proto_tag_type": "adjective"
+    },
+    "INTROVERT": {
+        "word_type": "noun",
+        "proto_tag": "INTROVERTIDO",
+        "proto_tag_type": "noun"
+    },
+    "QUIET": {
+        "word_type": "adjective",
+        "proto_tag": "INTROVERTIDO",
+        "proto_tag_type": "noun"
+    },
+    "SHY": {
+        "word_type": "adjective",
+        "proto_tag": "INTROVERTIDO",
+        "proto_tag_type": "noun"
+    },
+    "INVISIBLE": {
+        "word_type": "adjective",
+        "proto_tag": "INTROVERTIDO",
+        "proto_tag_type": "noun"
+    },
+    "SILENT": {
+        "word_type": "adjective",
+        "proto_tag": "INTROVERTIDO",
+        "proto_tag_type": "noun"
+    },
+    "FUNNY": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "GOOFBALL": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PRANKSTER": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "TRICKSTER": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "JOKESTER": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "CHEESEBALL": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "CHEESY": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "GOOF": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "GOOFY": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SILLY": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SASSY": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "WISE-CRACKING": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SNARKY": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SARCASTIC": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "AMUSING": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "COMEDIAN": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "COMEDIC": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "HILARIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "MEME": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SASS MOUTH": {
+        "word_type": "noun",
+        "proto_tag": "GRACIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SERIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "ALL BUSINESS": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "ANALYTICAL": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "ATTENTIVE": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "BUSINESS": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "BUSINESSPERSON": {
+        "word_type": "noun",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "BUTTONED UP": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "BY THE BOOK": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "FORMAL": {
+        "word_type": "adjective",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "KILLJOY": {
+        "word_type": "noun",
+        "proto_tag": "SERIO",
+        "proto_tag_type": "adjective"
+    },
+    "SMART": {
+        "word_type": "adjective",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "ACADEMIC": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "ADVISER": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "BOOKWORM": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "BRAINY": {
+        "word_type": "adjective",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "CLEVER": {
+        "word_type": "adjective",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "CUNNING": {
+        "word_type": "adjective",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "WISE": {
+        "word_type": "adjective",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "GENIUS": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "INTELLECTUAL": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "KNOW-IT-ALL": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "MASTERMIND": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "PHILOSOPHER": {
+        "word_type": "noun",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "SCHOLARLY": {
+        "word_type": "adjective",
+        "proto_tag": "INTELIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "FOOLISH": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "BUMBLING": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "SCATTERBRAIN": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "SCATTERED": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "BLUNDER": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "BONEHEADED": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "BRAINLESS": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "BUMBLER": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "BUNGLER": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "BUTTER FINGERS": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "CLUELESS": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "CLUMSY": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "DOLT": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "DOOF": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "DOOFER": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "FOOL": {
+        "word_type": "noun",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "FUMBLING": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "OBLIVIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "INGENUO",
+        "proto_tag_type": "adjective"
+    },
+    "LAZY": {
+        "word_type": "adjective",
+        "proto_tag": "PEREZOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SLACKER": {
+        "word_type": "noun",
+        "proto_tag": "PEREZOSO",
+        "proto_tag_type": "adjective"
+    },
+    "LAYABOUT": {
+        "word_type": "noun",
+        "proto_tag": "PEREZOSO",
+        "proto_tag_type": "adjective"
+    },
+    "HARD-WORKING": {
+        "word_type": "adjective",
+        "proto_tag": "TRABAJADOR",
+        "proto_tag_type": "adjective"
+    },
+    "HARD WORKER": {
+        "word_type": "noun",
+        "proto_tag": "TRABAJADOR",
+        "proto_tag_type": "adjective"
+    },
+    "WORKER": {
+        "word_type": "noun",
+        "proto_tag": "TRABAJADOR",
+        "proto_tag_type": "adjective"
+    },
+    "AMBITIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "TRABAJADOR",
+        "proto_tag_type": "adjective"
+    },
+    "WORKAHOLIC": {
+        "word_type": "noun",
+        "proto_tag": "TRABAJADOR",
+        "proto_tag_type": "adjective"
+    },
+    "FRIENDLY": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "AFFECTIONATE": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "CHARISMATIC": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "CHARMER": {
+        "word_type": "noun",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "CHARMING": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "CHEERFUL": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "COMPANION": {
+        "word_type": "noun",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "FRIEND": {
+        "word_type": "noun",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "KIND": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "LOVABLE": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "PAL": {
+        "word_type": "noun",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "PEOPLE PERSON": {
+        "word_type": "noun",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "PLATONIC": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "PLAYFUL": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "PLEASANT": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "WHIMSICAL": {
+        "word_type": "adjective",
+        "proto_tag": "AMIGABLE",
+        "proto_tag_type": "adjective"
+    },
+    "GRUMPY": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "GRUMP": {
+        "word_type": "noun",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "BROODING": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "CANTANKEROUS": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "CRABBY": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "MOODY": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "GRIM": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "GROUCH": {
+        "word_type": "noun",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "GRUFF": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "EMO": {
+        "word_type": "adjective",
+        "proto_tag": "GRUÑÓN",
+        "proto_tag_type": "adjective"
+    },
+    "ODDBALL": {
+        "word_type": "noun",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "ECCENTRIC": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "NON-TRADITIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "NONCONFORMATIVE": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "QUIRKY": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "WACKY": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "WEIRD": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "WEIRDO": {
+        "word_type": "noun",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "MYSTERIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "COMPLEX": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "COMPLICATED": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "CRYPTIC": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "ENIGMA": {
+        "word_type": "noun",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "ENIGMATIC": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "INDESCRIBABLE": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "MISUNDERSTOOD": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "MYSTERY": {
+        "word_type": "noun",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "REBEL": {
+        "word_type": "noun",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "REBELLIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "BICHO RARO",
+        "proto_tag_type": "noun"
+    },
+    "SHOW-OFF": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "HAM": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "EXHIBITIONIST": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "ATTENTION-SEEKER": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "ATTENTION-SEEKING": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "CHATTY": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "DIVA": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "DRAMA LOVER": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "DRAMATIC": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "EXPOSED": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "EXTRA": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "FLAMBOYANT": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "GOSSIP": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "IN YOUR FACE": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "LOUDMOUTH": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "MELODRAMATIC": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "NAKED": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "ORATOR": {
+        "word_type": "noun",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "OUTGOING": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "PROVOCATIVE": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "LOUD": {
+        "word_type": "adjective",
+        "proto_tag": "PRESUMIDO",
+        "proto_tag_type": "adjective"
+    },
+    "BRAVE": {
+        "word_type": "adjective",
+        "proto_tag": "VALIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "FIGHTER": {
+        "word_type": "noun",
+        "proto_tag": "VALIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "FEARLESS": {
+        "word_type": "adjective",
+        "proto_tag": "VALIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "COWARD": {
+        "word_type": "noun",
+        "proto_tag": "COBARDE",
+        "proto_tag_type": "noun"
+    },
+    "SCAREDY CAT": {
+        "word_type": "noun",
+        "proto_tag": "COBARDE",
+        "proto_tag_type": "noun"
+    },
+    "CONFIDENT": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "ARROGANT": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "ASSERTIVE": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "BRAGGART": {
+        "word_type": "noun",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "COCKY": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "EGOTIST": {
+        "word_type": "noun",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "OPINIONATED": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "OVER-CONFIDENT": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "POMPOUS": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "ANXIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "NERVOUS": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "BALL OF ANXIETY": {
+        "word_type": "noun",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "NERVOUS WRECK": {
+        "word_type": "noun",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "NEUROTIC": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PUT UPON": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "OVERWHELMED": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PARANOID": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "STRESSED": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "STRESSED OUT": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "CREATIVE": {
+        "word_type": "adjective",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "ARTIST": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "ARTISTIC": {
+        "word_type": "adjective",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "BEATNIK": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "DESIGNER": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "DREAMER": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "INVENTIVE": {
+        "word_type": "adjective",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "MOVIE BUFF": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "MUSIC LOVER": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "MUSICAL": {
+        "word_type": "adjective",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "MUSICIAN": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "PERFORMER": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "POET": {
+        "word_type": "noun",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "POETIC": {
+        "word_type": "adjective",
+        "proto_tag": "CREATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "ABSENT": {
+        "word_type": "adjective",
+        "proto_tag": "AUSENTE",
+        "proto_tag_type": "adjective"
+    },
+    "ABSENT-MINDED": {
+        "word_type": "adjective",
+        "proto_tag": "DESPISTADO",
+        "proto_tag_type": "adjective"
+    },
+    "ACCIDENTAL": {
+        "word_type": "adjective",
+        "proto_tag": "ACCIDENTAL",
+        "proto_tag_type": "adjective"
+    },
+    "ACCURATE": {
+        "word_type": "adjective",
+        "proto_tag": "PRECISO",
+        "proto_tag_type": "adjective"
+    },
+    "ACROBATIC": {
+        "word_type": "adjective",
+        "proto_tag": "ACROBÁTICO",
+        "proto_tag_type": "adjective"
+    },
+    "ACTIVIST": {
+        "word_type": "noun",
+        "proto_tag": "ACTIVISTA",
+        "proto_tag_type": "noun"
+    },
+    "ACTOR": {
+        "word_type": "noun",
+        "proto_tag": "ACTOR",
+        "proto_tag_type": "noun"
+    },
+    "ADJUSTABLE": {
+        "word_type": "adjective",
+        "proto_tag": "AJUSTABLE",
+        "proto_tag_type": "adjective"
+    },
+    "ADMINISTRATOR": {
+        "word_type": "noun",
+        "proto_tag": "ADMINISTRADOR",
+        "proto_tag_type": "noun"
+    },
+    "ADRIFT": {
+        "word_type": "adjective",
+        "proto_tag": "A LA DERIVA",
+        "proto_tag_type": "adjective"
+    },
+    "ADVENTURER": {
+        "word_type": "noun",
+        "proto_tag": "AVENTURERO",
+        "proto_tag_type": "noun"
+    },
+    "ADVENTUROUS": {
+        "word_type": "adjective",
+        "proto_tag": "AVENTURERO",
+        "proto_tag_type": "adjective"
+    },
+    "AERIAL": {
+        "word_type": "adjective",
+        "proto_tag": "AÉREO",
+        "proto_tag_type": "adjective"
+    },
+    "AFFECTED": {
+        "word_type": "adjective",
+        "proto_tag": "AFECTADO",
+        "proto_tag_type": "adjective"
+    },
+    "AGILE": {
+        "word_type": "adjective",
+        "proto_tag": "ÁGIL",
+        "proto_tag_type": "adjective"
+    },
+    "AGREEABLE": {
+        "word_type": "adjective",
+        "proto_tag": "AFIRMATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "AI": {
+        "word_type": "noun",
+        "proto_tag": "IA",
+        "proto_tag_type": "noun"
+    },
+    "ALERT": {
+        "word_type": "adjective",
+        "proto_tag": "ALERTA",
+        "proto_tag_type": "adjective"
+    },
+    "ALLERGIC": {
+        "word_type": "adjective",
+        "proto_tag": "ALÉRGICO",
+        "proto_tag_type": "adjective"
+    },
+    "ALTER-EGO": {
+        "word_type": "noun",
+        "proto_tag": "ALTER-EGO",
+        "proto_tag_type": "noun"
+    },
+    "ALTERNATIVE": {
+        "word_type": "adjective",
+        "proto_tag": "ALTERNATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "AMATEUR SURGEON": {
+        "word_type": "noun",
+        "proto_tag": "CIRUJANO AMATEUR",
+        "proto_tag_type": "noun"
+    },
+    "AMAZON": {
+        "word_type": "noun",
+        "proto_tag": "AMAZONA",
+        "proto_tag_type": "noun"
+    },
+    "AMNESIAC": {
+        "word_type": "noun",
+        "proto_tag": "AMNÉSICO",
+        "proto_tag_type": "noun"
+    },
+    "ANARCHIST": {
+        "word_type": "noun",
+        "proto_tag": "ANARQUISTA",
+        "proto_tag_type": "noun"
+    },
+    "ANGEL": {
+        "word_type": "noun",
+        "proto_tag": "ÁNGEL",
+        "proto_tag_type": "noun"
+    },
+    "ANGELIC": {
+        "word_type": "adjective",
+        "proto_tag": "ANGÉLICAL",
+        "proto_tag_type": "adjective"
+    },
+    "ANIMAL LOVER": {
+        "word_type": "noun",
+        "proto_tag": "AMANTE DE LOS ANIMALES",
+        "proto_tag_type": "noun"
+    },
+    "APATHETIC": {
+        "word_type": "adjective",
+        "proto_tag": "APÁTICO",
+        "proto_tag_type": "adjective"
+    },
+    "AQUATIC": {
+        "word_type": "adjective",
+        "proto_tag": "ACUÁTICO",
+        "proto_tag_type": "adjective"
+    },
+    "ARISTOCRAT": {
+        "word_type": "noun",
+        "proto_tag": "ARISTÓCRATA",
+        "proto_tag_type": "noun"
+    },
+    "ARMCHAIR SLEUTH": {
+        "word_type": "noun",
+        "proto_tag": "DETECTIVE DE SILLÓN",
+        "proto_tag_type": "noun"
+    },
+    "ARMED": {
+        "word_type": "adjective",
+        "proto_tag": "ARMADO",
+        "proto_tag_type": "adjective"
+    },
+    "AROMATIC": {
+        "word_type": "adjective",
+        "proto_tag": "AROMÁTICO",
+        "proto_tag_type": "adjective"
+    },
+    "ART LOVER": {
+        "word_type": "noun",
+        "proto_tag": "AMANTE DEL ARTE",
+        "proto_tag_type": "noun"
+    },
+    "ARTIFICIAL": {
+        "word_type": "adjective",
+        "proto_tag": "ARTIFICIAL",
+        "proto_tag_type": "adjective"
+    },
+    "ATHLETE": {
+        "word_type": "noun",
+        "proto_tag": "ATLETA",
+        "proto_tag_type": "noun"
+    },
+    "ATHLETIC": {
+        "word_type": "adjective",
+        "proto_tag": "ATLÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "ATTRACTION": {
+        "word_type": "noun",
+        "proto_tag": "ATRACCIÓN",
+        "proto_tag_type": "noun"
+    },
+    "AUNT": {
+        "word_type": "noun",
+        "proto_tag": "TÍA",
+        "proto_tag_type": "noun"
+    },
+    "AUTEUR": {
+        "word_type": "noun",
+        "proto_tag": "AUTOR",
+        "proto_tag_type": "noun"
+    },
+    "AUTHOR": {
+        "word_type": "noun",
+        "proto_tag": "AUTOR",
+        "proto_tag_type": "noun"
+    },
+    "AVENGER": {
+        "word_type": "noun",
+        "proto_tag": "VENGADOR",
+        "proto_tag_type": "noun"
+    },
+    "AWARD WINNING": {
+        "word_type": "adjective",
+        "proto_tag": "GALARDONADO",
+        "proto_tag_type": "adjective"
+    },
+    "AWFULLY GOOD": {
+        "word_type": "adjective",
+        "proto_tag": "HORRIBLEMENTE BUENO",
+        "proto_tag_type": "adjective"
+    },
+    "AWKWARD": {
+        "word_type": "adjective",
+        "proto_tag": "INCÓMODO",
+        "proto_tag_type": "adjective"
+    },
+    "BAGGAGE": {
+        "word_type": "noun",
+        "proto_tag": "BOLSO",
+        "proto_tag_type": "noun"
+    },
+    "BALL AND CHAIN": {
+        "word_type": "noun",
+        "proto_tag": "ENCADENADO A BOLA",
+        "proto_tag_type": "noun"
+    },
+    "BALL OF LIGHT": {
+        "word_type": "noun",
+        "proto_tag": "BOLA DE LUZ",
+        "proto_tag_type": "noun"
+    },
+    "BARGAIN": {
+        "word_type": "noun",
+        "proto_tag": "OFERTÓN",
+        "proto_tag_type": "noun"
+    },
+    "BARGAIN HUNTER": {
+        "word_type": "noun",
+        "proto_tag": "CAZADOR DE OFERTAS",
+        "proto_tag_type": "noun"
+    },
+    "BEACH BUM": {
+        "word_type": "noun",
+        "proto_tag": "HOLGAZÁN PLAYERO",
+        "proto_tag_type": "noun"
+    },
+    "BEAST": {
+        "word_type": "noun",
+        "proto_tag": "BESTIA",
+        "proto_tag_type": "noun"
+    },
+    "BEAUTIFUL": {
+        "word_type": "adjective",
+        "proto_tag": "HERMOSO",
+        "proto_tag_type": "adjective"
+    },
+    "BEGINNER": {
+        "word_type": "noun",
+        "proto_tag": "PRINCIPIANTE",
+        "proto_tag_type": "noun"
+    },
+    "BELIEVER": {
+        "word_type": "noun",
+        "proto_tag": "CREYENTE",
+        "proto_tag_type": "noun"
+    },
+    "BELOVED": {
+        "word_type": "adjective",
+        "proto_tag": "AMADO",
+        "proto_tag_type": "adjective"
+    },
+    "BITTERSWEET": {
+        "word_type": "adjective",
+        "proto_tag": "AGRIDULCE",
+        "proto_tag_type": "adjective"
+    },
+    "BIZARRO": {
+        "word_type": "adjective",
+        "proto_tag": "BIZARRO",
+        "proto_tag_type": "adjective"
+    },
+    "BLEACHED": {
+        "word_type": "adjective",
+        "proto_tag": "BLANQUEADO",
+        "proto_tag_type": "adjective"
+    },
+    "BLINDED": {
+        "word_type": "adjective",
+        "proto_tag": "CEGADO",
+        "proto_tag_type": "adjective"
+    },
+    "BLONDE": {
+        "word_type": "noun",
+        "proto_tag": "RUBIO",
+        "proto_tag_type": "noun"
+    },
+    "BLOODY": {
+        "word_type": "adjective",
+        "proto_tag": "SANGRIENTO",
+        "proto_tag_type": "adjective"
+    },
+    "BLOSSOMING": {
+        "word_type": "adjective",
+        "proto_tag": "FLORECIENDO",
+        "proto_tag_type": "adjective"
+    },
+    "BLUE": {
+        "word_type": "adjective",
+        "proto_tag": "AZUL",
+        "proto_tag_type": "adjective"
+    },
+    "BLUE COLLAR": {
+        "word_type": "adjective",
+        "proto_tag": "CUELLO AZUL",
+        "proto_tag_type": "adjective"
+    },
+    "BLUNT": {
+        "word_type": "adjective",
+        "proto_tag": "CONTUNDENTE",
+        "proto_tag_type": "adjective"
+    },
+    "BLURRY": {
+        "word_type": "adjective",
+        "proto_tag": "BORROSO",
+        "proto_tag_type": "adjective"
+    },
+    "BOLD": {
+        "word_type": "adjective",
+        "proto_tag": "ATREVIDO",
+        "proto_tag_type": "adjective"
+    },
+    "BORED": {
+        "word_type": "adjective",
+        "proto_tag": "ABURRIDO",
+        "proto_tag_type": "adjective"
+    },
+    "BOSSY": {
+        "word_type": "adjective",
+        "proto_tag": "MANDÓN",
+        "proto_tag_type": "adjective"
+    },
+    "BOSSY PANTS": {
+        "word_type": "noun",
+        "proto_tag": "MANDÓN",
+        "proto_tag_type": "noun"
+    },
+    "BOWLER": {
+        "word_type": "noun",
+        "proto_tag": "JUGADOR DE BOLOS",
+        "proto_tag_type": "noun"
+    },
+    "BRAWNY": {
+        "word_type": "adjective",
+        "proto_tag": "MUSCULOSO",
+        "proto_tag_type": "adjective"
+    },
+    "BREAKFAST": {
+        "word_type": "noun",
+        "proto_tag": "DESAYUNO",
+        "proto_tag_type": "noun"
+    },
+    "BREATH OF FRESH AIR": {
+        "word_type": "noun",
+        "proto_tag": "BOCANADA DE AIRE FRESCO",
+        "proto_tag_type": "noun"
+    },
+    "BREEZY": {
+        "word_type": "adjective",
+        "proto_tag": "REFRESCANTE",
+        "proto_tag_type": "adjective"
+    },
+    "BRIDE": {
+        "word_type": "noun",
+        "proto_tag": "NOVIA",
+        "proto_tag_type": "noun"
+    },
+    "BRIEFLY POPULAR": {
+        "word_type": "adjective",
+        "proto_tag": "BREVEMENTE POPULAR",
+        "proto_tag_type": "adjective"
+    },
+    "BRIGHT": {
+        "word_type": "adjective",
+        "proto_tag": "BRILLANTE",
+        "proto_tag_type": "adjective"
+    },
+    "BRISK": {
+        "word_type": "adjective",
+        "proto_tag": "ENERGÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "BRITISH": {
+        "word_type": "adjective",
+        "proto_tag": "BRITÁNICO",
+        "proto_tag_type": "adjective"
+    },
+    "BRUNETTE": {
+        "word_type": "noun",
+        "proto_tag": "MORENO",
+        "proto_tag_type": "noun"
+    },
+    "BUDDING": {
+        "word_type": "adjective",
+        "proto_tag": "EN CIERNES",
+        "proto_tag_type": "adjective"
+    },
+    "BUG": {
+        "word_type": "noun",
+        "proto_tag": "INSECTO",
+        "proto_tag_type": "noun"
+    },
+    "BUG FOOD": {
+        "word_type": "noun",
+        "proto_tag": "COMIDA DE INSECTO",
+        "proto_tag_type": "noun"
+    },
+    "BUILDER": {
+        "word_type": "noun",
+        "proto_tag": "CONSTRUCTOR",
+        "proto_tag_type": "noun"
+    },
+    "BUSY": {
+        "word_type": "adjective",
+        "proto_tag": "OCUPADO",
+        "proto_tag_type": "adjective"
+    },
+    "BUTTERY": {
+        "word_type": "adjective",
+        "proto_tag": "MANTECOSO",
+        "proto_tag_type": "adjective"
+    },
+    "CACKLING": {
+        "word_type": "adjective",
+        "proto_tag": "REIDOR",
+        "proto_tag_type": "adjective"
+    },
+    "CALMING": {
+        "word_type": "adjective",
+        "proto_tag": "CALMANTE",
+        "proto_tag_type": "adjective"
+    },
+    "CAMPER": {
+        "word_type": "noun",
+        "proto_tag": "CAMPISTA",
+        "proto_tag_type": "noun"
+    },
+    "CANNIBAL": {
+        "word_type": "noun",
+        "proto_tag": "CANÍBAL",
+        "proto_tag_type": "noun"
+    },
+    "CAPTIVE": {
+        "word_type": "noun",
+        "proto_tag": "CAUTIVO",
+        "proto_tag_type": "noun"
+    },
+    "CARING": {
+        "word_type": "adjective",
+        "proto_tag": "CARITATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "CARNIVORE": {
+        "word_type": "noun",
+        "proto_tag": "CARNÍVORO",
+        "proto_tag_type": "noun"
+    },
+    "CARTOON": {
+        "word_type": "noun",
+        "proto_tag": "DIBUJO ANIMADO",
+        "proto_tag_type": "noun"
+    },
+    "CATCHY": {
+        "word_type": "adjective",
+        "proto_tag": "PEGADIZO",
+        "proto_tag_type": "adjective"
+    },
+    "CELEBRITY": {
+        "word_type": "noun",
+        "proto_tag": "CELEBRIDAD",
+        "proto_tag_type": "noun"
+    },
+    "CELESTIAL": {
+        "word_type": "adjective",
+        "proto_tag": "CELESTIAL",
+        "proto_tag_type": "adjective"
+    },
+    "CHALLENGING": {
+        "word_type": "adjective",
+        "proto_tag": "DESAFIANTE",
+        "proto_tag_type": "adjective"
+    },
+    "CHAOTIC": {
+        "word_type": "adjective",
+        "proto_tag": "CAÓTICO",
+        "proto_tag_type": "adjective"
+    },
+    "CHEAP": {
+        "word_type": "adjective",
+        "proto_tag": "BARATO",
+        "proto_tag_type": "adjective"
+    },
+    "CHEAPSKATE": {
+        "word_type": "noun",
+        "proto_tag": "TACAÑO",
+        "proto_tag_type": "noun"
+    },
+    "CHEF": {
+        "word_type": "noun",
+        "proto_tag": "CHEF",
+        "proto_tag_type": "noun"
+    },
+    "CHEMICAL": {
+        "word_type": "adjective",
+        "proto_tag": "QUÍMICO",
+        "proto_tag_type": "adjective"
+    },
+    "CHERUB": {
+        "word_type": "noun",
+        "proto_tag": "QUERUBÍN",
+        "proto_tag_type": "noun"
+    },
+    "CHISELED": {
+        "word_type": "adjective",
+        "proto_tag": "TRABADO",
+        "proto_tag_type": "adjective"
+    },
+    "CHOCOHOLIC": {
+        "word_type": "noun",
+        "proto_tag": "CHOCOHÓLICO",
+        "proto_tag_type": "noun"
+    },
+    "CHOSEN ONE": {
+        "word_type": "noun",
+        "proto_tag": "ELEGIDO",
+        "proto_tag_type": "noun"
+    },
+    "CLAMMY": {
+        "word_type": "adjective",
+        "proto_tag": "MARISCO",
+        "proto_tag_type": "adjective"
+    },
+    "CLASS ACT": {
+        "word_type": "noun",
+        "proto_tag": "ELEGANTE",
+        "proto_tag_type": "noun"
+    },
+    "CLASSIC": {
+        "word_type": "noun",
+        "proto_tag": "CLÁSICO",
+        "proto_tag_type": "noun"
+    },
+    "CLASSICAL": {
+        "word_type": "adjective",
+        "proto_tag": "CLÁSICO",
+        "proto_tag_type": "adjective"
+    },
+    "CLASSY": {
+        "word_type": "adjective",
+        "proto_tag": "CON CLASE",
+        "proto_tag_type": "adjective"
+    },
+    "CLEAN": {
+        "word_type": "adjective",
+        "proto_tag": "LIMPIO",
+        "proto_tag_type": "adjective"
+    },
+    "CLINGY": {
+        "word_type": "adjective",
+        "proto_tag": "PEGAJOSO",
+        "proto_tag_type": "adjective"
+    },
+    "COACH": {
+        "word_type": "noun",
+        "proto_tag": "ENTRENADOR",
+        "proto_tag_type": "noun"
+    },
+    "COIFFEUR": {
+        "word_type": "noun",
+        "proto_tag": "ESTILISTA",
+        "proto_tag_type": "noun"
+    },
+    "COLD": {
+        "word_type": "adjective",
+        "proto_tag": "FRÍO",
+        "proto_tag_type": "adjective"
+    },
+    "COLLECTOR": {
+        "word_type": "noun",
+        "proto_tag": "COLECCIONISTA",
+        "proto_tag_type": "noun"
+    },
+    "COLLEGE KID": {
+        "word_type": "noun",
+        "proto_tag": "CHICO DE UNIVERSIDAD",
+        "proto_tag_type": "noun"
+    },
+    "COMFORTABLE": {
+        "word_type": "adjective",
+        "proto_tag": "CÓMODO",
+        "proto_tag_type": "adjective"
+    },
+    "COMFY": {
+        "word_type": "adjective",
+        "proto_tag": "CÓMODO",
+        "proto_tag_type": "adjective"
+    },
+    "COMMITTED": {
+        "word_type": "adjective",
+        "proto_tag": "COMPROMETIDO",
+        "proto_tag_type": "adjective"
+    },
+    "COMMUTER": {
+        "word_type": "noun",
+        "proto_tag": "VIAJERO",
+        "proto_tag_type": "noun"
+    },
+    "CONFECTION": {
+        "word_type": "noun",
+        "proto_tag": "CONFECCIÓN",
+        "proto_tag_type": "noun"
+    },
+    "CONFUSED": {
+        "word_type": "adjective",
+        "proto_tag": "CONFUNDIDO",
+        "proto_tag_type": "adjective"
+    },
+    "CONFUSING": {
+        "word_type": "adjective",
+        "proto_tag": "CONFUSO",
+        "proto_tag_type": "adjective"
+    },
+    "CONNECTED": {
+        "word_type": "adjective",
+        "proto_tag": "CON CONEXIONES",
+        "proto_tag_type": "adjective"
+    },
+    "CONNOISSEUR": {
+        "word_type": "noun",
+        "proto_tag": "CATADOR",
+        "proto_tag_type": "noun"
+    },
+    "CONSISTENT": {
+        "word_type": "adjective",
+        "proto_tag": "CONSISTENTE",
+        "proto_tag_type": "adjective"
+    },
+    "CONTEMPORARY": {
+        "word_type": "adjective",
+        "proto_tag": "CONTEMPORÁNEO",
+        "proto_tag_type": "adjective"
+    },
+    "CONTRASTING": {
+        "word_type": "adjective",
+        "proto_tag": "CONTRASTANTE",
+        "proto_tag_type": "adjective"
+    },
+    "CONTROVERSIAL": {
+        "word_type": "adjective",
+        "proto_tag": "POLÉMICO",
+        "proto_tag_type": "adjective"
+    },
+    "CONVENIENT": {
+        "word_type": "adjective",
+        "proto_tag": "CONVENIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "COOKIE": {
+        "word_type": "noun",
+        "proto_tag": "DULCE",
+        "proto_tag_type": "noun"
+    },
+    "COOL": {
+        "word_type": "adjective",
+        "proto_tag": "GENIAL",
+        "proto_tag_type": "adjective"
+    },
+    "COOL DUDE": {
+        "word_type": "noun",
+        "proto_tag": "CHICO COOL",
+        "proto_tag_type": "noun"
+    },
+    "CORPORATE": {
+        "word_type": "adjective",
+        "proto_tag": "CORPORATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "CORPSE": {
+        "word_type": "noun",
+        "proto_tag": "CADÁVER",
+        "proto_tag_type": "noun"
+    },
+    "CORRESPONDENT": {
+        "word_type": "noun",
+        "proto_tag": "CORRESPONSAL",
+        "proto_tag_type": "noun"
+    },
+    "COUNTRY": {
+        "word_type": "adjective",
+        "proto_tag": "COUNTRY",
+        "proto_tag_type": "adjective"
+    },
+    "COVERT": {
+        "word_type": "adjective",
+        "proto_tag": "CUBIERTO",
+        "proto_tag_type": "adjective"
+    },
+    "COVETOUS": {
+        "word_type": "adjective",
+        "proto_tag": "CODICIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "COWBOY": {
+        "word_type": "noun",
+        "proto_tag": "VAQUERO",
+        "proto_tag_type": "noun"
+    },
+    "CRAFTY": {
+        "word_type": "adjective",
+        "proto_tag": "ARTESANAL",
+        "proto_tag_type": "adjective"
+    },
+    "CRASS": {
+        "word_type": "adjective",
+        "proto_tag": "TOSCO",
+        "proto_tag_type": "adjective"
+    },
+    "CRAVING": {
+        "word_type": "adjective",
+        "proto_tag": "CON ANTOJOS",
+        "proto_tag_type": "adjective"
+    },
+    "CREAMY": {
+        "word_type": "adjective",
+        "proto_tag": "CREMOSO",
+        "proto_tag_type": "adjective"
+    },
+    "CREEP": {
+        "word_type": "noun",
+        "proto_tag": "RARITO",
+        "proto_tag_type": "noun"
+    },
+    "CREEPY": {
+        "word_type": "adjective",
+        "proto_tag": "SINIESTRO",
+        "proto_tag_type": "adjective"
+    },
+    "CRIMINAL": {
+        "word_type": "noun",
+        "proto_tag": "CRIMINAL",
+        "proto_tag_type": "noun"
+    },
+    "CRINGY": {
+        "word_type": "adjective",
+        "proto_tag": "CRINGE",
+        "proto_tag_type": "adjective"
+    },
+    "CRITIC": {
+        "word_type": "noun",
+        "proto_tag": "CRÍTICO",
+        "proto_tag_type": "noun"
+    },
+    "CROOKED": {
+        "word_type": "adjective",
+        "proto_tag": "RETORCIDO",
+        "proto_tag_type": "adjective"
+    },
+    "CROTCHETY": {
+        "word_type": "adjective",
+        "proto_tag": "CASCARRABIAS",
+        "proto_tag_type": "adjective"
+    },
+    "CRUDE": {
+        "word_type": "adjective",
+        "proto_tag": "BRUTO",
+        "proto_tag_type": "adjective"
+    },
+    "CRUNCHY": {
+        "word_type": "adjective",
+        "proto_tag": "CRUJIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "CRYBABY": {
+        "word_type": "noun",
+        "proto_tag": "LLORÓN",
+        "proto_tag_type": "noun"
+    },
+    "CULINARY": {
+        "word_type": "adjective",
+        "proto_tag": "CULINARIO",
+        "proto_tag_type": "adjective"
+    },
+    "CULT CLASSIC": {
+        "word_type": "noun",
+        "proto_tag": "CLÁSICO DE CULTO",
+        "proto_tag_type": "noun"
+    },
+    "CULTURED": {
+        "word_type": "adjective",
+        "proto_tag": "CULTO",
+        "proto_tag_type": "adjective"
+    },
+    "CUMBERSOME": {
+        "word_type": "adjective",
+        "proto_tag": "ENGORROSO",
+        "proto_tag_type": "adjective"
+    },
+    "CURIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "CURIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "CURSED": {
+        "word_type": "adjective",
+        "proto_tag": "MALDITO",
+        "proto_tag_type": "adjective"
+    },
+    "CURVY": {
+        "word_type": "adjective",
+        "proto_tag": "CURVILÍNEO",
+        "proto_tag_type": "adjective"
+    },
+    "CYBORG": {
+        "word_type": "noun",
+        "proto_tag": "CÍBORG",
+        "proto_tag_type": "noun"
+    },
+    "DAD": {
+        "word_type": "noun",
+        "proto_tag": "PAPÁ",
+        "proto_tag_type": "noun"
+    },
+    "DAINTY": {
+        "word_type": "adjective",
+        "proto_tag": "DELICADO",
+        "proto_tag_type": "adjective"
+    },
+    "DAMAGED": {
+        "word_type": "adjective",
+        "proto_tag": "DAÑADO",
+        "proto_tag_type": "adjective"
+    },
+    "DAMP": {
+        "word_type": "adjective",
+        "proto_tag": "HÚMEDO",
+        "proto_tag_type": "adjective"
+    },
+    "DANCER": {
+        "word_type": "noun",
+        "proto_tag": "BAILARÍN",
+        "proto_tag_type": "noun"
+    },
+    "DANCING": {
+        "word_type": "adjective",
+        "proto_tag": "BAILARÍN",
+        "proto_tag_type": "adjective"
+    },
+    "DANGEROUS": {
+        "word_type": "adjective",
+        "proto_tag": "PELIGROSO",
+        "proto_tag_type": "adjective"
+    },
+    "DARK": {
+        "word_type": "adjective",
+        "proto_tag": "OSCURO",
+        "proto_tag_type": "adjective"
+    },
+    "DARLING": {
+        "word_type": "adjective",
+        "proto_tag": "AMADO",
+        "proto_tag_type": "adjective"
+    },
+    "DAZED": {
+        "word_type": "adjective",
+        "proto_tag": "ATURDIDO",
+        "proto_tag_type": "adjective"
+    },
+    "DEAD": {
+        "word_type": "adjective",
+        "proto_tag": "MUERTO",
+        "proto_tag_type": "adjective"
+    },
+    "DEAD INSIDE": {
+        "word_type": "adjective",
+        "proto_tag": "MUERTO POR DENTRO",
+        "proto_tag_type": "adjective"
+    },
+    "DEADHEAD": {
+        "word_type": "noun",
+        "proto_tag": "COLADO",
+        "proto_tag_type": "noun"
+    },
+    "DEADPAN": {
+        "word_type": "adjective",
+        "proto_tag": "INEXPRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "DEAR": {
+        "word_type": "adjective",
+        "proto_tag": "QUERIDO",
+        "proto_tag_type": "adjective"
+    },
+    "DECORATIVE": {
+        "word_type": "adjective",
+        "proto_tag": "DECORATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "DEEP FRIED": {
+        "word_type": "adjective",
+        "proto_tag": "FRITO",
+        "proto_tag_type": "adjective"
+    },
+    "DEFENDER": {
+        "word_type": "noun",
+        "proto_tag": "DEFENSOR",
+        "proto_tag_type": "noun"
+    },
+    "DEFINITE": {
+        "word_type": "adjective",
+        "proto_tag": "DEFINITIVO",
+        "proto_tag_type": "adjective"
+    },
+    "DEITY": {
+        "word_type": "noun",
+        "proto_tag": "DEIDAD",
+        "proto_tag_type": "noun"
+    },
+    "DELICIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "DELICIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "DELINQUENT": {
+        "word_type": "noun",
+        "proto_tag": "DELINCUENTE",
+        "proto_tag_type": "noun"
+    },
+    "DEMANDING": {
+        "word_type": "adjective",
+        "proto_tag": "EXIGENTE",
+        "proto_tag_type": "adjective"
+    },
+    "DEMIGOD": {
+        "word_type": "noun",
+        "proto_tag": "SEMIDIÓS",
+        "proto_tag_type": "noun"
+    },
+    "DENTAL PATIENT": {
+        "word_type": "noun",
+        "proto_tag": "PACIENTE ODONTOLÓGICO",
+        "proto_tag_type": "noun"
+    },
+    "DESPERATE": {
+        "word_type": "adjective",
+        "proto_tag": "DESESPERADO",
+        "proto_tag_type": "adjective"
+    },
+    "DETECTIVE": {
+        "word_type": "noun",
+        "proto_tag": "DETECTIVE",
+        "proto_tag_type": "noun"
+    },
+    "DIGNIFIED": {
+        "word_type": "adjective",
+        "proto_tag": "DIGNIFICADO",
+        "proto_tag_type": "adjective"
+    },
+    "DIPLOMAT": {
+        "word_type": "noun",
+        "proto_tag": "DIPLOMÁTICO",
+        "proto_tag_type": "noun"
+    },
+    "DIPLOMATIC": {
+        "word_type": "adjective",
+        "proto_tag": "DIPLOMÁTICO",
+        "proto_tag_type": "adjective"
+    },
+    "DIRTY": {
+        "word_type": "adjective",
+        "proto_tag": "SUCIO",
+        "proto_tag_type": "adjective"
+    },
+    "DISAPPOINTED": {
+        "word_type": "adjective",
+        "proto_tag": "DECEPCIONADO",
+        "proto_tag_type": "adjective"
+    },
+    "DISAPPOINTING": {
+        "word_type": "adjective",
+        "proto_tag": "DECEPCIONANTE",
+        "proto_tag_type": "adjective"
+    },
+    "DISASTER": {
+        "word_type": "noun",
+        "proto_tag": "DESASTRE",
+        "proto_tag_type": "noun"
+    },
+    "DISCERNING": {
+        "word_type": "adjective",
+        "proto_tag": "DISCERNIDOR",
+        "proto_tag_type": "adjective"
+    },
+    "DISCONNECTED": {
+        "word_type": "adjective",
+        "proto_tag": "DESCONECTADO",
+        "proto_tag_type": "adjective"
+    },
+    "DISGUSTING": {
+        "word_type": "adjective",
+        "proto_tag": "ASQUEROSO",
+        "proto_tag_type": "adjective"
+    },
+    "DISINTERESTED": {
+        "word_type": "adjective",
+        "proto_tag": "DESINTERESADO",
+        "proto_tag_type": "adjective"
+    },
+    "DISORGANIZED": {
+        "word_type": "adjective",
+        "proto_tag": "DESORGANIZADO",
+        "proto_tag_type": "adjective"
+    },
+    "DISTASTEFUL": {
+        "word_type": "adjective",
+        "proto_tag": "DESAGRADABLE",
+        "proto_tag_type": "adjective"
+    },
+    "DISTRESSED": {
+        "word_type": "adjective",
+        "proto_tag": "ANGUSTIADO",
+        "proto_tag_type": "adjective"
+    },
+    "DIVERSE": {
+        "word_type": "adjective",
+        "proto_tag": "DIVERSO",
+        "proto_tag_type": "adjective"
+    },
+    "DIVISIVE": {
+        "word_type": "adjective",
+        "proto_tag": "POLARIZANTE",
+        "proto_tag_type": "adjective"
+    },
+    "DOMINEERING": {
+        "word_type": "adjective",
+        "proto_tag": "DOMINANTE",
+        "proto_tag_type": "adjective"
+    },
+    "DOPPELGANGER": {
+        "word_type": "noun",
+        "proto_tag": "DUPLICADO",
+        "proto_tag_type": "noun"
+    },
+    "DORKY": {
+        "word_type": "adjective",
+        "proto_tag": "RARO",
+        "proto_tag_type": "adjective"
+    },
+    "DOVE": {
+        "word_type": "noun",
+        "proto_tag": "TÓRTOLA",
+        "proto_tag_type": "noun"
+    },
+    "DOWNER": {
+        "word_type": "noun",
+        "proto_tag": "BAJÓN",
+        "proto_tag_type": "noun"
+    },
+    "DRAINING": {
+        "word_type": "adjective",
+        "proto_tag": "DRENADOR",
+        "proto_tag_type": "adjective"
+    },
+    "DREAMBOAT": {
+        "word_type": "noun",
+        "proto_tag": "GALÁN",
+        "proto_tag_type": "noun"
+    },
+    "DRIP": {
+        "word_type": "noun",
+        "proto_tag": "GOTEANDO",
+        "proto_tag_type": "noun"
+    },
+    "DRIVER": {
+        "word_type": "noun",
+        "proto_tag": "CONDUCTOR",
+        "proto_tag_type": "noun"
+    },
+    "DRONE": {
+        "word_type": "noun",
+        "proto_tag": "DRON",
+        "proto_tag_type": "noun"
+    },
+    "DROPOUT": {
+        "word_type": "noun",
+        "proto_tag": "SIN DIPLOMA DE SECUNDARIA",
+        "proto_tag_type": "noun"
+    },
+    "DROWSY": {
+        "word_type": "adjective",
+        "proto_tag": "ADORMECIDO",
+        "proto_tag_type": "adjective"
+    },
+    "DRUMMER": {
+        "word_type": "noun",
+        "proto_tag": "BATERISTA",
+        "proto_tag_type": "noun"
+    },
+    "DRY": {
+        "word_type": "adjective",
+        "proto_tag": "SECO",
+        "proto_tag_type": "adjective"
+    },
+    "DUDE": {
+        "word_type": "noun",
+        "proto_tag": "TIPO",
+        "proto_tag_type": "noun"
+    },
+    "EAGER": {
+        "word_type": "adjective",
+        "proto_tag": "ANSIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "EARTHY": {
+        "word_type": "adjective",
+        "proto_tag": "TERRENAL",
+        "proto_tag_type": "adjective"
+    },
+    "EATING": {
+        "word_type": "adjective",
+        "proto_tag": "COMILÓN",
+        "proto_tag_type": "adjective"
+    },
+    "ECONOMICAL": {
+        "word_type": "adjective",
+        "proto_tag": "ECONÓMICO",
+        "proto_tag_type": "adjective"
+    },
+    "EDGY": {
+        "word_type": "adjective",
+        "proto_tag": "ATREVIDO",
+        "proto_tag_type": "adjective"
+    },
+    "EDUCATIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "EDUCATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "EDUCATOR": {
+        "word_type": "noun",
+        "proto_tag": "EDUCADOR",
+        "proto_tag_type": "noun"
+    },
+    "EERIE": {
+        "word_type": "adjective",
+        "proto_tag": "MISTERIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "EFFICIENT": {
+        "word_type": "adjective",
+        "proto_tag": "EFICIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "EGGHEAD": {
+        "word_type": "noun",
+        "proto_tag": "CABEZA DE HUEVO",
+        "proto_tag_type": "noun"
+    },
+    "EMBARRASSING": {
+        "word_type": "adjective",
+        "proto_tag": "EMBARAZOSO",
+        "proto_tag_type": "adjective"
+    },
+    "EMOTIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "EMOCIONAL",
+        "proto_tag_type": "adjective"
+    },
+    "EMPOWERED": {
+        "word_type": "adjective",
+        "proto_tag": "EMPODERADO",
+        "proto_tag_type": "adjective"
+    },
+    "ENERGIZED": {
+        "word_type": "adjective",
+        "proto_tag": "ENERGIZADO",
+        "proto_tag_type": "adjective"
+    },
+    "ENGINEER": {
+        "word_type": "noun",
+        "proto_tag": "INGENIERO",
+        "proto_tag_type": "noun"
+    },
+    "ENGORGED": {
+        "word_type": "adjective",
+        "proto_tag": "CONGESTIONADO",
+        "proto_tag_type": "adjective"
+    },
+    "ENLIGHTENED": {
+        "word_type": "adjective",
+        "proto_tag": "ILUMINADO",
+        "proto_tag_type": "adjective"
+    },
+    "ENTERTAINER": {
+        "word_type": "noun",
+        "proto_tag": "ENTRETENEDOR",
+        "proto_tag_type": "noun"
+    },
+    "ENTERTAINING": {
+        "word_type": "adjective",
+        "proto_tag": "ENTRETENIDO",
+        "proto_tag_type": "adjective"
+    },
+    "ENTHUSIASTIC": {
+        "word_type": "adjective",
+        "proto_tag": "ENTUSIASTA",
+        "proto_tag_type": "adjective"
+    },
+    "ENTICING": {
+        "word_type": "adjective",
+        "proto_tag": "TENTADOR",
+        "proto_tag_type": "adjective"
+    },
+    "ENTITLED": {
+        "word_type": "adjective",
+        "proto_tag": "PRIVILEGIADO",
+        "proto_tag_type": "adjective"
+    },
+    "ENTREPRENEUR": {
+        "word_type": "noun",
+        "proto_tag": "EMPRENDEDOR",
+        "proto_tag_type": "noun"
+    },
+    "ENVIRONMENTALIST": {
+        "word_type": "noun",
+        "proto_tag": "AMBIENTALISTA",
+        "proto_tag_type": "noun"
+    },
+    "EQUESTRIAN": {
+        "word_type": "noun",
+        "proto_tag": "ECUESTRE",
+        "proto_tag_type": "noun"
+    },
+    "ESCAPIST": {
+        "word_type": "noun",
+        "proto_tag": "ESCAPISTA",
+        "proto_tag_type": "noun"
+    },
+    "EXCITING": {
+        "word_type": "adjective",
+        "proto_tag": "EMOCIONANTE",
+        "proto_tag_type": "adjective"
+    },
+    "EXOTIC": {
+        "word_type": "adjective",
+        "proto_tag": "EXÓTICO",
+        "proto_tag_type": "adjective"
+    },
+    "EXPECTANT": {
+        "word_type": "adjective",
+        "proto_tag": "EXPECTANTE",
+        "proto_tag_type": "adjective"
+    },
+    "EXPERIENCED": {
+        "word_type": "adjective",
+        "proto_tag": "EXPERIMENTADO",
+        "proto_tag_type": "adjective"
+    },
+    "EXPLORER": {
+        "word_type": "noun",
+        "proto_tag": "EXPLORADOR",
+        "proto_tag_type": "noun"
+    },
+    "EXPORT": {
+        "word_type": "noun",
+        "proto_tag": "EXPORTADO",
+        "proto_tag_type": "noun"
+    },
+    "EXTREMELY ONLINE": {
+        "word_type": "adjective",
+        "proto_tag": "EXTREMADAMENTE EN LÍNEA",
+        "proto_tag_type": "adjective"
+    },
+    "EXTROVERT": {
+        "word_type": "noun",
+        "proto_tag": "EXTROVERTIDO",
+        "proto_tag_type": "noun"
+    },
+    "FABULOUS": {
+        "word_type": "adjective",
+        "proto_tag": "FABULOSO",
+        "proto_tag_type": "adjective"
+    },
+    "FACILITATOR": {
+        "word_type": "noun",
+        "proto_tag": "FACILITADOR",
+        "proto_tag_type": "noun"
+    },
+    "FAKE": {
+        "word_type": "adjective",
+        "proto_tag": "FALSO",
+        "proto_tag_type": "adjective"
+    },
+    "FAMILIAR": {
+        "word_type": "adjective",
+        "proto_tag": "FAMILIAR",
+        "proto_tag_type": "adjective"
+    },
+    "FAMILY-ORIENTED": {
+        "word_type": "adjective",
+        "proto_tag": "ORIENTADO A LA FAMILIA",
+        "proto_tag_type": "adjective"
+    },
+    "FAMOUS": {
+        "word_type": "adjective",
+        "proto_tag": "FAMOSO",
+        "proto_tag_type": "adjective"
+    },
+    "FAN": {
+        "word_type": "noun",
+        "proto_tag": "FAN",
+        "proto_tag_type": "noun"
+    },
+    "FARMER": {
+        "word_type": "noun",
+        "proto_tag": "GRANJERO",
+        "proto_tag_type": "noun"
+    },
+    "FAST": {
+        "word_type": "adjective",
+        "proto_tag": "VELOZ",
+        "proto_tag_type": "adjective"
+    },
+    "FERTILE": {
+        "word_type": "adjective",
+        "proto_tag": "FÉRTIL",
+        "proto_tag_type": "adjective"
+    },
+    "FIERCE": {
+        "word_type": "adjective",
+        "proto_tag": "FEROZ",
+        "proto_tag_type": "adjective"
+    },
+    "FIERY": {
+        "word_type": "adjective",
+        "proto_tag": "ARDIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "FIRE HAZARD": {
+        "word_type": "noun",
+        "proto_tag": "RIESGO DE INCENDIO",
+        "proto_tag_type": "noun"
+    },
+    "FISHY": {
+        "word_type": "adjective",
+        "proto_tag": "CON OLOR A PESCADO",
+        "proto_tag_type": "adjective"
+    },
+    "FLASHY": {
+        "word_type": "adjective",
+        "proto_tag": "BRILLANTE",
+        "proto_tag_type": "adjective"
+    },
+    "FLEXIBLE": {
+        "word_type": "adjective",
+        "proto_tag": "FLEXIBLE",
+        "proto_tag_type": "adjective"
+    },
+    "FLIGHTY": {
+        "word_type": "adjective",
+        "proto_tag": "VOLADOR",
+        "proto_tag_type": "adjective"
+    },
+    "FLOATING": {
+        "word_type": "adjective",
+        "proto_tag": "FLOTANTE",
+        "proto_tag_type": "adjective"
+    },
+    "FLOWER": {
+        "word_type": "noun",
+        "proto_tag": "FLOR",
+        "proto_tag_type": "noun"
+    },
+    "FLYER": {
+        "word_type": "noun",
+        "proto_tag": "VOLADOR",
+        "proto_tag_type": "noun"
+    },
+    "FOCUSED": {
+        "word_type": "adjective",
+        "proto_tag": "CENTRADO",
+        "proto_tag_type": "adjective"
+    },
+    "FOLKSY": {
+        "word_type": "adjective",
+        "proto_tag": "TRADICIONAL",
+        "proto_tag_type": "adjective"
+    },
+    "FOODIE": {
+        "word_type": "noun",
+        "proto_tag": "COMILÓN",
+        "proto_tag_type": "noun"
+    },
+    "FORCE OF NATURE": {
+        "word_type": "noun",
+        "proto_tag": "FUERZA DE LA NATURALEZA",
+        "proto_tag_type": "noun"
+    },
+    "FORCE-FED": {
+        "word_type": "adjective",
+        "proto_tag": "FORZADO",
+        "proto_tag_type": "adjective"
+    },
+    "FORGETFUL": {
+        "word_type": "adjective",
+        "proto_tag": "OLVIDADIZO",
+        "proto_tag_type": "adjective"
+    },
+    "FORGETTABLE": {
+        "word_type": "adjective",
+        "proto_tag": "OLVIDABLE",
+        "proto_tag_type": "adjective"
+    },
+    "FORGOTTEN": {
+        "word_type": "adjective",
+        "proto_tag": "OLVIDADO",
+        "proto_tag_type": "adjective"
+    },
+    "FRANTIC": {
+        "word_type": "adjective",
+        "proto_tag": "FRENÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "FREE-FALLING": {
+        "word_type": "adjective",
+        "proto_tag": "EN CAÍDA LIBRE",
+        "proto_tag_type": "adjective"
+    },
+    "FRIEND IN NEED": {
+        "word_type": "noun",
+        "proto_tag": "AMIGO EN APUROS",
+        "proto_tag_type": "noun"
+    },
+    "FRIGHTENED": {
+        "word_type": "adjective",
+        "proto_tag": "ASUSTADO",
+        "proto_tag_type": "adjective"
+    },
+    "FRILLY": {
+        "word_type": "adjective",
+        "proto_tag": "CON VOLANTES",
+        "proto_tag_type": "adjective"
+    },
+    "FROSTY": {
+        "word_type": "adjective",
+        "proto_tag": "PREPARADO",
+        "proto_tag_type": "adjective"
+    },
+    "FRUSTRATED": {
+        "word_type": "adjective",
+        "proto_tag": "FRUSTRADO",
+        "proto_tag_type": "adjective"
+    },
+    "FUGITIVE": {
+        "word_type": "noun",
+        "proto_tag": "FUGITIVO",
+        "proto_tag_type": "noun"
+    },
+    "FUN": {
+        "word_type": "adjective",
+        "proto_tag": "DIVERTIDO",
+        "proto_tag_type": "adjective"
+    },
+    "FUNCTIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "FUNCIONAL",
+        "proto_tag_type": "adjective"
+    },
+    "FUNKY": {
+        "word_type": "adjective",
+        "proto_tag": "MODERNO",
+        "proto_tag_type": "adjective"
+    },
+    "FURNITURE": {
+        "word_type": "noun",
+        "proto_tag": "MUEBLE",
+        "proto_tag_type": "noun"
+    },
+    "FUTURISTIC": {
+        "word_type": "adjective",
+        "proto_tag": "FUTURISTA",
+        "proto_tag_type": "adjective"
+    },
+    "FUZZY": {
+        "word_type": "adjective",
+        "proto_tag": "PELUDO",
+        "proto_tag_type": "adjective"
+    },
+    "GALACTIC": {
+        "word_type": "adjective",
+        "proto_tag": "GALÁCTICO",
+        "proto_tag_type": "adjective"
+    },
+    "GAMBLER": {
+        "word_type": "noun",
+        "proto_tag": "APOSTADOR",
+        "proto_tag_type": "noun"
+    },
+    "GAMER": {
+        "word_type": "noun",
+        "proto_tag": "GAMER",
+        "proto_tag_type": "noun"
+    },
+    "GENEROUS": {
+        "word_type": "adjective",
+        "proto_tag": "GENEROSO",
+        "proto_tag_type": "adjective"
+    },
+    "GENTRIFIED": {
+        "word_type": "adjective",
+        "proto_tag": "GENTRIFICADO",
+        "proto_tag_type": "adjective"
+    },
+    "GENUINE": {
+        "word_type": "adjective",
+        "proto_tag": "GENUINO",
+        "proto_tag_type": "adjective"
+    },
+    "GERMAPHOBE": {
+        "word_type": "noun",
+        "proto_tag": "GERMÓFOBO",
+        "proto_tag_type": "noun"
+    },
+    "GHOST": {
+        "word_type": "noun",
+        "proto_tag": "FANTASMA",
+        "proto_tag_type": "noun"
+    },
+    "GIFTED": {
+        "word_type": "adjective",
+        "proto_tag": "PRODIGIO",
+        "proto_tag_type": "adjective"
+    },
+    "GOOP": {
+        "word_type": "noun",
+        "proto_tag": "VISCOSO",
+        "proto_tag_type": "noun"
+    },
+    "GOOSE": {
+        "word_type": "noun",
+        "proto_tag": "GANSO",
+        "proto_tag_type": "noun"
+    },
+    "GORGEOUS": {
+        "word_type": "adjective",
+        "proto_tag": "HERMOSO",
+        "proto_tag_type": "adjective"
+    },
+    "GRAND": {
+        "word_type": "adjective",
+        "proto_tag": "GRANDE",
+        "proto_tag_type": "adjective"
+    },
+    "GRAPPLER": {
+        "word_type": "noun",
+        "proto_tag": "ENGANCHADO",
+        "proto_tag_type": "noun"
+    },
+    "GREEK": {
+        "word_type": "adjective",
+        "proto_tag": "GRIEGO",
+        "proto_tag_type": "adjective"
+    },
+    "GRINNING": {
+        "word_type": "adjective",
+        "proto_tag": "SONRIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "GRITTY": {
+        "word_type": "adjective",
+        "proto_tag": "ARENOSO",
+        "proto_tag_type": "adjective"
+    },
+    "GROOMED": {
+        "word_type": "adjective",
+        "proto_tag": "ASEADO",
+        "proto_tag_type": "adjective"
+    },
+    "GUARDIAN": {
+        "word_type": "noun",
+        "proto_tag": "GUARDIÁN",
+        "proto_tag_type": "noun"
+    },
+    "GUIDE": {
+        "word_type": "noun",
+        "proto_tag": "GUÍA",
+        "proto_tag_type": "noun"
+    },
+    "GURU": {
+        "word_type": "noun",
+        "proto_tag": "GURÚ",
+        "proto_tag_type": "noun"
+    },
+    "GYM RAT": {
+        "word_type": "noun",
+        "proto_tag": "RATA DE GIMNASIO",
+        "proto_tag_type": "noun"
+    },
+    "HACKER": {
+        "word_type": "noun",
+        "proto_tag": "HACKER",
+        "proto_tag_type": "noun"
+    },
+    "HAIRBALL": {
+        "word_type": "noun",
+        "proto_tag": "BOLA DE PELO",
+        "proto_tag_type": "noun"
+    },
+    "HAIRY": {
+        "word_type": "adjective",
+        "proto_tag": "PELUDO",
+        "proto_tag_type": "adjective"
+    },
+    "HANDY": {
+        "word_type": "adjective",
+        "proto_tag": "DE UTILIDAD",
+        "proto_tag_type": "adjective"
+    },
+    "HAPPY": {
+        "word_type": "adjective",
+        "proto_tag": "FELIZ",
+        "proto_tag_type": "adjective"
+    },
+    "HARD": {
+        "word_type": "adjective",
+        "proto_tag": "DURO",
+        "proto_tag_type": "adjective"
+    },
+    "HARD-BOILED": {
+        "word_type": "adjective",
+        "proto_tag": "DURO",
+        "proto_tag_type": "adjective"
+    },
+    "HARDBALL": {
+        "word_type": "adjective",
+        "proto_tag": "DESPIADADO",
+        "proto_tag_type": "adjective"
+    },
+    "HARMLESS": {
+        "word_type": "adjective",
+        "proto_tag": "INOFENSIVO",
+        "proto_tag_type": "adjective"
+    },
+    "HEALER": {
+        "word_type": "noun",
+        "proto_tag": "CURATIVO",
+        "proto_tag_type": "noun"
+    },
+    "HEALTH NUT": {
+        "word_type": "noun",
+        "proto_tag": "LUNÁTICO DE LA SALUD",
+        "proto_tag_type": "noun"
+    },
+    "HEALTHY": {
+        "word_type": "adjective",
+        "proto_tag": "SALUDABLE",
+        "proto_tag_type": "adjective"
+    },
+    "HEARTBROKEN": {
+        "word_type": "adjective",
+        "proto_tag": "CON EL CORAZÓN ROTO",
+        "proto_tag_type": "adjective"
+    },
+    "HEARTY": {
+        "word_type": "adjective",
+        "proto_tag": "ABUNDANTE",
+        "proto_tag_type": "adjective"
+    },
+    "HEATED": {
+        "word_type": "adjective",
+        "proto_tag": "CALENTADO",
+        "proto_tag_type": "adjective"
+    },
+    "HELPER": {
+        "word_type": "noun",
+        "proto_tag": "AYUDANTE",
+        "proto_tag_type": "noun"
+    },
+    "HELPFUL": {
+        "word_type": "adjective",
+        "proto_tag": "ÚTIL",
+        "proto_tag_type": "adjective"
+    },
+    "HELPLESS": {
+        "word_type": "adjective",
+        "proto_tag": "INDEFENSO",
+        "proto_tag_type": "adjective"
+    },
+    "HEN": {
+        "word_type": "noun",
+        "proto_tag": "GALLINA",
+        "proto_tag_type": "noun"
+    },
+    "HERCULES": {
+        "word_type": "noun",
+        "proto_tag": "HÉRCULES",
+        "proto_tag_type": "noun"
+    },
+    "HERO": {
+        "word_type": "noun",
+        "proto_tag": "HÉROE",
+        "proto_tag_type": "noun"
+    },
+    "HIP": {
+        "word_type": "adjective",
+        "proto_tag": "MODERNO",
+        "proto_tag_type": "adjective"
+    },
+    "HIP HOP": {
+        "word_type": "adjective",
+        "proto_tag": "HIP HOP",
+        "proto_tag_type": "adjective"
+    },
+    "HIPPIE": {
+        "word_type": "noun",
+        "proto_tag": "HIPPIE",
+        "proto_tag_type": "noun"
+    },
+    "HIPSTER": {
+        "word_type": "noun",
+        "proto_tag": "HÍPSTER",
+        "proto_tag_type": "noun"
+    },
+    "HISTORIAN": {
+        "word_type": "noun",
+        "proto_tag": "HISTORIADOR",
+        "proto_tag_type": "noun"
+    },
+    "HOCKEY": {
+        "word_type": "adjective",
+        "proto_tag": "HOCKEY",
+        "proto_tag_type": "adjective"
+    },
+    "HOLY": {
+        "word_type": "adjective",
+        "proto_tag": "SANTO",
+        "proto_tag_type": "adjective"
+    },
+    "HOMEMADE": {
+        "word_type": "adjective",
+        "proto_tag": "CASERO",
+        "proto_tag_type": "adjective"
+    },
+    "HOPEFUL": {
+        "word_type": "adjective",
+        "proto_tag": "ESPERANZADO",
+        "proto_tag_type": "adjective"
+    },
+    "HOPELESS": {
+        "word_type": "adjective",
+        "proto_tag": "DESESPERANZADO",
+        "proto_tag_type": "adjective"
+    },
+    "HOST": {
+        "word_type": "noun",
+        "proto_tag": "ANFITRIÓN",
+        "proto_tag_type": "noun"
+    },
+    "HOT": {
+        "word_type": "adjective",
+        "proto_tag": "LINDO",
+        "proto_tag_type": "adjective"
+    },
+    "HOT MESS": {
+        "word_type": "noun",
+        "proto_tag": "DESORDEN TOTAL",
+        "proto_tag_type": "noun"
+    },
+    "HOTHEAD": {
+        "word_type": "noun",
+        "proto_tag": "EXALTADO",
+        "proto_tag_type": "noun"
+    },
+    "HOTSHOT": {
+        "word_type": "noun",
+        "proto_tag": "DISPARADOR",
+        "proto_tag_type": "noun"
+    },
+    "HUMAN": {
+        "word_type": "noun",
+        "proto_tag": "HUMANO",
+        "proto_tag_type": "noun"
+    },
+    "HUNGRY": {
+        "word_type": "adjective",
+        "proto_tag": "HAMBRIENTO",
+        "proto_tag_type": "adjective"
+    },
+    "HUNTED": {
+        "word_type": "adjective",
+        "proto_tag": "CAZADO",
+        "proto_tag_type": "adjective"
+    },
+    "HUNTER": {
+        "word_type": "noun",
+        "proto_tag": "CAZADOR",
+        "proto_tag_type": "noun"
+    },
+    "HUSK": {
+        "word_type": "noun",
+        "proto_tag": "CÁSCARA",
+        "proto_tag_type": "noun"
+    },
+    "HYBRID": {
+        "word_type": "noun",
+        "proto_tag": "HÍBRIDO",
+        "proto_tag_type": "noun"
+    },
+    "ICON": {
+        "word_type": "noun",
+        "proto_tag": "ÍCONO",
+        "proto_tag_type": "noun"
+    },
+    "ICY": {
+        "word_type": "adjective",
+        "proto_tag": "FRÍO",
+        "proto_tag_type": "adjective"
+    },
+    "IMPOSSIBLE": {
+        "word_type": "adjective",
+        "proto_tag": "IMPOSIBLE",
+        "proto_tag_type": "adjective"
+    },
+    "IMPRESSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "IMPRESIONANTE",
+        "proto_tag_type": "adjective"
+    },
+    "INANIMATE": {
+        "word_type": "adjective",
+        "proto_tag": "INANIMADO",
+        "proto_tag_type": "adjective"
+    },
+    "INCOHERENT": {
+        "word_type": "adjective",
+        "proto_tag": "INCOHERENTE",
+        "proto_tag_type": "adjective"
+    },
+    "INCONSIDERATE": {
+        "word_type": "adjective",
+        "proto_tag": "DESCONSIDERADO",
+        "proto_tag_type": "adjective"
+    },
+    "INDECISIVE": {
+        "word_type": "adjective",
+        "proto_tag": "INDECISO",
+        "proto_tag_type": "adjective"
+    },
+    "INDUSTRIAL": {
+        "word_type": "adjective",
+        "proto_tag": "INDUSTRIAL",
+        "proto_tag_type": "adjective"
+    },
+    "INDUSTRIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "INDUSTRIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "INFESTED": {
+        "word_type": "adjective",
+        "proto_tag": "INFESTADO",
+        "proto_tag_type": "adjective"
+    },
+    "INFLUENCER": {
+        "word_type": "noun",
+        "proto_tag": "INFLUENCER",
+        "proto_tag_type": "noun"
+    },
+    "INFLUENTIAL": {
+        "word_type": "adjective",
+        "proto_tag": "INFLUYENTE",
+        "proto_tag_type": "adjective"
+    },
+    "INFORMANT": {
+        "word_type": "adjective",
+        "proto_tag": "INFORMANTE",
+        "proto_tag_type": "adjective"
+    },
+    "INFORMATIVE": {
+        "word_type": "adjective",
+        "proto_tag": "INFORMATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "INFORMED": {
+        "word_type": "adjective",
+        "proto_tag": "INFORMADO",
+        "proto_tag_type": "adjective"
+    },
+    "INNOCENT": {
+        "word_type": "adjective",
+        "proto_tag": "INOCENTE",
+        "proto_tag_type": "adjective"
+    },
+    "INNOVATIVE": {
+        "word_type": "adjective",
+        "proto_tag": "INNOVADOR",
+        "proto_tag_type": "adjective"
+    },
+    "INQUIRING MIND": {
+        "word_type": "noun",
+        "proto_tag": "DE MENTE INQUISITIVA",
+        "proto_tag_type": "noun"
+    },
+    "INSANE": {
+        "word_type": "adjective",
+        "proto_tag": "LOCO",
+        "proto_tag_type": "adjective"
+    },
+    "INSATIABLE": {
+        "word_type": "adjective",
+        "proto_tag": "INSACIABLE",
+        "proto_tag_type": "adjective"
+    },
+    "INSECT": {
+        "word_type": "noun",
+        "proto_tag": "INSECTO",
+        "proto_tag_type": "noun"
+    },
+    "INSPIRATIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "INSPIRACIONAL",
+        "proto_tag_type": "adjective"
+    },
+    "INSPIRING": {
+        "word_type": "adjective",
+        "proto_tag": "INSPIRADOR",
+        "proto_tag_type": "adjective"
+    },
+    "INTENSELY APATHETIC": {
+        "word_type": "adjective",
+        "proto_tag": "INTENSAMENTE APÁTICO",
+        "proto_tag_type": "adjective"
+    },
+    "INTERLOPER": {
+        "word_type": "noun",
+        "proto_tag": "INTRUSO",
+        "proto_tag_type": "noun"
+    },
+    "INTERNATIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "INTERNACIONAL",
+        "proto_tag_type": "adjective"
+    },
+    "INTERRUPTER": {
+        "word_type": "noun",
+        "proto_tag": "INTERRUPTOR",
+        "proto_tag_type": "noun"
+    },
+    "INVERTEBRATE": {
+        "word_type": "noun",
+        "proto_tag": "INVERTEBRADO",
+        "proto_tag_type": "noun"
+    },
+    "INVESTIGATOR": {
+        "word_type": "noun",
+        "proto_tag": "INVESTIGADOR",
+        "proto_tag_type": "noun"
+    },
+    "INVESTOR": {
+        "word_type": "noun",
+        "proto_tag": "INVERSIONISTA",
+        "proto_tag_type": "noun"
+    },
+    "IRONIC": {
+        "word_type": "adjective",
+        "proto_tag": "IRÓNICO",
+        "proto_tag_type": "adjective"
+    },
+    "JAUNTY": {
+        "word_type": "adjective",
+        "proto_tag": "VIVARACHO",
+        "proto_tag_type": "adjective"
+    },
+    "JEALOUS": {
+        "word_type": "adjective",
+        "proto_tag": "CELOSO",
+        "proto_tag_type": "adjective"
+    },
+    "JENNIFER": {
+        "word_type": "noun",
+        "proto_tag": "JENNIFER",
+        "proto_tag_type": "noun"
+    },
+    "JERK": {
+        "word_type": "noun",
+        "proto_tag": "IMBÉCIL",
+        "proto_tag_type": "noun"
+    },
+    "JUDGE": {
+        "word_type": "noun",
+        "proto_tag": "JUEZ",
+        "proto_tag_type": "noun"
+    },
+    "JUGGLER": {
+        "word_type": "noun",
+        "proto_tag": "MALABARISTA",
+        "proto_tag_type": "noun"
+    },
+    "JUICY": {
+        "word_type": "adjective",
+        "proto_tag": "JUGOSO",
+        "proto_tag_type": "adjective"
+    },
+    "JUNK COLLECTOR": {
+        "word_type": "noun",
+        "proto_tag": "RECOLECTOR DE BASURA",
+        "proto_tag_type": "noun"
+    },
+    "JUNK FOOD": {
+        "word_type": "noun",
+        "proto_tag": "COMIDA CHATARRA",
+        "proto_tag_type": "noun"
+    },
+    "KITTY": {
+        "word_type": "noun",
+        "proto_tag": "GATITO",
+        "proto_tag_type": "noun"
+    },
+    "KLUTZ": {
+        "word_type": "noun",
+        "proto_tag": "TORPE",
+        "proto_tag_type": "noun"
+    },
+    "LABOR OF LOVE": {
+        "word_type": "noun",
+        "proto_tag": "TRABAJO DE AMOR",
+        "proto_tag_type": "noun"
+    },
+    "LAVISH": {
+        "word_type": "adjective",
+        "proto_tag": "LUJOSO",
+        "proto_tag_type": "adjective"
+    },
+    "LAWYER": {
+        "word_type": "noun",
+        "proto_tag": "ABOGADO",
+        "proto_tag_type": "noun"
+    },
+    "LEECH": {
+        "word_type": "noun",
+        "proto_tag": "SANGUIJUELA",
+        "proto_tag_type": "noun"
+    },
+    "LEGENDARY": {
+        "word_type": "adjective",
+        "proto_tag": "LEGENDARIO",
+        "proto_tag_type": "adjective"
+    },
+    "LEWD": {
+        "word_type": "adjective",
+        "proto_tag": "OBSCENO",
+        "proto_tag_type": "adjective"
+    },
+    "LIFE PARTNER": {
+        "word_type": "noun",
+        "proto_tag": "COMPAÑERO DE VIDA",
+        "proto_tag_type": "noun"
+    },
+    "LIFELESS": {
+        "word_type": "adjective",
+        "proto_tag": "SIN VIDA",
+        "proto_tag_type": "adjective"
+    },
+    "LIGHT-UP": {
+        "word_type": "adjective",
+        "proto_tag": "ILUMINADO",
+        "proto_tag_type": "adjective"
+    },
+    "LIGHTNING BOLT": {
+        "word_type": "noun",
+        "proto_tag": "RELÁMPAGO",
+        "proto_tag_type": "noun"
+    },
+    "LIT": {
+        "word_type": "adjective",
+        "proto_tag": "ENCENDIDO",
+        "proto_tag_type": "adjective"
+    },
+    "LITERARY": {
+        "word_type": "adjective",
+        "proto_tag": "LITERARIO",
+        "proto_tag_type": "adjective"
+    },
+    "LIVING LEGEND": {
+        "word_type": "noun",
+        "proto_tag": "LEYENDA VIVIENTE",
+        "proto_tag_type": "noun"
+    },
+    "LOGICAL": {
+        "word_type": "adjective",
+        "proto_tag": "LÓGICO",
+        "proto_tag_type": "adjective"
+    },
+    "LONG": {
+        "word_type": "adjective",
+        "proto_tag": "LARGO",
+        "proto_tag_type": "adjective"
+    },
+    "LONG-WINDED": {
+        "word_type": "adjective",
+        "proto_tag": "PROLIJO",
+        "proto_tag_type": "adjective"
+    },
+    "LOON": {
+        "word_type": "noun",
+        "proto_tag": "LUNÁTICO",
+        "proto_tag_type": "noun"
+    },
+    "LOST": {
+        "word_type": "adjective",
+        "proto_tag": "PERDIDO",
+        "proto_tag_type": "adjective"
+    },
+    "LOST CAUSE": {
+        "word_type": "noun",
+        "proto_tag": "CAUSA PERDIDA",
+        "proto_tag_type": "noun"
+    },
+    "LOST SOUL": {
+        "word_type": "noun",
+        "proto_tag": "ALMA PERDIDA",
+        "proto_tag_type": "noun"
+    },
+    "LOVESICK": {
+        "word_type": "adjective",
+        "proto_tag": "ENAMORADO",
+        "proto_tag_type": "adjective"
+    },
+    "LOVING": {
+        "word_type": "adjective",
+        "proto_tag": "AMANTE",
+        "proto_tag_type": "adjective"
+    },
+    "LUCKY": {
+        "word_type": "adjective",
+        "proto_tag": "SUERTUDO",
+        "proto_tag_type": "adjective"
+    },
+    "LUSCIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "EXQUISITO",
+        "proto_tag_type": "adjective"
+    },
+    "LUXURIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "LUJOSO",
+        "proto_tag_type": "adjective"
+    },
+    "LUXURY": {
+        "word_type": "noun",
+        "proto_tag": "LUJOSO",
+        "proto_tag_type": "noun"
+    },
+    "MADNESS": {
+        "word_type": "adjective",
+        "proto_tag": "LOCURA",
+        "proto_tag_type": "adjective"
+    },
+    "MAGIC": {
+        "word_type": "adjective",
+        "proto_tag": "MÁGICO",
+        "proto_tag_type": "adjective"
+    },
+    "MAGICAL": {
+        "word_type": "adjective",
+        "proto_tag": "MÁGICO",
+        "proto_tag_type": "adjective"
+    },
+    "MAGICIAN": {
+        "word_type": "noun",
+        "proto_tag": "MAGO",
+        "proto_tag_type": "noun"
+    },
+    "MAIN COURSE": {
+        "word_type": "noun",
+        "proto_tag": "PLATO PRINCIPAL",
+        "proto_tag_type": "noun"
+    },
+    "MAINSTAY": {
+        "word_type": "noun",
+        "proto_tag": "PILAR",
+        "proto_tag_type": "noun"
+    },
+    "MAJESTIC": {
+        "word_type": "adjective",
+        "proto_tag": "MAJESTUOSO",
+        "proto_tag_type": "adjective"
+    },
+    "MANIPULATED": {
+        "word_type": "adjective",
+        "proto_tag": "MANIPULADO",
+        "proto_tag_type": "adjective"
+    },
+    "MARTIAL ARTIST": {
+        "word_type": "noun",
+        "proto_tag": "LUCHADOR DE ARTES MARCIALES",
+        "proto_tag_type": "noun"
+    },
+    "MASCOT": {
+        "word_type": "noun",
+        "proto_tag": "MASCOTA",
+        "proto_tag_type": "noun"
+    },
+    "MASSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "MASIVO",
+        "proto_tag_type": "adjective"
+    },
+    "MATCHMAKER": {
+        "word_type": "noun",
+        "proto_tag": "CASAMENTERO",
+        "proto_tag_type": "noun"
+    },
+    "MATERIALIST": {
+        "word_type": "noun",
+        "proto_tag": "MATERIALISTA",
+        "proto_tag_type": "noun"
+    },
+    "MATERIALISTIC": {
+        "word_type": "adjective",
+        "proto_tag": "MATERIALISTA",
+        "proto_tag_type": "adjective"
+    },
+    "MATTER-OF-FACT": {
+        "word_type": "adjective",
+        "proto_tag": "OBJETIVO",
+        "proto_tag_type": "adjective"
+    },
+    "MAYONNAISE-BASED": {
+        "word_type": "adjective",
+        "proto_tag": "CON MAYONESA",
+        "proto_tag_type": "adjective"
+    },
+    "MEAL": {
+        "word_type": "noun",
+        "proto_tag": "COMIDA",
+        "proto_tag_type": "noun"
+    },
+    "MEAN": {
+        "word_type": "adjective",
+        "proto_tag": "MALO",
+        "proto_tag_type": "adjective"
+    },
+    "MEATHEAD": {
+        "word_type": "noun",
+        "proto_tag": "CARNÍVORO",
+        "proto_tag_type": "noun"
+    },
+    "MEATY": {
+        "word_type": "adjective",
+        "proto_tag": "CARNOSO",
+        "proto_tag_type": "adjective"
+    },
+    "MEDIA-DRIVEN": {
+        "word_type": "adjective",
+        "proto_tag": "IMPULSADO POR LOS MEDIOS",
+        "proto_tag_type": "adjective"
+    },
+    "MELANCHOLIC": {
+        "word_type": "adjective",
+        "proto_tag": "MELANCÓLICO",
+        "proto_tag_type": "adjective"
+    },
+    "MELODIC": {
+        "word_type": "adjective",
+        "proto_tag": "MELÓDICO",
+        "proto_tag_type": "adjective"
+    },
+    "MELTY": {
+        "word_type": "adjective",
+        "proto_tag": "FUNDIDO",
+        "proto_tag_type": "adjective"
+    },
+    "MENTOR": {
+        "word_type": "noun",
+        "proto_tag": "MENTOR",
+        "proto_tag_type": "noun"
+    },
+    "MERCHANT": {
+        "word_type": "noun",
+        "proto_tag": "MERCADER",
+        "proto_tag_type": "noun"
+    },
+    "MESS": {
+        "word_type": "noun",
+        "proto_tag": "DESASTRE",
+        "proto_tag_type": "noun"
+    },
+    "METAL": {
+        "word_type": "adjective",
+        "proto_tag": "METÁLICO",
+        "proto_tag_type": "adjective"
+    },
+    "METROPOLITAN": {
+        "word_type": "adjective",
+        "proto_tag": "METROPOLITANO",
+        "proto_tag_type": "adjective"
+    },
+    "MIDDLE-AGED": {
+        "word_type": "adjective",
+        "proto_tag": "DE MEDIANA EDAD",
+        "proto_tag_type": "adjective"
+    },
+    "MILD": {
+        "word_type": "adjective",
+        "proto_tag": "SUAVE",
+        "proto_tag_type": "adjective"
+    },
+    "MILITARY": {
+        "word_type": "adjective",
+        "proto_tag": "MILITAR",
+        "proto_tag_type": "adjective"
+    },
+    "MILLENNIAL": {
+        "word_type": "noun",
+        "proto_tag": "MILLENNIAL",
+        "proto_tag_type": "noun"
+    },
+    "MINIMAL EFFORT": {
+        "word_type": "adjective",
+        "proto_tag": "ESFUERZO MÍNIMO",
+        "proto_tag_type": "adjective"
+    },
+    "MINIMALIST": {
+        "word_type": "adjective",
+        "proto_tag": "MINIMALISTA",
+        "proto_tag_type": "adjective"
+    },
+    "MISGUIDED": {
+        "word_type": "adjective",
+        "proto_tag": "MAL ENCAMINADO",
+        "proto_tag_type": "adjective"
+    },
+    "MISSING": {
+        "word_type": "adjective",
+        "proto_tag": "PERDIDO",
+        "proto_tag_type": "adjective"
+    },
+    "MISTAKEN": {
+        "word_type": "adjective",
+        "proto_tag": "CONFUNDIDO",
+        "proto_tag_type": "adjective"
+    },
+    "MIX-UP": {
+        "word_type": "noun",
+        "proto_tag": "ERROR",
+        "proto_tag_type": "noun"
+    },
+    "MIXED-UP": {
+        "word_type": "adjective",
+        "proto_tag": "MEZCLADO",
+        "proto_tag_type": "adjective"
+    },
+    "MODEL": {
+        "word_type": "noun",
+        "proto_tag": "MODELO",
+        "proto_tag_type": "noun"
+    },
+    "MOGUL": {
+        "word_type": "noun",
+        "proto_tag": "MAGNATE",
+        "proto_tag_type": "noun"
+    },
+    "MONARCH": {
+        "word_type": "noun",
+        "proto_tag": "MONARCA",
+        "proto_tag_type": "noun"
+    },
+    "MONEYBAGS": {
+        "word_type": "noun",
+        "proto_tag": "RICACHÓN",
+        "proto_tag_type": "noun"
+    },
+    "MONEYMAKER": {
+        "word_type": "noun",
+        "proto_tag": "FUENTE DE DINERO",
+        "proto_tag_type": "noun"
+    },
+    "MONOCHROMATIC": {
+        "word_type": "adjective",
+        "proto_tag": "MONOCROMÁTICO",
+        "proto_tag_type": "adjective"
+    },
+    "MONSTER": {
+        "word_type": "noun",
+        "proto_tag": "MONSTRUO",
+        "proto_tag_type": "noun"
+    },
+    "MOTIVATED": {
+        "word_type": "adjective",
+        "proto_tag": "MOTIVADO",
+        "proto_tag_type": "adjective"
+    },
+    "MULTIFACETED": {
+        "word_type": "adjective",
+        "proto_tag": "MULTIFACÉTICO",
+        "proto_tag_type": "adjective"
+    },
+    "MYSTIC": {
+        "word_type": "noun",
+        "proto_tag": "MÍSTICO",
+        "proto_tag_type": "noun"
+    },
+    "MYSTICAL": {
+        "word_type": "adjective",
+        "proto_tag": "MÍSTICO",
+        "proto_tag_type": "adjective"
+    },
+    "NAPPER": {
+        "word_type": "noun",
+        "proto_tag": "SIESTERO",
+        "proto_tag_type": "noun"
+    },
+    "NASAL": {
+        "word_type": "adjective",
+        "proto_tag": "NASAL",
+        "proto_tag_type": "adjective"
+    },
+    "NATURAL": {
+        "word_type": "adjective",
+        "proto_tag": "NATURAL",
+        "proto_tag_type": "adjective"
+    },
+    "NATURALIST": {
+        "word_type": "noun",
+        "proto_tag": "NATURALISTA",
+        "proto_tag_type": "noun"
+    },
+    "NATURE-LOVER": {
+        "word_type": "noun",
+        "proto_tag": "AMANTE DE LA NATURALEZA",
+        "proto_tag_type": "noun"
+    },
+    "NEAT": {
+        "word_type": "adjective",
+        "proto_tag": "PULCRO",
+        "proto_tag_type": "adjective"
+    },
+    "NEEDY": {
+        "word_type": "adjective",
+        "proto_tag": "NECESITADO",
+        "proto_tag_type": "adjective"
+    },
+    "NEGLECTED": {
+        "word_type": "adjective",
+        "proto_tag": "IGNORADO",
+        "proto_tag_type": "adjective"
+    },
+    "NERD": {
+        "word_type": "noun",
+        "proto_tag": "NERD",
+        "proto_tag_type": "noun"
+    },
+    "NERDY": {
+        "word_type": "adjective",
+        "proto_tag": "NERD",
+        "proto_tag_type": "adjective"
+    },
+    "NEW AGE": {
+        "word_type": "adjective",
+        "proto_tag": "NUEVA ERA",
+        "proto_tag_type": "adjective"
+    },
+    "NICE": {
+        "word_type": "adjective",
+        "proto_tag": "BUENO",
+        "proto_tag_type": "adjective"
+    },
+    "NIGHT OWL": {
+        "word_type": "noun",
+        "proto_tag": "NOCTURNO",
+        "proto_tag_type": "noun"
+    },
+    "NIMBLE": {
+        "word_type": "adjective",
+        "proto_tag": "ÁGIL",
+        "proto_tag_type": "adjective"
+    },
+    "NINJA": {
+        "word_type": "noun",
+        "proto_tag": "NINJA",
+        "proto_tag_type": "noun"
+    },
+    "NOBLE": {
+        "word_type": "noun",
+        "proto_tag": "NOBLE",
+        "proto_tag_type": "noun"
+    },
+    "NOISEMAKER": {
+        "word_type": "noun",
+        "proto_tag": "RUIDOSO",
+        "proto_tag_type": "noun"
+    },
+    "NONCOMMITTAL": {
+        "word_type": "adjective",
+        "proto_tag": "NO COMPROMETIDO",
+        "proto_tag_type": "adjective"
+    },
+    "NOSTALGIC": {
+        "word_type": "adjective",
+        "proto_tag": "NOSTÁLGICO",
+        "proto_tag_type": "adjective"
+    },
+    "NURTURING": {
+        "word_type": "adjective",
+        "proto_tag": "CUIDADOR",
+        "proto_tag_type": "adjective"
+    },
+    "NUTRITIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "NUTRITIVO",
+        "proto_tag_type": "adjective"
+    },
+    "NUTTY": {
+        "word_type": "adjective",
+        "proto_tag": "CASTAÑO",
+        "proto_tag_type": "adjective"
+    },
+    "OBSOLETE": {
+        "word_type": "adjective",
+        "proto_tag": "OBSOLETO",
+        "proto_tag_type": "adjective"
+    },
+    "OFF THE GRID": {
+        "word_type": "adjective",
+        "proto_tag": "FUERA DEL MAPA",
+        "proto_tag_type": "adjective"
+    },
+    "OFFICE": {
+        "word_type": "adjective",
+        "proto_tag": "DE OFICINA",
+        "proto_tag_type": "adjective"
+    },
+    "OLD FAVORITE": {
+        "word_type": "noun",
+        "proto_tag": "VIEJO FAVORITO",
+        "proto_tag_type": "noun"
+    },
+    "OLD WORLD": {
+        "word_type": "adjective",
+        "proto_tag": "VIEJO MUNDO",
+        "proto_tag_type": "adjective"
+    },
+    "OLD-TIMEY": {
+        "word_type": "adjective",
+        "proto_tag": "DE LOS VIEJOS TIEMPOS",
+        "proto_tag_type": "adjective"
+    },
+    "OMNIPOTENT": {
+        "word_type": "adjective",
+        "proto_tag": "OMNIPOTENTE",
+        "proto_tag_type": "adjective"
+    },
+    "OMNIVORE": {
+        "word_type": "noun",
+        "proto_tag": "OMNÍVORO",
+        "proto_tag_type": "noun"
+    },
+    "ONE-EYED": {
+        "word_type": "adjective",
+        "proto_tag": "TUERTO",
+        "proto_tag_type": "adjective"
+    },
+    "OPPRESSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "OPRESIVO",
+        "proto_tag_type": "adjective"
+    },
+    "OPTIMIST": {
+        "word_type": "noun",
+        "proto_tag": "OPTIMISTA",
+        "proto_tag_type": "noun"
+    },
+    "ORANGE": {
+        "word_type": "adjective",
+        "proto_tag": "NARANJA",
+        "proto_tag_type": "adjective"
+    },
+    "ORB": {
+        "word_type": "noun",
+        "proto_tag": "ORBE",
+        "proto_tag_type": "noun"
+    },
+    "ORGANIZED": {
+        "word_type": "adjective",
+        "proto_tag": "ORGANIZADO",
+        "proto_tag_type": "adjective"
+    },
+    "OTHERWORLDLY": {
+        "word_type": "adjective",
+        "proto_tag": "DE OTRO MUNDO",
+        "proto_tag_type": "adjective"
+    },
+    "OTHERWORLDY": {
+        "word_type": "adjective",
+        "proto_tag": "DE OTRO MUNDO",
+        "proto_tag_type": "adjective"
+    },
+    "OUT OF TIME": {
+        "word_type": "adjective",
+        "proto_tag": "FUERA DE SU TIEMPO",
+        "proto_tag_type": "adjective"
+    },
+    "OUT-OF-WORK": {
+        "word_type": "adjective",
+        "proto_tag": "SIN TRABAJO",
+        "proto_tag_type": "adjective"
+    },
+    "OUTDOORSY": {
+        "word_type": "adjective",
+        "proto_tag": "AL AIRE LIBRE",
+        "proto_tag_type": "adjective"
+    },
+    "OUTRAGEOUS": {
+        "word_type": "adjective",
+        "proto_tag": "ESCANDALOSO",
+        "proto_tag_type": "adjective"
+    },
+    "OUTSIDER": {
+        "word_type": "noun",
+        "proto_tag": "EXTRANJERO",
+        "proto_tag_type": "noun"
+    },
+    "OVER THE TOP": {
+        "word_type": "adjective",
+        "proto_tag": "RIDÍCULO",
+        "proto_tag_type": "adjective"
+    },
+    "OVERBEARING": {
+        "word_type": "adjective",
+        "proto_tag": "ABRUMADOR",
+        "proto_tag_type": "adjective"
+    },
+    "OVERLOOKED": {
+        "word_type": "adjective",
+        "proto_tag": "OLVIDADO",
+        "proto_tag_type": "adjective"
+    },
+    "PAINFUL": {
+        "word_type": "adjective",
+        "proto_tag": "DOLOROSO",
+        "proto_tag_type": "adjective"
+    },
+    "PALE": {
+        "word_type": "adjective",
+        "proto_tag": "PÁLIDO",
+        "proto_tag_type": "adjective"
+    },
+    "PANTS": {
+        "word_type": "noun",
+        "proto_tag": "PANTALONES",
+        "proto_tag_type": "noun"
+    },
+    "PARENT": {
+        "word_type": "noun",
+        "proto_tag": "PADRE",
+        "proto_tag_type": "noun"
+    },
+    "PARTICIPATOR": {
+        "word_type": "noun",
+        "proto_tag": "PARTICIPATIVO",
+        "proto_tag_type": "noun"
+    },
+    "PASSENGER": {
+        "word_type": "noun",
+        "proto_tag": "PASAJERO",
+        "proto_tag_type": "noun"
+    },
+    "PASSIONATE": {
+        "word_type": "adjective",
+        "proto_tag": "APASIONADO",
+        "proto_tag_type": "adjective"
+    },
+    "PATIENT": {
+        "word_type": "adjective",
+        "proto_tag": "PACIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "PATRIOT": {
+        "word_type": "noun",
+        "proto_tag": "PATRIOTA",
+        "proto_tag_type": "noun"
+    },
+    "PATRIOTIC": {
+        "word_type": "adjective",
+        "proto_tag": "PATRIÓTICO",
+        "proto_tag_type": "adjective"
+    },
+    "PEACEFUL": {
+        "word_type": "adjective",
+        "proto_tag": "PACÍFICO",
+        "proto_tag_type": "adjective"
+    },
+    "PEACEMAKER": {
+        "word_type": "noun",
+        "proto_tag": "PACIFISTA",
+        "proto_tag_type": "noun"
+    },
+    "PEDANTIC": {
+        "word_type": "adjective",
+        "proto_tag": "PEDANTE",
+        "proto_tag_type": "adjective"
+    },
+    "PEDESTRIAN": {
+        "word_type": "noun",
+        "proto_tag": "PEDESTRE",
+        "proto_tag_type": "noun"
+    },
+    "PEN PAL": {
+        "word_type": "noun",
+        "proto_tag": "AMIGO POR CORRESPONDENCIA",
+        "proto_tag_type": "noun"
+    },
+    "PENNY-PINCHER": {
+        "word_type": "noun",
+        "proto_tag": "TACAÑO",
+        "proto_tag_type": "noun"
+    },
+    "PERSUASIVE": {
+        "word_type": "adjective",
+        "proto_tag": "PERSUASIVO",
+        "proto_tag_type": "adjective"
+    },
+    "PESSIMISTIC": {
+        "word_type": "adjective",
+        "proto_tag": "PESIMISTA",
+        "proto_tag_type": "adjective"
+    },
+    "PHANTOM": {
+        "word_type": "noun",
+        "proto_tag": "FANTASMA",
+        "proto_tag_type": "noun"
+    },
+    "PHILANTHROPIST": {
+        "word_type": "noun",
+        "proto_tag": "FILÁNTROPO",
+        "proto_tag_type": "noun"
+    },
+    "PICKY": {
+        "word_type": "adjective",
+        "proto_tag": "QUISQUILLOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PIG TAILS": {
+        "word_type": "noun",
+        "proto_tag": "DE DOS TRENZAS",
+        "proto_tag_type": "noun"
+    },
+    "PILLAR": {
+        "word_type": "noun",
+        "proto_tag": "PILAR",
+        "proto_tag_type": "noun"
+    },
+    "PIONEER": {
+        "word_type": "noun",
+        "proto_tag": "PIONERO",
+        "proto_tag_type": "noun"
+    },
+    "PIPER": {
+        "word_type": "noun",
+        "proto_tag": "GAITERO",
+        "proto_tag_type": "noun"
+    },
+    "POINTY": {
+        "word_type": "adjective",
+        "proto_tag": "PUNTIAGUDO",
+        "proto_tag_type": "adjective"
+    },
+    "POLITICAL": {
+        "word_type": "adjective",
+        "proto_tag": "POLÍTICO",
+        "proto_tag_type": "adjective"
+    },
+    "POLITICIAN": {
+        "word_type": "noun",
+        "proto_tag": "POLÍTICO",
+        "proto_tag_type": "noun"
+    },
+    "POP EXPERT": {
+        "word_type": "noun",
+        "proto_tag": "EXPERTO DE LA CULTURA POP",
+        "proto_tag_type": "noun"
+    },
+    "POPULAR": {
+        "word_type": "adjective",
+        "proto_tag": "POPULAR",
+        "proto_tag_type": "adjective"
+    },
+    "POSER": {
+        "word_type": "noun",
+        "proto_tag": "FALSO",
+        "proto_tag_type": "noun"
+    },
+    "POSSIBLY OFFENSIVE": {
+        "word_type": "adjective",
+        "proto_tag": "POSIBLEMENTE OFENSIVO",
+        "proto_tag_type": "adjective"
+    },
+    "POWER HUNGRY": {
+        "word_type": "adjective",
+        "proto_tag": "HAMBRIENTO DE PODER",
+        "proto_tag_type": "adjective"
+    },
+    "PREACHER": {
+        "word_type": "noun",
+        "proto_tag": "PREDICADOR",
+        "proto_tag_type": "noun"
+    },
+    "PRESIDENTIAL": {
+        "word_type": "adjective",
+        "proto_tag": "PRESIDENCIAL",
+        "proto_tag_type": "adjective"
+    },
+    "PRETENTIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "PRETENCIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PRETTY": {
+        "word_type": "adjective",
+        "proto_tag": "LINDO",
+        "proto_tag_type": "adjective"
+    },
+    "PRICKLY": {
+        "word_type": "adjective",
+        "proto_tag": "ESPINOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PRINCESS": {
+        "word_type": "noun",
+        "proto_tag": "PRINCESA",
+        "proto_tag_type": "noun"
+    },
+    "PRINCIPLED": {
+        "word_type": "adjective",
+        "proto_tag": "CON PRINCIPIOS",
+        "proto_tag_type": "adjective"
+    },
+    "PRISONER": {
+        "word_type": "noun",
+        "proto_tag": "PRISIONERO",
+        "proto_tag_type": "noun"
+    },
+    "PRIVATE": {
+        "word_type": "adjective",
+        "proto_tag": "PRIVADO",
+        "proto_tag_type": "adjective"
+    },
+    "PRIZE": {
+        "word_type": "noun",
+        "proto_tag": "PREMIO",
+        "proto_tag_type": "noun"
+    },
+    "PROBABLY IMPORTANT": {
+        "word_type": "adjective",
+        "proto_tag": "PROBABLEMENTE IMPORTANTE",
+        "proto_tag_type": "adjective"
+    },
+    "PROBLEM SOLVER": {
+        "word_type": "noun",
+        "proto_tag": "SOLUCIONADOR DE PROBLEMAS",
+        "proto_tag_type": "noun"
+    },
+    "PROFESSIONAL": {
+        "word_type": "noun",
+        "proto_tag": "PROFESIONAL",
+        "proto_tag_type": "noun"
+    },
+    "PROMISING": {
+        "word_type": "adjective",
+        "proto_tag": "CON PROMESA",
+        "proto_tag_type": "adjective"
+    },
+    "PROPHET": {
+        "word_type": "noun",
+        "proto_tag": "PROFETA",
+        "proto_tag_type": "noun"
+    },
+    "PROTESTER": {
+        "word_type": "noun",
+        "proto_tag": "MANIFESTANTE",
+        "proto_tag_type": "noun"
+    },
+    "PROUD": {
+        "word_type": "adjective",
+        "proto_tag": "ORGULLOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PRUDENT": {
+        "word_type": "adjective",
+        "proto_tag": "PRUDENTE",
+        "proto_tag_type": "adjective"
+    },
+    "PSYCHEDELIC": {
+        "word_type": "adjective",
+        "proto_tag": "PSICODÉLICO",
+        "proto_tag_type": "adjective"
+    },
+    "PSYCHIC": {
+        "word_type": "noun",
+        "proto_tag": "PSÍQUICO",
+        "proto_tag_type": "noun"
+    },
+    "PSYCHO": {
+        "word_type": "noun",
+        "proto_tag": "PSICÓPATA",
+        "proto_tag_type": "noun"
+    },
+    "PUNGENT": {
+        "word_type": "adjective",
+        "proto_tag": "APESTOSO",
+        "proto_tag_type": "adjective"
+    },
+    "PUNK": {
+        "word_type": "noun",
+        "proto_tag": "REBELDE",
+        "proto_tag_type": "noun"
+    },
+    "PURPLE": {
+        "word_type": "adjective",
+        "proto_tag": "VIOLETA",
+        "proto_tag_type": "adjective"
+    },
+    "PURPOSELESS": {
+        "word_type": "adjective",
+        "proto_tag": "SIN PROPÓSITO",
+        "proto_tag_type": "adjective"
+    },
+    "PUSHOVER": {
+        "word_type": "noun",
+        "proto_tag": "ENCLENQUE",
+        "proto_tag_type": "noun"
+    },
+    "PUSHY": {
+        "word_type": "adjective",
+        "proto_tag": "PESADO",
+        "proto_tag_type": "adjective"
+    },
+    "PUZZLE": {
+        "word_type": "noun",
+        "proto_tag": "PUZLE",
+        "proto_tag_type": "noun"
+    },
+    "PUZZLE SOLVER": {
+        "word_type": "noun",
+        "proto_tag": "SOLUCIONADOR DE PUZLES",
+        "proto_tag_type": "noun"
+    },
+    "QUALITY": {
+        "word_type": "adjective",
+        "proto_tag": "DE CALIDAD",
+        "proto_tag_type": "adjective"
+    },
+    "QUICK": {
+        "word_type": "adjective",
+        "proto_tag": "RÁPIDO",
+        "proto_tag_type": "adjective"
+    },
+    "RADICAL": {
+        "word_type": "noun",
+        "proto_tag": "RADICAL",
+        "proto_tag_type": "noun"
+    },
+    "RANCHER": {
+        "word_type": "noun",
+        "proto_tag": "PAISANO",
+        "proto_tag_type": "noun"
+    },
+    "RANDOM": {
+        "word_type": "adjective",
+        "proto_tag": "ALEATORIO",
+        "proto_tag_type": "adjective"
+    },
+    "RAPPING": {
+        "word_type": "adjective",
+        "proto_tag": "RAPERO",
+        "proto_tag_type": "adjective"
+    },
+    "RARITY": {
+        "word_type": "noun",
+        "proto_tag": "RAREZA",
+        "proto_tag_type": "noun"
+    },
+    "READER": {
+        "word_type": "noun",
+        "proto_tag": "LECTOR",
+        "proto_tag_type": "noun"
+    },
+    "REALIST": {
+        "word_type": "noun",
+        "proto_tag": "REALISTA",
+        "proto_tag_type": "noun"
+    },
+    "REBOUNDING": {
+        "word_type": "adjective",
+        "proto_tag": "DE REBOTE",
+        "proto_tag_type": "adjective"
+    },
+    "RED": {
+        "word_type": "adjective",
+        "proto_tag": "ROJO",
+        "proto_tag_type": "adjective"
+    },
+    "RED HAIR": {
+        "word_type": "adjective",
+        "proto_tag": "PELIRROJO",
+        "proto_tag_type": "adjective"
+    },
+    "REFRESHING": {
+        "word_type": "adjective",
+        "proto_tag": "REFRESCANTE",
+        "proto_tag_type": "adjective"
+    },
+    "REGAL": {
+        "word_type": "adjective",
+        "proto_tag": "REGIO",
+        "proto_tag_type": "adjective"
+    },
+    "RELIGIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "RELIGIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "REPLACEMENT": {
+        "word_type": "noun",
+        "proto_tag": "REEMPLAZO",
+        "proto_tag_type": "noun"
+    },
+    "REPORTER": {
+        "word_type": "noun",
+        "proto_tag": "REPORTERO",
+        "proto_tag_type": "noun"
+    },
+    "RESEARCHER": {
+        "word_type": "noun",
+        "proto_tag": "INVESTIGADOR",
+        "proto_tag_type": "noun"
+    },
+    "RESENTFUL": {
+        "word_type": "adjective",
+        "proto_tag": "RESENTIDO",
+        "proto_tag_type": "adjective"
+    },
+    "RESERVED": {
+        "word_type": "adjective",
+        "proto_tag": "CERRADO",
+        "proto_tag_type": "adjective"
+    },
+    "RESOURCEFUL": {
+        "word_type": "adjective",
+        "proto_tag": "INVENTIVO",
+        "proto_tag_type": "adjective"
+    },
+    "RESPECTFUL": {
+        "word_type": "adjective",
+        "proto_tag": "RESPETUOSO",
+        "proto_tag_type": "adjective"
+    },
+    "RICH": {
+        "word_type": "adjective",
+        "proto_tag": "RICO",
+        "proto_tag_type": "adjective"
+    },
+    "RING LEADER": {
+        "word_type": "noun",
+        "proto_tag": "CABECILLA",
+        "proto_tag_type": "noun"
+    },
+    "ROBOT": {
+        "word_type": "noun",
+        "proto_tag": "ROBOT",
+        "proto_tag_type": "noun"
+    },
+    "ROBUST": {
+        "word_type": "adjective",
+        "proto_tag": "ROBUSTO",
+        "proto_tag_type": "adjective"
+    },
+    "ROCK": {
+        "word_type": "noun",
+        "proto_tag": "ROCA",
+        "proto_tag_type": "noun"
+    },
+    "ROCKER": {
+        "word_type": "noun",
+        "proto_tag": "ROCKERO",
+        "proto_tag_type": "noun"
+    },
+    "ROCKING": {
+        "word_type": "adjective",
+        "proto_tag": "ROCKERO",
+        "proto_tag_type": "adjective"
+    },
+    "ROCKY": {
+        "word_type": "adjective",
+        "proto_tag": "ROCOSO",
+        "proto_tag_type": "adjective"
+    },
+    "ROUGH": {
+        "word_type": "adjective",
+        "proto_tag": "ÁSPERO",
+        "proto_tag_type": "adjective"
+    },
+    "ROYAL": {
+        "word_type": "adjective",
+        "proto_tag": "REAL",
+        "proto_tag_type": "adjective"
+    },
+    "RUDE": {
+        "word_type": "adjective",
+        "proto_tag": "GROSERO",
+        "proto_tag_type": "adjective"
+    },
+    "RUGGED": {
+        "word_type": "adjective",
+        "proto_tag": "ÁSPERO",
+        "proto_tag_type": "adjective"
+    },
+    "RUNNER": {
+        "word_type": "noun",
+        "proto_tag": "CORREDOR",
+        "proto_tag_type": "noun"
+    },
+    "RUNNING": {
+        "word_type": "adjective",
+        "proto_tag": "CORRIENDO",
+        "proto_tag_type": "adjective"
+    },
+    "RUSTIC": {
+        "word_type": "adjective",
+        "proto_tag": "RÚSTICO",
+        "proto_tag_type": "adjective"
+    },
+    "SAD": {
+        "word_type": "adjective",
+        "proto_tag": "TRISTE",
+        "proto_tag_type": "adjective"
+    },
+    "SAILOR": {
+        "word_type": "noun",
+        "proto_tag": "MARINERO",
+        "proto_tag_type": "noun"
+    },
+    "SALES PERSON": {
+        "word_type": "noun",
+        "proto_tag": "VENDEDOR",
+        "proto_tag_type": "noun"
+    },
+    "SALESPERSON": {
+        "word_type": "noun",
+        "proto_tag": "VENDEDOR",
+        "proto_tag_type": "noun"
+    },
+    "SALTY": {
+        "word_type": "adjective",
+        "proto_tag": "SALADO",
+        "proto_tag_type": "adjective"
+    },
+    "SAPPY": {
+        "word_type": "adjective",
+        "proto_tag": "SENSIBLERO",
+        "proto_tag_type": "adjective"
+    },
+    "SATISFACTORY": {
+        "word_type": "adjective",
+        "proto_tag": "SATISFACTORIO",
+        "proto_tag_type": "adjective"
+    },
+    "SCAB": {
+        "word_type": "noun",
+        "proto_tag": "CÁSCARA",
+        "proto_tag_type": "noun"
+    },
+    "SCANDALOUS": {
+        "word_type": "adjective",
+        "proto_tag": "ESCANDALOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SCARRED": {
+        "word_type": "adjective",
+        "proto_tag": "MARCADO",
+        "proto_tag_type": "adjective"
+    },
+    "SCARY": {
+        "word_type": "adjective",
+        "proto_tag": "ATERRADOR",
+        "proto_tag_type": "adjective"
+    },
+    "SCIENCE EXPERIMENT": {
+        "word_type": "noun",
+        "proto_tag": "EXPERIMENTO CIENTÍFICO",
+        "proto_tag_type": "noun"
+    },
+    "SCIENTIST": {
+        "word_type": "noun",
+        "proto_tag": "CIENTÍFICO",
+        "proto_tag_type": "noun"
+    },
+    "SCORCHING": {
+        "word_type": "adjective",
+        "proto_tag": "ABRASADOR",
+        "proto_tag_type": "adjective"
+    },
+    "SCRATCHY": {
+        "word_type": "adjective",
+        "proto_tag": "RASPOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SEASONAL": {
+        "word_type": "adjective",
+        "proto_tag": "DE TEMPORADA",
+        "proto_tag_type": "adjective"
+    },
+    "SEASONED": {
+        "word_type": "adjective",
+        "proto_tag": "CONDIMENTADO",
+        "proto_tag_type": "adjective"
+    },
+    "SECRET": {
+        "word_type": "adjective",
+        "proto_tag": "SECRETO",
+        "proto_tag_type": "adjective"
+    },
+    "SELF": {
+        "word_type": "noun",
+        "proto_tag": "YO",
+        "proto_tag_type": "noun"
+    },
+    "SELF-AWARE": {
+        "word_type": "adjective",
+        "proto_tag": "AUTOCONSCIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "SELF-INVOLVED": {
+        "word_type": "adjective",
+        "proto_tag": "AUTO-INVOLUCRADO",
+        "proto_tag_type": "adjective"
+    },
+    "SELF-OBSESSED": {
+        "word_type": "adjective",
+        "proto_tag": "OBSESIONADO CON SÍ MISMO",
+        "proto_tag_type": "adjective"
+    },
+    "SELF-STARTER": {
+        "word_type": "noun",
+        "proto_tag": "EMPRENDEDOR",
+        "proto_tag_type": "noun"
+    },
+    "SENSITIVE": {
+        "word_type": "adjective",
+        "proto_tag": "SENSIBLE",
+        "proto_tag_type": "adjective"
+    },
+    "SENSITIVE SOUL": {
+        "word_type": "noun",
+        "proto_tag": "ALMA SENSIBLE",
+        "proto_tag_type": "noun"
+    },
+    "SERENE": {
+        "word_type": "adjective",
+        "proto_tag": "SERENO",
+        "proto_tag_type": "adjective"
+    },
+    "SHAGGY": {
+        "word_type": "adjective",
+        "proto_tag": "LANUDO",
+        "proto_tag_type": "adjective"
+    },
+    "SHAMBLING": {
+        "word_type": "adjective",
+        "proto_tag": "TAMBALEANTE",
+        "proto_tag_type": "adjective"
+    },
+    "SHARP": {
+        "word_type": "adjective",
+        "proto_tag": "AFILADO",
+        "proto_tag_type": "adjective"
+    },
+    "SHARP COOKIE": {
+        "word_type": "noun",
+        "proto_tag": "AFILADO",
+        "proto_tag_type": "noun"
+    },
+    "SHOCKING": {
+        "word_type": "adjective",
+        "proto_tag": "CHOCANTE",
+        "proto_tag_type": "adjective"
+    },
+    "SHOPAHOLIC": {
+        "word_type": "noun",
+        "proto_tag": "COMPRADOR",
+        "proto_tag_type": "noun"
+    },
+    "SHORT TEMPERED": {
+        "word_type": "adjective",
+        "proto_tag": "DE MAL GENIO",
+        "proto_tag_type": "adjective"
+    },
+    "SIBLING": {
+        "word_type": "noun",
+        "proto_tag": "HERMANO",
+        "proto_tag_type": "noun"
+    },
+    "SICK": {
+        "word_type": "adjective",
+        "proto_tag": "ENFERMO",
+        "proto_tag_type": "adjective"
+    },
+    "SICKLY": {
+        "word_type": "adjective",
+        "proto_tag": "ENFERMO",
+        "proto_tag_type": "adjective"
+    },
+    "SIMMERING": {
+        "word_type": "adjective",
+        "proto_tag": "HIRVIENDO",
+        "proto_tag_type": "adjective"
+    },
+    "SIMULATION": {
+        "word_type": "noun",
+        "proto_tag": "SIMULACIÓN",
+        "proto_tag_type": "noun"
+    },
+    "SINGER": {
+        "word_type": "noun",
+        "proto_tag": "CANTANTE",
+        "proto_tag_type": "noun"
+    },
+    "SINGLE": {
+        "word_type": "adjective",
+        "proto_tag": "SOLTERO",
+        "proto_tag_type": "adjective"
+    },
+    "SINNER": {
+        "word_type": "noun",
+        "proto_tag": "PECADOR",
+        "proto_tag_type": "noun"
+    },
+    "SKILLED": {
+        "word_type": "adjective",
+        "proto_tag": "HABILIDOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SKILLFUL": {
+        "word_type": "adjective",
+        "proto_tag": "HABILIDOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SLEAZY": {
+        "word_type": "adjective",
+        "proto_tag": "CORRUPTO",
+        "proto_tag_type": "adjective"
+    },
+    "SLEEPY": {
+        "word_type": "adjective",
+        "proto_tag": "DORMILÓN",
+        "proto_tag_type": "adjective"
+    },
+    "SLICK": {
+        "word_type": "adjective",
+        "proto_tag": "MAÑOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SLIMY": {
+        "word_type": "adjective",
+        "proto_tag": "PEGAJOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SLIPPERY": {
+        "word_type": "adjective",
+        "proto_tag": "RESBALADIZO",
+        "proto_tag_type": "adjective"
+    },
+    "SLOW-MOVING": {
+        "word_type": "adjective",
+        "proto_tag": "LENTO",
+        "proto_tag_type": "adjective"
+    },
+    "SMALL": {
+        "word_type": "adjective",
+        "proto_tag": "PEQUEÑO",
+        "proto_tag_type": "adjective"
+    },
+    "SMOKER": {
+        "word_type": "noun",
+        "proto_tag": "FUMADOR",
+        "proto_tag_type": "noun"
+    },
+    "SMOLDERING": {
+        "word_type": "adjective",
+        "proto_tag": "APASIONADO",
+        "proto_tag_type": "adjective"
+    },
+    "SMOOTH": {
+        "word_type": "adjective",
+        "proto_tag": "SUAVE",
+        "proto_tag_type": "adjective"
+    },
+    "SMUG": {
+        "word_type": "adjective",
+        "proto_tag": "CREÍDO",
+        "proto_tag_type": "adjective"
+    },
+    "SNACK": {
+        "word_type": "noun",
+        "proto_tag": "SNACK",
+        "proto_tag_type": "noun"
+    },
+    "SNACKER": {
+        "word_type": "noun",
+        "proto_tag": "COMILÓN",
+        "proto_tag_type": "noun"
+    },
+    "SNEEZER": {
+        "word_type": "noun",
+        "proto_tag": "ESTORNUDADOR",
+        "proto_tag_type": "noun"
+    },
+    "SNOTTY": {
+        "word_type": "adjective",
+        "proto_tag": "MOCOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SOCIAL": {
+        "word_type": "adjective",
+        "proto_tag": "SOCIAL",
+        "proto_tag_type": "adjective"
+    },
+    "SOCIALITE": {
+        "word_type": "noun",
+        "proto_tag": "SOCIALITE",
+        "proto_tag_type": "noun"
+    },
+    "SOFT": {
+        "word_type": "adjective",
+        "proto_tag": "SUAVE",
+        "proto_tag_type": "adjective"
+    },
+    "SOGGY": {
+        "word_type": "adjective",
+        "proto_tag": "EMPAPADO",
+        "proto_tag_type": "adjective"
+    },
+    "SOLDIER": {
+        "word_type": "noun",
+        "proto_tag": "SOLDADO",
+        "proto_tag_type": "noun"
+    },
+    "SOLID": {
+        "word_type": "adjective",
+        "proto_tag": "SÓLIDO",
+        "proto_tag_type": "adjective"
+    },
+    "SONGBIRD": {
+        "word_type": "noun",
+        "proto_tag": "CANTANTE",
+        "proto_tag_type": "noun"
+    },
+    "SOOTHING PRESENCE": {
+        "word_type": "noun",
+        "proto_tag": "PRESENCIA TRANQUILIZANTE",
+        "proto_tag_type": "noun"
+    },
+    "SOULFUL": {
+        "word_type": "adjective",
+        "proto_tag": "ESPERANZADOR",
+        "proto_tag_type": "adjective"
+    },
+    "SOUTHERNER": {
+        "word_type": "noun",
+        "proto_tag": "SUREÑO",
+        "proto_tag_type": "noun"
+    },
+    "SPACE CADET": {
+        "word_type": "noun",
+        "proto_tag": "CADETE ESPACIAL",
+        "proto_tag_type": "noun"
+    },
+    "SPAMMY": {
+        "word_type": "adjective",
+        "proto_tag": "SPAM",
+        "proto_tag_type": "adjective"
+    },
+    "SPARKLING": {
+        "word_type": "adjective",
+        "proto_tag": "BRILLANTE",
+        "proto_tag_type": "adjective"
+    },
+    "SPARKLY": {
+        "word_type": "adjective",
+        "proto_tag": "BRILLANTE",
+        "proto_tag_type": "adjective"
+    },
+    "SPECTACLE": {
+        "word_type": "noun",
+        "proto_tag": "ESPECTÁCULO",
+        "proto_tag_type": "noun"
+    },
+    "SPEED DEMON": {
+        "word_type": "noun",
+        "proto_tag": "AS DE LA VELOCIDAD",
+        "proto_tag_type": "noun"
+    },
+    "SPEEDSTER": {
+        "word_type": "noun",
+        "proto_tag": "VELOZ",
+        "proto_tag_type": "noun"
+    },
+    "SPICY": {
+        "word_type": "adjective",
+        "proto_tag": "PICANTE",
+        "proto_tag_type": "adjective"
+    },
+    "SPIRIT": {
+        "word_type": "noun",
+        "proto_tag": "ESPÍRITU",
+        "proto_tag_type": "noun"
+    },
+    "SPIRITUAL": {
+        "word_type": "adjective",
+        "proto_tag": "ESPIRITUAL",
+        "proto_tag_type": "adjective"
+    },
+    "SPITFIRE": {
+        "word_type": "noun",
+        "proto_tag": "PICANTE",
+        "proto_tag_type": "noun"
+    },
+    "SPOILED": {
+        "word_type": "adjective",
+        "proto_tag": "MIMADO",
+        "proto_tag_type": "adjective"
+    },
+    "SPONTANEOUS": {
+        "word_type": "adjective",
+        "proto_tag": "ESPONTÁNEO",
+        "proto_tag_type": "adjective"
+    },
+    "SPORTY": {
+        "word_type": "adjective",
+        "proto_tag": "DEPORTIVO",
+        "proto_tag_type": "adjective"
+    },
+    "SPRY": {
+        "word_type": "adjective",
+        "proto_tag": "ÁGIL",
+        "proto_tag_type": "adjective"
+    },
+    "SQUISH": {
+        "word_type": "noun",
+        "proto_tag": "CHAPOTEADOR",
+        "proto_tag_type": "noun"
+    },
+    "STALWART": {
+        "word_type": "noun",
+        "proto_tag": "FORNIDO",
+        "proto_tag_type": "noun"
+    },
+    "STANDARD": {
+        "word_type": "noun",
+        "proto_tag": "ESTÁNDAR",
+        "proto_tag_type": "noun"
+    },
+    "STAR": {
+        "word_type": "noun",
+        "proto_tag": "ESTRELLA",
+        "proto_tag_type": "noun"
+    },
+    "STARVING": {
+        "word_type": "adjective",
+        "proto_tag": "HAMBRIENTO",
+        "proto_tag_type": "adjective"
+    },
+    "STIFF": {
+        "word_type": "adjective",
+        "proto_tag": "DURO",
+        "proto_tag_type": "adjective"
+    },
+    "STINKER": {
+        "word_type": "noun",
+        "proto_tag": "APESTOSO",
+        "proto_tag_type": "noun"
+    },
+    "STOIC": {
+        "word_type": "adjective",
+        "proto_tag": "ESTOICO",
+        "proto_tag_type": "adjective"
+    },
+    "STORMY": {
+        "word_type": "adjective",
+        "proto_tag": "TORMENTOSO",
+        "proto_tag_type": "adjective"
+    },
+    "STORYTELLER": {
+        "word_type": "noun",
+        "proto_tag": "NARRADOR",
+        "proto_tag_type": "noun"
+    },
+    "STRANGER": {
+        "word_type": "noun",
+        "proto_tag": "EXTRAÑO",
+        "proto_tag_type": "noun"
+    },
+    "STRATEGIST": {
+        "word_type": "noun",
+        "proto_tag": "ESTRATEGA",
+        "proto_tag_type": "noun"
+    },
+    "STRETCHY": {
+        "word_type": "adjective",
+        "proto_tag": "ELÁSTICO",
+        "proto_tag_type": "adjective"
+    },
+    "STRICT": {
+        "word_type": "adjective",
+        "proto_tag": "ESTRICTO",
+        "proto_tag_type": "adjective"
+    },
+    "STUBBORN": {
+        "word_type": "adjective",
+        "proto_tag": "OBSTINADO",
+        "proto_tag_type": "adjective"
+    },
+    "STUCK": {
+        "word_type": "adjective",
+        "proto_tag": "ATASCADO",
+        "proto_tag_type": "adjective"
+    },
+    "STUD": {
+        "word_type": "noun",
+        "proto_tag": "GALÁN",
+        "proto_tag_type": "noun"
+    },
+    "STUDENT": {
+        "word_type": "noun",
+        "proto_tag": "ESTUDIANTE",
+        "proto_tag_type": "noun"
+    },
+    "STUDIOUS": {
+        "word_type": "adjective",
+        "proto_tag": "ESTUDIOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SUBSTANTIAL": {
+        "word_type": "adjective",
+        "proto_tag": "SUSTANCIAL",
+        "proto_tag_type": "adjective"
+    },
+    "SUCKER": {
+        "word_type": "noun",
+        "proto_tag": "CHUPABLE",
+        "proto_tag_type": "noun"
+    },
+    "SUFFERER": {
+        "word_type": "noun",
+        "proto_tag": "SUFRIDO",
+        "proto_tag_type": "noun"
+    },
+    "SUGARY": {
+        "word_type": "adjective",
+        "proto_tag": "AZUCARADO",
+        "proto_tag_type": "adjective"
+    },
+    "SULTRY": {
+        "word_type": "adjective",
+        "proto_tag": "BOCHORNOSO",
+        "proto_tag_type": "adjective"
+    },
+    "SUMMERY": {
+        "word_type": "adjective",
+        "proto_tag": "VERANIEGO",
+        "proto_tag_type": "adjective"
+    },
+    "SUPERSTAR": {
+        "word_type": "noun",
+        "proto_tag": "SUPERESTRELLA",
+        "proto_tag_type": "noun"
+    },
+    "SURFER": {
+        "word_type": "noun",
+        "proto_tag": "SURFISTA",
+        "proto_tag_type": "noun"
+    },
+    "SURPRISE": {
+        "word_type": "adjective",
+        "proto_tag": "SORPRESA",
+        "proto_tag_type": "adjective"
+    },
+    "SURPRISING": {
+        "word_type": "adjective",
+        "proto_tag": "SORPRENDENTE",
+        "proto_tag_type": "adjective"
+    },
+    "SURVIVALIST": {
+        "word_type": "noun",
+        "proto_tag": "SUPERVIVIENTE",
+        "proto_tag_type": "noun"
+    },
+    "SURVIVOR": {
+        "word_type": "noun",
+        "proto_tag": "SOBREVIVIENTE",
+        "proto_tag_type": "noun"
+    },
+    "SWASHBUCKLER": {
+        "word_type": "noun",
+        "proto_tag": "A CAPA Y ESPADA",
+        "proto_tag_type": "noun"
+    },
+    "SWEATY": {
+        "word_type": "adjective",
+        "proto_tag": "SUDOROSO",
+        "proto_tag_type": "adjective"
+    },
+    "SWIMMER": {
+        "word_type": "noun",
+        "proto_tag": "NADADOR",
+        "proto_tag_type": "noun"
+    },
+    "TACKY": {
+        "word_type": "adjective",
+        "proto_tag": "FEO",
+        "proto_tag_type": "adjective"
+    },
+    "TALENTED": {
+        "word_type": "adjective",
+        "proto_tag": "TALENTOSO",
+        "proto_tag_type": "adjective"
+    },
+    "TALKER": {
+        "word_type": "noun",
+        "proto_tag": "CONVERSADOR",
+        "proto_tag_type": "noun"
+    },
+    "TALL": {
+        "word_type": "adjective",
+        "proto_tag": "ALTO",
+        "proto_tag_type": "adjective"
+    },
+    "TANGY": {
+        "word_type": "adjective",
+        "proto_tag": "PICANTE",
+        "proto_tag_type": "adjective"
+    },
+    "TASK-ORIENTED": {
+        "word_type": "adjective",
+        "proto_tag": "ORIENTADO A TAREAS",
+        "proto_tag_type": "adjective"
+    },
+    "TASKMASTER": {
+        "word_type": "noun",
+        "proto_tag": "CAPATAZ",
+        "proto_tag_type": "noun"
+    },
+    "TASTEFUL": {
+        "word_type": "adjective",
+        "proto_tag": "SABROSO",
+        "proto_tag_type": "adjective"
+    },
+    "TASTEMAKER": {
+        "word_type": "noun",
+        "proto_tag": "MARCA-TENDENCIAS",
+        "proto_tag_type": "noun"
+    },
+    "TEACHER": {
+        "word_type": "noun",
+        "proto_tag": "PROFESOR",
+        "proto_tag_type": "noun"
+    },
+    "TEARJERKER": {
+        "word_type": "noun",
+        "proto_tag": "TRISTÍSIMO",
+        "proto_tag_type": "noun"
+    },
+    "TEASING": {
+        "word_type": "adjective",
+        "proto_tag": "BROMISTA",
+        "proto_tag_type": "adjective"
+    },
+    "TECHIE": {
+        "word_type": "noun",
+        "proto_tag": "INFORMÁTICO",
+        "proto_tag_type": "noun"
+    },
+    "TEMP": {
+        "word_type": "noun",
+        "proto_tag": "PASANTE",
+        "proto_tag_type": "noun"
+    },
+    "THOUGHTFUL": {
+        "word_type": "adjective",
+        "proto_tag": "CONSIDERADO",
+        "proto_tag_type": "adjective"
+    },
+    "THRIFTY": {
+        "word_type": "adjective",
+        "proto_tag": "ECONÓMICO",
+        "proto_tag_type": "adjective"
+    },
+    "THUMB": {
+        "word_type": "noun",
+        "proto_tag": "PULGAR",
+        "proto_tag_type": "noun"
+    },
+    "TIDY": {
+        "word_type": "adjective",
+        "proto_tag": "ORDENADO",
+        "proto_tag_type": "adjective"
+    },
+    "TINY": {
+        "word_type": "adjective",
+        "proto_tag": "ENANO",
+        "proto_tag_type": "adjective"
+    },
+    "TOOTHLESS": {
+        "word_type": "adjective",
+        "proto_tag": "SIN DIENTES",
+        "proto_tag_type": "adjective"
+    },
+    "TORTURED": {
+        "word_type": "adjective",
+        "proto_tag": "ATORMENTADO",
+        "proto_tag_type": "adjective"
+    },
+    "TOURIST": {
+        "word_type": "noun",
+        "proto_tag": "TURISTA",
+        "proto_tag_type": "noun"
+    },
+    "TOWNIE": {
+        "word_type": "noun",
+        "proto_tag": "PUEBLERINO",
+        "proto_tag_type": "noun"
+    },
+    "TOXIC": {
+        "word_type": "adjective",
+        "proto_tag": "TÓXICO",
+        "proto_tag_type": "adjective"
+    },
+    "TRASHY": {
+        "word_type": "adjective",
+        "proto_tag": "BASURA",
+        "proto_tag_type": "adjective"
+    },
+    "TRAVELER": {
+        "word_type": "noun",
+        "proto_tag": "VIAJERO",
+        "proto_tag_type": "noun"
+    },
+    "TREAT": {
+        "word_type": "adjective",
+        "proto_tag": "DULCE",
+        "proto_tag_type": "adjective"
+    },
+    "TREE HUGGER": {
+        "word_type": "noun",
+        "proto_tag": "ABRAZADOR DE ÁRBOLES",
+        "proto_tag_type": "noun"
+    },
+    "TRENDSETTER": {
+        "word_type": "noun",
+        "proto_tag": "MARCA-TENDENCIAS",
+        "proto_tag_type": "noun"
+    },
+    "TRENDY": {
+        "word_type": "adjective",
+        "proto_tag": "TENDENCIA",
+        "proto_tag_type": "adjective"
+    },
+    "TROOPER": {
+        "word_type": "noun",
+        "proto_tag": "SOLDADO",
+        "proto_tag_type": "noun"
+    },
+    "TROPHY SPOUSE": {
+        "word_type": "noun",
+        "proto_tag": "ESPOSO TROFEO",
+        "proto_tag_type": "noun"
+    },
+    "TROPICAL": {
+        "word_type": "adjective",
+        "proto_tag": "TROPICAL",
+        "proto_tag_type": "adjective"
+    },
+    "TROUBLED": {
+        "word_type": "adjective",
+        "proto_tag": "ATORMENTADO",
+        "proto_tag_type": "adjective"
+    },
+    "TRUSTING": {
+        "word_type": "adjective",
+        "proto_tag": "CONFIADO",
+        "proto_tag_type": "adjective"
+    },
+    "TUMBLER": {
+        "word_type": "noun",
+        "proto_tag": "ACRÓBATA",
+        "proto_tag_type": "noun"
+    },
+    "TURNCOAT": {
+        "word_type": "noun",
+        "proto_tag": "TRÁNSFUGA",
+        "proto_tag_type": "noun"
+    },
+    "TWISTED": {
+        "word_type": "adjective",
+        "proto_tag": "RETORCIDO",
+        "proto_tag_type": "adjective"
+    },
+    "TYRANT": {
+        "word_type": "noun",
+        "proto_tag": "TIRANO",
+        "proto_tag_type": "noun"
+    },
+    "UNASSUMING": {
+        "word_type": "adjective",
+        "proto_tag": "DESAPERCIBIDO",
+        "proto_tag_type": "adjective"
+    },
+    "UNAWARE": {
+        "word_type": "adjective",
+        "proto_tag": "INCONSCIENTE",
+        "proto_tag_type": "adjective"
+    },
+    "UNBALANCED": {
+        "word_type": "adjective",
+        "proto_tag": "DESEQUILIBRADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNCHANGING": {
+        "word_type": "adjective",
+        "proto_tag": "INMUTABLE",
+        "proto_tag_type": "adjective"
+    },
+    "UNCLE": {
+        "word_type": "noun",
+        "proto_tag": "TÍO",
+        "proto_tag_type": "noun"
+    },
+    "UNCOMFORTABLE": {
+        "word_type": "adjective",
+        "proto_tag": "INCÓMODO",
+        "proto_tag_type": "adjective"
+    },
+    "UNCOMPLICATED": {
+        "word_type": "adjective",
+        "proto_tag": "SIN COMPLICACIONES",
+        "proto_tag_type": "adjective"
+    },
+    "UNCONVENTIONAL": {
+        "word_type": "adjective",
+        "proto_tag": "NO CONVENCIONAL",
+        "proto_tag_type": "adjective"
+    },
+    "UNDECIDED": {
+        "word_type": "adjective",
+        "proto_tag": "INDECISO",
+        "proto_tag_type": "adjective"
+    },
+    "UNDEMANDING": {
+        "word_type": "adjective",
+        "proto_tag": "FÁCIL",
+        "proto_tag_type": "adjective"
+    },
+    "UNDERAPPRECIATED": {
+        "word_type": "adjective",
+        "proto_tag": "MENOSPRECIADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNDERDOG": {
+        "word_type": "noun",
+        "proto_tag": "RETADOR",
+        "proto_tag_type": "noun"
+    },
+    "UNDERHANDED": {
+        "word_type": "adjective",
+        "proto_tag": "DESHONESTO",
+        "proto_tag_type": "adjective"
+    },
+    "UNDERSTATED": {
+        "word_type": "adjective",
+        "proto_tag": "DESAPERCIBIDO",
+        "proto_tag_type": "adjective"
+    },
+    "UNEMPLOYED": {
+        "word_type": "adjective",
+        "proto_tag": "DESEMPLEADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNEVEN": {
+        "word_type": "adjective",
+        "proto_tag": "DISPAREJO",
+        "proto_tag_type": "adjective"
+    },
+    "UNEXPECTED": {
+        "word_type": "adjective",
+        "proto_tag": "INESPERADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNEXPECTED GUEST": {
+        "word_type": "noun",
+        "proto_tag": "INVITADO INESPERADO",
+        "proto_tag_type": "noun"
+    },
+    "UNFINISHED": {
+        "word_type": "adjective",
+        "proto_tag": "SIN TERMINAR",
+        "proto_tag_type": "adjective"
+    },
+    "UNGROOMED": {
+        "word_type": "adjective",
+        "proto_tag": "DESPROLIJO",
+        "proto_tag_type": "adjective"
+    },
+    "UNHINGED": {
+        "word_type": "adjective",
+        "proto_tag": "DESQUICIADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNINVITED": {
+        "word_type": "adjective",
+        "proto_tag": "SIN INVITAR",
+        "proto_tag_type": "adjective"
+    },
+    "UNIQUE": {
+        "word_type": "adjective",
+        "proto_tag": "ÚNICO",
+        "proto_tag_type": "adjective"
+    },
+    "UNKNOWABLE": {
+        "word_type": "adjective",
+        "proto_tag": "DESCONOCIDO",
+        "proto_tag_type": "adjective"
+    },
+    "UNLUCKY": {
+        "word_type": "adjective",
+        "proto_tag": "DESAFORTUNADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNPAID": {
+        "word_type": "adjective",
+        "proto_tag": "SIN PAGA",
+        "proto_tag_type": "adjective"
+    },
+    "UNPREDICTABLE": {
+        "word_type": "adjective",
+        "proto_tag": "IMPREDECIBLE",
+        "proto_tag_type": "adjective"
+    },
+    "UNPREPARED": {
+        "word_type": "adjective",
+        "proto_tag": "NO PREPARADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNSOPHISTICATED": {
+        "word_type": "adjective",
+        "proto_tag": "POCO SOFISTICADO",
+        "proto_tag_type": "adjective"
+    },
+    "UNSTABLE": {
+        "word_type": "adjective",
+        "proto_tag": "INESTABLE",
+        "proto_tag_type": "adjective"
+    },
+    "UNSUNG HERO": {
+        "word_type": "noun",
+        "proto_tag": "HÉROE NO RECONOCIDO",
+        "proto_tag_type": "noun"
+    },
+    "UNUSUAL": {
+        "word_type": "adjective",
+        "proto_tag": "INUSUAL",
+        "proto_tag_type": "adjective"
+    },
+    "USEFUL": {
+        "word_type": "adjective",
+        "proto_tag": "ÚTIL",
+        "proto_tag_type": "adjective"
+    },
+    "VACATIONER": {
+        "word_type": "noun",
+        "proto_tag": "DE VACACIONES",
+        "proto_tag_type": "noun"
+    },
+    "VAMPIRE": {
+        "word_type": "noun",
+        "proto_tag": "VAMPIRO",
+        "proto_tag_type": "noun"
+    },
+    "VENGEFUL": {
+        "word_type": "adjective",
+        "proto_tag": "VENGATIVO",
+        "proto_tag_type": "adjective"
+    },
+    "VERSATILE": {
+        "word_type": "adjective",
+        "proto_tag": "VERSÁTIL",
+        "proto_tag_type": "adjective"
+    },
+    "VIGILANT": {
+        "word_type": "adjective",
+        "proto_tag": "VIGILANTE",
+        "proto_tag_type": "adjective"
+    },
+    "VISITOR": {
+        "word_type": "noun",
+        "proto_tag": "VISITANTE",
+        "proto_tag_type": "noun"
+    },
+    "VITAMIN DEFICIENT": {
+        "word_type": "adjective",
+        "proto_tag": "DEFICIENTE DE VITAMINAS",
+        "proto_tag_type": "adjective"
+    },
+    "VOLATILE": {
+        "word_type": "adjective",
+        "proto_tag": "VOLÁTIL",
+        "proto_tag_type": "adjective"
+    },
+    "VULGAR": {
+        "word_type": "adjective",
+        "proto_tag": "VULGAR",
+        "proto_tag_type": "adjective"
+    },
+    "VULGARIAN": {
+        "word_type": "noun",
+        "proto_tag": "VULGAR",
+        "proto_tag_type": "noun"
+    },
+    "VULNERABLE": {
+        "word_type": "adjective",
+        "proto_tag": "VULNERABLE",
+        "proto_tag_type": "adjective"
+    },
+    "WAFFLER": {
+        "word_type": "noun",
+        "proto_tag": "PANQUEQUE",
+        "proto_tag_type": "noun"
+    },
+    "WAKE UP CALL": {
+        "word_type": "noun",
+        "proto_tag": "DESPERTADOR",
+        "proto_tag_type": "noun"
+    },
+    "WARM": {
+        "word_type": "adjective",
+        "proto_tag": "TIBIO",
+        "proto_tag_type": "adjective"
+    },
+    "WATCHFUL": {
+        "word_type": "adjective",
+        "proto_tag": "VIGILANTE",
+        "proto_tag_type": "adjective"
+    },
+    "WEALTHY": {
+        "word_type": "adjective",
+        "proto_tag": "ADINERADO",
+        "proto_tag_type": "adjective"
+    },
+    "WEAPON": {
+        "word_type": "noun",
+        "proto_tag": "ARMA",
+        "proto_tag_type": "noun"
+    },
+    "WELL MAINTAINED": {
+        "word_type": "adjective",
+        "proto_tag": "BIEN MANTENIDO",
+        "proto_tag_type": "adjective"
+    },
+    "WELL-RESTED": {
+        "word_type": "adjective",
+        "proto_tag": "BIEN DESCANSADO",
+        "proto_tag_type": "adjective"
+    },
+    "WELL-ROUNDED": {
+        "word_type": "adjective",
+        "proto_tag": "BIEN REDONDEADO",
+        "proto_tag_type": "adjective"
+    },
+    "WEST COAST": {
+        "word_type": "adjective",
+        "proto_tag": "DE LA COSTA OESTE",
+        "proto_tag_type": "adjective"
+    },
+    "WHINER": {
+        "word_type": "noun",
+        "proto_tag": "QUEJOSO",
+        "proto_tag_type": "noun"
+    },
+    "WHIRLWIND": {
+        "word_type": "noun",
+        "proto_tag": "TORBELLINO",
+        "proto_tag_type": "noun"
+    },
+    "WHISKEY SIPPER": {
+        "word_type": "noun",
+        "proto_tag": "TOMA WHISKY",
+        "proto_tag_type": "noun"
+    },
+    "WIRED": {
+        "word_type": "adjective",
+        "proto_tag": "TENSO",
+        "proto_tag_type": "adjective"
+    },
+    "WIRELESS": {
+        "word_type": "adjective",
+        "proto_tag": "INALÁMBRICO",
+        "proto_tag_type": "adjective"
+    },
+    "WISHY WASHY": {
+        "word_type": "adjective",
+        "proto_tag": "AGUADO",
+        "proto_tag_type": "adjective"
+    },
+    "WOODEN": {
+        "word_type": "adjective",
+        "proto_tag": "DE MADERA",
+        "proto_tag_type": "adjective"
+    },
+    "WOUNDED": {
+        "word_type": "adjective",
+        "proto_tag": "LASTIMADO",
+        "proto_tag_type": "adjective"
+    },
+    "WRECK": {
+        "word_type": "noun",
+        "proto_tag": "DESASTRE",
+        "proto_tag_type": "noun"
+    },
+    "YELLOW": {
+        "word_type": "adjective",
+        "proto_tag": "AMARILLO",
+        "proto_tag_type": "adjective"
+    },
+    "YUCKY": {
+        "word_type": "adjective",
+        "proto_tag": "ASQUEROSO",
+        "proto_tag_type": "adjective"
+    },
+    "ZINGY": {
+        "word_type": "adjective",
+        "proto_tag": "REMATE",
+        "proto_tag_type": "adjective"
+    },
+    "ZOMBIE": {
+        "word_type": "noun",
+        "proto_tag": "ZOMBI",
+        "proto_tag_type": "noun"
+    }
+}

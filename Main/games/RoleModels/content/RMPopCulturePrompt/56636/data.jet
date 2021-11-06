@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Inventa un nuevo plato de dos ingredientes.",
+            "t": "A",
+            "v": "810834_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿En quién confías que elija tu ropa?",
+            "t": "A",
+            "v": "810833_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién tiene el trabajo más ambiguo? Como que nadie está completamente seguro de lo que hace.",
+            "t": "A",
+            "v": "810836_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién hace la mayor parte del trabajo y no es apreciado por ello?",
+            "t": "A",
+            "v": "810835_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Los pantalones están fuera de moda! ¿Qué son los nuevos pantalones?",
+            "t": "A",
+            "v": "818223_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué es lo más asqueroso que los Fab 5 encontrarían en tu casa?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Muéstranos tu cara cuando los Fab 5 llegan, y luego tu cara cuando tu vida es cambiada para siempre.",
+            "t": "A",
+            "v": "818224_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué producto secreto utilizas para tener ese pelo tan hermoso?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué miembro del elenco de <i>Queer Eye<\/i> es cada uno?",
+            "t": "A",
+            "v": "810819_1",
+            "n": "Prompt"
+        }
+    ]
+}

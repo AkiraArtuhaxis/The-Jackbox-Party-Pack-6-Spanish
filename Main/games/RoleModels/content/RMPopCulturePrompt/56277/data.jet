@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Esto no requiere más explicaciones.",
+            "t": "A",
+            "v": "804910_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Quieres comprar un Orange Julius en el centro comercial más tarde?",
+            "t": "A",
+            "v": "804909_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿De quién podrías imaginarte que escriban en periódicos sensacionalistas?",
+            "t": "A",
+            "v": "821536_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué es algo que secretamente esperas hacer “algún día”?",
+            "t": "A",
+            "v": "821535_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién probablemente tenga el secreto más sucio?",
+            "t": "A",
+            "v": "821538_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Si un gato pudiera usar palabras humanas de repente, ¿qué sería lo primero que diría?",
+            "t": "A",
+            "v": "821537_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Tú sabes lo que hiciste.",
+            "t": "A",
+            "v": "804908_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Maúlla como un gato teniendo una crisis existencial.",
+            "t": "A",
+            "v": "821540_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "El gatito tiene garras.",
+            "t": "A",
+            "v": "804907_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿En qué gastaste todo tu dinero de <i>Friends<\/i>, Jennifer?",
+            "t": "A",
+            "v": "821539_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Tienes una gran cara de po-po-po-po-po-po-poquer.",
+            "t": "A",
+            "v": "804906_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Soy un Cre-e-dor.",
+            "t": "A",
+            "v": "804905_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Eres muy, muy famoso, ¿pero por qué?",
+            "t": "A",
+            "v": "821541_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién probablemente meó en una valla eléctrica de pequeño?",
+            "t": "A",
+            "v": "821534_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué fragancia de celebridad es cada uno?",
+            "t": "A",
+            "v": "804898_1",
+            "n": "Prompt"
+        }
+    ]
+}

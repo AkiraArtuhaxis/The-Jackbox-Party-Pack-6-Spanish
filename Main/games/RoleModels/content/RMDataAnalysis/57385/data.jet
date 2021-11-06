@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Qué lugar ficticio te gustaría visitar?",
+            "t": "A",
+            "v": "829556_1",
+            "n": "Prompt"
+        }
+    ]
+}

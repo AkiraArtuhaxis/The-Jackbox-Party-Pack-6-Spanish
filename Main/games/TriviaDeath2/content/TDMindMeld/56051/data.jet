@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "una de las caras en el monte Rushmore",
+            "n": "PromptText"
+        },
+        {
+            "s": "una de las caras en el monte Rushmore",
+            "t": "A",
+            "v": "800751_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

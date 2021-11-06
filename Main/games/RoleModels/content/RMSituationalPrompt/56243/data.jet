@@ -1,0 +1,170 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Gracias por mirar.",
+            "t": "A",
+            "v": "804220_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Ambos son compañeros de trabajo trasnochando para un proyecto importante. ¿Quién se cansa a la medianoche y se va a casa?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Luego de dormir todo el día, suena el teléfono. Cuéntale a quien llama lo difícil que fue tu día en el trabajo.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Muestra tu esfuerzo falso mientras finges levantar el sofá por unas escaleras.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡No, por favor, después de ti!",
+            "t": "A",
+            "v": "804218_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Digamos que, oh no lo sé, estás jugando Jackbox con un grupo de amigos o algo. ¿De dónde ordenarías la pizza?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Seguro eres nominado al Óscar.",
+            "t": "A",
+            "v": "804217_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si estuvieras buscando un nuevo trabajo, ¿a quién le pedirías ayuda para conseguir contactos?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Alguien NO necesita un masaje de cuello.",
+            "t": "A",
+            "v": "804216_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Si estuvieran haciendo un remake de la película <i>Enredos de oficina<\/i>, ¿quién interpretaría a Bill Lumbergh?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Relájate. ¡Puedes descansar ahora!",
+            "t": "A",
+            "v": "804215_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién solamente intervendría para resolver un conflicto solo si es absolutamente necesario?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién es el primero al que le pides ayuda para mudarte a un nuevo departamento?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo ayudaría cada uno de ustedes a bajar un sofá por las escaleras?",
+            "t": "A",
+            "v": "804208_1",
+            "n": "Prompt"
+        }
+    ]
+}

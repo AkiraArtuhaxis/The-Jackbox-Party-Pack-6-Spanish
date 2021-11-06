@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Has sido tocado por un leopardo ángel.",
+            "t": "A",
+            "v": "802694_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡AbRAWRcadabra!",
+            "t": "A",
+            "v": "802693_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién hace de su cumpleaños algo importante?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿En quién confías más para darte consejos?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál de tus trucos de magia es más amado por tu público oso?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién publica sobre cada parte de su día en las redes sociales?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Me estoy entrometiendo en algo aquí.",
+            "t": "A",
+            "v": "802692_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Di “¡Ta da!” como un oso.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Clásico.",
+            "t": "A",
+            "v": "802691_0",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién describirías como “enviado del cielo”?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Oh, su real majestad.",
+            "t": "A",
+            "v": "802690_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Oh, tu adorable pícaro.",
+            "t": "A",
+            "v": "802689_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Haz el ruido de una ballena finalmente saltando sobre un arcoíris luego de tres intentos fallidos.",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es la forma más adorable en la que podrías pedir un panecillo más?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué diseño de Lisa Frank es cada uno de ustedes?",
+            "t": "A",
+            "v": "802682_2",
+            "n": "Prompt"
+        }
+    ]
+}

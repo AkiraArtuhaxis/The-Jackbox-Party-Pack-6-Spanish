@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "No parece seguro caminar sobre las nubes.",
+            "t": "A",
+            "v": "804730_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Qué tierno.",
+            "t": "A",
+            "v": "804729_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Da tu mejor discurso de 15 segundos para calmar a todos sobre una bomba en el autobús.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Muéstrale a todos la cara que pondrías en el momento que descubres que la vida es una simulación de computadora.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién es el mayor amante de los perros?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es más probablemente una simulación de computadora?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Guau.",
+            "t": "A",
+            "v": "804728_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál era tu juguete preferido de pequeño?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Excelente!",
+            "t": "A",
+            "v": "804727_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "<i>Speed<\/i> transcurre en un autobús y en un barco. ¿Dónde debería transcurrir la próxima?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Eres un golpe.",
+            "t": "A",
+            "v": "804726_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "El cuero te va bien.",
+            "t": "A",
+            "v": "804725_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién podrías imaginarte manejando su propio viñedo?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué figura histórica te gustaría traer con tu cabina telefónica máquina del tiempo?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué película de Keanu Reeves es cada uno?",
+            "t": "A",
+            "v": "804718_1",
+            "n": "Prompt"
+        }
+    ]
+}

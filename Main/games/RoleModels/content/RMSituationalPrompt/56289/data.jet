@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Eres adorable. Ahora madura.",
+            "t": "A",
+            "v": "805202_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "No es bonito, pero funciona.",
+            "t": "A",
+            "v": "805201_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si te perdieras en el desierto, ¿cómo atraerías un avión de rescate?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién elegirías para que haga las invitaciones a mano de tu boda?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué excusa usarías para cancelar planes con alguien en el último minuto?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién pasa más tiempo en reuniones de oficina?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Solo no te quedes allí toda la semana.",
+            "t": "A",
+            "v": "805200_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cómo lidias con el resto de nosotros, compañeros del papel?",
+            "t": "A",
+            "v": "805199_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si sacaras tres camisetas al azar, ¿qué colores probablemente aparecerían?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Estás ULTRA bien! O simplemente bien, si lo prefieres.",
+            "t": "A",
+            "v": "805198_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Ni siquiera tu puedes borrar este logro.",
+            "t": "A",
+            "v": "805197_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién es grande, pero no destaca?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué instrumento de escritura representa mejor a cada uno de ustedes?",
+            "t": "A",
+            "v": "805190_1",
+            "n": "Prompt"
+        }
+    ]
+}

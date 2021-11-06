@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "decirle",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "bajarle al baño y olvidarlo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "traérselo",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un compañero de trabajo olvida bajarle al baño y piensas que su excremento se mira extraño. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un compañero de trabajo olvida bajarle al baño y piensas que su excremento se mira extraño. Lo que debes hacer es...",
+            "t": "A",
+            "v": "805769_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

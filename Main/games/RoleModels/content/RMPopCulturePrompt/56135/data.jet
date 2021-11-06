@@ -1,0 +1,157 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Eres un hermoso desastre",
+            "t": "A",
+            "v": "802449_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Y no sólo por tu alergia al agua",
+            "t": "A",
+            "v": "802448_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es más probable que cometa un homicidio involuntario?",
+            "t": "A",
+            "v": "817812_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¡Dale tu mejor carcajada malvada!",
+            "t": "A",
+            "v": "802451_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "No hay nada más aterrador que una primera cita... así que dale tu mejor piropo en una voz de león cobarde",
+            "t": "A",
+            "v": "817814_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene las articulaciones más rígidas?",
+            "t": "A",
+            "v": "817813_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Este rol estaba dentro de ti todo el tiempo.",
+            "t": "A",
+            "v": "802447_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Dios mío!",
+            "t": "A",
+            "v": "802446_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Listo?...¿Quién puede girar más rápido!?",
+            "t": "A",
+            "v": "817815_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Este es el rol que más me gusta.",
+            "t": "A",
+            "v": "802445_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Muy bien para un asesino de brujas.",
+            "t": "A",
+            "v": "802444_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Demuestra que eres descerebrado... ¿cuál es una palabra que nunca puedes deletrear bien?",
+            "t": "A",
+            "v": "802450_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de <i>El mago de Oz<\/i> es cada uno?",
+            "t": "A",
+            "v": "802437_1",
+            "n": "Prompt"
+        }
+    ]
+}

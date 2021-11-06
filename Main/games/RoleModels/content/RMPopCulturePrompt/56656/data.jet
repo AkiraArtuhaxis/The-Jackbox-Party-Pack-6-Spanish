@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Y por asociación, el doble de trasero de Al Pacino.",
+            "t": "A",
+            "v": "811505_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Gato apestoso...Gato apestoso.",
+            "t": "A",
+            "v": "811504_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién intenta ser el más gracioso?",
+            "t": "A",
+            "v": "811528_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué jugador es tiene más calle?",
+            "t": "A",
+            "v": "811526_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién es el más nerd?",
+            "t": "A",
+            "v": "811532_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es tu dinosaurio favorito y por qué?",
+            "t": "A",
+            "v": "811529_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿Podrías SER más Chandler?",
+            "t": "A",
+            "v": "811503_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Como Jennifer Aniston: ¿Qué le dirías a Angelina Jolie?",
+            "t": "A",
+            "v": "811536_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Alguien tiene que ser Ross.",
+            "t": "A",
+            "v": "811502_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Muestra a la sala como bailarías si estuvieras en un video musical de Bruce Springsteen.",
+            "t": "A",
+            "v": "811534_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "La cantidad justa de controlador.",
+            "t": "A",
+            "v": "811501_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Prepárate para que todos tengan tu corte de cabello.",
+            "t": "A",
+            "v": "811500_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién huiría de su propia boda?",
+            "t": "A",
+            "v": "820187_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Di “How you Doin’?”",
+            "t": "A",
+            "v": "811524_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué amigo de <i>Friends<\/i> son?",
+            "t": "A",
+            "v": "811493_1",
+            "n": "Prompt"
+        }
+    ]
+}

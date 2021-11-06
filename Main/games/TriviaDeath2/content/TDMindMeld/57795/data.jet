@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "uno de los siete pecados capitales",
+            "n": "PromptText"
+        },
+        {
+            "s": "uno de los siete pecados capitales",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Simplemente no mires a las luces.",
+            "t": "A",
+            "v": "804930_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Recreo!",
+            "t": "A",
+            "v": "804929_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿A quién le importa más llegar a un destino rápidamente que partir en un viaje?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién dejaría que un extraño se salteara la fila en una tienda?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién probablemente tenga el cajón de la ropa interior más ordenado?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué nombre le darías a tu auto deportivo personalizado?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Eres un fastidio!",
+            "t": "A",
+            "v": "804928_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Explica por qué los niños son el futuro.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Peligroso pero completo.",
+            "t": "A",
+            "v": "804927_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Es como si toda tu vida fuera un atajo gigante.",
+            "t": "A",
+            "v": "804926_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Está bien, tienes el verde.",
+            "t": "A",
+            "v": "804925_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién estaría más cómodo viviendo en el bosque?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué señal de tránsito son?",
+            "t": "A",
+            "v": "804918_1",
+            "n": "Prompt"
+        }
+    ]
+}

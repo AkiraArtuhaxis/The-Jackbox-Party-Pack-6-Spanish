@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Tranquilo, socio.",
+            "t": "A",
+            "v": "827451_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Sabías que solían ser reales?",
+            "t": "A",
+            "v": "827450_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Cuál es la mejor respuesta al texto “estás para telo?”",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿A quién le encantan los chismes más picantes?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿De quién tienes más miedo?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es algo de una década pasada que desearías que vuelva a estar a la moda?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Elegante.",
+            "t": "A",
+            "v": "827449_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Muéstranos tu mejor mirada de reojo.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Caliente!",
+            "t": "A",
+            "v": "827448_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién crees que es el más “regular”?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¿Es día de brazos otra vez?",
+            "t": "A",
+            "v": "827447_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "No parpadees.",
+            "t": "A",
+            "v": "827446_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Quién pueda besar sus dos bíceps más rápido gana.",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué es lo más grande que puedes levantar sobre tu cabeza?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué emoji es más probable que incluyan en un mensaje?",
+            "t": "A",
+            "v": "827439_1",
+            "n": "Prompt"
+        }
+    ]
+}

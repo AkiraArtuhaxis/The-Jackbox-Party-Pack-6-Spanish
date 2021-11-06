@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "al billonario",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "al padre de familia",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "al cirujano",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu avión se está estrellando y tienes un paracaídas extra. Debes salvar...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu avión se está estrellando y tienes un paracaídas extra. Debes salvar...",
+            "t": "A",
+            "v": "823401_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

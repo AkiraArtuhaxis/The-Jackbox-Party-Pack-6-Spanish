@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de los siguientes NO es uno de <i>Los 5 Lenguajes del Amor<\/i> según el autor Gary Chapman?",
+            "t": "A",
+            "v": "773450_1",
+            "n": "Q"
+        },
+        {
+            "s": "Mi Madre siempre me demostraba su afecto juuuusto fuera de mi alcance.",
+            "t": "A",
+            "v": "773457_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[quality time] [faithful devotion] [physical touch] [receiving gifts]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

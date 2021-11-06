@@ -1,0 +1,189 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt10"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Describe el uniforme de tu comuna.",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Seguro que lo eres.",
+            "t": "A",
+            "v": "815958_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡No es un culto, MAMÁ!",
+            "t": "A",
+            "v": "815957_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Hey genio, en tres palabras, ¿Cuál es el significado de la vida?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Nombra una actividad que eres demasiado bello para poder realizar.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es tu trabajo en tu otra vida?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Dale palmaditas a tu pancita y acaricia tu cabeza al mismo tiempo.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién llora cuando no consigue lo que quiere?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿La sala se puso fría?",
+            "t": "A",
+            "v": "815955_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál sería el nombre oficial de tu comuna o culto ideal?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "No odies.",
+            "t": "A",
+            "v": "815954_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué marca debería contratarte como embajador de redes sociales?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién es el más atormentado por su pasado?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es el nombre del fantasma que ha estado todo este tiempo en la habitación?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué episodio de la serie de MTV <i>True Life<\/i> es cada uno de ustedes?",
+            "t": "A",
+            "v": "815946_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt10"
+        }
+    ]
+}

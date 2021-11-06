@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál es el nombre de la banda ficticia que toca junto a Ziggy Stardust?",
+            "t": "A",
+            "v": "799014_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según INTERPOL, el asesino no sabe absolutamente nada acerca del cantante David Bowie, así que me encantaría ver si sabes...",
+            "t": "A",
+            "v": "799021_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[The Spiders from Mars] [Ground Control] [Space Jam] [The Fires of Venus]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

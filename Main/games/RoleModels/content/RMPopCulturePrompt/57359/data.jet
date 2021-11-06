@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Papi.",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "tu lenguaje de amor está siendo cortado.\nOR\nte llevas bien con todas tus ex-cálibur.",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué tienes en tu otro bolsillo?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Por qué estás hambriento en este momento?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Sabes por qué estás en problemas. Así que dime, ¿Qué hiciste para que te enviaran a la cama sin cenar?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién dejarías que tome la última dona de la caja?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "en la cama...\nOR\n(respondiendo como Jeopardy) Qué es... ¿adultfriendfinder.com?",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Muéstranos tu aullido más salvaje.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Hambre, sediento, misma diferencia",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más irrespetuoso con las figuras de autoridad?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Y estoy feliz de verte",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Te vas ghosteado!\nOR\nquizá debas conformarte con alguien que más o menos se parezca a Wally a primera vista.",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién es mejor escondiéndose a la vista de todos?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué libro infantil describe tu vida amorosa?",
+            "t": "A",
+            "v": "828816_1",
+            "n": "Prompt"
+        }
+    ]
+}

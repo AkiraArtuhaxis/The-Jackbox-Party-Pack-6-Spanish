@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "cara",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "brazo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "trasero",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Puedes hacer invisible una parte de tu cuerpo. Eliges tu...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Puedes hacer invisible una parte de tu cuerpo. Eliges tu...",
+            "t": "A",
+            "v": "815370_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

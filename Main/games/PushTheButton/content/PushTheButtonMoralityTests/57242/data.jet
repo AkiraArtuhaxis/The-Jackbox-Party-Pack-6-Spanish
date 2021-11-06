@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "sea amable",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "sea determinado",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "sea atrevido",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Estás criando a un bebé alien súper fuerte. Lo más importante que puedes enseñarle es que siempre...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Estás criando a un bebé alien súper fuerte. Lo más importante que puedes enseñarle es que siempre...",
+            "t": "A",
+            "v": "825378_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

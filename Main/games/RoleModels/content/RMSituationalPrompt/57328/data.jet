@@ -1,0 +1,145 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Si alguien cae y muere estando solo, ¿Hace algún ruido?",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "solo déjalo secar al aire libre",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si fueras un superhéroe invencible, ¿cuál sería tu única debilidad?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es más probable que haga paracaidismo con su madre?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es el lugar más vergonzoso para mojarse los pantalones?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál de tus amigos maldecirías con tu último aliento?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Puede que se te tapen los oídos por la diferencia de presión de tus amigos",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "mientras el paracaídas funcione...",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más aterrador cuando está callado?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Eso SOLO está bien si ella es tu instructora",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "te llamas a ti mismo “un aventurero” en Tinder ¿No es cierto?",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién saltaría de un avión sin dudar por un momento?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de estas cosas gritarías al saltar fuera de un avión?",
+            "t": "A",
+            "v": "827519_1",
+            "n": "Prompt"
+        }
+    ]
+}

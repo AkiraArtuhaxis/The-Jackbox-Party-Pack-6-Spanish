@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Hay otro tipo de pescado?",
+            "t": "A",
+            "v": "819393_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Excelente!",
+            "t": "A",
+            "v": "819392_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¡Muéstranos tu mejor y más siniestro miau!",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál de estos jugadores es de tipo fuego?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué canción cantarías para poner a dormir a alguien?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es más probable que baje la cabeza y se rinda en una pelea callejera?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "No todos los gatos hablan, pero todos los gatos son criminales.",
+            "t": "A",
+            "v": "819391_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué criminal famoso crees que odiaba a los perros y amaba a los gatos?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Puro campeón",
+            "t": "A",
+            "v": "819390_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "De repente, un rol salvaje aparece",
+            "t": "A",
+            "v": "819389_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Además, aparentemente, eres un detective.",
+            "t": "A",
+            "v": "819388_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué emprendimiento comenzarías con el nombre “Ratón Eléctrico”?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es el único animal más peligroso que un roedor que dispara truenos?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de estas descripciones vagas de Pokémon también te describe?",
+            "t": "A",
+            "v": "819381_1",
+            "n": "Prompt"
+        }
+    ]
+}

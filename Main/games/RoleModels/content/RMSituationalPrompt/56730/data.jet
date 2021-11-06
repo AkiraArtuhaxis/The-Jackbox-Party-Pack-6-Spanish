@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Schwazenegger/Devito 2020",
+            "t": "A",
+            "v": "813199_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Por qué él estaba cojeando también?",
+            "t": "A",
+            "v": "813198_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si tuvieras que elegir, ¿qué persona famosa te gustaría comer más?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Describe tu vida después de la muerte ideal.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién tiene ideas sorprendentemente buenas?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Actúa la escena en la que descubres que este infierno alienígena en realidad es la Tierra.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "No hay lugar como el hogar.",
+            "t": "A",
+            "v": "813197_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién disfruta la música de espera?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "La cuenta, por favor.",
+            "t": "A",
+            "v": "813196_2",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Estoy un poco perdido.",
+            "t": "A",
+            "v": "813195_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Cuál es el peor lugar de la Tierra?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Tenía un presentimiento sobre esto.",
+            "t": "A",
+            "v": "813194_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es tu gemelo famoso?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es la manera más pasiva en la que podrías morir, de manera que ni te darías cuenta?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué final con giro son?",
+            "t": "A",
+            "v": "813187_1",
+            "n": "Prompt"
+        }
+    ]
+}

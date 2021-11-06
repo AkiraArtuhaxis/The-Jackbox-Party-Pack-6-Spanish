@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "lloras e imploras su perdón",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "pides algo en línea",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "no abres la puerta",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un grupo de niños pidiendo dulces aparece justo cuando te acabas de quedar sin caramelos. Entonces tú...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un grupo de niños pidiendo dulces aparece justo cuando te acabas de quedar sin caramelos. Entonces tú...",
+            "t": "A",
+            "v": "826750_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

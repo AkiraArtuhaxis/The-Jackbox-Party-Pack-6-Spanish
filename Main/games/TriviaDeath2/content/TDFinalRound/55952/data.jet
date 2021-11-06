@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Verduras crucíferas",
+            "t": "A",
+            "v": "798825_1",
+            "n": "Q"
+        }
+    ]
+}

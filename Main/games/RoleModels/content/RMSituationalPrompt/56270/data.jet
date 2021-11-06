@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "De repente me siento muy frío.",
+            "t": "A",
+            "v": "804770_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Solo dime cuál de mis crush gusta de mí!",
+            "t": "A",
+            "v": "804769_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Tienes que pintar algo en tu casa club... ¿Cómo se llamaría tu equipo fantasmal que resuelve crímenes?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál sería el nombre del reality show de fantasmas?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Es tu oportunidad de decir nombres... ¿Quién crees que te haya matado?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Sin juzgar, pero... ¿Quién es más probable que tenga una colección de muñecas espeluznantes?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Esta es la sexta etapa del duelo.",
+            "t": "A",
+            "v": "804768_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Disfruta pasando el rato en cada desayuno en la cama que he disfrutado.",
+            "t": "A",
+            "v": "804767_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la cosa más aterradora que un tablero de Ouija podría deletrear?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Maldigo a esos niños entrometidos!",
+            "t": "A",
+            "v": "804766_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Aterrador Y aburrido!",
+            "t": "A",
+            "v": "804765_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién se vería mejor flotando en un camisón largo y ondeante?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién puede hacer el mejor gemido de lamento?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo pasarían su tiempo como fantasmas?",
+            "t": "A",
+            "v": "804758_1",
+            "n": "Prompt"
+        }
+    ]
+}

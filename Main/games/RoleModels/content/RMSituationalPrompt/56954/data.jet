@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Mmmm... Alimento de conejo.",
+            "t": "A",
+            "v": "817517_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Pero por supuesto que te toco esta cuscúsa",
+            "t": "A",
+            "v": "817516_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Sé tan dulce con alguien en la habitación que se vuelva literalmente repugnante.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuáles son los tres ingredientes más desagradables para una ensalada?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es la mejor parte de ser dueño de un yate y navegar en él por el Mediterráneo?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Responde como una ensalada de taco: ¿Por qué crees que eres mejor que un taco común y corriente?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "La Crema Agria Maneja Todo Mi Ser",
+            "t": "A",
+            "v": "817515_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué celebridad debería comenzar a hacer condimento de ensaladas?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Deberías calmarte un poco",
+            "t": "A",
+            "v": "817514_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿De qué animal es el huevo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Clara que sí",
+            "t": "A",
+            "v": "817513_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Crutones, baby!",
+            "t": "A",
+            "v": "817512_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "La ensalada César recibió su nombre de un hombre llamado César Cardini. ¿Cómo se llamaría una ensalada en tu honor?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué ensalada combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "817505_1",
+            "n": "Prompt"
+        }
+    ]
+}

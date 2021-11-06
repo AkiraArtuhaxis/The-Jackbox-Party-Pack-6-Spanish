@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "te quedas en donde estás",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "corres hacia él, gritando",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "llamas a la policía",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Escuchas un ruido extraño en tu casa en medio de la noche. Después...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Escuchas un ruido extraño en tu casa en medio de la noche. Después...",
+            "t": "A",
+            "v": "814904_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

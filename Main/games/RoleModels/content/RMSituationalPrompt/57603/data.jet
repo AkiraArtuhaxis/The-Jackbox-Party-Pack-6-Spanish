@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Awwww, gracias dulzura",
+            "t": "A",
+            "v": "833379_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Mejor conocido como un coma.",
+            "t": "A",
+            "v": "833378_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién lleva más tiempo despierto?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién puede pasar más tiempo sin hablar?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Si pudieras recibir un abrazo de cualquiera en el mundo, ¿de quién sería?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene más levante?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡¡Sólo quieres sentirte vivo!!",
+            "t": "A",
+            "v": "833377_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Solo junta tus brazos y aprieta",
+            "t": "A",
+            "v": "833376_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Qué es lo más emocionante que podría ocurrir... ¿¡YA MISMO!?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Malditos niños...",
+            "t": "A",
+            "v": "833375_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Brindis",
+            "t": "A",
+            "v": "833374_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién se aguanta mejor el licor?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Pregunta rápida: ¿Qué necesitas?",
+            "t": "A",
+            "v": "833367_1",
+            "n": "Prompt"
+        }
+    ]
+}

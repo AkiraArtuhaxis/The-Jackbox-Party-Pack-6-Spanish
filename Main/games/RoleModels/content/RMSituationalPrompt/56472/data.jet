@@ -1,0 +1,150 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Sé que hay mucha humedad involucrada...",
+            "t": "A",
+            "v": "807999_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Es como estacionarse en paralelo",
+            "t": "A",
+            "v": "807998_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es la peor fruta que se puede utilizar mientras se demuestra el uso adecuado del condón?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿A qué compararía una Tortuga Ninja con tener sexo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es lo mejor que puedes decirle a tu pareja luego de tener sexo malo?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Okey... ¿Qué película te enseñó todo lo que sabes?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Si fuera Avatar, quizá seguirías teniendo algunas preguntas.",
+            "t": "A",
+            "v": "807997_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué película de Star Wars es la mejor para mirar cuando se trata de crear un ambiente?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Ross y Rachel eran unos locos!",
+            "t": "A",
+            "v": "807995_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Ese ejemplo en el que muestra no digas no es apropiado",
+            "t": "A",
+            "v": "807994_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué eufemismo para “sexo” sería más probable que tu madre utilizara?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué manera de aprender sobre sexo son?",
+            "t": "A",
+            "v": "807987_1",
+            "n": "Prompt"
+        }
+    ]
+}

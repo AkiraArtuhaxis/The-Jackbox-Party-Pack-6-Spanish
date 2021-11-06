@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Productos de IKEA",
+            "t": "A",
+            "v": "797164_1",
+            "n": "Q"
+        }
+    ]
+}

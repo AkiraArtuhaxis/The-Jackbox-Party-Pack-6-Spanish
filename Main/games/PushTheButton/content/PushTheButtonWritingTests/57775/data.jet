@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías susurrarle a tu amante es...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Si tuviera que decir una frase célebre cada vez que entrara a una habitación, diría...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías decir en un funeral...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías decir al comer algo delicioso es...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Tu frase célebre de película favorita es...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías decir en el trabajo es...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías gritar mientras saltas a una piscina es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías gritar para inspirar a un boxeador sería...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías gritarle a un perro malo sería...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Algo que podrías gritar en un partido de fútbol es...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "If I had to say a catchphrase every time I entered a room, I\u2019d say...",
+            "t": "A",
+            "v": "836789_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

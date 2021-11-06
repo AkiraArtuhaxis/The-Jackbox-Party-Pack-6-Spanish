@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Al restaurante se le pasó de cocción tu comida. El mozo te pregunta cómo está. ¿Qué dices?",
+            "t": "A",
+            "v": "831532_1",
+            "n": "Prompt"
+        }
+    ]
+}

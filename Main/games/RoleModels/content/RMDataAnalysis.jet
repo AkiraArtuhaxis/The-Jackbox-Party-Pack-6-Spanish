@@ -1,0 +1,2850 @@
+{
+    "episodeid": 1409,
+    "content": [
+        {
+            "same": [
+                "chico fiestero",
+                "cuadrado",
+                "elegante",
+                "bicho raro",
+                "infantil",
+                "maduro",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57724,
+            "prompt": "Si tuvieras fondos ilimitados para comprar todo lo que puedas en una hora, ¿Qué comprarías?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "perezoso",
+                "trabajador",
+                "confiado",
+                "ansioso",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ],
+            "id": 57723,
+            "prompt": "Cuando Beyonce te pregunte por qué estás en una entrevista para ser su próximo asistente ejecutivo, ¿Qué dices?",
+            "contradiction": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "chico fiestero",
+                "cuadrado",
+                "agresivo",
+                "dulce",
+                "solitario",
+                "rompecorazones"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ],
+            "id": 57722,
+            "prompt": "Tú y tus amigos solteros están en un bar. ¿Cuál es tu objetivo para la noche?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "rompecorazones",
+                "aterrador",
+                "chico fiestero",
+                "problemático"
+            ],
+            "x": true,
+            "opposite": [
+                [
+                    "tierno",
+                    "aterrador"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57721,
+            "prompt": "Hay audiciones abiertas para una comedia erótica de terror que está siendo filmada por tu zona. ¿Para que papel te presentas?",
+            "contradiction": [
+                [
+                    "tierno",
+                    "aterrador"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "molesto",
+                "problemático",
+                "agresivo",
+                "dulce",
+                "ético",
+                "inhumano",
+                "infantil",
+                "maduro"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57641,
+            "prompt": "Una horda de zombis vegetarianos no violentos se han mudado a tu vecindario. ¿Cómo lidias con ellos?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "creativo",
+                "problemático",
+                "infantil",
+                "maduro",
+                "gracioso",
+                "serio"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ],
+            "id": 57640,
+            "prompt": "¿Qué único embellecimiento le añadirías a la <i>Mona Lisa</i>?",
+            "contradiction": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "presumido",
+                "introvertido",
+                "gracioso",
+                "serio",
+                "valiente",
+                "cobarde",
+                "problemático"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ],
+            "id": 57638,
+            "prompt": "Has sido empujado al escenario para hacer stand-up en un micrófono abierto. No tienes nada preparado. ¿Cómo empiezas?",
+            "contradiction": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "despreocupado",
+                "preocupado",
+                "elegante",
+                "desordenado",
+                "valiente",
+                "cobarde",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "elegante",
+                    "desordenado"
+                ],
+                [
+                    "despreocupado",
+                    "preocupado"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57637,
+            "prompt": "Antes de entrar a una cena, te das cuenta de que no estás bien vestido para la ocasión. ¿Qué haces?",
+            "contradiction": [
+                [
+                    "elegante",
+                    "desordenado"
+                ],
+                [
+                    "despreocupado",
+                    "preocupado"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiable",
+                "comodín",
+                "maduro",
+                "creativo",
+                "despreocupado",
+                "sigiloso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ],
+            "id": 57616,
+            "prompt": "Mientras ibas de camino a una cita a ciegas, te encuentras con un amor pasado. Te pregunta si estás libre para tomar un café. ¿Cómo manejas la situación?",
+            "contradiction": [
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "malvado",
+                "agresivo",
+                "gracioso",
+                "dulce",
+                "gracioso",
+                "molesto"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ],
+            "id": 57584,
+            "prompt": "Descubres un micrófono que puede transmitir un mensaje a todas las personas de la Tierra. ¿Qué dices?",
+            "contradiction": [
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "perezoso",
+                "trabajador",
+                "maduro",
+                "comodín",
+                "bicho raro",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ],
+            "id": 57491,
+            "prompt": "Tienes una hora extra por la mañana antes de trabajar. ¿Cómo la usas?",
+            "contradiction": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "trabajador",
+                "agresivo",
+                "inhumano"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ],
+            "id": 57490,
+            "prompt": "¿Cuál es la mejor canción para hacer ejercicio?",
+            "contradiction": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "gruñón",
+                "dulce",
+                "perezoso",
+                "problemático"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ],
+            "id": 57488,
+            "prompt": "¿Cuál es el mejor tema para una suite romántica de un hotel?",
+            "contradiction": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "buscador de emoción",
+                "agresivo",
+                "presumido",
+                "valiente",
+                "cobarde",
+                "compañero"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57485,
+            "prompt": "Al hacer paracaidismo, ¿qué es lo más genial que se puede gritar mientras saltas del avión?",
+            "contradiction": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "amigable",
+                "gruñón",
+                "solitario",
+                "rompecorazones",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57483,
+            "prompt": "Estás organizando un evento para solteros. ¿Cómo lo llamas?",
+            "contradiction": [
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "elegante",
+                "aterrador",
+                "agresivo",
+                "bicho raro",
+                "inhumano",
+                "perezoso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "elegante",
+                    "desordenado"
+                ],
+                [
+                    "tierno",
+                    "aterrador"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57481,
+            "prompt": "Estás a punto de entrar a la cúpula del trueno. Te dicen que te vistas intimidante. ¿Cómo te vistes?",
+            "contradiction": [
+                [
+                    "elegante",
+                    "desordenado"
+                ],
+                [
+                    "tierno",
+                    "aterrador"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "comodín",
+                "inteligente",
+                "malvado"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57479,
+            "prompt": "¿Cuál es la venganza perfecta?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "ético",
+                "malvado",
+                "preocupado"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57477,
+            "prompt": "Al conocer a los padres de tu pareja, los reconoces de Los Más Buscados. ¿Qué haces?",
+            "contradiction": [
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "dulce",
+                "confiado",
+                "ansioso",
+                "cobarde"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ],
+            "id": 57476,
+            "prompt": "Al restaurante se le pasó de cocción tu comida. El mozo te pregunta cómo está. ¿Qué dices?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiable",
+                "comodín",
+                "inteligente",
+                "ansioso",
+                "desordenado",
+                "sigiloso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57475,
+            "prompt": "Acabas de romper un jarrón enorme de pepinillos en una tienda. ¿Qué haces?",
+            "contradiction": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "valiente",
+                "ingenuo",
+                "confiable",
+                "líder"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57472,
+            "prompt": "Godzilla está atacando tu ciudad. ¿Qué haces?",
+            "contradiction": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "infantil",
+                "dulce",
+                "tierno",
+                "gruñón"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57471,
+            "prompt": "¿Cuál es el mejor juguete para recibir con una comida rápida para niños?",
+            "contradiction": [
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "infantil",
+                "maduro",
+                "confiable",
+                "comodín",
+                "bicho raro"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ],
+            "id": 57467,
+            "prompt": "¿Qué es lo primero que miras cuando estás averiguando para comprar un auto nuevo?",
+            "contradiction": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "ético",
+                "cauto",
+                "valiente",
+                "maduro",
+                "confiado"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57465,
+            "prompt": "Si tu vida fuera un videojuego, ¿cuál sería el jefe final que deberías derrotar?",
+            "contradiction": [
+                [
+                    "ético",
+                    "malvado"
+                ],
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "chico fiestero",
+                "cuadrado",
+                "tierno",
+                "aterrador"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "tierno",
+                    "aterrador"
+                ]
+            ],
+            "id": 57464,
+            "prompt": "¿Qué tres cosas son esenciales para tener una noche de sábado perfecta?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "tierno",
+                    "aterrador"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "amigable",
+                "gruñón",
+                "agresivo",
+                "dulce",
+                "infantil",
+                "maduro"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57463,
+            "prompt": "¿Cuál es una manera no verbal para indicar que terminaste una conversación con alguien?",
+            "contradiction": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiable",
+                "comodín",
+                "perezoso",
+                "trabajador"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "perezoso",
+                    "trabajador"
+                ]
+            ],
+            "id": 57462,
+            "prompt": "Tus amigos te están ayudando a mudarte. ¿Qué les darías por su trabajo físico?",
+            "contradiction": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "perezoso",
+                    "trabajador"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "amigable",
+                "gruñón",
+                "líder",
+                "agresivo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57461,
+            "prompt": "Tienes la oportunidad de escribir el primer mensaje a vida extraterrestre recién descubierta. ¿Qué dices?",
+            "contradiction": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "gracioso",
+                "confiable",
+                "comodín",
+                "gruñón"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ],
+            "id": 57460,
+            "prompt": "Has sido contratado como payaso para un cumpleaños. ¿Cómo entretienes a los niños?",
+            "contradiction": [
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "cobarde",
+                "gruñón"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "gruñón",
+                    "amigable"
+                ]
+            ],
+            "id": 57459,
+            "prompt": "¿Cuál sería el nombre de tu movimiento característico de lucha?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "gruñón",
+                    "amigable"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "dulce",
+                "perezoso",
+                "trabajador",
+                "cauto",
+                "valiente",
+                "cobarde"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57425,
+            "prompt": "¿Cuál sería tu trabajo en la Estrella de la Muerte?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "dulce",
+                "inteligente",
+                "ingenuo",
+                "ético",
+                "malvado",
+                "rompecorazones",
+                "problemático"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "inteligente ingenuo",
+                    "inteligente ingenuo"
+                ],
+                [
+                    "ético",
+                    "malvado"
+                ]
+            ],
+            "id": 57424,
+            "prompt": "Eres un espía. Un(a) contra agente atractivo/a tiene el archivo secreto. ¿Cómo lo consigues de él/ella?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ],
+                [
+                    "ético",
+                    "malvado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "despreocupado",
+                "preocupado",
+                "valiente",
+                "cobarde",
+                "inteligente",
+                "ingenuo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ],
+            "id": 57423,
+            "prompt": "Eres el portero de un hotel embrujado. Estás atrapado por la nieve. ¿Cómo pasas tu tiempo?",
+            "contradiction": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ],
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "chico fiestero",
+                "bicho raro",
+                "rompecorazones"
+            ],
+            "x": true,
+            "opposite": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57422,
+            "prompt": "Si un bar nombrara una bebida en honor a ti, ¿qué tendría?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiado",
+                "bicho raro",
+                "solitario",
+                "gruñón"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ],
+            "id": 57421,
+            "prompt": "Completa esta frase: En una película de secundaria, yo almorzaría con los chicos “_____”.",
+            "contradiction": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "amigable",
+                    "gruñón"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiado",
+                "rompecorazones",
+                "amigable",
+                "dulce"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ],
+            "id": 57420,
+            "prompt": "Estás teniendo una cita rápida. ¿Cuál es tu atrapante frase de apertura?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "rompecorazones",
+                "confiado",
+                "creativo",
+                "solitario"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ],
+            "id": 57419,
+            "prompt": "¿Cuál es el nombre de la novela de Jane Austen basada en tu vida?",
+            "contradiction": [
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiado",
+                "ansioso",
+                "presumido",
+                "introvertido",
+                "rompecorazones",
+                "solitario",
+                "inhumano",
+                "elegante"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "elegante",
+                    "desordenado"
+                ]
+            ],
+            "id": 57418,
+            "prompt": "¿Cuál sería tu vestimenta predilecta para una cita a ciegas?",
+            "contradiction": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "elegante",
+                    "desordenado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "ansioso",
+                "preocupado",
+                "solitario",
+                "rompecorazones",
+                "inhumano"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ],
+            "id": 57417,
+            "prompt": "¿Qué es la peor cosa que podés decir en una primera cita?",
+            "contradiction": [
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiado",
+                "valiente",
+                "cobarde",
+                "cauto"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57416,
+            "prompt": "No tienes más dinero, pero estás seguro que tu mano de póker puede ganarle a la del villano. ¿Qué apuestas?",
+            "contradiction": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiado",
+                "ansioso",
+                "presumido",
+                "bicho raro",
+                "inhumano"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ],
+            "id": 57415,
+            "prompt": "Estás en <i>Jeopardy!</i>. ¿Qué dato interesante sobre ti compartes con Alex, el anfitrión?",
+            "contradiction": [
+                [
+                    "confiado",
+                    "ansioso"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "valiente",
+                "cobarde",
+                "ingenuo",
+                "cauto",
+                "confiado"
+            ],
+            "x": true,
+            "opposite": [
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57414,
+            "prompt": "Acabas de matar accidentalmente al perro de John Wick. ¿Cuál es tu próximo movimiento?",
+            "contradiction": [
+                [
+                    "valiente",
+                    "cobarde"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "valiente",
+                "cobarde",
+                "cauto",
+                "buscador de emoción"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "valiente",
+                    "cobarde"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ]
+            ],
+            "id": 57413,
+            "prompt": "Si fueras un Cazafantasmas, ¿qué fantasma de una persona famosa te encantaría cazar?",
+            "contradiction": [
+                [
+                    "valiente",
+                    "cobarde"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "cobarde",
+                "bicho raro",
+                "inhumano"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ],
+            "id": 57412,
+            "prompt": "¿Qué es la cosa más extraña a la que le tienes miedo?",
+            "contradiction": [
+                [
+                    "valiente",
+                    "cobarde"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "amigable",
+                "gruñón",
+                "fiesta",
+                "tipo",
+                "solitario",
+                "molesto"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "chico fiestero",
+                    "chico fiestero"
+                ]
+            ],
+            "id": 57411,
+            "prompt": "¿Cuál es la mejor manera de conocer a tus vecinos?",
+            "contradiction": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "amigable",
+                "gruñón",
+                "bicho raro",
+                "solitario"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "tierno",
+                    "aterrador"
+                ]
+            ],
+            "id": 57410,
+            "prompt": "Honestamente, ¿qué te gustaría escribir en tu tapete de bienvenida?",
+            "contradiction": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "tierno",
+                    "aterrador"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "amigable",
+                "gruñón",
+                "dulce",
+                "solitario"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ],
+            "id": 57409,
+            "prompt": "“Hola” ha sido retirado. Eres elegido para seleccionar el nuevo saludo universal. ¿Cuál es?",
+            "contradiction": [
+                [
+                    "amigable",
+                    "gruñón"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "trabajador",
+                "perezoso",
+                "líder",
+                "compañero",
+                "creativo",
+                "confiable",
+                "comodín"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "trabajador",
+                    "perezoso"
+                ],
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ],
+            "id": 57408,
+            "prompt": "Tus amigos están a cargo de preparar un baile de secundaria, ¿cuál es tu trabajo?",
+            "contradiction": [
+                [
+                    "trabajador",
+                    "perezoso"
+                ],
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "perezoso",
+                "trabajador",
+                "inteligente",
+                "agresivo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ]
+            ],
+            "id": 57407,
+            "prompt": "Si hubiera un programa de juegos basado en un desafío físico que siempre dominarías. ¿Cuál sería?",
+            "contradiction": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "perezoso",
+                "trabajador",
+                "inteligente",
+                "confiable"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ],
+            "id": 57406,
+            "prompt": "Luego de que el mundo colapse, ¿qué servicio puedes ofrecer a tu grupo de supervivientes?",
+            "contradiction": [
+                [
+                    "perezoso",
+                    "trabajador"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "ingenuo",
+                "preocupado",
+                "ansioso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57405,
+            "prompt": "¿Cuál es la contraseña menos segura que se te ocurre?",
+            "contradiction": [
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "inteligente",
+                "ingenuo",
+                "maduro"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57404,
+            "prompt": "Tu familia está teniendo un debate muy intenso en la cena. ¿Cómo calmas la situación?",
+            "contradiction": [
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "inteligente",
+                "ingenuo",
+                "infantil",
+                "maduro",
+                "preocupado",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "inteligente",
+                    "ingenuo"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57403,
+            "prompt": "Tienes un deseo... pero tienes que expresarlo con mucho cuidado. ¿Qué deseas?",
+            "contradiction": [
+                [
+                    "inteligente",
+                    "ingenuo"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "gracioso",
+                "infantil",
+                "problemático",
+                "sigiloso",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57402,
+            "prompt": "En tu oficina quieren hacerle una broma a tu jefe. ¿Qué aportas en la lluvia de ideas?",
+            "contradiction": [
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "gracioso",
+                "serio",
+                "dulce",
+                "infantil"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ],
+            "id": 57401,
+            "prompt": "¿Cuál es tu película preferida para cuando estás de muy mal humor?",
+            "contradiction": [
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "gracioso",
+                "infantil",
+                "valiente",
+                "inhumano"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57400,
+            "prompt": "Estás en una feria de muestras y puedes escribir lo que sea en tu etiqueta. ¿Qué escribes?",
+            "contradiction": [
+                [
+                    "gracioso",
+                    "serio"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "introvertido",
+                "cuadrado",
+                "solitario",
+                "ansioso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57399,
+            "prompt": "¿Cuál es la peor parte de asistir a fiestas universitarias?",
+            "contradiction": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "introvertido",
+                "chico fiestero",
+                "solitario",
+                "molesto"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57398,
+            "prompt": "Estás invitado a un afterparty de los Oscar. Hay celebridades por todos lados. ¿Qué haces?",
+            "contradiction": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "presumido",
+                "introvertido",
+                "chico fiestero",
+                "cuadrado",
+                "rompecorazones",
+                "solitario"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57397,
+            "prompt": "Si estuvieras en <i>El soltero</i> o <i>La soltera</i>, ¿cuál sería tu plan para destacar?",
+            "contradiction": [
+                [
+                    "presumido",
+                    "introvertido"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "infantil",
+                "maduro",
+                "preocupado",
+                "despreocupado",
+                "ansioso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "preocupado",
+                    "despreocupado"
+                ]
+            ],
+            "id": 57396,
+            "prompt": "¿De qué te gustaría tener una dotación vitalicia?",
+            "contradiction": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "preocupado",
+                    "despreocupado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "infantil",
+                "maduro",
+                "serio",
+                "inteligente"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ],
+            "id": 57395,
+            "prompt": "Estás atrapado en un museo de historia donde las exhibiciones cobran vida. ¿Con quién pasas el rato?",
+            "contradiction": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "gracioso",
+                    "serio"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "infantil",
+                "maduro",
+                "problemático",
+                "molesto"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "infantil",
+                    "maduro"
+                ],
+                [
+                    "despreocupado",
+                    "preocupado"
+                ]
+            ],
+            "id": 57394,
+            "prompt": "Vuelves a tener 10 años de nuevo por un día. ¿Qué haces?",
+            "contradiction": [
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "elegante",
+                "desordenado"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "elegante",
+                    "desordenado"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ],
+            "id": 57393,
+            "prompt": "Si tuvieras un presupuesto ilimitado, ¿qué agregarías a tu sala de estar?",
+            "contradiction": [
+                [
+                    "elegante",
+                    "desordenado"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "elegante",
+                "desordenado",
+                "rompecorazones"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "elegante",
+                    "desordenado"
+                ]
+            ],
+            "id": 57392,
+            "prompt": "¿Cómo describirían las revistas de moda tu atuendo actual?",
+            "contradiction": [
+                [
+                    "elegante",
+                    "desordenado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "elegante",
+                "cochino",
+                "presumido",
+                "introvertido",
+                "creativo",
+                "rompecorazones"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "elegante",
+                    "cochino"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ],
+            "id": 57391,
+            "prompt": "Te invitan a una fiesta de “Todo Menos Ropa”, ¿qué llevas puesto?",
+            "contradiction": [
+                [
+                    "elegante",
+                    "cochino"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "líder",
+                "compañero",
+                "valiente",
+                "buscador de emoción"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "líder",
+                    "compañero"
+                ]
+            ],
+            "id": 57390,
+            "prompt": "Si tuvieras un súper poder basado en uno de tus talentos, ¿cuál sería tu nombre de superhéroe?",
+            "contradiction": [
+                [
+                    "líder",
+                    "compañero"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "líder",
+                "compañero",
+                "dulce",
+                "gruñón",
+                "presumido",
+                "rompecorazones"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ],
+            "id": 57389,
+            "prompt": "Si estuvieras en un reality de MTV, ¿cuál sería tu apodo en la casa?",
+            "contradiction": [
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "presumido",
+                    "introvertido"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "líder",
+                "compañero",
+                "solitario",
+                "sigiloso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ],
+            "id": 57388,
+            "prompt": "¿Qué haces normalmente en los trabajos en grupo?",
+            "contradiction": [
+                [
+                    "líder",
+                    "compañero"
+                ],
+                [
+                    "confiable",
+                    "comodín"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "cauto",
+                "buscador de emoción",
+                "dulce",
+                "tierno"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ]
+            ],
+            "id": 57387,
+            "prompt": "Un psíquico de mascotas va ha enlazarte con cualquier animal que desees. ¿Cuál eliges?",
+            "contradiction": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "cauto",
+                "agresivo",
+                "sigiloso",
+                "cobarde"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ]
+            ],
+            "id": 57386,
+            "prompt": "¿Cuál sería tu plan si compitieras en los Juegos del Hambre?",
+            "contradiction": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "cauto",
+                "buscador de emoción",
+                "valiente",
+                "cobarde",
+                "inhumano"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "cobarde",
+                    "valiente"
+                ]
+            ],
+            "id": 57385,
+            "prompt": "¿Qué lugar ficticio te gustaría visitar?",
+            "contradiction": [
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ],
+                [
+                    "cobarde",
+                    "valiente"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "despreocupado",
+                "preocupado",
+                "solitario"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ]
+            ],
+            "id": 57384,
+            "prompt": "¿Cuál es tu idea de unas vacaciones perfectas libres de estrés?",
+            "contradiction": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "dulce",
+                "chico fiestero"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57383,
+            "prompt": "Estás invitado a la casa de un posible vampiro. ¿Qué llevas?",
+            "contradiction": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "despreocupado",
+                "preocupado"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57382,
+            "prompt": "¿Cuál es tu plan para una invasión alienígena?",
+            "contradiction": [
+                [
+                    "despreocupado",
+                    "preocupado"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "chico fiestero",
+                "dulce"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57381,
+            "prompt": "¿Cuál es el snack perfecto para una fiesta?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "chico fiestero",
+                "cuadrado",
+                "presumido",
+                "bicho raro"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57380,
+            "prompt": "La fiesta está empezando a decaer. ¿Cómo haces que vuelva a la vida?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "chico fiestero",
+                "cuadrado",
+                "creativo",
+                "bicho raro"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ],
+            "id": 57379,
+            "prompt": "Te permiten llevar puesto literalmente lo que quieras al trabajo. ¿Cómo vas vestido?",
+            "contradiction": [
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ],
+                [
+                    "confiado",
+                    "ansioso"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "sigiloso",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ],
+            "id": 57378,
+            "prompt": "¿Qué trampa casera prepararías para un par de ladrones torpes?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ],
+            "id": 57377,
+            "prompt": "Si vivieras en Poniente, ¿cómo llamarías a tu espada?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ],
+            "id": 57376,
+            "prompt": "¿Cuál sería el lema de tu película de acción?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "agresivo",
+                "dulce",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ],
+            "id": 57375,
+            "prompt": "¿Cuál sería tu arma/herramienta predilecta durante el apocalipsis zombi?",
+            "contradiction": [
+                [
+                    "agresivo",
+                    "dulce"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "comodín",
+                "confiable",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "comodín",
+                    "confiable"
+                ]
+            ],
+            "id": 57374,
+            "prompt": "Estás a punto de quedar varado en una isla desierta. Solo puedes llevar un objeto. ¿Qué eliges?",
+            "contradiction": [
+                [
+                    "comodín",
+                    "confiable"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "confiable",
+                "comodín",
+                "infantil",
+                "maduro",
+                "problemático"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ],
+            "id": 57373,
+            "prompt": "Tienes que cuidar a gemelos de 8 años, ¿qué actividad planeas para ellos?",
+            "contradiction": [
+                [
+                    "confiable",
+                    "comodín"
+                ],
+                [
+                    "infantil",
+                    "maduro"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "comodín",
+                "confiable",
+                "bicho raro",
+                "inteligente"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "comodín",
+                    "confiable"
+                ],
+                [
+                    "inteligente",
+                    "ingenuo"
+                ]
+            ],
+            "id": 57372,
+            "prompt": "Ganas $10.000 en la lotería. ¿Qué es lo primero que haces con el dinero?",
+            "contradiction": [
+                [
+                    "comodín",
+                    "confiable"
+                ],
+                [
+                    "chico fiestero",
+                    "cuadrado"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "aterrador",
+                "sigiloso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "aterrador",
+                    "tierno"
+                ]
+            ],
+            "id": 57371,
+            "prompt": "Puedes enviar un mensaje desde más allá de la tumba, ¿cuál es?",
+            "contradiction": [
+                [
+                    "aterrador",
+                    "tierno"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "aterrador",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "aterrador",
+                    "tierno"
+                ]
+            ],
+            "id": 57370,
+            "prompt": "Si pudieras diseñar una habitación en una Casa Embrujada, ¿cuál sería?",
+            "contradiction": [
+                [
+                    "aterrador",
+                    "tierno"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "tierno",
+                "aterrador",
+                "inhumano",
+                "creativo"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "tierno",
+                    "aterrador"
+                ]
+            ],
+            "id": 57369,
+            "prompt": "Si tuvieras un presupuesto ilimitado, ¿cuál sería tu disfraz de Halloween ideal?",
+            "contradiction": [
+                [
+                    "tierno",
+                    "aterrador"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "malvado",
+                "ético",
+                "molesto",
+                "problemático"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "malvado",
+                    "ético"
+                ]
+            ],
+            "id": 57368,
+            "prompt": "Te encuentras una libreta telefónica llena de los números de teléfono personales de celebridades. ¿Qué haces con él?",
+            "contradiction": [
+                [
+                    "malvado",
+                    "ético"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "malvado",
+                "ético",
+                "sigiloso",
+                "problemático"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "malvado",
+                    "ético"
+                ]
+            ],
+            "id": 57367,
+            "prompt": "Descubres la contraseña de Twitter de alguien que siempre discute contigo en línea. ¿Qué haces?",
+            "contradiction": [
+                [
+                    "malvado",
+                    "ético"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "malvado",
+                "ético",
+                "sigiloso"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "malvado",
+                    "ético"
+                ]
+            ],
+            "id": 57366,
+            "prompt": "Puedes encender la cámara web de alguien y espiarlo por 15 minutos. ¿A quién eliges?",
+            "contradiction": [
+                [
+                    "malvado",
+                    "ético"
+                ]
+            ]
+        },
+        {
+            "same": [
+                "malvado",
+                "ético",
+                "buscador de emoción",
+                "problemático"
+            ],
+            "x": false,
+            "opposite": [
+                [
+                    "malvado",
+                    "ético"
+                ]
+            ],
+            "id": 57365,
+            "prompt": "El policía te da permiso para encender fuegos artificiales donde quieras... ¿dónde los enciendes?",
+            "contradiction": [
+                [
+                    "malvado",
+                    "ético"
+                ],
+                [
+                    "cauto",
+                    "buscador de emoción"
+                ]
+            ]
+        }
+    ]
+}

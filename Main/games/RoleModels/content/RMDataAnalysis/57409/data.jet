@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "“Hola” ha sido retirado. Eres elegido para seleccionar el nuevo saludo universal. ¿Cuál es?",
+            "t": "A",
+            "v": "830268_1",
+            "n": "Prompt"
+        }
+    ]
+}

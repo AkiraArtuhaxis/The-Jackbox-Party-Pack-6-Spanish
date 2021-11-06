@@ -1,0 +1,157 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "No pases adelante, no recolectes 200 bolitas científicas.",
+            "t": "A",
+            "v": "804790_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eres un precioso adyacente!",
+            "t": "A",
+            "v": "804789_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es el más suertudo?",
+            "t": "A",
+            "v": "811132_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué nombre le darías a una universidad que solo cobra $50 por semestre?",
+            "t": "A",
+            "v": "811131_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién puede dar la mejor vuelta de pelo y mirar a la cámara?",
+            "t": "A",
+            "v": "811134_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es el más responsable?",
+            "t": "A",
+            "v": "811133_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Felicidades por ser dueño de una vivienda.",
+            "t": "A",
+            "v": "804788_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Estoy cansado de que esto SIEMPRE pase",
+            "t": "A",
+            "v": "804787_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Por qué crimen probablemente irías a la cárcel?",
+            "t": "A",
+            "v": "811135_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "El aprendizaje leído no es gratuito",
+            "t": "A",
+            "v": "804786_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Por un buen comportamiento",
+            "t": "A",
+            "v": "804785_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es tu plan para escapar de la cárcel?",
+            "t": "A",
+            "v": "811130_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué tarjeta del Arca Comunal de <i>Monopoly<\/i> es cada uno?",
+            "t": "A",
+            "v": "804778_1",
+            "n": "Prompt"
+        }
+    ]
+}

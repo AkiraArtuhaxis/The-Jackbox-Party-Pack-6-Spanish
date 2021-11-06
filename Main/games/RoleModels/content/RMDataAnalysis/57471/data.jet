@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál es el mejor juguete para recibir con una comida rápida para niños?",
+            "t": "A",
+            "v": "831430_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "detenerte",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "continuar",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "ir más despacio",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Se descubre que el calentamiento global empeora al mirar videos de cachorritos. Debes...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Se descubre que el calentamiento global empeora al mirar videos de cachorritos. Debes...",
+            "t": "A",
+            "v": "823475_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

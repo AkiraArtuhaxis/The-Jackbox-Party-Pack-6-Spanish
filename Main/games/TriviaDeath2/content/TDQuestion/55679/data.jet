@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Si eres mi peón y te sacrifico en mi apertura de ajedrez, ¿cómo se llama eso?",
+            "t": "A",
+            "v": "793535_2",
+            "n": "Q"
+        },
+        {
+            "s": "Soy como el Bobby Fischer del asesinato: ¡todos me están buscando!",
+            "t": "A",
+            "v": "793542_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[a gambit] [a jig] [a snooker] [a dodge]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

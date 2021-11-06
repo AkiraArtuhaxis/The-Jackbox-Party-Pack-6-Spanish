@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "una especie animal que se muestra hablando en la versión original de <i>El rey león<\/i>",
+            "n": "PromptText"
+        },
+        {
+            "s": "una especie animal que se muestra hablando en la versión original de <i>El rey león<\/i>",
+            "t": "A",
+            "v": "798970_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

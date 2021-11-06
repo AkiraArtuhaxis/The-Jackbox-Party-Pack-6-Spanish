@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Mi hotel tiene que actualizar su software CRM... ¿qué es eso?",
+            "t": "A",
+            "v": "793310_0",
+            "n": "Q"
+        },
+        {
+            "s": "¡El negocio de la hotelería no es pura diversión y asesinato! ¡Hay gastos de los que preocuparse!",
+            "t": "A",
+            "v": "793317_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[cost reduction management] [calendar reservation management] [customer-relationship management ] [cleaning rotation management]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

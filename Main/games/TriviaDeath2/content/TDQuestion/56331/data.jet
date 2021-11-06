@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "En <i>Rotten Tomatoes<\/i>, ¿cuál es el porcentaje más alto que puede tener una película siendo considerada \"podrida\"?",
+            "t": "A",
+            "v": "805781_1",
+            "n": "Q"
+        },
+        {
+            "s": "¿No amas el olor a podrido? Hablando de eso...",
+            "t": "A",
+            "v": "805788_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[60%] [59%] [55%] [54%]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

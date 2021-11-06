@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si estuvieras en <i>El soltero<\/i> o <i>La soltera<\/i>, ¿cuál sería tu plan para destacar?",
+            "t": "A",
+            "v": "829868_1",
+            "n": "Prompt"
+        }
+    ]
+}

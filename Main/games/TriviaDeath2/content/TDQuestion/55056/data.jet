@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Quién escribió originariamente: “Es mejor ser temido que ser amado”?",
+            "t": "A",
+            "v": "780189_2",
+            "n": "Q"
+        },
+        {
+            "s": "Mi madre siempre hacía bordados con las frases más inspiradoras...",
+            "t": "A",
+            "v": "780196_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Niccolò Machiavelli] [Friedrich Nietzsche] [Victor Hugo] [J. K. Rowling]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

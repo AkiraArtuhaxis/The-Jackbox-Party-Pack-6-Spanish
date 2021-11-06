@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "En la película <i>¿Quieres ser John Malkovich?<\/i>, ¿qué historia de amor clásica se retrata en la obra de marionetas de Craig?",
+            "t": "A",
+            "v": "776679_4",
+            "n": "Q"
+        },
+        {
+            "s": "Aquí viene una clásica pregunta de trivia.",
+            "t": "A",
+            "v": "776686_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Troilus & Cressida] [Pyramus & Thisbe] [Romeo & Juliet] [Abelard & Heloise]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

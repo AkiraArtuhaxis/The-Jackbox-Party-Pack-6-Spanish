@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Haz como quieras",
+            "t": "A",
+            "v": "811800_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Y te damos las gracias",
+            "t": "A",
+            "v": "811799_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién nunca escucha a sus padres?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién tardaría más en encontrar su coche en un aparcamiento?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién puede llevar el peso más emocional?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¡Alguien ardiente va en camino!",
+            "t": "A",
+            "v": "811798_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Da tu canto de pájaro más seductor",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Tu racha ganadora nunca terminará!",
+            "t": "A",
+            "v": "811797_2",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién se vería mejor en una chaqueta de cuero?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡In-cre-í-ble!",
+            "t": "A",
+            "v": "811796_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué es lo más aterrador de encontrar en un laberinto de maíz?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Vaya manera de ponerse al frente!",
+            "t": "A",
+            "v": "811795_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué más les robarías a los dioses griegos?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién sería probablemente el mejor con una espada?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué historia griega son?",
+            "t": "A",
+            "v": "811788_1",
+            "n": "Prompt"
+        }
+    ]
+}

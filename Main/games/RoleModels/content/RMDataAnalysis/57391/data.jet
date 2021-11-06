@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Te invitan a una fiesta de “Todo Menos Ropa”, ¿qué llevas puesto?",
+            "t": "A",
+            "v": "829712_1",
+            "n": "Prompt"
+        }
+    ]
+}

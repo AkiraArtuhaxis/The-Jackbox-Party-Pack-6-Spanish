@@ -1,0 +1,430 @@
+{
+    "content": [
+        {
+            "x": false,
+            "id": 56569,
+            "prompt": "[EventName=HOST/AltHost]Un chiste que has hecho en Quiplash pero fue desafortunadamente subestimado"
+        },
+        {
+            "x": false,
+            "id": 56557,
+            "prompt": "[EventName=HOST/AltHost]Si compraras un carrito lleno de esto, el cajero definitivamente llamaría a la policía"
+        },
+        {
+            "x": false,
+            "id": 56556,
+            "prompt": "[EventName=HOST/AltHost]¿Por qué le pasan cosas malas a las personas buenas?"
+        },
+        {
+            "x": false,
+            "id": 56554,
+            "prompt": "[EventName=HOST/AltHost]Como dice la canción: \"Me está matando suavemente con su <BLANK>\""
+        },
+        {
+            "x": false,
+            "id": 56553,
+            "prompt": "[EventName=HOST/AltHost]No mires directamente en <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 56552,
+            "prompt": "[EventName=HOST/AltHost]Si reencarnaras en esto, sabrías que estás siendo castigado"
+        },
+        {
+            "x": false,
+            "id": 56551,
+            "prompt": "[EventName=HOST/AltHost]¡Alerta de opinión controversial! Todos los perros son niños y todos los gatos son <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 56550,
+            "prompt": "[EventName=HOST/AltHost]El proyecto de arte más sexy para que completen un fantasma y un humano juntos"
+        },
+        {
+            "x": false,
+            "id": 56549,
+            "prompt": "[EventName=HOST/AltHost]Bebida más apropiada para beber de un cáliz hecho de un cráneo humano\n"
+        },
+        {
+            "x": false,
+            "id": 56548,
+            "prompt": "[EventName=HOST/AltHost]La razón por la que los gatos se lamen todo el día\n"
+        },
+        {
+            "x": false,
+            "id": 56547,
+            "prompt": "[EventName=HOST/AltHost]Las personas que han tenido experiencias cercanas a la muerte informan haber visto <BLANK> al final del túnel"
+        },
+        {
+            "x": false,
+            "id": 56546,
+            "prompt": "[EventName=HOST/AltHost]El nombre menos atractivo para una marca de papel higiénico\n"
+        },
+        {
+            "x": false,
+            "id": 56544,
+            "prompt": "[EventName=HOST/AltHost]Un reemplazo inaceptable para el queso en los nachos\n"
+        },
+        {
+            "x": false,
+            "id": 56543,
+            "prompt": "[EventName=HOST/AltHost]El mejor nombre para un programa de televisión de los 70 sobre un detective cascarrabia que resuelve crímenes con ayuda de un adolescente lobo sabelotodo"
+        },
+        {
+            "x": false,
+            "id": 56542,
+            "prompt": "[EventName=HOST/AltHost]Mejor nombre para una banda de jazz compuesta solo por esqueletos"
+        },
+        {
+            "x": false,
+            "id": 56541,
+            "prompt": "[EventName=HOST/AltHost]La ortografía adecuada para una risa malvada\n"
+        },
+        {
+            "x": false,
+            "id": 56540,
+            "prompt": "[EventName=HOST/AltHost]Bajo ninguna circunstancia debe usarse esto como ingrediente para una pizza\n"
+        },
+        {
+            "x": false,
+            "id": 56539,
+            "prompt": "[EventName=HOST/AltHost]Cuando sufras un corte, aplica presión directa sobre la herida con <BLANK> hasta que el sangrado detenga\n"
+        },
+        {
+            "x": false,
+            "id": 56537,
+            "prompt": "[EventName=HOST/AltHost]En el siglo XIX, los solteros usaban esto en lugar de apps de citas para encontrarse"
+        },
+        {
+            "x": false,
+            "id": 56536,
+            "prompt": "[EventName=HOST/AltHost]Algo agradable que podría ser encontrado enterrado debajo de la madera del piso"
+        },
+        {
+            "x": false,
+            "id": 56535,
+            "prompt": "[EventName=HOST/AltHost]En mi garaje, tengo cientos de tarros llenos hasta el tope con <BLANK>\n"
+        },
+        {
+            "x": false,
+            "id": 56534,
+            "prompt": "[EventName=HOST/AltHost]El nombre menos intimidante para una banda de motociclistas"
+        },
+        {
+            "x": false,
+            "id": 56533,
+            "prompt": "[EventName=HOST/AltHost]El lugar donde colgarías una de esas pinturas espeluznantes con agujeros por los que puedes espiar"
+        },
+        {
+            "x": false,
+            "id": 56532,
+            "prompt": "[EventName=HOST/AltHost]La mejor excusa para darle a tu jefe cuando finges estar enfermo\n"
+        },
+        {
+            "x": false,
+            "id": 56531,
+            "prompt": "[EventName=HOST/AltHost]No hay nada mejor para beber antes de ir a la cama que un buen vaso tibio de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 56530,
+            "prompt": "[EventName=HOST/AltHost]Una de las cinco personas que te encontrarías... ¡EN EL INFIERNO!"
+        },
+        {
+            "x": false,
+            "id": 56528,
+            "prompt": "[EventName=HOST/AltHost]La caja torácica que armaría el mejor xilófono de huesos\n"
+        },
+        {
+            "x": false,
+            "id": 56524,
+            "prompt": "[EventName=HOST/AltHost]El ruido más aterrador que puede hacer el timbre de una puerta\n"
+        },
+        {
+            "x": false,
+            "id": 56523,
+            "prompt": "[EventName=HOST/AltHost]Lo que el cuervo de ese poema de Edgar Allen Poe DEBERÍA haber dicho\n"
+        },
+        {
+            "x": false,
+            "id": 56522,
+            "prompt": "[EventName=HOST/AltHost]Si debo morir antes de despertar, le rezo al Señor que tome mi <BLANK>\n"
+        },
+        {
+            "x": false,
+            "id": 56499,
+            "prompt": "[EventName=HOST/AltHost]Lo peor de ser criado por una familia de asesinos en serie que dirige un hotel donde asesina a los invitados en secreto"
+        },
+        {
+            "x": false,
+            "id": 56127,
+            "prompt": "[EventName=HOST/AltHost]Un buen regalo para darle a un asesino"
+        },
+        {
+            "x": false,
+            "id": 56126,
+            "prompt": "[EventName=HOST/AltHost]¿Un loco enunciado para ser preguntado en un juego de Quiplash, quizás?"
+        },
+        {
+            "x": false,
+            "id": 56073,
+            "prompt": "[EventName=HOST/AltHost]Lo peor que puedes encontrar dentro de tu cafetera"
+        },
+        {
+            "x": false,
+            "id": 56072,
+            "prompt": "[EventName=HOST/AltHost]SSS. Siempre Sé <BLANK>."
+        },
+        {
+            "x": false,
+            "id": 56071,
+            "prompt": "[EventName=HOST/AltHost]Un buen sustituto para el contacto humano"
+        },
+        {
+            "x": false,
+            "id": 56070,
+            "prompt": "[EventName=HOST/AltHost]La cosa que siempre me saca de un apuro"
+        },
+        {
+            "x": false,
+            "id": 56068,
+            "prompt": "[EventName=HOST/AltHost]No hables conmigo hasta que haya tenido mi <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 56062,
+            "prompt": "[EventName=HOST/AltHost]El nombre de la marca de autos que corre a base de los gritos de los malditos"
+        },
+        {
+            "x": false,
+            "id": 56061,
+            "prompt": "[EventName=HOST/AltHost]Cuando era niño, una bruja me maldijo con <BLANK> infinito"
+        },
+        {
+            "x": false,
+            "id": 56059,
+            "prompt": "[EventName=HOST/AltHost]Si el botones les da la mano, no quiere propina... en realidad quiere <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 56058,
+            "prompt": "[EventName=HOST/AltHost]La mejor coartada para un asesinato misterioso durante una cena"
+        },
+        {
+            "x": false,
+            "id": 56040,
+            "prompt": "[EventName=HOST/AltHost]En mis tiempos, hacían desodorantes de..."
+        },
+        {
+            "x": false,
+            "id": 56039,
+            "prompt": "[EventName=HOST/AltHost]Cómo ser un impresionante granjero"
+        },
+        {
+            "x": false,
+            "id": 56038,
+            "prompt": "[EventName=HOST/AltHost]El peor sabor de agua carbonatada"
+        },
+        {
+            "x": false,
+            "id": 56037,
+            "prompt": "[EventName=HOST/AltHost]Por qué las marionetas fueron “canceladas”"
+        },
+        {
+            "x": false,
+            "id": 56036,
+            "prompt": "[EventName=HOST/AltHost]Algo que nunca debe ser crujiente"
+        },
+        {
+            "x": false,
+            "id": 56027,
+            "prompt": "[EventName=HOST/AltHost]Una terrible realización que tienes en la tienda de contenedores"
+        },
+        {
+            "x": false,
+            "id": 56026,
+            "prompt": "[EventName=HOST/AltHost]No insertes esto en un sacapuntas"
+        },
+        {
+            "x": false,
+            "id": 56025,
+            "prompt": "[EventName=HOST/AltHost]Pintaron sobre esto en la Capilla Sixtina porque era demasiado espeluznante"
+        },
+        {
+            "x": false,
+            "id": 56004,
+            "prompt": "[EventName=HOST/AltHost]Cuando un rebaño de cuervos llega a tu cama, significa que..."
+        },
+        {
+            "x": false,
+            "id": 56003,
+            "prompt": "[EventName=HOST/AltHost]La pesadilla recurrente que tienen los delfines"
+        },
+        {
+            "x": false,
+            "id": 55946,
+            "prompt": "[EventName=HOST/AltHost]El consejo más desalentador para darle a un adolescente"
+        },
+        {
+            "x": false,
+            "id": 55945,
+            "prompt": "[EventName=HOST/AltHost]Lo peor que puedes escuchar emanando de tu armario"
+        },
+        {
+            "x": false,
+            "id": 55944,
+            "prompt": "[EventName=HOST/AltHost]La parte más difícil de ser inmortal"
+        },
+        {
+            "x": false,
+            "id": 55943,
+            "prompt": "[EventName=HOST/AltHost]Esta emocionante nueva salsa combina vino blanco, salsa verde y <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 55942,
+            "prompt": "[EventName=HOST/AltHost]El loro más antiguo del mundo murió aferrándose a esto"
+        },
+        {
+            "x": false,
+            "id": 55941,
+            "prompt": "[EventName=HOST/AltHost]Pueden ser usados como zapatos, en un apuro"
+        },
+        {
+            "x": false,
+            "id": 55934,
+            "prompt": "[EventName=HOST/AltHost]La mejor parte de invitar a un fantasma a tu fiesta de cumpleaños"
+        },
+        {
+            "x": false,
+            "id": 55932,
+            "prompt": "[EventName=HOST/AltHost]¿Por qué la abu y el abu nunca quieren hablar del ruido que proviene del sótano?"
+        },
+        {
+            "x": false,
+            "id": 55931,
+            "prompt": "[EventName=HOST/AltHost]Lo mejor que podría hacer una casa funeraria con tus restos"
+        },
+        {
+            "x": false,
+            "id": 55930,
+            "prompt": "[EventName=HOST/AltHost]¡Ayuda! ¡Me han atrapado! ¡¿Cómo escapo de esta habitación de hotel?!"
+        },
+        {
+            "x": false,
+            "id": 55929,
+            "prompt": "[EventName=HOST/AltHost]Un buen nombre para el restaurante familiar de un caníbal"
+        },
+        {
+            "x": false,
+            "id": 55928,
+            "prompt": "[EventName=HOST/AltHost]Lo más alarmante que se puede leer en una reseña en línea de un hotel"
+        },
+        {
+            "x": false,
+            "id": 55927,
+            "prompt": "[EventName=HOST/AltHost]Algo que tendría un anfitrión de game show en su tumba"
+        },
+        {
+            "x": false,
+            "id": 55926,
+            "prompt": "[EventName=HOST/AltHost]Un mejor nombre para la suite de luna de miel"
+        },
+        {
+            "x": false,
+            "id": 55783,
+            "prompt": "[EventName=HOST/AltHost]¡Olvídense de las mentas! Esto es lo que desearías que dejaran sobre tu almohada..."
+        },
+        {
+            "x": false,
+            "id": 55782,
+            "prompt": "[EventName=HOST/AltHost]Nunca nadie ha ordenado esto de servicio a la habitación"
+        },
+        {
+            "x": false,
+            "id": 55780,
+            "prompt": "[EventName=HOST/AltHost]El aterrador otro lado de un cartel de “No molestar”"
+        },
+        {
+            "x": false,
+            "id": 55779,
+            "prompt": "[EventName=HOST/AltHost]El título de la autobiografía de un caballo"
+        },
+        {
+            "x": false,
+            "id": 55737,
+            "prompt": "[EventName=HOST/AltHost]Esa defensa que un jurado siempre cree"
+        },
+        {
+            "x": false,
+            "id": 55733,
+            "prompt": "[EventName=HOST/AltHost]Un cartel más efectivo que “No molestar”"
+        },
+        {
+            "x": false,
+            "id": 55732,
+            "prompt": "[EventName=HOST/AltHost]Una clara señal de que no deberías tocar el bufé del desayuno complementario"
+        },
+        {
+            "x": false,
+            "id": 55731,
+            "prompt": "[EventName=HOST/AltHost]¡Olvídense de fantasmas y vampiros! Resulta que el verdadero monstruo es..."
+        },
+        {
+            "x": false,
+            "id": 55730,
+            "prompt": "[EventName=HOST/AltHost]El nombre de la próxima gran secuela de un videojuego"
+        },
+        {
+            "x": false,
+            "id": 55697,
+            "prompt": "[EventName=HOST/AltHost]Me encanta cuando el minibar está lleno de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 55694,
+            "prompt": "[EventName=HOST/AltHost]Una realización que tuviste en la bañera del hotel"
+        },
+        {
+            "x": false,
+            "id": 55693,
+            "prompt": "[EventName=HOST/AltHost]La peor forma de una cama en la suite de luna de miel"
+        },
+        {
+            "x": false,
+            "id": 55692,
+            "prompt": "[EventName=HOST/AltHost]Una clara señal de que tu cama está maldita"
+        },
+        {
+            "x": false,
+            "id": 55691,
+            "prompt": "[EventName=HOST/AltHost]Una situación social que es más dolorosa que la tortura"
+        },
+        {
+            "x": false,
+            "id": 55690,
+            "prompt": "[EventName=HOST/AltHost]El uso más bizarro para un balde de hielos"
+        },
+        {
+            "x": false,
+            "id": 55689,
+            "prompt": "[EventName=HOST/AltHost]El nombre perfecto para un hotel dirigido por los no-muertos"
+        },
+        {
+            "x": false,
+            "id": 55672,
+            "prompt": "[EventName=HOST/AltHost]La única cosa que le faltó a mi estancia en este hotel fue <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 55671,
+            "prompt": "[EventName=HOST/AltHost]Un mejor nombre para los fantasmas"
+        },
+        {
+            "x": false,
+            "id": 55670,
+            "prompt": "[EventName=HOST/AltHost]El mejor negocio familiar para heredar"
+        }
+    ],
+    "episodeid": 1405
+}

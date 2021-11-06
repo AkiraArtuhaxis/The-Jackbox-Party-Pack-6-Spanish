@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "De mi celular, mi aplicación favorita es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "La aplicación que probablemente conoce más sobre mí es...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Una aplicación que me olvidé de desinstalar de mi teléfono es...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "La aplicación que más uso en mi teléfono es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "The app I use most on my phone is...",
+            "t": "A",
+            "v": "832654_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Antes de entrar a una cena, te das cuenta de que no estás bien vestido para la ocasión. ¿Qué haces?",
+            "t": "A",
+            "v": "833816_1",
+            "n": "Prompt"
+        }
+    ]
+}

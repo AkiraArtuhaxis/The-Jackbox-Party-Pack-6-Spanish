@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Quién toma más siestas?",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Mira, alguien tiene que hacerlo.",
+            "t": "A",
+            "v": "802818_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Vuela, se libre!",
+            "t": "A",
+            "v": "802817_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Eres un perro que puede hablar. ¿Cuál es tu lista de demandas?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Haz una impresión de un gato mirando a un pez dorado.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién ha acumulado más millas de viajero frecuente?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Si pudieras atrapar una cosa en tu telaraña, ¿qué sería?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Supongo que te veré pronto en mi bañera.",
+            "t": "A",
+            "v": "802816_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué humano fuiste en una vida pasada?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Aww, quién es un buen perro!",
+            "t": "A",
+            "v": "802815_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién está completamente cómodo hablando sobre procesos asquerosos del cuerpo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Miau!",
+            "t": "A",
+            "v": "802814_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Si al principio no tienes éxito...",
+            "t": "A",
+            "v": "802813_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si un vecino apareciera súbitamente para saludar, ¿quién buscaría rápidamente un lugar para esconderse?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo va a reencarnar probablemente cada uno de ustedes después de su muerte?",
+            "t": "A",
+            "v": "802806_1",
+            "n": "Prompt"
+        }
+    ]
+}

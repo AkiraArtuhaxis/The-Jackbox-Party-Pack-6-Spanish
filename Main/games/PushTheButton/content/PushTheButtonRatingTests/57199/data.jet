@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Podría hablar otro idioma con fluidez en un año.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Soy más o menos bueno/buena para recordar los nombres.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Me encanta ejercitarme.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Podría dar a luz por mi cuenta, sin nadie más alrededor.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Podría dar a luz por mi cuenta, sin nadie más alrededor.",
+        "t": "A",
+        "v": "823885_1",
+        "n": "HumanPromptAudio"
+    }]
+}

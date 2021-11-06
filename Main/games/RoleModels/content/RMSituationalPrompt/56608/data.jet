@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Pero se ve bien en ti.",
+            "t": "A",
+            "v": "810181_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Este es el título de mi perfil de citas",
+            "t": "A",
+            "v": "810180_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Quién sería el mejor iniciando un incendio, pero haciéndolo parecer un accidente.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué crees que está haciendo tu gemelo secreto en este momento?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Explica la última vez que arruinaste algo que estaba perfectamente bien.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Por esto es que nunca debes reírte de los protectores de bolsillo",
+            "t": "A",
+            "v": "810179_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Qué es la peor cosa que puede encogerse accidentalmente.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿De DÓNDE vino eso?",
+            "t": "A",
+            "v": "810178_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Hazte a ti mismo lo más pequeño que te sea posible.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Mejor conocido como el ombligo",
+            "t": "A",
+            "v": "810177_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Cha-Ching!",
+            "t": "A",
+            "v": "810176_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué sería la peor cosa de la que reconocer que pertenece el tornillo perdido?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Haz tu mejor impresión del cambio rebotando en la secadora.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de estas cosas encontradas en la secadora son?",
+            "t": "A",
+            "v": "810169_1",
+            "n": "Prompt"
+        }
+    ]
+}

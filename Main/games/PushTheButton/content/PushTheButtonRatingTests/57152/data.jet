@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "El postre es la mejor parte de la comida.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Las golosinas de dulce son mejores que las saladas.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Soy un poco entusiasta con la comida.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "La tarta es mucho mejor que el pastel.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "La tarta es mucho mejor que el pastel.",
+        "t": "A",
+        "v": "822236_1",
+        "n": "HumanPromptAudio"
+    }]
+}

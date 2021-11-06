@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Si intentara que mis prisioneros se duerman usando el método Ferber, ¿qué debería hacer?",
+            "t": "A",
+            "v": "793653_1",
+            "n": "Q"
+        },
+        {
+            "s": "Uf, estoy con el sueño atrasado. Algunos de mis prisioneros se ponen molestos en el medio de la noche. Es agotador.",
+            "t": "A",
+            "v": "793660_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Just let them cry it out.] [Stay with them the first night and move closer to the exit every night thereafter.] [Go in, reassure them, and leave. Eventually, stop going in.] [Drive them around town until they fall asleep in their car seat.]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

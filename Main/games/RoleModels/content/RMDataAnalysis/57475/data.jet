@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Acabas de romper un jarrón enorme de pepinillos en una tienda. ¿Qué haces?",
+            "t": "A",
+            "v": "831506_1",
+            "n": "Prompt"
+        }
+    ]
+}

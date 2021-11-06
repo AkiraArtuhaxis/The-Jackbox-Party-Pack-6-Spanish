@@ -1,0 +1,146 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál fue tu primer amor de la infancia?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién sería el mejor animador deportivo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿A quién le iría mejor en <i>Bailando con las estrellas<\/i>?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué problema es uno por el cuál eres muy apasionado... pero nadie más lo es?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Buen trabajo Preppy",
+            "t": "A",
+            "v": "837063_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si construyeras un robot, ¿cómo lo llamarías?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué es lo peor que has hecho en la secundaria para intentar ser popular?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de <i>Salvado por la campana<\/i> es cada uno?",
+            "t": "A",
+            "v": "837056_1",
+            "n": "Prompt"
+        }
+    ]
+}

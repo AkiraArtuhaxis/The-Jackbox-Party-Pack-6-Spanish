@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Qué es lo primero que miras cuando estás averiguando para comprar un auto nuevo?",
+            "t": "A",
+            "v": "831368_1",
+            "n": "Prompt"
+        }
+    ]
+}

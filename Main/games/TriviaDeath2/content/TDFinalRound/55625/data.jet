@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Utensilios de pastelería",
+            "t": "A",
+            "v": "792851_1",
+            "n": "Q"
+        }
+    ]
+}

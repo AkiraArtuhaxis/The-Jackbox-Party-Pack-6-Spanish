@@ -1,0 +1,150 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Pero, y qué pasa con los zapatos?",
+            "t": "A",
+            "v": "827654_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¡Escribe una mentira muy creíble sobre ti!",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué delito cometiste a los 17 años?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién preguntaría si puede usar un cupón para comprar el bebé?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es un voto matrimonial que nunca realizarías?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿Prometes aceptar este rol para siempre?",
+            "t": "A",
+            "v": "827653_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Este rol no tiene errores",
+            "t": "A",
+            "v": "827652_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién tiene más ropa de vacaciones en su armario?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Uuuu alguien creció rápido.",
+            "t": "A",
+            "v": "827651_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡...pero no en mi corazón.!",
+            "t": "A",
+            "v": "827650_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién *probablemente* tenga la cama más ordenada?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué título de película original de Lifetime describe tu vida?",
+            "t": "A",
+            "v": "827643_1",
+            "n": "Prompt"
+        }
+    ]
+}

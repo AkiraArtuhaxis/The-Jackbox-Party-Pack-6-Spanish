@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "les dirías a todos",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "tomarías fotos",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "irrumpirías en su casa",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Unas aves están en pánico porque sus bebés están atrapados en la pajarera. Tú...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Unas aves están en pánico porque sus bebés están atrapados en la pajarera. Tú...",
+            "t": "A",
+            "v": "835047_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

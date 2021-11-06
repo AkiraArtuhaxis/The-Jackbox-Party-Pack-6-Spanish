@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "una de las cinco especies más grandes de los grandes felinos en el mundo",
+            "n": "PromptText"
+        },
+        {
+            "s": "una de las cinco especies más grandes de los grandes felinos en el mundo",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}

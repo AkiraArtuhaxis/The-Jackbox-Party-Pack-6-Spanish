@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "te rehúsas y te vas",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "aceptas y te quedas",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "aceptas y te vas",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Una dama te pide que cuides a su perro gruñendo mientras ella usa el baño. Entonces tú...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Una dama te pide que cuides a su perro gruñendo mientras ella usa el baño. Entonces tú...",
+            "t": "A",
+            "v": "835083_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

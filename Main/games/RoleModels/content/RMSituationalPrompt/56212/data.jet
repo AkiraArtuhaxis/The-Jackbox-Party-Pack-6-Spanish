@@ -1,0 +1,157 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Oh, estás tan cerca del viernes!",
+            "t": "A",
+            "v": "803664_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "No hay mejor día de la semana para tener al lado que tú",
+            "t": "A",
+            "v": "803663_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es más probable que esté en un bar u otro establecimiento ruidoso antes de las 6 PM en un viernes?",
+            "t": "A",
+            "v": "803666_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Miércoles, estas atrapado entre el Martes y el Jueves. ¿Cuál es el sándwich más aburrido que puedas pensar?",
+            "t": "A",
+            "v": "822089_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Tienes 24 horas libres para ti solo, ¿qué haces con ellas?",
+            "t": "A",
+            "v": "822088_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Disfruta de la playa.",
+            "t": "A",
+            "v": "803662_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién no tiene problemas con dormir hasta el mediodía un domingo?",
+            "t": "A",
+            "v": "822091_2",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿¿Algún otro se le está haciendo difícil el lunes??",
+            "t": "A",
+            "v": "803661_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Por qué es mejor el jueves que el viernes? Presenta tu argumento.",
+            "t": "A",
+            "v": "822090_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Disfruta de este momento de descanso, te lo has ganado.",
+            "t": "A",
+            "v": "803660_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Los animaría a celebrar, pero estoy segura de que ya se me adelantaron.",
+            "t": "A",
+            "v": "803659_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es tu primer pensamiento cuando te despiertas un lunes?",
+            "t": "A",
+            "v": "803665_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué día de la semana mejor representa a cada uno de ustedes?",
+            "t": "A",
+            "v": "803652_1",
+            "n": "Prompt"
+        }
+    ]
+}

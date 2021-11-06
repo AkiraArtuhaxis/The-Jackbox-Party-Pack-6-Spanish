@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál sería tu plan si compitieras en los Juegos del Hambre?",
+            "t": "A",
+            "v": "829582_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Eres el portero de un hotel embrujado. Estás atrapado por la nieve. ¿Cómo pasas tu tiempo?",
+            "t": "A",
+            "v": "830632_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si estuvieras en un reality de MTV, ¿cuál sería tu apodo en la casa?",
+            "t": "A",
+            "v": "829660_1",
+            "n": "Prompt"
+        }
+    ]
+}

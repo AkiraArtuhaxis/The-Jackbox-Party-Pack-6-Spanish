@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "El policía te da permiso para encender fuegos artificiales donde quieras... ¿dónde los enciendes?",
+            "t": "A",
+            "v": "829023_1",
+            "n": "Prompt"
+        }
+    ]
+}

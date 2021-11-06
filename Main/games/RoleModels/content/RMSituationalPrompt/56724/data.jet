@@ -1,0 +1,165 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es una conspiración de la que nadie jamás ha oído?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué clase de perro es el MEJOR PERRO?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Demuestra a la habitación como se sube a un Uber.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es lo más loco que se puede envolver en tocino?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿La licencia de conducir de quién va a expirar primero?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Por qué los perros son mejores que los niños humanos?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si el vapeo competitivo existiera, ¿cuál sería uno de los eventos?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Describe tu sándwich frigano perfecto.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué elección de vida muy específica son?",
+            "t": "A",
+            "v": "812991_1",
+            "n": "Prompt"
+        }
+    ]
+}

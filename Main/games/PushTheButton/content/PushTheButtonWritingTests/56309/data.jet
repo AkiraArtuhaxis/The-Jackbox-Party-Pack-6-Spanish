@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Alguien de quien solía estar enamorado/enamorada es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Mi monstruo de película favorito es...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "La peor persona actualmente con vida es...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Alguien que encuentro atractivo/atractiva es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Alguien que encuentro atractivo/atractiva es...",
+            "t": "A",
+            "v": "805471_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

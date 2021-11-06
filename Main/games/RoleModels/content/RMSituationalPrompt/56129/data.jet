@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Nadie entiende lo importante que eres",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Voy a dar like y suscribirme",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "En sus marcas, listos... ¡Hagan una sentadilla!",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién crees que tiene más seguidores?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es tu sobrenombre genial para tus músculos?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Comparte tus bendiciones....¿Cuál es la cosa más afortunada que te ocurrió esta semana?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Tengo una sensación de viernes que estás en lo correcto",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Están aquí para pasar un buen rato",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¡y te ves genial!",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué haría con una segunda vida?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Tu vida bendecida continúa",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién tiene el mejor cabello hoy?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "De acuerdo, estamos en la mitad de la semana y necesito opiniones... ¿Qué es lo más inteligente que podrías postear en las redes sociales?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué hashtag clásico eres?",
+            "t": "A",
+            "v": "802299_1",
+            "n": "Prompt"
+        }
+    ]
+}

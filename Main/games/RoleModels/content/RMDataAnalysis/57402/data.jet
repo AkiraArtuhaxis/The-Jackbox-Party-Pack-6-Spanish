@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "En tu oficina quieren hacerle una broma a tu jefe. ¿Qué aportas en la lluvia de ideas?",
+            "t": "A",
+            "v": "829998_1",
+            "n": "Prompt"
+        }
+    ]
+}

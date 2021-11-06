@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál es el órgano más pesado del cuerpo humano?",
+            "t": "A",
+            "v": "779469_2",
+            "n": "Q"
+        },
+        {
+            "s": "Entonces, estoy empacando para un viaje y me preocupa que mi equipaje sobrepase las restricciones de peso.",
+            "t": "A",
+            "v": "779476_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[the heart] [the stomach] [the liver] [the brain]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

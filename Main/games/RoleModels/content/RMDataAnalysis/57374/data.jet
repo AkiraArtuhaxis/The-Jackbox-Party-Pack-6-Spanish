@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Estás a punto de quedar varado en una isla desierta. Solo puedes llevar un objeto. ¿Qué eliges?",
+            "t": "A",
+            "v": "829257_1",
+            "n": "Prompt"
+        }
+    ]
+}

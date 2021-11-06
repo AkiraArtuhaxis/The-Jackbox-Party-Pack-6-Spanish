@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "$0",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "$50",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "100",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Dos matones prometen no darte una paliza si les das $100 dólares. Tú inmediatamente les das...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Dos matones prometen no darte una paliza si les das $100 dólares. Tú inmediatamente les das...",
+            "t": "A",
+            "v": "827594_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

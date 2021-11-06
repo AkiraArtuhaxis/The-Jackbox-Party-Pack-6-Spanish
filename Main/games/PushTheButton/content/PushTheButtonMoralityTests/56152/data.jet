@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "quedártelo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "entregarlo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "decirle a tu abuela",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un cajero automático te da el doble de la cantidad de dinero que solicitaste. Lo que deberías hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un cajero automático te da el doble de la cantidad de dinero que solicitaste. Lo que deberías hacer es...",
+            "t": "A",
+            "v": "802755_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

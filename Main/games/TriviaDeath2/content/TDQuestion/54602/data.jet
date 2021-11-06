@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cómo se llama ese pez que nada a través de tu meato urinario?",
+            "t": "A",
+            "v": "775649_1",
+            "n": "Q"
+        },
+        {
+            "s": "Saben, lo mejor de la vida es que está llena de sorpresas.",
+            "t": "A",
+            "v": "775656_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[zungaro] [capybara] [neon tetra] [candiru]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

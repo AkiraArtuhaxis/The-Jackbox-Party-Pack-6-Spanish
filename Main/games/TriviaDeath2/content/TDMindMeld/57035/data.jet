@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "el título de una de las primeras 7 películas de <i>Rápidos y furiosos<\/i>",
+            "n": "PromptText"
+        },
+        {
+            "s": "el título de una de las siete primeras películas de <i>Rápidos y Furiosos<\/i>",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Estás en llamas! Oh...¡lo siento!",
+            "t": "A",
+            "v": "802335_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Te gustan mucho los libros para un monstruo.",
+            "t": "A",
+            "v": "802334_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si las personas en esta habitación lucharan hasta que quedara una viva... ¿quién ganaría?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Sé que King Kong es una gorila... pero danos tu mejor imitación de un mono.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Me estás volviendo loco!",
+            "t": "A",
+            "v": "802333_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué susurrarías en la oreja de alguien para volverlo loco?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Oooo! ¡Tan misterioso!",
+            "t": "A",
+            "v": "802332_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién sobreviviría más tiempo en una isla desierta?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Eres la octava maravilla del mundo!",
+            "t": "A",
+            "v": "802331_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Oh no! Dicen que tienes que irte",
+            "t": "A",
+            "v": "802330_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué sería mucho mejor si añadieras malvaviscos?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "El oro parece incómodo... así que ¿con qué tesoro llenarías tu cueva?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué monstruo gigante es cada uno?",
+            "t": "A",
+            "v": "802323_1",
+            "n": "Prompt"
+        }
+    ]
+}

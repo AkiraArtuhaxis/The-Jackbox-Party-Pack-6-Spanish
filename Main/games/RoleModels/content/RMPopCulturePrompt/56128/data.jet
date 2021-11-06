@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "La chilindrina no tiene nada contra ti.",
+            "t": "A",
+            "v": "802285_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Sigue los billetes, no los deseos.",
+            "t": "A",
+            "v": "802284_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Bienvenido al programa \"El Gran Pastelero Británico\". La temática de esta ronda es Confecciones Patrióticas. Pasteleros, por favor describan sus creaciones.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Siendo honesta, hay una manera muy clara de romper este empate. Entre estos dos jugadores, ¿quién sobreviviría más tiempo en una isla desierta y salvaje?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Estos dos jugadores están compitiendo por el rol de Amas de casa reales. ¿Quién es más probable que se vaya furioso de la habitación durante una pelea?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "El dinero no puede comprarte clase.",
+            "t": "A",
+            "v": "802283_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Si estos jugadores estuvieran en ''Negociando con tiburones'', ¿a quién financiarías?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Eso es un buen horneado.",
+            "t": "A",
+            "v": "802282_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Jugadores, han empatado en Princesitas. Para el desempate, deben hacer su mejor imitación de un niño o niña bailarín.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Bueno, parece que tenemos una galleta difícil de roer aquí.",
+            "t": "A",
+            "v": "802281_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Espero que aceptes esta rosa.",
+            "t": "A",
+            "v": "802280_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué comida podrías armar usando solo las cosas que se encuentran en esta habitación?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Ambos están compitiendo en El soltero más codiciado. Pero solo tengo una rosa... si fueran el Soltero, ¿con quién tendrían una cita a solas?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué reality show mejor combina con cada uno de ustedes?",
+            "t": "A",
+            "v": "802273_2",
+            "n": "Prompt"
+        }
+    ]
+}

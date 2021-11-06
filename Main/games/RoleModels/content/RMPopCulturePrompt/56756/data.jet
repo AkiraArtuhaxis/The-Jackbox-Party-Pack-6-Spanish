@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Nunca voy a dejarte triste.",
+            "t": "A",
+            "v": "813781_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Estás intentando que te contraten en un bar de karaoke?",
+            "t": "A",
+            "v": "813780_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es el mejor lugar para estar solo?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién está relajado ante todo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Por favor, realiza un giro lleno de alegría como si el sol brillara y llevaras muchas bufandas.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿A quién le darías la otra mitad de tu collar de mejores amigos?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Un clásico problemático.",
+            "t": "A",
+            "v": "813779_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Confía en mí.",
+            "t": "A",
+            "v": "813778_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es tu bebida favorita?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¿Se acaban de atenuar las luces?",
+            "t": "A",
+            "v": "813777_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Corre!",
+            "t": "A",
+            "v": "813776_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién está logrando un mejor balance entre vivir y trabajar?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿A quién describirías como un “caminante agresivo”?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué canción popular de karaoke es cada uno?",
+            "t": "A",
+            "v": "813769_1",
+            "n": "Prompt"
+        }
+    ]
+}

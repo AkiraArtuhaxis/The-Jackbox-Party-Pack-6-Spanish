@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Rompiendo nueces, del mejor modo posible.",
+            "t": "A",
+            "v": "802632_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eres intenso.",
+            "t": "A",
+            "v": "802631_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es el mejor snack para la hora de dormir?",
+            "t": "A",
+            "v": "821149_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿En quién confiarías como testigo en un tribunal?",
+            "t": "A",
+            "v": "821148_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién da los regalos más pensados y personalizados para las vacaciones?",
+            "t": "A",
+            "v": "821151_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Como el dios del trueno matutino, ¿cuál es tu grito de batalla para las mañanas de la semana?",
+            "t": "A",
+            "v": "821150_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "A darle.",
+            "t": "A",
+            "v": "802630_2",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Muéstrale a todos cómo bailar cuando el aire huele a pachulí y las canciones tienen ritmo y frescura.",
+            "t": "A",
+            "v": "821153_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Perdón, ¿te desperté?",
+            "t": "A",
+            "v": "802629_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más probable que empiece a seguir una banda y no vuelva a ser visto?",
+            "t": "A",
+            "v": "821152_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Auténtico.",
+            "t": "A",
+            "v": "802628_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Ziiiiinnngggg!",
+            "t": "A",
+            "v": "802627_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Demuéstrale a todos la forma más desconcertante de dormir.",
+            "t": "A",
+            "v": "821154_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién dice los insultos más picantes?",
+            "t": "A",
+            "v": "802633_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué té son?",
+            "t": "A",
+            "v": "802620_1",
+            "n": "Prompt"
+        }
+    ]
+}

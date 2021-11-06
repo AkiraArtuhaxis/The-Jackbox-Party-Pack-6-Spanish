@@ -1,0 +1,168 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Quién se vuelve más hermoso cuanto más le miras?",
+            "t": "A",
+            "v": "818140_1",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "¡Ser un artista incomprendido es difícil!",
+            "t": "A",
+            "v": "804810_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Cálmate.",
+            "t": "A",
+            "v": "804809_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué estaba o estaría en la pared de tu dormitorio?",
+            "t": "A",
+            "v": "811144_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué te gustaría para tu última cena?",
+            "t": "A",
+            "v": "811143_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "De acuerdo... Oigamos tu grito más espeluznante.",
+            "t": "A",
+            "v": "811146_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Haz tu mejor acento holandés.",
+            "t": "A",
+            "v": "811145_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "El mundo es tu ostra",
+            "t": "A",
+            "v": "804808_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Ahí Van Gogh todo!",
+            "t": "A",
+            "v": "804807_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién tiene mejor gusto en el arte?",
+            "t": "A",
+            "v": "811147_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡La cena va por tu cuenta!",
+            "t": "A",
+            "v": "804806_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Eres más pequeño de lo que pensaba",
+            "t": "A",
+            "v": "804805_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Muéstrale a la habitación tu sonrisa más enigmática.",
+            "t": "A",
+            "v": "811142_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué obra de arte clásico son?",
+            "t": "A",
+            "v": "804798_1",
+            "n": "Prompt"
+        }
+    ]
+}

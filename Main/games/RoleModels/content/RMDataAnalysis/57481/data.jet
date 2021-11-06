@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Estás a punto de entrar a la cúpula del trueno. Te dicen que te vistas intimidante. ¿Cómo te vistes?",
+            "t": "A",
+            "v": "831634_1",
+            "n": "Prompt"
+        }
+    ]
+}

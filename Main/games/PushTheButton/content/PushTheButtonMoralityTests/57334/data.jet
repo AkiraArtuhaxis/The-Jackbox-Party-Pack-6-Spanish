@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "animarlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "mantenerte callado y observar",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "inmediatamente irte de ahí",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu hijo está arruinando el show de talentos del jardín de niños. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu hijo está arruinando el show de talentos del jardín de niños. Lo que debes hacer es...",
+            "t": "A",
+            "v": "827722_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

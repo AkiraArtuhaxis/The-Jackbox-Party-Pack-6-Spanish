@@ -1,0 +1,176 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Por qué tan serio?",
+            "t": "A",
+            "v": "810238_3",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Un adicto a la adrenalina aquí!",
+            "t": "A",
+            "v": "810237_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Muestra a la sala cómo te tomarías un selfie sin camiseta. (Pero déjate puesta tu camiseta.)",
+            "t": "A",
+            "v": "810241_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Describe tu régimen de ejercicio.",
+            "t": "A",
+            "v": "810240_2",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Cuenta un chiste, pero asegúrate que sea TURBIO.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Describe lo que un pez diría sobre ti como posible cita.",
+            "t": "A",
+            "v": "810242_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿¡Eres el lindo!?",
+            "t": "A",
+            "v": "810236_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cómo conoces la novia y al novio?",
+            "t": "A",
+            "v": "810245_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Demasiado ocupado para posar.",
+            "t": "A",
+            "v": "810235_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Dinos dónde estabas estacionado cuando tomaste la selfi.",
+            "t": "A",
+            "v": "810244_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Atrapa mi corazón tal como atrapaste ese pez.",
+            "t": "A",
+            "v": "810234_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál fue tu última gran aventura?",
+            "t": "A",
+            "v": "810246_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es el lugar más increíble para ir en una cita en cosplay del Guasón?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de estos tipos en Tinder son?",
+            "t": "A",
+            "v": "810226_1",
+            "n": "Prompt"
+        }
+    ]
+}

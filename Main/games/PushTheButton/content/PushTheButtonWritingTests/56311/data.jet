@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Una pregunta que no me deja dormir por las noches es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Una pregunta que podrías usar para coquetear es...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Una pregunta que tu médico podría hacerte es...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Una pregunta que le harías a Dios es...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "Una buena pregunta para hacer en una entrevista de trabajo es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Una buena pregunta para hacer en una entrevista de trabajo es...",
+            "t": "A",
+            "v": "805495_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

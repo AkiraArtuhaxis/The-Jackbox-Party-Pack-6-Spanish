@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si hubiera un programa de juegos basado en un desafío físico que siempre dominarías. ¿Cuál sería?",
+            "t": "A",
+            "v": "830128_1",
+            "n": "Prompt"
+        }
+    ]
+}

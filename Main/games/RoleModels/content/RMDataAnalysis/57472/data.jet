@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Godzilla está atacando tu ciudad. ¿Qué haces?",
+            "t": "A",
+            "v": "831456_1",
+            "n": "Prompt"
+        }
+    ]
+}

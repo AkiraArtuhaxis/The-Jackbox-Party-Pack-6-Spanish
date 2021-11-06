@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿De qué continente origina la papa?",
+            "t": "A",
+            "v": "797950_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según nuestras pruebas de ADN, el asesino no sabe NADA sobre la domesticación de plantas. Así que si eres inocente, dime...",
+            "t": "A",
+            "v": "797957_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Europe] [Africa] [South America] [North America]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

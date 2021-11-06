@@ -1,0 +1,153 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "No te metas con esta perfección pura. Te podría enfermar.",
+            "t": "A",
+            "v": "807944_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Sí, hombre. Eso es genial.",
+            "t": "A",
+            "v": "807943_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es la cosa más feliz que puedes imaginar?",
+            "t": "A",
+            "v": "807946_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué película cursi te encanta?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es lo más distraído que has hecho últimamente?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿A quién no le gusta el queso?",
+            "t": "A",
+            "v": "807942_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿A qué jugador no podrías derrotar en un combate de boxeo?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Ubícate.",
+            "t": "A",
+            "v": "807941_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién sabe como hornear un huevo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Un huevo duro pero leal.",
+            "t": "A",
+            "v": "807940_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Hola rayo de sol.",
+            "t": "A",
+            "v": "807939_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿A quién llamarías para sacarte de la cárcel?",
+            "t": "A",
+            "v": "807945_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué manera de hacer un huevo son cada uno de ustedes?",
+            "t": "A",
+            "v": "807932_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡A surfear!",
+            "t": "A",
+            "v": "803920_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Te ves MUY bien en una sudadera.",
+            "t": "A",
+            "v": "803919_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "En un trabajo en grupo, ¿quién terminaría haciendo la mayor parte del trabajo?",
+            "t": "A",
+            "v": "810579_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es tu plan para dominar el mundo?",
+            "t": "A",
+            "v": "810582_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "En lugar de “¡Es hora de pelear!”, ¿qué gritarías antes de una pelea?",
+            "t": "A",
+            "v": "810581_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Solido como roca!",
+            "t": "A",
+            "v": "803918_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Sé que su nombre es H.E.R.B.I.E., nerds.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Estás que ardes!",
+            "t": "A",
+            "v": "803917_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más glamoroso?",
+            "t": "A",
+            "v": "810583_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Te veo!",
+            "t": "A",
+            "v": "803916_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién es más probable que accidentalmente inicie un incendio?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Creo que está rebuscado, pero está bien.",
+            "t": "A",
+            "v": "803915_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es tu IQ? Si no estás seguro, danos un estimado. El grupo decidirá si estás mintiendo.",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Demuestra que tan flexible eres",
+            "t": "A",
+            "v": "810577_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de los 4 fantásticos combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "803908_1",
+            "n": "Prompt"
+        }
+    ]
+}

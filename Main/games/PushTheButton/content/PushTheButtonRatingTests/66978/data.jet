@@ -1,0 +1,64 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Disfruto de un buen buffet todo-lo-que-puedas-comer.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Prefiero ver películas en el cine.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "No creo en los horóscopos.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Estoy listo/lista para la llegada de los autos que se manejan solos.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "Sé a ciencia cierta que los juguetes cobran vida por la noche y acarician tu mejilla mientras duermes.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Sé a ciencia cierta que los juguetes cobran vida por la noche y acarician tu mejilla mientras duermes.",
+        "t": "A",
+        "v": "890492_2",
+        "n": "HumanPromptAudio"
+    }]
+}

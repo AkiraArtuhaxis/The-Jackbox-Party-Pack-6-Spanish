@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Quién escribió <i>El secreto<\/i>?",
+            "t": "A",
+            "v": "780509_3",
+            "n": "Q"
+        },
+        {
+            "s": "Cierra los ojos y ve a ti mismo respondiendo la siguiente pregunta bien.",
+            "t": "A",
+            "v": "780516_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Rhonda Byrne] [Deepak Chopra] [Louise Hay] [Robin Sharma]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

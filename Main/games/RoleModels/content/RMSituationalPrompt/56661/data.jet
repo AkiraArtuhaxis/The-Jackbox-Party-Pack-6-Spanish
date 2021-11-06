@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Vete de aquí.",
+            "t": "A",
+            "v": "811616_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Oh Dios.",
+            "t": "A",
+            "v": "811615_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Por favor, finge estar en una llamada telefónica y demuestra como escuchas agresivamente.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién se subiría a un ascensor concurrido y diría en voz alta “Lunes, verdad”?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién se quedó hasta más tarde anoche?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué puedo darte para que dejes de llorar?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Tu crees que eres muy interesante.",
+            "t": "A",
+            "v": "811614_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién habla más fuerte?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Te daré un minuto.",
+            "t": "A",
+            "v": "811613_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién se pierde en su propia casa?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Qué inesperado.",
+            "t": "A",
+            "v": "811612_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Bip bip.",
+            "t": "A",
+            "v": "811611_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Luego de sentarte adelante, y sin preguntar al grupo, ¿qué canción reproduces inmediatamente en la radio?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién te llevaría a algún lado de la manera más rápida?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personas de este viaje compartido son?",
+            "t": "A",
+            "v": "811604_1",
+            "n": "Prompt"
+        }
+    ]
+}

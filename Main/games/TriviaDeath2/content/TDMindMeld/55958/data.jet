@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "una de las ocho razas de perro más populares en American Kennel Club",
+            "n": "PromptText"
+        },
+        {
+            "s": "una de las ocho razas de perro más populares en American Kennel Club",
+            "t": "A",
+            "v": "798992_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

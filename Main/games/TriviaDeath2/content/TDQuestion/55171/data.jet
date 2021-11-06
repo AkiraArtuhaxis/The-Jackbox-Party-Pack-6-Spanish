@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Quién es famoso por la frase “Solo sé que no sé nada”?",
+            "t": "A",
+            "v": "781897_2",
+            "n": "Q"
+        },
+        {
+            "s": "Tengo un calendario en mi escritorio con citas depresivas diarias. Aquí va uno...",
+            "t": "A",
+            "v": "781904_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Socrates ] [Immanuel Kant] [Friedrich Nietzsche] [Jaden Smith]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

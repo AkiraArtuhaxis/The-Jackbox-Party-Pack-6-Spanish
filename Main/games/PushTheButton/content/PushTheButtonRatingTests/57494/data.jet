@@ -1,0 +1,124 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty8"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty7"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt7"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt8"
+    }, {
+        "t": "S",
+        "v": "Amo a Taylor Swift.",
+        "n": "AlienPromptText8"
+    }, {
+        "t": "S",
+        "v": "Kanye West es el mejor músico de los últimos 100 años.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Kanye West me fastidia.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "La mayoría de la música popular es basura.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "Sigo a Kanye West en Twitter.",
+        "n": "AlienPromptText6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me encanta el Hip-Hop.",
+        "n": "AlienPromptText7"
+    }, {
+        "t": "S",
+        "v": "Kanye West es incomprendido.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Las Kardashians son tesoros Americanos.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "No soporto a Kanye West pero me gusta su música.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Las Kardashians me fastidian.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Kanye West es el mejor músico de los últimos 100 años.",
+        "t": "A",
+        "v": "831946_1",
+        "n": "HumanPromptAudio"
+    }]
+}

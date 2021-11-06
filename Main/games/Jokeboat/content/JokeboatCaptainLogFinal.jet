@@ -1,0 +1,262 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log": "Es curioso cómo todos los barcos en los que estoy eventualmente se hunden. Raro.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log2", 
+            "id": 2, 
+            "log": "Mientras nos hundimos en el océano, me siento un poco tonto de haberme duchado esta mañana.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log3", 
+            "id": 3, 
+            "log": "Tal vez no debería haber prendido una vela al lado de la vela.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log4", 
+            "id": 4, 
+            "log": "Tengo que ser honesto, me siento algo estresado.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log5", 
+            "id": 5, 
+            "log": "Me doy permiso a mi mismo de orinarme los pantalones.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log6", 
+            "id": 6, 
+            "log": "Espero que esto no aparezca en mi informe de rendimiento.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log7", 
+            "id": 7, 
+            "log": "Malas noticias: el barco se hunde. Buenas noticias: ¡NO hay fila para el tejo!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log8", 
+            "id": 8, 
+            "log": "No quiero asustar a los pasajeros, así que esto lo he designado Alerta Amarilla.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log9", 
+            "id": 9, 
+            "log": "No llores porque se acabó. Llora porque el barco se hunde.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log10", 
+            "id": 10, 
+            "log": "Ahora voy a literalmente tocar fondo.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log11", 
+            "id": 11, 
+            "log": "Recordatorio: ¡Dile adiós a todos los pasajeros para que los sobrevivientes dejen una buena reseña!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log12", 
+            "id": 12, 
+            "log": "Creo que nadie escuchó mi charla de seguridad el primer día...", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log13", 
+            "id": 13, 
+            "log": "Tengo miedo de quedarme varado en el mar con la gente porque mis muslos son como pechugas de pollo.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log14", 
+            "id": 14, 
+            "log": "Estoy ahondando en este momento. ¡JA! AHONDANDO. Aún lo tienes, Chuck.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log15", 
+            "id": 15, 
+            "log": "Se siente raro decirle a la gente que también es mi cumpleaños.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log16", 
+            "id": 16, 
+            "log": "Honestamente, el barco estrellándose contra el fondo del océano NO fue la peor parte de mi día.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log17", 
+            "id": 17, 
+            "log": "Qué bueno que ya perdí todas mis pertenencias personales. ¡NADA QUE PERDER, NENA! Me siento agradecido.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log18", 
+            "id": 18, 
+            "log": "Ugh. Solo sé que terminaré en un trozo de madera flotante con ese pasajero muy ruidoso.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log19", 
+            "id": 19, 
+            "log": "Ahora realmente me arrepiento de comerme ese segundo burrito.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log20", 
+            "id": 20, 
+            "log": "Parece que mañana tengo algo de qué hablar en terapia.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log21", 
+            "id": 21, 
+            "log": "Le he estado diciendo a la gente que esto es solo un simulacro muy realista. No creo que esté funcionando.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log22", 
+            "id": 22, 
+            "log": "No me caía bien casi nadie de los pasajeros de todas formas. Borrón y cuenta nueva.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log23", 
+            "id": 23, 
+            "log": "Me siento inspirado por la incansable motivación de las personas que todavía hacen ejercicio en el gimnasio.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log24", 
+            "id": 24, 
+            "log": "Si la cosa se pone turbia, así escaparé vivo de este bote.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log25", 
+            "id": 25, 
+            "log": "Empiezo a arrepentirme de esos botes salvavidas decorativos\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log26", 
+            "id": 26, 
+            "log": "Cuando una puerta se cierra, se abre otra\u2026 Pero esa habitación estaba llena de agua, ¡así que ten cuidado!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log27", 
+            "id": 27, 
+            "log": "Respeto al hombre que le da sin asco a lo que queda del buffet.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log28", 
+            "id": 28, 
+            "log": "¡Alguien en el agua se tiró una gran burbuja de pedos! Todos nos reíamos hasta que el mástil se derrumbó.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log29", 
+            "id": 29, 
+            "log": "Si los delfines no fueran tan idiotas, ¡nos estarían salvando ahora mismo!", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log30", 
+            "id": 30, 
+            "log": "¿Mi opinión? La culpa la tiene esa persona que no se calla la boca.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log31", 
+            "id": 31, 
+            "log": "Buenop. Estoy bastante seguro de que la caja negra captó tocando We Didn\u2019t Start the Fire.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log32", 
+            "id": 32, 
+            "log": "Irónicamente, tendré que cancelar la presentación de la banda de covers Los Inhundibles.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log33", 
+            "id": 33, 
+            "log": "Cielo rojo por la noche, los marineros no tienen reproche\u2026 espera, espera, esas son llamas. No importa.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log34", 
+            "id": 34, 
+            "log": "Es hora de usar el GPS de la naturaleza: ¡las estrellas! Oh no. ¡Hay muchas! ¿¡¿Dónde estamos?!?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log35 ", 
+            "id": 35, 
+            "log": "No tengo mucho tiempo para decidir cuáles son mis 3 libros favoritos sobre islas desiertas.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log36", 
+            "id": 36, 
+            "log": "Traté de convencer a la gente de que un día recordaremos esto y nos reiremos a carcajadas. No funcionó.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log37", 
+            "id": 37, 
+            "log": "¡Es un milagro! ¡¡Un montón de buitres han venido a salvarnos!!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log38", 
+            "id": 38, 
+            "log": "En momentos como este me gusta recordar el dicho: \u201c¡Cuando la vida te dé limones, úsalos como un dispositivo de flotación!\"", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log39", 
+            "id": 39, 
+            "log": "Oh no. ¿Alguien les avisó a las personas que estaban en los tanques de privación sensorial en la cubierta 9?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log40", 
+            "id": 40, 
+            "log": "Pude detener el caos señalando y gritando: \u201c¡Miren, una ballena!\u201d Debería darme otros 5 minutos\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log41", 
+            "id": 41, 
+            "log": "Lifehack: Que te reviente una tubería en la cara para ocultar el hecho de que estás llorando.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log42", 
+            "id": 42, 
+            "log": "No sé por qué todo el mundo me está mirando. Mi turno terminó hace 10 minutos.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log43", 
+            "id": 43, 
+            "log": "Recordatorio: en tiempos desesperados, aún tómate un tiempo para oler las rosas mientras flotan con el resto de los escombros del comedor.", 
+            "x": false
+        }
+    ]
+}

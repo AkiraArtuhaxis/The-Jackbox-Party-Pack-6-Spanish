@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "La locación de mi primer beso fue...",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Mi destino de vacaciones ideal es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "La ciudad con la arquitectura más hermosa es...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Una ciudad de la que todos se burlan es...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Mi lugar de ficción favorito es...",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de mi ciudad natal es...",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Un país en el que nunca he estado es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "El peor lugar para quedarse atrapado/atrapada sería...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "El lugar más probable en el que me encuentre con un/una ex es...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "El país con los monumentos naturales más bellos es...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Mi destino de vacaciones ideal es...",
+            "t": "A",
+            "v": "803363_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

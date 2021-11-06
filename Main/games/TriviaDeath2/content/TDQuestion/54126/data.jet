@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Parece que es una mezcla entre rata y mapache que solo sale en la noche, así que debe ser el... ¿qué?",
+            "t": "A",
+            "v": "770840_1",
+            "n": "Q"
+        },
+        {
+            "s": "Recientemente fui a Madagascar, lo sé, qué humilde; y creo que algo me siguió hasta casa...",
+            "t": "A",
+            "v": "770847_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[wah-wah] [hee-hee] [nay-nay] [aye-aye]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

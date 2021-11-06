@@ -1,0 +1,141 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Iugh.",
+            "t": "A",
+            "v": "807334_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡¿Qué estás tratando de probar?!",
+            "t": "A",
+            "v": "807333_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Con qué jugador te gustaría acurrucarte bajo un acolchado, al lado de un fuego cálido... mientras tienes una terrible diarrea.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es la manera más ridícula en la que has intentado ahorrar dinero?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es el peor lugar en el que has tenido que hacer tus necesidades?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué libro y por qué?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Sin comentarios.",
+            "t": "A",
+            "v": "807332_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Ah, el secado del intelectual",
+            "t": "A",
+            "v": "807331_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Describe el estilo y patrón de tu calcetín de emergencia.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Tacaño",
+            "t": "A",
+            "v": "807330_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "La elección número uno para abuelas refinadas",
+            "t": "A",
+            "v": "807329_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Sean honestos: ¿Qué material para limpiarse la cola son?",
+            "t": "A",
+            "v": "807322_1",
+            "n": "Prompt"
+        }
+    ]
+}

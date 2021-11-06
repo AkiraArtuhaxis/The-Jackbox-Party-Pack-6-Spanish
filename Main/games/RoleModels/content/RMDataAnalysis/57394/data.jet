@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Vuelves a tener 10 años de nuevo por un día. ¿Qué haces?",
+            "t": "A",
+            "v": "829790_1",
+            "n": "Prompt"
+        }
+    ]
+}

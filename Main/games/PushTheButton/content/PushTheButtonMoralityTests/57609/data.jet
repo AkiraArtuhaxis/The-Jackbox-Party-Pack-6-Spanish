@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "asesinato",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "lavado de dinero",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "violaciones del código de salud",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Están en campaña tres candidatos a la presidencia. Votas por el candidato que una vez fue conocido por...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Están en campaña tres candidatos a la presidencia. Votas por el candidato que una vez fue conocido por...",
+            "t": "A",
+            "v": "833466_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

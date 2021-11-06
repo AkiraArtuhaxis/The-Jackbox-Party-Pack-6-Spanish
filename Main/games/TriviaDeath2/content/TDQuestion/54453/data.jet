@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál es el nombre del gimnasio cofundado por Tamra Judge de <i>Amas de casa reales de Orange County<\/i>?",
+            "t": "A",
+            "v": "774159_2",
+            "n": "Q"
+        },
+        {
+            "s": "Aquí viene algo que deberían haber aprendido en la escuela secundaria...",
+            "t": "A",
+            "v": "774166_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[CUT Fitness] [REAL Fitness] [JUDGE Fitness] [HOT Fitness]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

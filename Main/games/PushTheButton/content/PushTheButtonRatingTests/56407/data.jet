@@ -1,0 +1,88 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "Yo espero que mis amigos/amigas respondan inmediatamente mis mensajes de vuelta.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Me gusta el tocino.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Es fácil para mi hacer amigos/amigas.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Prefiero mandar mensajes que llamar.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Usualmente tengo mi teléfono en batería baja",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "No podría estar 48 horas sin mi teléfono.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Soy incómodo/incómoda por teléfono.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Yo espero que mis amigos/amigas respondan inmediatamente mis mensajes de vuelta.",
+        "t": "A",
+        "v": "806880_1",
+        "n": "HumanPromptAudio"
+    }]
+}

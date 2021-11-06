@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Números que dividen a 54",
+            "t": "A",
+            "v": "786730_1",
+            "n": "Q"
+        }
+    ]
+}

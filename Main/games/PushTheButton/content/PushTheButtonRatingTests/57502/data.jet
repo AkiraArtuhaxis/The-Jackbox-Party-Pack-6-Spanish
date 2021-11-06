@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Prefiero visitar Hawaii que Alaska.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Prefiero a los shorts que a los pantalones.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "El verano es mi temporada favorita.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Es mejor tener calor que frío.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Es mejor tener calor que frío.",
+        "t": "A",
+        "v": "832042_1",
+        "n": "HumanPromptAudio"
+    }]
+}

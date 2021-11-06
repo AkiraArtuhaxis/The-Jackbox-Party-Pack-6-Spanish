@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Once pájaros: eso sí que sería mucho",
+            "t": "A",
+            "v": "820637_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué jugador se sentiría más cómodo alimentando un ratón vivo a una serpiente?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "En dos palabras, ¿por qué son mejores los gatos que los perros?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Lista los nombres de tus diez aves.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Demuestra cómo disciplinarías a tu tigre luego de que hiciese caca en tu cama.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Ilegal, pero okay.",
+            "t": "A",
+            "v": "820636_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué jugador utilizaría a su perro como excusa para irse de eventos sociales temprano?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿Quién necesita amigos cuando tienes 3 metros de serpientes?",
+            "t": "A",
+            "v": "820635_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la parte más difícil de cuidar a una roca mascota?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "El amor incondicional está sobrevalorado.",
+            "t": "A",
+            "v": "820634_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién sería el mejor mago?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién molestaría más a su gato?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "En dos palabras, ¿por qué son mejores los perros que los gatos?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Quién es más probable que tenga cada una de estas mascotas?",
+            "t": "A",
+            "v": "820626_1",
+            "n": "Prompt"
+        }
+    ]
+}

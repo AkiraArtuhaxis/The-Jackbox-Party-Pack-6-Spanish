@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si tuvieras un presupuesto ilimitado, ¿cuál sería tu disfraz de Halloween ideal?",
+            "t": "A",
+            "v": "829127_1",
+            "n": "Prompt"
+        }
+    ]
+}

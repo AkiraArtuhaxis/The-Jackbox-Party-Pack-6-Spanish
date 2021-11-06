@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál de estos artistas tenía una tendencia a dibujar lirios de agua?",
+            "t": "A",
+            "v": "798186_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según mi investigación, el asesino jamás terminó sus estudios de historia del arte.... así que dime... “inocente espectador”...",
+            "t": "A",
+            "v": "798193_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Pablo Picasso] [Frida Kahlo] [Claude Monet] [Grandma Moses]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

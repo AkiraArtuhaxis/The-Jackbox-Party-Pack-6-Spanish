@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Keanu Reeves",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Beyoncé",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dwayne \u201cLa Roca\u201d Johnson",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Aterrizan aliens invasores pero dejarán que 1 persona los convenza de no conquistar a la Tierra. La elección correcta es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Aterrizan aliens invasores pero dejarán que 1 persona los convenza de no conquistar a la Tierra. La elección correcta es...",
+            "t": "A",
+            "v": "823579_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

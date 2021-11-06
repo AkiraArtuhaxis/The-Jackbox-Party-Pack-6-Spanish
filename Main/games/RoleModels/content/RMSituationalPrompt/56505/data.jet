@@ -1,0 +1,160 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Tu sirves... un propósito?",
+            "t": "A",
+            "v": "808422_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eso es intenso.",
+            "t": "A",
+            "v": "808421_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué es algo que no es comestible que crees que se ve delicioso?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál de estos sujetos sería la Posh Spice?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuánto tiempo suele tardar alguien en morir después de mirar fijamente a los ojos la pintura del payaso?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "No tengo miedo.",
+            "t": "A",
+            "v": "808420_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es el título del libro sobre tu mesa de centro metálica?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la mejor alfombra para un romance de chimenea?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Ooooo la la.",
+            "t": "A",
+            "v": "808418_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Tan útil!",
+            "t": "A",
+            "v": "808417_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "En lugar de una piedra, ¿de dónde sacaste la espada?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Por favor, describe lo que los payasos están haciendo en tu pintura.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué elemento de decoración del hogar se adapta mejor a cada uno de ustedes?",
+            "t": "A",
+            "v": "808410_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Qué trampa casera prepararías para un par de ladrones torpes?",
+            "t": "A",
+            "v": "829374_1",
+            "n": "Prompt"
+        }
+    ]
+}

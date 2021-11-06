@@ -1,0 +1,110 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "Mi bebida alcohólica favorita es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "El mejor alcohól para tomar como shot es...",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "El mejor alcohól para servir en fiestas es...",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Mi bebida de temporada favorita es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Lo último que quieres beber cuando hace calor es...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Lo peor que puedes tener goteando sobre ti es...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "El cóctel más elegante que bebí fue...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Mi bebida alcohólica favorita es...",
+            "t": "A",
+            "v": "802877_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

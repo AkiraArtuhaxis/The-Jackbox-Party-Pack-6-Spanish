@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Sí, un pajarito me contó de esto.",
+            "t": "A",
+            "v": "813141_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Es por los pequeños uniformes apretados ¿No es cierto?",
+            "t": "A",
+            "v": "813140_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué jugador probablemente se ha roto un diente tratando de lucirse en un trampolín?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Explica porque la caminata rápida es mejor que correr.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Por qué el bobsled es el vehículo más asombroso?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Manera de salpicar",
+            "t": "A",
+            "v": "813139_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Di “pluma” sin tentarte bajo ninguna circunstancia.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "BOING.",
+            "t": "A",
+            "v": "813138_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué jugador es lo suficientemente viejo como para haber visto <i>Jamaica bajo cero<\/i>?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Podrías ganarle caminando a un chita",
+            "t": "A",
+            "v": "813137_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Clic Clic BROOM",
+            "t": "A",
+            "v": "813136_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué canción elegirías para tu rutina de nado?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué jugador mantiene más limpio su hogar?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué deporte olímpico es cada uno?",
+            "t": "A",
+            "v": "813129_2",
+            "n": "Prompt"
+        }
+    ]
+}

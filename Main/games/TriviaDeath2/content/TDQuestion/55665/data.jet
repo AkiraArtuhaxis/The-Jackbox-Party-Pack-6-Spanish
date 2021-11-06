@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué restaurante es propietario de la marca “Muerte Por Chocolate”?",
+            "t": "A",
+            "v": "793321_2",
+            "n": "Q"
+        },
+        {
+            "s": "Al igual que el chocolate, su perdición será amarga... ¡y con leche!",
+            "t": "A",
+            "v": "793328_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Bennigan’s] [The Olive Garden] [TGI Fridays] [The Cheesecake Factory]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

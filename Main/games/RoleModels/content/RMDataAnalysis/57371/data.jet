@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Puedes enviar un mensaje desde más allá de la tumba, ¿cuál es?",
+            "t": "A",
+            "v": "829179_1",
+            "n": "Prompt"
+        }
+    ]
+}

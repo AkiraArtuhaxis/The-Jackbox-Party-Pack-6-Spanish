@@ -1,0 +1,145 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es un dato curioso sobre tu orina que podría aparecer en la parte de abajo de una botella de té?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Si escribieras tu número de teléfono en el cubículo de un baño, ¿qué escribirías en lugar de “Para pasarla bien llama a...”?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué jugador se luciría más en el trampolín?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Responde como un callejón: ¿cuál fue el último asesinato que transcurrió en ti?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Responde como pantalones: ¿Cuál fue la situación que hizo que quién te llevaba puesto se orinara en ti?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Responde como un urinario: ¿Cuál es tu mayor sueño?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué lugar para orinar eres?",
+            "t": "A",
+            "v": "813109_1",
+            "n": "Prompt"
+        }
+    ]
+}

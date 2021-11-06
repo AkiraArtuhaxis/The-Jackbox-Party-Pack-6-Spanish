@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¡Mi mascota murciélago acaba de tener bebés! ¿Cómo los llamo?",
+            "t": "A",
+            "v": "769600_1",
+            "n": "Q"
+        },
+        {
+            "s": "En caso de que se pregunten por qué estoy un poco más alegre que de costumbre...",
+            "t": "A",
+            "v": "769607_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[calves] [pups] [whelps] [kittens]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

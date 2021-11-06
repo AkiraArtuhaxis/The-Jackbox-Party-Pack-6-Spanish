@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Cómo te volviste tan musculoso?",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Oficial.",
+            "t": "A",
+            "v": "804036_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Y pensar que te puse en mi testamento!",
+            "t": "A",
+            "v": "804035_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién tiene más multas por exceso de velocidad?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién puede hacer más flexiones?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién cree que lleva un micrófono en secreto?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Haz la cosa que mas distrae en este momento.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Me niego a prestarte atención.",
+            "t": "A",
+            "v": "804034_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Mantén ese motor encendido.",
+            "t": "A",
+            "v": "804033_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si fueras un policía en una película de acción, ¿cuál sería tu frase célebre?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡La ley del más fuerte!",
+            "t": "A",
+            "v": "804032_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Si te llamaran por traicionar a un amigo, ¿Cuál sería tu justificación férrea?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Sabías que todo esto pasaría, ¿No es cierto?",
+            "t": "A",
+            "v": "804031_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Okay Sabelotodo, ¿Cuál es tu plan para entrar en la bóveda?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué rol en una película de robos mejor combina con cada uno de ustedes?",
+            "t": "A",
+            "v": "804024_1",
+            "n": "Prompt"
+        }
+    ]
+}

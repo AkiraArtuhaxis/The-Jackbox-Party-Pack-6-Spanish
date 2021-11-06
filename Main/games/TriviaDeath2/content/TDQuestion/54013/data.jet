@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué musical contiene a la canción “And I Am Telling You I’m Not Going” (Y te digo que no voy a ir)?",
+            "t": "A",
+            "v": "769710_1",
+            "n": "Q"
+        },
+        {
+            "s": "Estoy armando una playlist de canciones irónicas para reproducir a la gente que atrapé en el hotel.",
+            "t": "A",
+            "v": "769717_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[<i>Wicked<\/i>] [<i>Spring Awakening<\/i>] [<i>Jesus Christ Superstar<\/i>] [<i>Dreamgirls<\/i>]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

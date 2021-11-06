@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Mi generación es la mejor generación.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Cito mucho a <i>Los Simpsons<\/i>.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Sigo las noticias.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Digo constantemente cosas como \u201cMercurio está en retroceso\u201d.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Digo constantemente cosas como \u201cMercurio está en retroceso\u201d.",
+        "t": "A",
+        "v": "822212_1",
+        "n": "HumanPromptAudio"
+    }]
+}

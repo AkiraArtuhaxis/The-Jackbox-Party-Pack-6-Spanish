@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Bada bing!",
+            "t": "A",
+            "v": "803564_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eres realmente raro.",
+            "t": "A",
+            "v": "803563_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál de estos jugadores es más probable que recuerde la batalla de El Álamo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién “celebró” el día que se legalizó el cannabis recreativo en Colorado?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene una deuda más desalentadora?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Rocky Mountain High, ¿verdad?",
+            "t": "A",
+            "v": "803562_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál sería un mejor final para <i>Los Soprano<\/i>?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "No hay quién se meta contigo.",
+            "t": "A",
+            "v": "803561_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Completa este titular: “Hombre de florida encontrado... mm-mm-mm”",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Justo.",
+            "t": "A",
+            "v": "803560_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Eres América central. O sea, bien en el medio.",
+            "t": "A",
+            "v": "803559_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Okey, ya que eres tan Nebraska... Nombra algo divertido para hacer en un campo vacío.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué estado de EE.UU. combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "803552_1",
+            "n": "Prompt"
+        }
+    ]
+}

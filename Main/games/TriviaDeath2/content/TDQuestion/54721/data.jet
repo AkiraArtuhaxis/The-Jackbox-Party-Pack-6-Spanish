@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué actor famoso fue vecino y amigo de la infancia del novelista Harper Lee?",
+            "t": "A",
+            "v": "776839_2",
+            "n": "Q"
+        },
+        {
+            "s": "Soy todo un fanático del instructivo de Harper Lee “Matar un ruiseñor”.",
+            "t": "A",
+            "v": "776846_3",
+            "n": "Intro"
+        },
+        {
+            "s": "[Toni Morrison] [Arthur Miller] [Truman Capote] [Margaret Atwood]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

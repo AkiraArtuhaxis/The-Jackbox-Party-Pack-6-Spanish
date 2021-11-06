@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Qué es la peor cosa que podés decir en una primera cita?",
+            "t": "A",
+            "v": "830476_1",
+            "n": "Prompt"
+        }
+    ]
+}

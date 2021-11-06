@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Escribe la primera frase de tu nota de disculpa a los aldeanos, la mañana siguiente a una luna llena.",
+            "t": "A",
+            "v": "806962_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Haz tu mejor impresión en Frankenstein. Puedes ser el doctor o el monstruo, tu elección.",
+            "t": "A",
+            "v": "806961_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién es el mejor nadador?",
+            "t": "A",
+            "v": "806964_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién menos querrías que se enoje contigo, con tal de no enfrentarte a su terrible maldición?",
+            "t": "A",
+            "v": "806963_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Hora de la verdad. ¿Quién te gustaría que desapareciera ahora mismo?",
+            "t": "A",
+            "v": "806965_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién odia más el sol?",
+            "t": "A",
+            "v": "806960_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué monstruo clásico combina mejor con cada uno?",
+            "t": "A",
+            "v": "802786_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Nunca llega a tiempo, ¿Verdad?",
+            "t": "A",
+            "v": "824155_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Puntúa!",
+            "t": "A",
+            "v": "824154_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es el nombre de tu iglesia?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué tema importante plantearías si te llamaran para aportar al debate?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿A quién le iría mejor en la sección de matemática de un examen de ingreso en este momento?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué titular de revista llamaría tu atención en una sala de espera?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡El médico te verá ahora!",
+            "t": "A",
+            "v": "824153_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Aleluya!",
+            "t": "A",
+            "v": "824152_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién puede quedarse quieto el tiempo más largo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Ojalá pudiera decir que eres mi canal favorito.",
+            "t": "A",
+            "v": "824151_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "No creo que pueda soportar dos abrigos más de ti.",
+            "t": "A",
+            "v": "824150_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué color neutral y poco emocionante eres?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué cosa aburrida son?",
+            "t": "A",
+            "v": "824143_1",
+            "n": "Prompt"
+        }
+    ]
+}

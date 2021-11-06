@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Completa esta frase: En una película de secundaria, yo almorzaría con los chicos “_____”.",
+            "t": "A",
+            "v": "830580_1",
+            "n": "Prompt"
+        }
+    ]
+}

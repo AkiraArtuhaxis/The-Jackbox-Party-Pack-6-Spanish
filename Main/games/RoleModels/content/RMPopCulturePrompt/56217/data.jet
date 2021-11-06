@@ -1,0 +1,170 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt10"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Baila tan mal como sea posible.",
+            "t": "A",
+            "v": "810850_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Escribe una de tus ingeniosas observaciones. Empezaré por ti: \"¿Han notado que...\"",
+            "t": "A",
+            "v": "810849_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién es el mejor mentiroso?",
+            "t": "A",
+            "v": "810851_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Ja ja!",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Describe tu atuendo con una voz relajante y profunda.",
+            "t": "A",
+            "v": "810853_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Cuál es tu mejor plan para hacerte rico rápido?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién no conoce su propia fuerza?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¡Entra de golpe a la habitación ya mismo!",
+            "t": "A",
+            "v": "810848_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de <i>Seinfeld<\/i> combina mejor con cada uno?",
+            "t": "A",
+            "v": "803740_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "¿Cómo llamarías a tu revista de moda?",
+            "t": "A",
+            "n": "RevealPrompt10"
+        }
+    ]
+}

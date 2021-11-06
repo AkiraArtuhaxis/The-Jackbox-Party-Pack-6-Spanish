@@ -1,0 +1,177 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Guau.",
+            "t": "A",
+            "v": "811652_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Haz una impresión de ti mismo presentándote mientras estás en llamas.",
+            "t": "A",
+            "v": "811655_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál sería el tema de la boda?",
+            "t": "A",
+            "v": "811654_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién era UN GRAN AFICIONADO DE LOS CABALLOS de pequeño?",
+            "t": "A",
+            "v": "818194_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es tu parte favorita de la película <i>Alerta en lo profundo<\/i>?",
+            "t": "A",
+            "v": "811656_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Y GEMELOS!",
+            "t": "A",
+            "v": "811650_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién vive su vida como si estuviera metafóricamente en llamas?",
+            "t": "A",
+            "v": "818196_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es el nombre de tu gemelo\/a?",
+            "t": "A",
+            "v": "818195_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Relinche, reina, relinche.",
+            "t": "A",
+            "v": "811648_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Honk, honk.",
+            "t": "A",
+            "v": "811647_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Canta la canción de <i>Tiburón<\/i> sin dejar de verte como un “buen partido”.",
+            "t": "A",
+            "v": "818197_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es tu primera cita ideal?",
+            "t": "A",
+            "v": "811653_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo entraría cada uno de ustedes si fueran concursantes de <i>El soltero<\/i> o <i>La soltera<\/i>?",
+            "t": "A",
+            "v": "811640_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál es tu plan para una invasión alienígena?",
+            "t": "A",
+            "v": "829478_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "un color en el cubo de Rubik original",
+            "n": "PromptText"
+        },
+        {
+            "s": "un color en el cubo de Rubik original",
+            "t": "A",
+            "v": "799047_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

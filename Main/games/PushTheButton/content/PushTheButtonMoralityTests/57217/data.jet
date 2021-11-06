@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "la ciudad de Nueva York",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "el centro de Nevada",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Miami Beach",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu león marino mascota ha crecido demasiado. Para que sea feliz, el lugar para soltarlo es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu león marino mascota ha crecido demasiado. Para que sea feliz, el lugar para soltarlo es...",
+            "t": "A",
+            "v": "824518_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

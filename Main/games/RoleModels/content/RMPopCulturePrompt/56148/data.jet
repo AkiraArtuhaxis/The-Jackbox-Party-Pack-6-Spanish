@@ -1,0 +1,160 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "No recuerdo que cosa era Snuffleupagus en Plaza Sésamo... Así que simplemente vota por el jugador con los brazos más largos.",
+            "t": "A",
+            "v": "802715_2",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué diría Óscar el gruñón sobre un perfecto día de primavera?",
+            "t": "A",
+            "v": "802714_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién tiene más cosquillas?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¡No encuentro mi patito de hule, Beto!",
+            "t": "A",
+            "v": "823163_0",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué es lo mejor que comienza con la letra “C”?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Con qué tipo de animal de peluche te gustaría dormir?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Te quiero, Abelardo.",
+            "t": "A",
+            "v": "802708_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién es mejor en las matemáticas?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Escuchemos tu mejor impresión de Elmo.",
+            "t": "A",
+            "v": "802713_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de <i>Plaza Sésamo<\/i> se adapta mejor a cada uno de ustedes?",
+            "t": "A",
+            "v": "802700_1",
+            "n": "Prompt"
+        }
+    ]
+}

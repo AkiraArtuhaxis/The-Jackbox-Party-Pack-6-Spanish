@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "La honestidad es la mejor política",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "pero tampoco puedo el próximo viernes, disculpa.\nOR\n¡La amnesia social es real!",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es una buena enfermedad inventada para cancelar planes?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién puede hacer el estornudo falso más convincente?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cómo se llama tu perro necesitado?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es el mejor sonido de alarma con el que despertarse?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡no dejará de textear!",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién está a segundos de expresar su odio hacia todos los que están en esta partida?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Necesita unas buenas 8-12 horas",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuáles son tus planes para el viernes?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Cancelar planes es contagioso",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Qué generoso!",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién tiene el próximo fin de semana más ocupado?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué excusa para descartar planes se adapta mejor a cada uno de ustedes?",
+            "t": "A",
+            "v": "833267_1",
+            "n": "Prompt"
+        }
+    ]
+}

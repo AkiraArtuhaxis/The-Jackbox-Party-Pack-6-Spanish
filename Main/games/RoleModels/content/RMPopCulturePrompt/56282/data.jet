@@ -1,0 +1,191 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt10"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt11"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Nombra el país extranjero más desconocido que se te ocurra.",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "¡Hulk aplasta!",
+            "t": "A",
+            "v": "805024_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Por la barba de Odín, lo hiciste.",
+            "t": "A",
+            "v": "805023_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Una anciana está cruzando la calle y un banco está siendo robado al mismo tiempo. ¿Qué haces?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es la primera invención que construirías con el cerebro de Tony Stark?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿En qué jugador confiarías si necesitaras un trabajo de espionaje?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué jugador se acerca más a la divinidad?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Wakanda para siempre!",
+            "t": "A",
+            "v": "805022_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "No tienes un arma. Tu ERES el arma.",
+            "t": "A",
+            "v": "805021_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es mejor controlando su temperamento?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "En descanso, soldado.",
+            "t": "A",
+            "v": "805020_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Tu router no está funcionando bien. ¿A quién llamas por soporte técnico?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Tu ERES Iron Man.",
+            "t": "A",
+            "v": "805019_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién sería el mejor candidato presidencial?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué miembro de los Vengadores combina mejor con cada uno?",
+            "t": "A",
+            "v": "805012_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "¿Las paredes personales de quién son más difíciles de romper?",
+            "t": "A",
+            "n": "RevealPrompt10"
+        },
+        {
+            "s": "Haz una referencia cultural a algo de antes de que hayas nacido.",
+            "t": "A",
+            "n": "RevealPrompt11"
+        }
+    ]
+}

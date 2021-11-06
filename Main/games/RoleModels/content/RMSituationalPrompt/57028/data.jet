@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "¿Puedes recuperar nuestra pelota del tejado?",
+            "t": "A",
+            "v": "819488_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Felicidades por tu próximo documental de Netflix",
+            "t": "A",
+            "v": "819487_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Hora de relajarse un poco... ¿quién puede hacer sonidos relajantes de océano?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién probablemente se pone una corona cuando necesita algo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién podrías imaginarte haciendo demasiado CrossFit?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué dejarías en la cama de alguien como amenaza?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Pero no lo escuchaste de mí",
+            "t": "A",
+            "v": "819486_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Oye, ¿juegas básquetbol?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Um... Crucero Cómico ha utilizado todos los chistes del mar",
+            "t": "A",
+            "v": "819485_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Dondequiera que estés sentado es un trono",
+            "t": "A",
+            "v": "819484_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Termina la rima, “Cielo naranja de noche....”",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Una mayoría democrática consideró que esto es cierto",
+            "t": "A",
+            "v": "819483_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué jugador es el más alto?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es tu lema de campaña?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué tipo de líder son?",
+            "t": "A",
+            "v": "819476_1",
+            "n": "Prompt"
+        }
+    ]
+}

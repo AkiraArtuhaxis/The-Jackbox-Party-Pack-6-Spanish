@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt10"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Qué imagen sería tu tarjeta de visita del mal?",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Huele a pescado, pero me gusta.",
+            "t": "A",
+            "v": "804100_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿No tienes nada mejor que hacer?",
+            "t": "A",
+            "v": "804099_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es el más nocturno?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién hace que gente pelee solo porque adora el drama?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "No quieres saber lo qué hay dentro de mi cabeza.",
+            "t": "A",
+            "v": "804098_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Sí, pero ¿Puedes hacer crucigramas?",
+            "t": "A",
+            "v": "804097_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es un buen nombre en clave para un villano de temática acuática?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Buena suerte con eso.",
+            "t": "A",
+            "v": "804096_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién cree que ganarse la vida como todos toma demasiado tiempo?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Bueno, eres medio deprimente.",
+            "t": "A",
+            "v": "804095_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién probablemente tiene un libro de adivinanzas en su estantería?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Canta cualquier verso que recuerdes de la canción <i>Goldfinger<\/i>.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué plan de supervillano utilizaría cada uno de ustedes?",
+            "t": "A",
+            "v": "804088_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "Mira a alguien en la habitación como si pudieras ver dentro de su alma.",
+            "t": "A",
+            "n": "RevealPrompt10"
+        }
+    ]
+}

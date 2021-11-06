@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Luego de que el mundo colapse, ¿qué servicio puedes ofrecer a tu grupo de supervivientes?",
+            "t": "A",
+            "v": "830102_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Gary, TE llamaré.",
+            "t": "A",
+            "v": "828608_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Tienes el 1% de los problemas del mundo!",
+            "t": "A",
+            "v": "828607_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Además de hacer rebotar piedras en el lago, ¿qué es lo más patético que alguien puede hacer solo en el lago?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Acabas de ser rechazado por tu crush de la secundaria. ¿Qué gritas enojado a la luna despiadada?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Completa esta frase como un socialite rico: “Lo juro, si tengo que comer un/a _____ aburrido/a más, me voy a desmayar.”",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Tu tortuga mascota acaba de morir. ¿Cuál es la mejor comida para tapar el dolor?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Usualmente como el postre primero, al menos yo.",
+            "t": "A",
+            "v": "828606_2",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Muéstranos tu cara cuando 30 pájaros de dibujos animados vuelan dentro para animarte.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "La naturaleza es tu única amiga",
+            "t": "A",
+            "v": "828605_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Cuándo tus hijos del futuro te pregunten como tu esposo/a de Lyft y tú se conocieron, ¿qué piensas decirles?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Las ratas ni siquiera te dicen hola",
+            "t": "A",
+            "v": "828604_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Algún día tu rol llegará... ¡Es hoy!",
+            "t": "A",
+            "v": "828603_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Agarra suavemente tu cuello y grita en pánico “¡Mis diamantes!”",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué canción de Disney encapsula mejor tu anhelo de conexión humana?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué tipo de soledad son?",
+            "t": "A",
+            "v": "828596_1",
+            "n": "Prompt"
+        }
+    ]
+}

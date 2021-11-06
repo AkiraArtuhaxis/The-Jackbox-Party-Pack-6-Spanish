@@ -1,0 +1,181 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Hola Susana.",
+            "t": "A",
+            "v": "808089_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Qué niño es responsable de esto?",
+            "t": "A",
+            "v": "808088_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Por favor realice el baile característico de Babushka.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¡Rápido! ¿Qué sabor de caramelo duro hay en tu bolsillo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Yayi te consiente con regalos elaborados. ¿Qué regalo elaborado le has traído a tus nietos?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene más probabilidades de tener hasta 10 -edredones, acolchados, plumones- diferentes?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Me huele a estofado.",
+            "t": "A",
+            "v": "808087_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué advertencia ominosa usa siempre Babushka como forma de saludar?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Lujoso!",
+            "t": "A",
+            "v": "808086_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿A quién le gusta mantener sus relaciones personales... profesionales?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Dile hola a Tito por mí.",
+            "t": "A",
+            "v": "808085_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Cuál es tu historia popular favorita del viejo país que cuentas para aterrorizar a tus nietos?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Eso está bien.",
+            "t": "A",
+            "v": "808084_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién tuvo más recientemente una \"escapada de vacaciones\"?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¡Fideos Moo Moo tiene nombres tontos para todo! ¡Cómo llamas a las cucharas?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué nombre de abuela se ajusta a cada uno de ustedes?",
+            "t": "A",
+            "v": "808077_1",
+            "n": "Prompt"
+        }
+    ]
+}

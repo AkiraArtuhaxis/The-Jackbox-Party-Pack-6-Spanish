@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Has sido contratado como payaso para un cumpleaños. ¿Cómo entretienes a los niños?",
+            "t": "A",
+            "v": "831200_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Estás atrapado en un museo de historia donde las exhibiciones cobran vida. ¿Con quién pasas el rato?",
+            "t": "A",
+            "v": "829816_1",
+            "n": "Prompt"
+        }
+    ]
+}

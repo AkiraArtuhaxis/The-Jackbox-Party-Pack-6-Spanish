@@ -1,0 +1,147 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "¡Síguele la corriente a este sujeto de prueba!",
+            "t": "A",
+            "v": "809814_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡No dejen que este sujeto de prueba cuide niños!",
+            "t": "A",
+            "v": "809813_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es la mejor actividad para un día lluvioso?",
+            "t": "A",
+            "v": "809823_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién odia más los lunes?",
+            "t": "A",
+            "v": "809822_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¡Da tu saludo más amistoso!",
+            "t": "A",
+            "v": "818847_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Imagina que estos jugadores están rodeados por texto...¿Quién sería el mejor meme?",
+            "t": "A",
+            "v": "818846_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Hola!",
+            "t": "A",
+            "v": "809812_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Estoy seguro que es solo cara de gatita",
+            "t": "A",
+            "v": "809811_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Quién sería mejor pretendiendo tocar un instrumento musical",
+            "t": "A",
+            "v": "818848_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Solo eres un acertijo sin respuesta",
+            "t": "A",
+            "v": "809810_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Eres tan comercializable!",
+            "t": "A",
+            "v": "809809_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién puede dar la sonrisa más horripilante?",
+            "t": "A",
+            "v": "809821_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué gato famoso es cada uno?",
+            "t": "A",
+            "v": "809802_1",
+            "n": "Prompt"
+        }
+    ]
+}

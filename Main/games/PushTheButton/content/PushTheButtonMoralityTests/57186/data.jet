@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "detenerte",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "continuar",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "ir más despacio",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Cada vez que comes queso, destruyes un pequeño universo sensible. Debes...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Cada vez que comes queso, destruyes un pequeño universo sensible. Debes...",
+            "t": "A",
+            "v": "823463_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt10"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "¡Dije BUEN DÍA!",
+            "t": "A",
+            "v": "810090_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Lo siento Charlie",
+            "t": "A",
+            "v": "810089_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Grita “¡Lo quiero ahora!” con tu voz más molesta.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién no come muchos dulces?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién mira más televisión?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es más probable que masque chicle durante una entrevista de trabajo?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Una manera gráfica de irse",
+            "t": "A",
+            "v": "810088_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Por favor, informa a alguien que ha perdido en tu mejor imitación de Wonka!",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Al menos estás lleno de antioxidantes",
+            "t": "A",
+            "v": "810087_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es un soborno que nunca podrías rechazar?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡PIIII!",
+            "t": "A",
+            "v": "810086_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién siempre consigue lo que quiere?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Así es como quiero morir.",
+            "t": "A",
+            "v": "810085_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Termina esta rima como prefieras: “Dumpa dumpa dumpadi du...”",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo fallarían el tour de Willy Wonka?",
+            "t": "A",
+            "v": "810078_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "Si te convirtieras en un arándano y te presentaras como candidato a presidente, ¿cuál sería tu eslógan?",
+            "t": "A",
+            "n": "RevealPrompt10"
+        }
+    ]
+}

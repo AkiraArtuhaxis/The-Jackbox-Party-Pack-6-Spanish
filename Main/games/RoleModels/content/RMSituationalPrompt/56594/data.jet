@@ -1,0 +1,166 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Okey.",
+            "t": "A",
+            "v": "809864_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Si te tomaras en serio el salir a correr, no necesitaría el coche.",
+            "t": "A",
+            "v": "809863_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién ha corrido más maratones?.. ¿O parte de uno?",
+            "t": "A",
+            "v": "809867_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es otra manera de terminar esta rima? Digo, aparte de la más obvia.",
+            "t": "A",
+            "v": "809866_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Usando tus brazos... Muéstranos, ¿Qué tan grande era el último pez que pescaste?",
+            "t": "A",
+            "v": "821873_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es un mejor nombre para los “estudiantes prodigio”?",
+            "t": "A",
+            "v": "821872_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Siguiendo...",
+            "t": "A",
+            "v": "809862_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Sobre qué querrías que Calvin orine?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Muerden el anzuelo sin dudarlo",
+            "t": "A",
+            "v": "809861_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Estoy tan orgulloso",
+            "t": "A",
+            "v": "809860_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Por qué estos roles no pueden vivir en armonía y ya?",
+            "t": "A",
+            "v": "809859_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es tu secreto para atraer a los peces más grandes a tu bote?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién parece tener más paz en este preciso momento?",
+            "t": "A",
+            "v": "809865_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Si estuvieran pegados al parachoques de un auto, ¿qué dirían?",
+            "t": "A",
+            "v": "809852_1",
+            "n": "Prompt"
+        }
+    ]
+}

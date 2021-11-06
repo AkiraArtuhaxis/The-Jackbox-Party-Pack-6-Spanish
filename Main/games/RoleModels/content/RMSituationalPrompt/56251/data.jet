@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Al menos podrías rodearte de polvo de arcoíris?",
+            "t": "A",
+            "v": "804384_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Es ésta la razón por la que siempre estás en la casa de mi abuela?",
+            "t": "A",
+            "v": "804383_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es la mejor combinación de sabores imaginable?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién tiene el alma más vieja en la habitación?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "El helado napolitano debe ser chocolate, vainilla y...¿?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¡Hay algo para todo el mundo!",
+            "t": "A",
+            "v": "804382_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién se vestiría como un arcoíris de confites para Halloween?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Acabo de darme cuenta... No tengo ni idea de lo que eres",
+            "t": "A",
+            "v": "804381_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "La vainilla es mejor cuando es francesa, ¡así que escuchemos tu mejor acento francés!",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Aparentas ser duro, pero estás relleno de malvaviscos",
+            "t": "A",
+            "v": "804380_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Cuál es un nombre más emocionante para el helado de vainilla?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Qué refrescante!",
+            "t": "A",
+            "v": "804379_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué nombre le darías a un helado con trozos de chocolate?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Si fueras un sabor de helado, ¿cuál serías?",
+            "t": "A",
+            "v": "804372_1",
+            "n": "Prompt"
+        }
+    ]
+}

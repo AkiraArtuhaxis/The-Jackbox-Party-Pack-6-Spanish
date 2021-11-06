@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuántos hoyuelos tiene usualmente una pelota de golf?",
+            "t": "A",
+            "v": "779279_2",
+            "n": "Q"
+        },
+        {
+            "s": "No estoy seguro de por qué, pero mirando el poster de Mario López que colgaba sobre mi cama me hizo pensar en esta pregunta...",
+            "t": "A",
+            "v": "779286_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[25-75] [100-200] [300-400] [600-700]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

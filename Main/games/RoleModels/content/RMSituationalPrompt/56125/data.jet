@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Cuando te toman una foto, ¿tienes un ''buen'' lado?",
+            "t": "A",
+            "v": "802237_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "La mayoría de tus secretos morirán contigo.",
+            "t": "A",
+            "v": "802236_3",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién tiene el estilo de vida más bien redondeado?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién tiene más lados distintos en su personalidad?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Nombra tres cosas de igual valor en la vida.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién puedes imaginarte trabajando en el Departamento de Defensa de los Estados Unidos?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "General, le saludo.",
+            "t": "A",
+            "v": "802235_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Eres muy afilado.",
+            "t": "A",
+            "v": "802234_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más probable que reciba un elaborado entierro de faraón?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Un día crecerás, y serás un rectángulo.",
+            "t": "A",
+            "v": "802233_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "En serio, ¿Cuál es tu ángulo?",
+            "t": "A",
+            "v": "802232_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si tuvieras que empacar todo lo que hay en esta habitación en una gran caja, ¿con qué comenzarías?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién es más probable que cuelgue una lapicera en el bolsillo de su camisa?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Quién representa cada figura geométrica?",
+            "t": "A",
+            "v": "802225_1",
+            "n": "Prompt"
+        }
+    ]
+}

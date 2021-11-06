@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "hacer exactamente eso",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "decirle a alguien",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "reírse de él",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un elefante en el zoológico escribe: \u201cabre mi puerta por favor\u201d en la tierra. La respuesta apropiada sería...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un elefante en el zoológico escribe: \u201cabre mi puerta por favor\u201d en la tierra. La respuesta apropiada sería...",
+            "t": "A",
+            "v": "802743_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

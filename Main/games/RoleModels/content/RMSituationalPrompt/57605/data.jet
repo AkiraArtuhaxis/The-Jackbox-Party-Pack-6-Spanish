@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Ahoy marinero!",
+            "t": "A",
+            "v": "833423_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Ha intentado ponerte sus lentes 3D?",
+            "t": "A",
+            "v": "833422_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién probablemente vaya a derramar algo dentro de una hora?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién te lo imaginas contando chistes sobre películas... incluso si las está viendo solo en casa?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "La película no está funcionando. ¿Quién se levanta primero a buscar al encargado?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es la mejor película para besuquearse?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Hey, hey, hey... sepárense.",
+            "t": "A",
+            "v": "833421_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Pegajoso!",
+            "t": "A",
+            "v": "833420_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si fueras un pirata de película, ¿cuál sería el nombre de tu barco?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Estoy seguro de que recibirás ayuda de tus amigos robots.",
+            "t": "A",
+            "v": "833419_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Cuidado con los agujeros gigantes!",
+            "t": "A",
+            "v": "833418_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es la película más confusa que hayas visto?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué estaría haciendo cada uno de ustedes en este cine?",
+            "t": "A",
+            "v": "833411_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "uno de los doce signos astrológicos del zodíaco",
+            "n": "PromptText"
+        },
+        {
+            "s": "uno de los doce signos astrológicos del zodíaco",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}

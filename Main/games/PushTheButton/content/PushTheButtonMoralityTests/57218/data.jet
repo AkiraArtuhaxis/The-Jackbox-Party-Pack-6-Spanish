@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "$0",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "$50",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "$100",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Encuentras $100 dólares en efectivo en la calle. Otra persona se acerca y dice que son de ella. Le das...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Encuentras $100 dólares en efectivo en la calle. Otra persona se acerca y dice que son de ella. Le das...",
+            "t": "A",
+            "v": "824530_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

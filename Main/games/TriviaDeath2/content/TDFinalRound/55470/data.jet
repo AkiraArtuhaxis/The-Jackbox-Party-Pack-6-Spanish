@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Armas medievales",
+            "t": "A",
+            "v": "790107_1",
+            "n": "Q"
+        }
+    ]
+}

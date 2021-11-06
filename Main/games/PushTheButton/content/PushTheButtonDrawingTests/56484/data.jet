@@ -1,0 +1,88 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "Dibuja una utilería (prop) de alguna película.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Dibuja un animal relleno.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Dibuja una cuchara.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Dibuja un juguete.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Dibuja un arma de ciencia ficción.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Dibuja un arma de fantasía.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "true",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Dibuja ropa interior.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Dibuja una utilería (prop) de alguna película.",
+        "t": "A",
+        "v": "808144_0",
+        "n": "HumanPromptAudio"
+    }]
+}

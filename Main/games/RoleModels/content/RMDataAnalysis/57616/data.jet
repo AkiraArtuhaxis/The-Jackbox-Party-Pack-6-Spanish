@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Mientras ibas de camino a una cita a ciegas, te encuentras con un amor pasado. Te pregunta si estás libre para tomar un café. ¿Cómo manejas la situación?",
+            "t": "A",
+            "v": "833550_1",
+            "n": "Prompt"
+        }
+    ]
+}

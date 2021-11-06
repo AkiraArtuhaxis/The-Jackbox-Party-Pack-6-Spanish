@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "te vas de ahí",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "dejas una nota",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "intentas arreglarlo",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Golpeaste seriamente el auto de un extraño en un estacionamiento. Tú después...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Golpeaste seriamente el auto de un extraño en un estacionamiento. Tú después...",
+            "t": "A",
+            "v": "818234_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

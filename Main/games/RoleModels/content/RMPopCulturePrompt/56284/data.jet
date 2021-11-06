@@ -1,0 +1,157 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Eres una estrella fugaz",
+            "t": "A",
+            "v": "805086_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Por fin, un fuerte personaje femenino",
+            "t": "A",
+            "v": "805085_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si estuvieras atrapado en un planeta desierto...¿A quién te comerías primero?",
+            "t": "A",
+            "v": "805089_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Maestro Yoda, por favor compártenos un pedazo de tu sabiduría.",
+            "t": "A",
+            "v": "805088_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién secretamente desearías que no pudiera hablar?",
+            "t": "A",
+            "v": "807065_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es el más preocupado?",
+            "t": "A",
+            "v": "807064_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Eres instantáneamente amado",
+            "t": "A",
+            "v": "805084_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Tuyo este papel es!",
+            "t": "A",
+            "v": "805083_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es un destino peor que ser alimentado al Sarlacc?",
+            "t": "A",
+            "v": "807066_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Dios mío!",
+            "t": "A",
+            "v": "805082_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Leal y feroz",
+            "t": "A",
+            "v": "805081_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Haz tu mejor rugido de Chewbacca.",
+            "t": "A",
+            "v": "805087_2",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de estos personajes en una galaxia muy, muy lejana eres tú?",
+            "t": "A",
+            "v": "805074_1",
+            "n": "Prompt"
+        }
+    ]
+}

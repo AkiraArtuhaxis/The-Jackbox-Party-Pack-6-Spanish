@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Cómo Primera Dama, ¿qué nuevo feriado nacional intentarías imponer?",
+            "t": "A",
+            "v": "802502_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué crees que Barack Obama está haciendo en este momento?",
+            "t": "A",
+            "v": "802501_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿En qué jugador confías para que haga bien tu pedido de café?",
+            "t": "A",
+            "v": "802504_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Como el Vicepresidente Joe Biden, has la mejor impresión de escuchar atentamente al Presidente.",
+            "t": "A",
+            "v": "802503_2",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es el objeto más vergonzoso en tu armario en este momento?",
+            "t": "A",
+            "v": "802505_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Mi reina.",
+            "t": "A",
+            "v": "802496_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué promesa haría un perro si se postulara como presidente?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué residente de la Casa Blanca del 2014 eres?",
+            "t": "A",
+            "v": "802488_1",
+            "n": "Prompt"
+        }
+    ]
+}

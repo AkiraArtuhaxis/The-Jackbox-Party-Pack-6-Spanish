@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "\u201cTal vez después.\u201d",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "\u201cSeguro. ¿Porqué no?\u201d",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "\u201cProbaré 1.\u201d",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu cirujano plástico te informa que podrías lucir hasta 20 años más joven con manos de langosta. Tu le contestas...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu cirujano plástico te informa que podrías lucir hasta 20 años más joven con manos de langosta. Tu le contestas...",
+            "t": "A",
+            "v": "825318_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Soy una persona muy apasionada.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Soy más sabio hoy que lo que era cinco años atrás.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Pepperoni es el mejor ingrediente de la pizza.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Soy un/a asombroso/a besador/a.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Soy un/a asombroso/a besador/a.",
+        "t": "A",
+        "v": "807096_1",
+        "n": "HumanPromptAudio"
+    }]
+}

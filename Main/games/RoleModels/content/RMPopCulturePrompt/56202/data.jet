@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Excelente.",
+            "t": "A",
+            "v": "803496_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Mírate, cómo has crecido.",
+            "t": "A",
+            "v": "803495_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién te imaginarías que estaría en una constante batalla por el dominio con sus hermanos?",
+            "t": "A",
+            "v": "803511_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién se pasa más tiempo soñando despierto?",
+            "t": "A",
+            "v": "803510_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "En <i>Es tan Raven<\/i>, Raven puede ver el futuro. Predice el futuro de la persona a tu izquierda.",
+            "t": "A",
+            "v": "803528_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Si fueras en secreto una estrella de pop adolescente, ¿cuál sería tu nombre artístico?",
+            "t": "A",
+            "v": "803527_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Me parece justo.",
+            "t": "A",
+            "v": "803494_2",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién parece como si lo hubieran criado en un hotel?",
+            "t": "A",
+            "v": "824952_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "A veces eres muy animado.",
+            "t": "A",
+            "v": "803493_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Para romper este empate, di Shia Labouef 10 veces seguidas. La persona más rápida gana.",
+            "t": "A",
+            "v": "803529_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Ugh, eso es TAN tu.",
+            "t": "A",
+            "v": "803492_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Haz una impresión de Miley Cyrus ordenando del auto-servicio de un Wendy's.",
+            "t": "A",
+            "v": "824954_1",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Lo mejor de ambos mundos.",
+            "t": "A",
+            "v": "803491_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué es algo de lo que estás muy orgulloso\/a?",
+            "t": "A",
+            "v": "824953_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué serie de Disney Channel son?",
+            "t": "A",
+            "v": "803484_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Puñala-dástico!",
+            "t": "A",
+            "v": "810318_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "En el blanco",
+            "t": "A",
+            "v": "810317_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "OK, candelabro, dime. ¿Cómo hace alguien para matar una persona contigo?",
+            "t": "A",
+            "v": "810551_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Haz una rutina de salto de dos cuerdas con cuerdas invisibles.",
+            "t": "A",
+            "v": "810550_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Con el mayor detalle posible, explica qué tipo de puñal eres.",
+            "t": "A",
+            "v": "810553_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué jugador es el más útil?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿Dónde estaban en la noche de la muerte del carnicero y el pastelero?",
+            "t": "A",
+            "v": "810315_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Eres un revolver. Así que por qué no giras lo más rápido posible por diez segundos.",
+            "t": "A",
+            "v": "810554_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡El lazo de la muerte!",
+            "t": "A",
+            "v": "810314_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué frase genial gritarías mientras atrapas a bandidos en el Viejo Oeste?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué pregunta te haría un empleado de la ferretería a la hora de comprar tu arma asesina?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Responde como la tubería de plomo: ¿Para qué eras usado antes de convertirte en un arma asesina?",
+            "t": "A",
+            "v": "810549_2",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué arma asesina del juego de mesa <i>Clue<\/i> eres?",
+            "t": "A",
+            "v": "810306_1",
+            "n": "Prompt"
+        }
+    ]
+}

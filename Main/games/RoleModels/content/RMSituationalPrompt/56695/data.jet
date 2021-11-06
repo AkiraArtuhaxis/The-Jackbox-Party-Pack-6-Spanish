@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Estoy muy intimidado.",
+            "t": "A",
+            "v": "812466_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Me paweció que te vewía así.",
+            "t": "A",
+            "v": "812465_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué es lo PEOR que se le puede poner a un perro caliente?",
+            "t": "A",
+            "v": "812469_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién siente MÁS PROFUNDAS las cosas?",
+            "t": "A",
+            "v": "812468_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién tiene la suerte menos merecida?",
+            "t": "A",
+            "v": "820204_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es el más misterioso?",
+            "t": "A",
+            "v": "820203_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Disfruta de esto.",
+            "t": "A",
+            "v": "812464_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Para hacer más asombroso este tatuaje, y quizá hasta más actual, ¿sobre qué podría estar saltando el delfín?",
+            "t": "A",
+            "v": "820206_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "La vida es dolor y belleza.",
+            "t": "A",
+            "v": "812463_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿A quién se le permite hacer cosas malas porque es demasiado tierno?",
+            "t": "A",
+            "v": "820205_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Una buena mañana a todos!",
+            "t": "A",
+            "v": "812462_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Bueno, hiciste un chapoteo.",
+            "t": "A",
+            "v": "812461_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Haz una imitación de Tweety llamando a la policía para denunciar un crimen.",
+            "t": "A",
+            "v": "820207_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Haz una impresión de un delfín haciéndose un tatuaje.",
+            "t": "A",
+            "v": "812467_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué tatuaje lindo para el tobillo es cada uno de ustedes?",
+            "t": "A",
+            "v": "812454_1",
+            "n": "Prompt"
+        }
+    ]
+}

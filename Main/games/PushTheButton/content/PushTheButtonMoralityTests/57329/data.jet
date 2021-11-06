@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "decirle",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "bajarle al baño y olvidarlo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "llevárselo",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Te das cuenta que un compañero de trabajo, sin saberlo, dejó caer su sándwich en un inodoro. Tú debes...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Te das cuenta que un compañero de trabajo, sin saberlo, dejó caer su sándwich en un inodoro. Tú debes...",
+            "t": "A",
+            "v": "827538_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "dividirla",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "quedártela",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "dejar que él se la quede",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tú y un extraño están atrapados en el desierto con suficiente agua solo para uno de los dos. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tú y un extraño están atrapados en el desierto con suficiente agua solo para uno de los dos. Lo que debes hacer es...",
+            "t": "A",
+            "v": "814808_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

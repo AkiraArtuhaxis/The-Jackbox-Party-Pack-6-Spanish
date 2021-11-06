@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Yo creo en Pie Grande.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Soy una persona sociable.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "La vida alienígena existe.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Yo estoy 100% seguro que miré un vampiro una vez.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Yo estoy 100% seguro que miré un vampiro una vez.",
+        "t": "A",
+        "v": "812930_1",
+        "n": "HumanPromptAudio"
+    }]
+}

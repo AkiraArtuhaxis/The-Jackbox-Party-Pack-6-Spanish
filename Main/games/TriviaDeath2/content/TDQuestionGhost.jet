@@ -1,0 +1,33 @@
+{
+    "episodeid": 1396,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55866,
+            "text": "[EventName=HOST/AltHost]¿Donarás $50 de tus ganancias del juego al fondo del “exorcismo”?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Si. Dona $50. Es lo correcto."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "No."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "De ninguna manera."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Déjame pensar. Emm.... no."
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        }
+    ]
+}

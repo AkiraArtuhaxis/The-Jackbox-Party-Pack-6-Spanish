@@ -1,0 +1,88 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "Las arañas son buenas mascotas.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Las serpientes me asustan un poco.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Acariciaría una tarántula.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Las serpientes son buenas mascotas.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "No me asustaría si encontrara una araña sobre mi.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Los patitos son muy lindos.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Me volvería loco si despertara y encontrara una araña en mi cara.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Las arañas son buenas mascotas.",
+        "t": "A",
+        "v": "832130_1",
+        "n": "HumanPromptAudio"
+    }]
+}

@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Ugh... La tercera vez este mes.",
+            "t": "A",
+            "v": "813713_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Tristemente, no me identifico",
+            "t": "A",
+            "v": "813712_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Pretende que estás atascado en un baño público... ¿Quién puede dar el grito de ayuda más patético?",
+            "t": "A",
+            "v": "813716_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién sería el peor malabarista?",
+            "t": "A",
+            "v": "813715_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué sería lo mejor para decir a los afligidos luego de que te das cuenta que no conoces al muerto?",
+            "t": "A",
+            "v": "822684_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es el peor tema para abordar con los padres de tu cita?",
+            "t": "A",
+            "v": "822683_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Wow, um, es difícil saber qué decir.",
+            "t": "A",
+            "v": "813711_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué comida, si se licua, sería la mejor bebida? O, ya sabes, ¿La menos desagradable?",
+            "t": "A",
+            "v": "822686_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿Puedes dejarte un cuadrado?",
+            "t": "A",
+            "v": "813710_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si pudieras darte a ti mismo un gran nombre nuevo, ¿cuál sería?",
+            "t": "A",
+            "v": "822685_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "La próxima bebida la invitas tu.",
+            "t": "A",
+            "v": "813709_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Bien por ti.... tú.",
+            "t": "A",
+            "v": "813708_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Haz tu mejor risa falsa.",
+            "t": "A",
+            "v": "822687_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Te olvidaste el nombre de alguien en una fiesta... ¿Cómo lo llamas?",
+            "t": "A",
+            "v": "813714_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué situación completamente incómoda es cada uno?",
+            "t": "A",
+            "v": "813701_1",
+            "n": "Prompt"
+        }
+    ]
+}

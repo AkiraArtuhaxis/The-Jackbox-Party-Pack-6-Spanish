@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "No hay nada de malo en una combustión lenta.",
+            "t": "A",
+            "v": "819864_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Estás haciendo que todo el mundo se maree.",
+            "t": "A",
+            "v": "819863_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién tiene la vibra más juvenil?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es tu mejor chiste corto que sacas para ocasiones como esta?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿A quién toma más tiempo conocerle bien?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene el horario diario más errático?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Todos necesitamos dejarlo salir a veces.",
+            "t": "A",
+            "v": "819862_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Haz de cuenta que eres Nicholas Sparks. Describe un momento en el que dos enamorados están empapados por la lluvia.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Vas a tener que crecer uno de estos días.",
+            "t": "A",
+            "v": "819861_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién estornuda más?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Hm, eso debió haber sido vergonzoso.",
+            "t": "A",
+            "v": "819860_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "No olvides el protector solar.",
+            "t": "A",
+            "v": "819859_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Con quién puedes apagar el cerebro y relajarte por completo?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué reseña de Goodreads eres?",
+            "t": "A",
+            "v": "819852_1",
+            "n": "Prompt"
+        }
+    ]
+}

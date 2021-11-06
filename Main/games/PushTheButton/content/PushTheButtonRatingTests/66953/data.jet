@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me encantan las películas de acción.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Soy una máquina de baile.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Me ejercito constantemente.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Mis manos son armas mortales.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Mis manos son armas mortales.",
+        "t": "A",
+        "v": "890192_1",
+        "n": "HumanPromptAudio"
+    }]
+}

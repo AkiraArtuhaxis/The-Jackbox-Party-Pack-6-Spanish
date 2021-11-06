@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Libros en la saga <i>Oz<\/i> de L. Frank Baum",
+            "t": "A",
+            "v": "816263_1",
+            "n": "Q"
+        }
+    ]
+}

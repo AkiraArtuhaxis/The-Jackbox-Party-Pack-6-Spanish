@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Nadie sabe lo que esto significa, pero eres tú",
+            "t": "A",
+            "v": "819004_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Estás seguro de que no eres un PG-13 que solo se jacta mucho?",
+            "t": "A",
+            "v": "819003_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién puede morir de repente de la manera más gráfica?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Dónde está el lugar más interesante que has estado desnudo?... Por favor, usa tu propia definición de interesante.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué sustancia usarías todos los días incluso si se volviera ilegal?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Explica el punto en el que la simple desnudez se vuelve desnudez gráfica.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "La vida es mi sustancia no descripta predilecta",
+            "t": "A",
+            "v": "819002_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "De en serio, ¿qué significa “elementos temáticos”?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Te recomiendo Trivia Murder Party!",
+            "t": "A",
+            "v": "819001_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la primer escena de sexo que has visto en una película?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Yo también!",
+            "t": "A",
+            "v": "819000_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Bueno me voy *bip*",
+            "t": "A",
+            "v": "818999_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién no podría terminar un discurso de inicio de secundaria sin decir malas palabras?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Por qué recibirías una calificación de +18 años?",
+            "t": "A",
+            "v": "818992_1",
+            "n": "Prompt"
+        }
+    ]
+}

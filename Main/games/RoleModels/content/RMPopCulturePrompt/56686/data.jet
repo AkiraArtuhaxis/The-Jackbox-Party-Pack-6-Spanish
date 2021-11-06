@@ -1,0 +1,157 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Me huele a una secuela",
+            "t": "A",
+            "v": "812194_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Colas largas y orejas para sombreros",
+            "t": "A",
+            "v": "812193_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién arreglaría su propio auto?",
+            "t": "A",
+            "v": "812197_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién comería más hamburguesas?",
+            "t": "A",
+            "v": "812196_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Los gatos fueron tomados.... así que, ¿cuál sería el nombre de tu acto musical basado en animales?",
+            "t": "A",
+            "v": "812199_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Con quién es más probable que seas amigo-enemigo?",
+            "t": "A",
+            "v": "812198_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Eres una chica rica....",
+            "t": "A",
+            "v": "812192_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Eres el rol de al lado",
+            "t": "A",
+            "v": "812191_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué habilidad mágica te ayudaría a sobrevivir la secundaria?",
+            "t": "A",
+            "v": "822899_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Pesada es la cabeza...",
+            "t": "A",
+            "v": "812190_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Eres el adolescente favorito de América",
+            "t": "A",
+            "v": "812189_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién es más probable que tenga dos citas en una noche?",
+            "t": "A",
+            "v": "812195_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje clásico de los cómics de Archie eres?",
+            "t": "A",
+            "v": "812182_1",
+            "n": "Prompt"
+        }
+    ]
+}

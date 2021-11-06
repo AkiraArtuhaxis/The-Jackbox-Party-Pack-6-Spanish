@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de estos NO es un álbum de Janelle Monáe?",
+            "t": "A",
+            "v": "770300_1",
+            "n": "Q"
+        },
+        {
+            "s": "Esta pregunta seguro los deje a algunos en la cuerda floja...",
+            "t": "A",
+            "v": "770307_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[<i>The Electric Lady<\/i>] [<i>Sex Machina<\/i>] [<i>The ArchAndroid<\/i>] [<i>Dirty Computer<\/i>]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

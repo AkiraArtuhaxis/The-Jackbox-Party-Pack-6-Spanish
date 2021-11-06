@@ -1,0 +1,158 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡¡¡Eres una bestia!!!",
+            "t": "A",
+            "v": "803688_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "El papá asesino de Arya",
+            "t": "A",
+            "v": "803687_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién NO quiere estar a cargo... y que realmente, no quiere?",
+            "t": "A",
+            "v": "810794_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Escuchemos tu más intenso “¡Dracarys!”",
+            "t": "A",
+            "v": "810793_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Usando una lapicera o lápiz, ¡muéstranos tu mejor atajada de cuchillo!",
+            "t": "A",
+            "v": "810796_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Termina esta declaración: “Eso es lo que hago, bebo y....”",
+            "t": "A",
+            "v": "810795_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Miren su mano izquierda, gente!",
+            "t": "A",
+            "v": "803686_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Tu necesitas más amor como el buen chico que es Fantasma",
+            "t": "A",
+            "v": "817722_0",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Irónicamente, no quieres probablemente este rol.",
+            "t": "A",
+            "v": "803685_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Hey... Estoy seguro que has tenido tus razones.",
+            "t": "A",
+            "v": "803684_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Verdaderamente espero que tu inteligencia no haya sido sobrevalorada",
+            "t": "A",
+            "v": "803683_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si de repente hubiera un incendio, ¿quién estaría más histérico?",
+            "t": "A",
+            "v": "817723_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Tal como “Madre de dragones, rompedora de cadenas”, ¿cuáles son algunos títulos que podrían adjuntarse a tu nombre?",
+            "t": "A",
+            "v": "810792_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de <i>Game of Thrones<\/i> combina mejor con ustedes?",
+            "t": "A",
+            "v": "803676_1",
+            "n": "Prompt"
+        }
+    ]
+}

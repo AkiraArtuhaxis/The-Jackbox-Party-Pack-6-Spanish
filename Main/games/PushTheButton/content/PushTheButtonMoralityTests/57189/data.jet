@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "paz mundial",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "millones de dólares",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "un caballo parlante",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Encuentras a un genio con un menú ilimitado de deseos. Tú le dices \u201cDeseo...\u201d",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Encuentras a un genio con un menú ilimitado de deseos. Tú le dices \u201cDeseo...\u201d",
+            "t": "A",
+            "v": "823503_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

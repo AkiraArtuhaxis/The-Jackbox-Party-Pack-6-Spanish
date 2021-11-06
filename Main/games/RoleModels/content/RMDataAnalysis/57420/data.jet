@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Estás teniendo una cita rápida. ¿Cuál es tu atrapante frase de apertura?",
+            "t": "A",
+            "v": "830554_1",
+            "n": "Prompt"
+        }
+    ]
+}

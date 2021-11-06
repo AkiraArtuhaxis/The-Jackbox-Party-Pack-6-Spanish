@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Te permiten llevar puesto literalmente lo que quieras al trabajo. ¿Cómo vas vestido?",
+            "t": "A",
+            "v": "829400_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Te toca batear.",
+            "t": "A",
+            "v": "810981_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Woo hoo!",
+            "t": "A",
+            "v": "810980_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién alberga claramente el nivel más profundo de estrés oculto?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es el menos probable que se le acuse de nada?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién sin lugar a duda pasó por Margaritaville?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es un talento secreto que la gente podría no saber que tienes?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Qué matizado.",
+            "t": "A",
+            "v": "810979_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Si fueras candidato de presidente, ¿Quién te gustaría que trabajase en tu campaña?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Todo está bien.",
+            "t": "A",
+            "v": "810978_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Muéstranos tu más gentil y pensado movimiento de cabeza.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Aleluya.",
+            "t": "A",
+            "v": "810977_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué sala en la casa es el mejor lugar para una placa de un pescado cantante?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Llévate al río.",
+            "t": "A",
+            "v": "810976_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Canta una canción corta, pero mantén el cuerpo quieto a excepción de tu cabeza.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué pieza de basura divertida eres?",
+            "t": "A",
+            "v": "810969_1",
+            "n": "Prompt"
+        }
+    ]
+}

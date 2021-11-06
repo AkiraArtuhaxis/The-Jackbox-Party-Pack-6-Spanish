@@ -1,0 +1,181 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Qué actividad diaria mejoraría teniendo un instructor enfadado y sudoroso gritándote?",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Este rol viene con 3 meses gratis y una botella de agua",
+            "t": "A",
+            "v": "809899_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Igual",
+            "t": "A",
+            "v": "809898_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si dieras una clase de spinning, ¿cómo la llamarías?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuántos cachorros crees que podrías levantar?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es lo peor que puedes hacer en una cinta de correr?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Estás solo con alguien en el baño de vapor... ¿Cómo rompes el hielo?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Las toallas no son opcionales",
+            "t": "A",
+            "v": "809897_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién estaría más confundido por un bowflex?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Espero que estés preparado para sudar!",
+            "t": "A",
+            "v": "809896_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién pagaría una cuota mensual para no tener un enfrentamiento con alguien?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "En forma y responsable",
+            "t": "A",
+            "v": "809895_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Escribe una sentencia de tres palabras que lograría que cancelen tu membresía del gimnasio inmediatamente.",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Bien!",
+            "t": "A",
+            "v": "809894_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Muestra tu estiramiento preferido",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué está haciendo cada uno en el gimnasio?",
+            "t": "A",
+            "v": "809887_1",
+            "n": "Prompt"
+        }
+    ]
+}

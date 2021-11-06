@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "sacudirlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "soltarlo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "matarlo",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu canción empieza a sonar en el club. ¿Qué haces con tu cuerpo?",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu canción empieza a sonar en el club. ¿Qué haces con tu cuerpo?",
+            "t": "A",
+            "v": "825828_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

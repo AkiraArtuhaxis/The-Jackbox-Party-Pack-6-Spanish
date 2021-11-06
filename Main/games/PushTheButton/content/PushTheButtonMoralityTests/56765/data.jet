@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "le realizas la maniobra de Heimlich",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "le das dinero",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "le pides perdón",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Secretamente y accidentalmente le das de comer carne a tu amigo/a vegano/a. Entonces...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Secretamente y accidentalmente le das de comer carne a tu amigo/a vegano/a. Entonces...",
+            "t": "A",
+            "v": "813922_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

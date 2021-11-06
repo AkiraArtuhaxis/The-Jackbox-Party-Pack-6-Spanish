@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Qué quiere decir “10-4”?",
+            "t": "A",
+            "v": "798959_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según mis archivos, el asesino no tiene ningún conocimiento de códigos de camioneros de radiocomunicaciones.  Así que dime...",
+            "t": "A",
+            "v": "798966_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[what’s your location] [stand by] [please repeat] [message received]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "s": "¿Pensé que los podcasts eran para personas que no tienen empleo?",
+            "t": "A",
+            "v": "813219_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Mmm, comidas gourmet de una caja de cartón",
+            "t": "A",
+            "v": "813218_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es el sitio más increíble que aún no existe?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Predice la fecha y hora en la que la última carta física será enviada?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Responde como colchón: ¿Cuál es la razón más ridícula por la que alguien te ha devuelto durante el período de 90 días de devoluciones?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué patrocinador de podcasts es cada uno?",
+            "t": "A",
+            "v": "813207_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "Los oídos son los nuevos ojos",
+            "t": "A",
+            "v": "813217_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Finalmente! ¡El futuro de los sellos postales!",
+            "t": "A",
+            "v": "813216_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "El único colchón nombrado por un fantasma animado",
+            "t": "A",
+            "v": "813215_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Hackeando en el mainframe...AHORA",
+            "t": "A",
+            "v": "813214_1",
+            "n": "RevealJoke0"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "\u201cTe pago para que te detengas\u201d",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "\u201cHablemos sobre esto\u201d",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "\u201cAdelante\u201d",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu hijo/a sin talento quiere que lo lleves a una audición de teatro comunitario. Tú ABSOLUTAMENTE NO dirías...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu hijo/a sin talento quiere que lo lleves a una audición de teatro comunitario. Tú ABSOLUTAMENTE NO dirías...",
+            "t": "A",
+            "v": "832310_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

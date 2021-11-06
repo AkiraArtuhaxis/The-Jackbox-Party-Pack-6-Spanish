@@ -1,0 +1,364 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log": "Si escuchas el océano, casi siempre se está burlando de ti.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log2", 
+            "id": 2, 
+            "log": "¡Hoy descubrí que la mayonesa es un excelente sustituto del protector solar si no te importa la piel crujiente!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log3", 
+            "id": 3, 
+            "log": "Nadie usa la sauna a las 7AM. ¡Es un gran lugar para llorar solo!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log4", 
+            "id": 4, 
+            "log": "Una vez pensé que había visto un faro, pero resultó ser una farola. Aún no entiendo qué hacía una farola en el medio del océano.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log5", 
+            "id": 5, 
+            "log": "Estoy pensando en iniciar un podcast sobre ballenas llamado ¿PODrás Sobrevivir en el Mar?.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log6", 
+            "id": 6, 
+            "log": "Mi video de YouTube \u201cVelas Épicas\u201d recibió otras cuatro visitas hoy.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log7", 
+            "id": 7, 
+            "log": "Recordatorio: Intentar no golpear nada con el bote hoy.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log8", 
+            "id": 8, 
+            "log": "Accidentalmente me uní a una línea de conga hoy. Supongo que a veces el ritmo TE atrapa. Procede con precaución.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log9", 
+            "id": 9, 
+            "log": "\u201cSi pescas cumplidos, podrías TAMBALEARTE\u201d, pondré eso en una remera. ¿Cuántas debería hacer? ¿25 mil?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log10", 
+            "id": 10, 
+            "log": "Me enamoré de una gaviota persistente, pero descubrí más tarde que solo estaba buscando mi almuerzo.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log11", 
+            "id": 11, 
+            "log": "Puse agua salada en mi avena. Lo llamo BARCAVENA\u2026 Hoy he vomitado cuatro veces.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log12", 
+            "id": 12, 
+            "log": "¡No puedo creer que no conseguí esa actuación de orador pescado! ¡¡Casi hago que los peces paguen!!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log13", 
+            "id": 13, 
+            "log": "Hay buenos barcos y hay huecos en barcos, pero los mejores barcos son los BARCODES.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log14", 
+            "id": 14, 
+            "log": "Aún no he tenido noticias de Sandra Bullock. ¿¿Se olvidó de que yo era consultor en Speed ​​2: Cruise Control??", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log15", 
+            "id": 15, 
+            "log": "¿Cuántas botellas de plástico hay en el fondo del océano? Pienso en esto cada vez que tiro una por la borda.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log16", 
+            "id": 16, 
+            "log": "Debería cambiar el nombre del río lento por algo más positivo. ¿Río Dormilón? ¿Río que solo necesita motivación?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log17", 
+            "id": 17, 
+            "log": "Derramé café accidentalmente por todo el manual de funcionamiento del barco. ¡Hablando de presagios!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log18", 
+            "id": 18, 
+            "log": "Haciendo un buen progreso en mi libro de autoayuda \u201cCómo pasar de un Cap 1 a un Cap 10\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log19", 
+            "id": 19, 
+            "log": "Ha sido un día difícil. Otro niño robó mi pistola de bengalas y me disparó en el trasero.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log20", 
+            "id": 20, 
+            "log": "Tengo un buen progreso en mi parodia de Sir Mix-a-Lot \u201cI like big BOATS and I cannot lie\u2026\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log21", 
+            "id": 21, 
+            "log": "Tener arena en la ropa interior es malo. ¿Peor aún? Que suceda porque te sentaste en un reloj de arena. ¡¡¡AUCH!!!", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log22", 
+            "id": 22, 
+            "log": "Idea de camiseta: \u201cEn la orilla uno brilla.\u201d Hmmm, mejor guardo este modelo en una caja fuerte.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log23", 
+            "id": 23, 
+            "log": "Me pregunto si alguien se dio cuenta de que ninguno de los inodoros funciona.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log24", 
+            "id": 24, 
+            "log": "¿Puedo quitarme un mameluco? En serio, ¿cómo me quito esto?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log25", 
+            "id": 25, 
+            "log": "Nunca aceptes una apuesta doble de intentar saltar la red de voleibol. El chico me dejó colgado allí durante 3 horas.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log26", 
+            "id": 26, 
+            "log": "Encontré un mensaje en la botella pero resultó ser spam.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log27", 
+            "id": 27, 
+            "log": "Idea de tatuaje: \u201cESTA a la vista.\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log28", 
+            "id": 28, 
+            "log": "Idea de tatuaje: STINGRAY LIOTTA.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log29", 
+            "id": 29, 
+            "log": "Idea de libro: Primer Colega: La Guía De Un Capitán De Citas", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log30", 
+            "id": 30, 
+            "log": "Extraño muchas cosas de estar en tierra. Por ejemplo, me pregunto qué estará haciendo El Joven Sheldon\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log31", 
+            "id": 31, 
+            "log": "Estoy bastante seguro de que acabo de ver a un delfín espía\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log32", 
+            "id": 32, 
+            "log": "Observación: las sábanas ajustables son difíciles de poner en la cama. Puede haber una broma divertida aquí\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log33", 
+            "id": 33, 
+            "log": "Otra mañana exitosa en la que nadie notó que mi insignia es solo un caramelo.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log34", 
+            "id": 34, 
+            "log": "Otra familia del medio oeste se quedó atascada en el tobogán de agua. Tuve que usar la grúa otra vez.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log35", 
+            "id": 35, 
+            "log": "Hice un buen progreso en mi libro de autoayuda \u201cYo, Yo... Una Guía De Un Capitán De Ponerse En Primer Lugar\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log36", 
+            "id": 36, 
+            "log": "El spa me dio todos sus pepinos usados. ¡Esta noche voy a comer como un rey!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log37", 
+            "id": 37, 
+            "log": "Puse tocino en mi ensalada hoy porque soy un chico malo.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log38", 
+            "id": 38, 
+            "log": "Alguien preguntó si vivo en el gimnasio. Pensé que era un cumplido hasta que asumieron que no tenía hogar.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log39", 
+            "id": 39, 
+            "log": "Me acabo de dar cuenta de que estaba usando dos zapatos diferentes. Peor aún: los estaba usando en mis manos.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log40", 
+            "id": 40, 
+            "log": "Tom Hanks respondió. Aparentemente, el Capitán Phillips NO se basó en mí. :(", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log41", 
+            "id": 41, 
+            "log": "Me metí en un debate con algunos terraplanistaas. Me sentiré muy avergonzado si nos caemos del borde de la tierra.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log42", 
+            "id": 42, 
+            "log": "Accidentalmente hice llorar a una niña después de que le dije que es muy probable que las sirenas tengan intoxicación por mercurio.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log43", 
+            "id": 43, 
+            "log": "El 80% de los pasajeros van en scooter. He encontrado mi escuadrón.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log44", 
+            "id": 44, 
+            "log": "Tres semanas después y este barco TODAVÍA huele a juggalos. Guau.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log45", 
+            "id": 45, 
+            "log": "Call Me Maybe > Call me Ishmael ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log46", 
+            "id": 46, 
+            "log": "Me puse una concha marina en la oreja, pero todo lo que escuché fue una llamada automática.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log47", 
+            "id": 47, 
+            "log": "Hice la famosa receta de estofado de tina de agua de mi mamá.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log48", 
+            "id": 48, 
+            "log": "Dejé caer otro teléfono en el orificio de una ballena hoy.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log49", 
+            "id": 49, 
+            "log": "Duro día. Tomé una siesta junto a la piscina y me confundieron con un juguete inflable.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log50", 
+            "id": 50, 
+            "log": "Solo un tercio del camino a través de la lectura del manual de funcionamiento del barco. Es tan aburrido. ¡Qué pachorra!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log51", 
+            "id": 51, 
+            "log": "Puede que no tenga mucho dinero, pero tengo esta idea de remera: el frente dice CABALLITO DE MAR y la parte trasera dice CABALLITO DE TIERRA.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log52", 
+            "id": 52, 
+            "log": "Mi habitación empieza a sentirse como una celda de prisión. Creo que por su pequeño tamaño y todas esas barras de metal...", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log53", 
+            "id": 53, 
+            "log": "Probé un nuevo chiste anoche. \u201c¿Por qué Dios odia a los delfines? ¡Porque los MARSOPAPEAN!\u201d No salió bien.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log54", 
+            "id": 54, 
+            "log": "Los de limpieza están enloqueciendo. Siguen doblando mi toalla como una serpiente.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log55", 
+            "id": 55, 
+            "log": "Recreé el momento del rey del mundo con el conserje. Tiene manos muy suaves.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log56", 
+            "id": 56, 
+            "log": "Chiste que probar: ¡¿Por qué los llaman percebes y no PEZCEBES?! [pausa para cinco minutos de risa]", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log57", 
+            "id": 57, 
+            "log": "25 años en un barco y nunca nadie me ha dibujado desnudo. Es hora de tomar el asunto con mis propias manos.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log58", 
+            "id": 58, 
+            "log": "¡Día del puerto mañana! ¡¡Planeo perforarme las orejas en un Drilling!!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log59", 
+            "id": 59, 
+            "log": "Estoy pensando en hacerme un flequillo\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log60", 
+            "id": 60, 
+            "log": "Acabo de descubrir qué es el planking. ¡Ahora la gente literalmente camina sobre mí!", 
+            "x": false
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de estos aparatejos se usa para mirar los oídos?",
+            "t": "A",
+            "v": "778369_2",
+            "n": "Q"
+        },
+        {
+            "s": "Cielos, ¿te mostré mi colección de dispositivos médicos? Sé que en el Juramento Hipocrático se atribuye \"no hacer daño\", pero uso estos bebés para el daño más dañino.",
+            "t": "A",
+            "v": "778376_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[otoscope] [gyroscope] [baroscope] [stethoscope]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

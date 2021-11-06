@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "esperar para hablar con él",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "dejar una nota",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "solo irte",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Es tiempo de darle a tu hijo \u201cla plática\u201d pero llega tarde de la escuela. Deberías...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Es tiempo de darle a tu hijo \u201cla plática\u201d pero llega tarde de la escuela. Deberías...",
+            "t": "A",
+            "v": "816606_2",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

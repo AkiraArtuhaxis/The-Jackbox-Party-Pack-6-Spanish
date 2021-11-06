@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué pasa si mojas un mogwai?",
+            "t": "A",
+            "v": "791064_1",
+            "n": "Q"
+        },
+        {
+            "s": "¡Mis padres nunca me dejaron tener mascotas! ¡Pero ahora los tengo a USTEDES! (ríe de manera malvada)",
+            "t": "A",
+            "v": "791071_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[it multiplies] [it sings] [it melts] [it turns into a gremlin]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

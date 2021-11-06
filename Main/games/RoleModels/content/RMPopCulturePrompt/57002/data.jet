@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡¿Recuerdas esto?! ¡Esperamos que sí!",
+            "t": "A",
+            "v": "818891_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Necesito una sirena venti en la mañana.",
+            "t": "A",
+            "v": "818890_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Hemos probado círculos, hemos probado cuadrados... ¿Cuál sería la forma de tus hamburguesas?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Como Rey de las hamburguesas, ¿cuál sería tu primer decreto?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién se sentiría como en casa al comer pollo frito en un pórtico de Kentucky?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡A todos les gustaría jugar contigo!",
+            "t": "A",
+            "v": "818889_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Eres un chihuahua pequeño. ¿Cómo deberíamos llamarte?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Eres más que fresco, eres helado",
+            "t": "A",
+            "v": "818888_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Pide una orden del café más increíble y complicado que se te pueda ocurrir.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Tienes una sonrisa espeluznante, muy espeluznante",
+            "t": "A",
+            "v": "818887_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿En qué extraño líquido te gustaría vivir como sirena?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¿Le gustaría acompañar con papas fritas ese rol?",
+            "t": "A",
+            "v": "818886_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién atraparía finalmente al ladrón de las hamburguesas?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué ícono de la comida rápida resume mejor tu personalidad?",
+            "t": "A",
+            "v": "818879_1",
+            "n": "Prompt"
+        }
+    ]
+}

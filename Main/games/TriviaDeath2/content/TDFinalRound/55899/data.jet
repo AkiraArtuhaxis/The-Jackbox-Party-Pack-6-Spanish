@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Nacidos en Sudáfrica",
+            "t": "A",
+            "v": "797909_1",
+            "n": "Q"
+        }
+    ]
+}

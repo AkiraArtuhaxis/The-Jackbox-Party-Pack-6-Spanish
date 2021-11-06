@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Un psíquico de mascotas va ha enlazarte con cualquier animal que desees. ¿Cuál eliges?",
+            "t": "A",
+            "v": "829608_1",
+            "n": "Prompt"
+        }
+    ]
+}

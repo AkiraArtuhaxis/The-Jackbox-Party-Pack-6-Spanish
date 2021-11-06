@@ -1,0 +1,149 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Una araña gigante se mueve por el marco de tu ventana. ¿Qué haces al respecto?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién canta a todo volumen cuando suena el himno nacional?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Eres el orgulloso miembro de un sindicato. ¿Cuál?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién ha pasado más tiempo montado a caballo?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿Es un paquete de carne lo que tienes en la mano? o simplemente es... no importa.",
+            "t": "A",
+            "v": "804968_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién es más alto?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Bien hecho, compadre.",
+            "t": "A",
+            "v": "804967_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Describe las virtudes del color marrón.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Me gustas un poco con un halo.",
+            "t": "A",
+            "v": "804966_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Te saludo.",
+            "t": "A",
+            "v": "804965_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué equipo de la NFL combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "804958_1",
+            "n": "Prompt"
+        }
+    ]
+}

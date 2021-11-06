@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Qué único embellecimiento le añadirías a la <i>Mona Lisa<\/i>?",
+            "t": "A",
+            "v": "833880_1",
+            "n": "Prompt"
+        }
+    ]
+}

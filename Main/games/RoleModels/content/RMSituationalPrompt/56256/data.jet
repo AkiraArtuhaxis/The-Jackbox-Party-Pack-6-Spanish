@@ -1,0 +1,175 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Lo que sea que tenías que decir seguro no era importante.",
+            "t": "A",
+            "v": "804490_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién ha hablado menos durante el juego?",
+            "t": "A",
+            "v": "807253_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué es lo más vergonzoso que tu jefe podría escuchar que estás haciendo?",
+            "t": "A",
+            "v": "806985_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Discúlpate con Janet, por favor.",
+            "t": "A",
+            "v": "807255_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién ha estado más confundido durante este juego, incluso cuando hemos explicado todo tan bien?",
+            "t": "A",
+            "v": "807254_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Oh, estoy seguro de que a Jane no le importa en absoluto.",
+            "t": "A",
+            "v": "804488_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¡Escuchemos tu voz de robot!",
+            "t": "A",
+            "v": "807256_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "En caso de que no te hayas enterado, obtuviste la mayoría de votos... lo que significa... la mayoría de la gente te eligió... para este rol.",
+            "t": "A",
+            "v": "804486_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿El cerebro de quién es posiblemente un enredo de circuitos y cables?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "No digas más.",
+            "t": "A",
+            "v": "804485_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¡¿Quién es más probable que me INTERRUMPA con alguna BRILLANTE OBSERVACIÓN mientras HAGO ESTA PREGUNTA?!",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es un mensaje de texto que enviarías durante una reunión aburrida?",
+            "t": "A",
+            "v": "806984_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Quién sería cada uno de ustedes en una llamada de conferencia corporativa?",
+            "t": "A",
+            "v": "804478_2",
+            "n": "Prompt"
+        }
+    ]
+}

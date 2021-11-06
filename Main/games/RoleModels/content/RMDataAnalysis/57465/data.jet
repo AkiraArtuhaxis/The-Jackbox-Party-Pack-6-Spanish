@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si tu vida fuera un videojuego, ¿cuál sería el jefe final que deberías derrotar?",
+            "t": "A",
+            "v": "831330_1",
+            "n": "Prompt"
+        }
+    ]
+}

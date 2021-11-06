@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Boom!",
+            "t": "A",
+            "v": "802654_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Veo cómo te has metido en esta situación.",
+            "t": "A",
+            "v": "802653_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Nombra al perro.",
+            "t": "A",
+            "v": "802657_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Con qué haces malabares cuando no estás usando cuchillos?",
+            "t": "A",
+            "v": "802656_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Tienes una mano en el trapecio, pero ¿Qué hay en tu otra mano?",
+            "t": "A",
+            "v": "821177_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién demanda más atención cuando entra a una habitación?",
+            "t": "A",
+            "v": "821176_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Auch. Auch. Auch.",
+            "t": "A",
+            "v": "802652_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Levántate y haz algo para emocionarnos a todos.",
+            "t": "A",
+            "v": "821179_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿Mencioné que el perro también está encima de un perro?",
+            "t": "A",
+            "v": "802651_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién deja el mayor desorden donde sea que vaya?",
+            "t": "A",
+            "v": "821178_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Lo has conseguido con la mayor facilidad.",
+            "t": "A",
+            "v": "802650_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Oh, tienes el sombrero elegante.",
+            "t": "A",
+            "v": "802649_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién te hace reír por las razones equivocadas?",
+            "t": "A",
+            "v": "821180_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién es el mejor saliendo de un aprieto?",
+            "t": "A",
+            "v": "802655_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué acto de circo es cada uno de ustedes?",
+            "t": "A",
+            "v": "802642_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Ítems del menú de Taco Bell",
+            "t": "A",
+            "v": "795569_1",
+            "n": "Q"
+        }
+    ]
+}

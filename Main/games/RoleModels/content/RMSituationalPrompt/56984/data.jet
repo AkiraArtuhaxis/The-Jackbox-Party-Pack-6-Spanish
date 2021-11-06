@@ -1,0 +1,167 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Bien bien. Igual igual.",
+            "t": "A",
+            "v": "818425_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Es un disfraz de Halloween ideal.",
+            "t": "A",
+            "v": "818424_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuánto dinero se necesitaría para que envíes a un hombre inocente a la cárcel?",
+            "t": "A",
+            "v": "823675_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Demuestra la mirada y sonrisa asesinas del niño aterrador de <i>La profecía<\/i>.",
+            "t": "A",
+            "v": "818427_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién te asustaría más ver en tu puerta con un disfraz de payaso completo?",
+            "t": "A",
+            "v": "823677_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Si fueras un mochilero, ¿qué diría tu cartel?",
+            "t": "A",
+            "v": "823676_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Por esto odio el circo.",
+            "t": "A",
+            "v": "818423_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Demuestra como harías dedo al lado de una calle vacía en una noche oscura y tormentosa.",
+            "t": "A",
+            "v": "823691_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Corre con mami.",
+            "t": "A",
+            "v": "818422_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Responde como una bestia de piel roja con cuernos: ¿Cómo se ve la casa de tus sueños?",
+            "t": "A",
+            "v": "823687_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Eres un diablo sexy.",
+            "t": "A",
+            "v": "818421_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "\"La libertad, cariño, es nunca tener que pedir perdón.\"",
+            "t": "A",
+            "v": "818420_2",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es la frase que usarías a la hora de recoger un extraño solitario para robarle su alma?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué tipo de diablo de película son?",
+            "t": "A",
+            "v": "818413_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "secretamente reemplazarlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "dejarlo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "deshacerte de él",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "El pony de tu hija muere mientras ella está en la escuela. Deberías entonces...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "El pony de tu hija muere mientras ella está en la escuela. Deberías entonces...",
+            "t": "A",
+            "v": "818380_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

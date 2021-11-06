@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "encarcelado",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "celebrado",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "ejecutado",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un hombre se pasa una señal de alto porque cree que las leyes de tránsito son estúpidas. Él debería ser...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un hombre se pasa una señal de alto porque cree que las leyes de tránsito son estúpidas. Él debería ser...",
+            "t": "A",
+            "v": "823551_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿De qué te gustaría tener una dotación vitalicia?",
+            "t": "A",
+            "v": "829842_1",
+            "n": "Prompt"
+        }
+    ]
+}

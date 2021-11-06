@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Ganas $10.000 en la lotería. ¿Qué es lo primero que haces con el dinero?",
+            "t": "A",
+            "v": "829205_1",
+            "n": "Prompt"
+        }
+    ]
+}

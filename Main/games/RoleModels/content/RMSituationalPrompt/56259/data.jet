@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Los monstruos marinos también comen.",
+            "t": "A",
+            "v": "804550_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Qué mal timing. Nueva Inglaterra es súper liberal en estos tiempos.",
+            "t": "A",
+            "v": "804549_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué sacrificarías para conseguir algo de penicilina?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Acabas de sufrir una herida mortal. ¿Cuáles son tus ultimas palabras?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Mientras eres quemado en la hoguera, ¿qué hechizo lanzarías para afligir a tus torturadores?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene más estómago para las películas de horror?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Es tan difícil conseguir una prescripción para eso!",
+            "t": "A",
+            "v": "804548_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Supongo que valió la pena.",
+            "t": "A",
+            "v": "804547_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién sería lo suficientemente valiente para ir a nadar solo en el Lago Ness?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Lucirás genial con chaleco en tu funeral.",
+            "t": "A",
+            "v": "804546_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Ni siquiera sabes lo que es la Estrella Polar, ¿Verdad?",
+            "t": "A",
+            "v": "804545_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿A quién NUNCA le pedirías indicaciones?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo hubiera muerto cada uno de ustedes en 1610?",
+            "t": "A",
+            "v": "804538_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me encanta acampar.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "No me molestan los espacios pequeños.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Quiero ver el mundo.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Me gustaría vivir en una casa rodante.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Me gustaría vivir en una casa rodante.",
+        "t": "A",
+        "v": "818834_1",
+        "n": "HumanPromptAudio"
+    }]
+}

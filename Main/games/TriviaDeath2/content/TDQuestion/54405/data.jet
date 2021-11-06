@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿¡¿¡Qué más es extraño sobre el ornitorrinco!?!?",
+            "t": "A",
+            "v": "773630_1",
+            "n": "Q"
+        },
+        {
+            "s": "Es un mamífero que pone huevos, es venenoso...",
+            "t": "A",
+            "v": "773637_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[It doesn’t have a stomach] [It doesn’t have a heart] [It doesn’t have a brain] [It doesn’t have bones]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

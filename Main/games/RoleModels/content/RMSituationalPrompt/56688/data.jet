@@ -1,0 +1,181 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Esta la siento muy real.",
+            "t": "A",
+            "v": "812280_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Respondiste un RSVP para tu QEPD.",
+            "t": "A",
+            "v": "812279_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué te tiene estresado?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Muéstrale a la habitación cómo sonarías mientras caes de un acantilado particularmente alto.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cómo moriste?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es algo que no te molestaría que te persiga?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Corre!",
+            "t": "A",
+            "v": "812278_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es la peor clase de todas en la que estar desnudo?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Tienes muel-ísimas agallas.",
+            "t": "A",
+            "v": "812277_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Analiza esta pesadilla. ¿Qué crees que significa soñar con insectos arrastrándose debajo tu piel?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¿Algo así cómo recargas de papitas ilimitadas?",
+            "t": "A",
+            "v": "812276_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Oh, y hay una prueba también.",
+            "t": "A",
+            "v": "812275_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si pudieras reemplazar tus dientes perdidos por cualquier cosa en el mundo, ¿qué cosa sería?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién era la persona número uno que no querías que te viera desnudo en la escuela secundaria?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué pesadilla son?",
+            "t": "A",
+            "v": "812268_1",
+            "n": "Prompt"
+        }
+    ]
+}

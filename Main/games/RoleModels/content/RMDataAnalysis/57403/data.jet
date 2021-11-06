@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Tienes un deseo... pero tienes que expresarlo con mucho cuidado. ¿Qué deseas?",
+            "t": "A",
+            "v": "830024_1",
+            "n": "Prompt"
+        }
+    ]
+}

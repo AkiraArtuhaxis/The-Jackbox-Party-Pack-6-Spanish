@@ -1,0 +1,173 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Sé que José todavía tiene un lugar especial para ti en su corazón.",
+            "t": "A",
+            "v": "805434_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "“Tengo un 72% de seguridad de que te amo”",
+            "t": "A",
+            "v": "805433_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Hora de la imitación: Échate el cabello hacia atrás, levanta las cejas con sorpresa y di: “Oh... oh... oh Ross? ¡Oh!\"",
+            "t": "A",
+            "v": "805437_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Cuéntanos lo que realmente piensas de los tabloides de los supermercados.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién usa los productos más caros para el cabello y para la piel?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Eres el robot del oeste definitivo!",
+            "t": "A",
+            "v": "805432_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién gestionaría un respetable burdel en el Viejo Oeste?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Es como que siempre has estado atascado en un segundo equipo... ¡hasta ahora!",
+            "t": "A",
+            "v": "805431_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿La vida romántica de quién es más tranquila que lo que la gente piensa?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "No me importa cuanto cuesta la crema hidratante, ¡no envejeces nunca!",
+            "t": "A",
+            "v": "805430_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién podría plantarse en una habitación con Will Ferrell?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Solo voy a decirlo -- me encantan tus pómulos.",
+            "t": "A",
+            "v": "805429_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién sacrificaría la fama por una oportunidad interesante?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿La vida de quién estaría incompleta sin tatuajes y niños?",
+            "t": "A",
+            "v": "805435_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Quién se parece más a cada una de las ex-parejas de Brad Pitt?",
+            "t": "A",
+            "v": "805422_1",
+            "n": "Prompt"
+        }
+    ]
+}

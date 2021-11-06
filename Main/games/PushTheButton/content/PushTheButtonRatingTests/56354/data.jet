@@ -1,0 +1,64 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Usualmente me decepciono en los últimos episodios de las series de televisión.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Puedo hacer una fogata.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "La playa está sobrevalorada.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Pepperoni es el mejor ingrediente de pizza.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "Me comería una bolsa de vidrio roto por 11 dólares.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Me comería una bolsa de vidrio roto por 11 dólares.",
+        "t": "A",
+        "v": "806126_1",
+        "n": "HumanPromptAudio"
+    }]
+}

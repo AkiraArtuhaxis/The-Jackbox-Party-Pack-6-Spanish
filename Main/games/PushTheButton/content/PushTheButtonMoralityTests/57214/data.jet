@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "quedarte callado/a",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "reportarlo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "matarlo",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Descubres que Pie Grande es real e inteligente. Te ruega que olvides que lo viste. Deberías...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Descubres que Pie Grande es real e inteligente. Te ruega que olvides que lo viste. Deberías...",
+            "t": "A",
+            "v": "824482_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

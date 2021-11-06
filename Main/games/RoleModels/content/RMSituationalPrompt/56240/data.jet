@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Hey, es bueno verte de vuelta!",
+            "t": "A",
+            "v": "804160_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "He hecho eso antes.",
+            "t": "A",
+            "v": "804159_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es el nombre de tu amigo mono?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Están en el bar, ¿Quién es más probable que obtenga más de 1 número de teléfono?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién puede saltar más alto (Imaginen un tiburón para inspiración)?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿El mono piensa en ti como un amigo?",
+            "t": "A",
+            "v": "804158_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién es más probable que caiga en una estafa piramidal?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Odio cuando eso sucede.",
+            "t": "A",
+            "v": "804157_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién siempre se olvida las llaves?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Oye, si puedes con ello...",
+            "t": "A",
+            "v": "804156_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¿Esto cuenta?",
+            "t": "A",
+            "v": "804155_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién se avergonzaría a sí mismo para llamar la atención?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué pasó en el controversial episodio en el que fuiste cancelado?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué argumento alocado de sitcom mejor combina con cada uno de ustedes?",
+            "t": "A",
+            "v": "804148_1",
+            "n": "Prompt"
+        }
+    ]
+}

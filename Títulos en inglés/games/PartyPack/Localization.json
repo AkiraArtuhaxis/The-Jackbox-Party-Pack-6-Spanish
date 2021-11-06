@@ -1,0 +1,75 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Acabamos de encontrar la internet.",
+        "INTERNET_DISCONNECTED": "Disculpa, no podemos conectarnos a los servidores de Jackbox Games.<br /> Por favor verifica que tu conexión de internet está funcionando correctamente.",
+        "ROOM_DESTROYED": "Disculpa, hubo un error de conexión y tu sala fue destruida.<br />Por favor verifica que tu conexión de internet está funcionando correctamente.",
+        "SOCKET_DISCONNECTED": "Disculpa, perdimos tu conexión a los servidores de Jackbox Games.",
+        "TIMEOUT": "Disculpa, no podemos conectarnos a los servidores de Jackbox Games.<br />Por favor verifica que tu conexión de internet está funcionando correctamente.",
+        "USER_DISCONNECT": "Disculpa, el servidor te ha desconectado. Por favor intente de nuevo.",
+        "LOST_LICENSE": "Disculpa, ¡perdimos la licencia de este contenido!",
+        "STEAM_ERROR": "Disculpa, no pudimos validar tu licencia de Steam.",
+        "TWITCH_PRIME_ERROR": "Disculpa, no pudimos validar tu licencia de Twitch.",
+        "LOST_DLC": "Disculpa, la licencia para tu DLC no pudo ser encontrada. Regresando al menú...",
+        "CLOSE": "Cerrar",
+        "QUIT": "Salir",
+        "BACK": "Atrás",
+        "MENU_GAME_NAME_1": "TRIVIA MURDER PARTY 2",
+        "MENU_GAME_NAME_2": "ROLE MODELS",
+        "MENU_GAME_NAME_3": "JOKE BOAT",
+        "MENU_GAME_NAME_4": "DICTIONARIUM",
+        "MENU_GAME_NAME_5": "PUSH THE BUTTON",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "AJUSTES",
+        "MENU_HOW_TO": "CÓMO JUGAR",
+        "BADGE_TITLE_PLAYERS": "JUGADORES",
+        "BADGE_TITLE_FAMILY_MODE": "PARA TODA LA FAMILIA",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "NO PARA TODA LA FAMILIA",
+        "BADGE_TITLE_AUDIENCE": "AUDIENCIA",
+        "BADGE_SUB_PLAYERS": "USA CELULARES/TABLETS",
+        "BADGE_SUB_FAMILY_MODE": "OPCIONAL",
+        "BADGE_SUB_NOT_FAMILY_MODE": "¡EN SERIO!",
+        "BADGE_SUB_AUDIENCE": "MÁS PUEDEN JUGAR",
+        "INFO_DESCRIPTION_GAME_1": "Un asesino serial está armando un juego absurdo de trivia desde su Hotel Asesino de la familia con la que vivía. ¿Podrás sobrevivir?",
+        "INFO_DESCRIPTION_GAME_2": "Todos somos alguien, asi que, ¿quién eres? ¿El planificador? ¿El especial? ¿El picante? Entra al laboratorio y descúbrelo.",
+        "INFO_DESCRIPTION_GAME_3": "¡Ahoy! Eres un comediante amateur en un crucero de cuarta. ¿Tienes lo que se necesita para ganar el show de talento?",
+        "INFO_DESCRIPTION_GAME_4": "El ser humano ha estado inventando palabras y frases por siglos. Ahora es tu turno para contribuir una entrada en las páginas del Diccionarium.",
+        "INFO_DESCRIPTION_GAME_5": "¡Peligro! Alienígenas cambia-forma se han infiltrado en tu nave. ¿Pueden tú y tu tripulación encontrarlos antes que se acabe el tiempo?",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "AJUSTES",
+        "SETTINGS_FULL_SCREEN": "Pantalla completa",
+        "SETTINGS_VOLUME": "Volumen",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "SÍ hará que los juegos estén en pantalla completa.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Haz del juego uno RUIDOSO o CALLADO.",
+        "SETTINGS_TOGGLE_ON": "SÍ",
+        "SETTINGS_TOGGLE_OFF": "NO",
+        "HELP_TITLE": "INSTRUCCIONES",
+        "HELP_LINE_1": "Elige un juego utilizando un mando.",
+        "HELP_LINE_2": "Cuando llegues al lobby, tome tu celular, tablet o laptop.",
+        "HELP_LINE_3": "Dirígete a jackbox.tv en tu dispositivo.",
+        "HELP_LINE_4": "Ingresa el código de 4 letras mostrado en la pantalla de tu TV y tu nombre como jugador.",
+        "HELP_LINE_5": "El primer jugador en unirse al lobby del juego (el VIP) puede comenzar el juego desde su dispositivo cuando todos estén listos.",
+        "HELP_LINE_6": "Disfruta con tus amigos, familia, o completos desconocidos.",
+        "HELP_URL": "help.jackboxgames.com"
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}

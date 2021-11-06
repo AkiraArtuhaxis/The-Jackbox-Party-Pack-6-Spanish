@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál es tu película preferida para cuando estás de muy mal humor?",
+            "t": "A",
+            "v": "829972_1",
+            "n": "Prompt"
+        }
+    ]
+}

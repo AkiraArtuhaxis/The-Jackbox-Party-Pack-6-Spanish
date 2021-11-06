@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Esto ES un super poder",
+            "t": "A",
+            "v": "809936_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Ningún rol puede contenerte",
+            "t": "A",
+            "v": "809935_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es el más controlador?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Elige a alguien en la habitación y escribe en que está pensando en este momento.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién tiene la cara más elástica? ¡Adelante!",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién probablemente podría convencerte de hacer algo estúpido y peligroso?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Hay aspectos positivos y negativos en este rol",
+            "t": "A",
+            "v": "809934_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Haz que llueva!",
+            "t": "A",
+            "v": "809933_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién puede hacer la mejor imitación de Frasier Crane?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Pero tu sabías esto",
+            "t": "A",
+            "v": "809932_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Eres tu mejor tú en lo que haces",
+            "t": "A",
+            "v": "809931_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Hablemos de sanación emocional... ¿Cuál es la mejor manera de superar una separación?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué poder mutante mejor describe su personalidad?",
+            "t": "A",
+            "v": "809924_1",
+            "n": "Prompt"
+        }
+    ]
+}

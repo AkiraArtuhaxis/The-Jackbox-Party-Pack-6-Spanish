@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "un juego de <i>Jackbox Party Pack 5<\/i>",
+            "n": "PromptText"
+        },
+        {
+            "s": "un juego de <i>Jackbox Party Pack 5<\/i>",
+            "t": "A",
+            "v": "799436_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

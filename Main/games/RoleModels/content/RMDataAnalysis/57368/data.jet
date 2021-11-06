@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Te encuentras una libreta telefónica llena de los números de teléfono personales de celebridades. ¿Qué haces con él?",
+            "t": "A",
+            "v": "829101_1",
+            "n": "Prompt"
+        }
+    ]
+}

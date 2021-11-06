@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Si yo fuera gángster, me llamaría a mi mismo...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de mi primera mascota fue...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "El nombre de la calle en la que crecí es...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Si yo fuera bailarín/bailarina, mi nombre artístico sería...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Si yo fuera bailarín/bailarina, mi nombre artístico sería...",
+            "t": "A",
+            "v": "803315_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

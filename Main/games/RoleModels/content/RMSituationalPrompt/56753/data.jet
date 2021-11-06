@@ -1,0 +1,154 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Amor libre!",
+            "t": "A",
+            "v": "813672_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Muestra la postura defensiva que adoptarías.",
+            "t": "A",
+            "v": "813681_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es la declaración de tesis de tu discurso anti-matrimonio?",
+            "t": "A",
+            "v": "813684_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién te costaría darte cuenta si estuviera bromeando?",
+            "t": "A",
+            "v": "813683_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Aquellos que aman la atención, regalan atención.",
+            "t": "A",
+            "v": "813671_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es el nombre del primo o prima incómodo/a con quién forzaras a que baile tu víctima más tarde?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Quizá en broma deberías proponer matrimonio también...lol",
+            "t": "A",
+            "v": "813670_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "En la noche, te preguntan respecto a dónde estabas. ¿Qué dices?",
+            "t": "A",
+            "v": "813685_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Sí, entren!",
+            "t": "A",
+            "v": "813669_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Comprometido a tu miedo al compromiso.",
+            "t": "A",
+            "v": "813668_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué es la cosa más extraña a la que le has tenido miedo?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué harías durante el lanzamiento del ramo en una boda?",
+            "t": "A",
+            "v": "813661_1",
+            "n": "Prompt"
+        }
+    ]
+}

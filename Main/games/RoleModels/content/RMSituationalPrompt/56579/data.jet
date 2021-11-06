@@ -1,0 +1,160 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Añadir queso sería demasiado loco",
+            "t": "A",
+            "v": "809606_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eres mi compañero predilecto de fiesta",
+            "t": "A",
+            "v": "809605_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Qué sonido haces luego de comer algo picante?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Además de “camaroncito gigante”, ¿cuál es tu oxímoron favorito?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es tu dip preferido?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién retuvo por más tiempo su manta de la infancia?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Tengo celos de lo acogedor que eres",
+            "t": "A",
+            "v": "809604_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Tu Scoville se pasa de la escala!",
+            "t": "A",
+            "v": "809603_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si estuvieras enfermo, ¿quién querrías que cuide de ti?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Elegante, muy elegante",
+            "t": "A",
+            "v": "809602_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Inventa el nombre de una nueva salsa caliente que probablemente deberías evitar.",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué parece picante pero en realidad es muy dulce?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué aperitivo son?",
+            "t": "A",
+            "v": "809594_1",
+            "n": "Prompt"
+        }
+    ]
+}

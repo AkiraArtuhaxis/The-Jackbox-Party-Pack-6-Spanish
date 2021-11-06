@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "La vida alienígena probablemente sí existe.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "No puedo comerme un plátano demasiado marudo.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Algunas teorías de conspiración tienen su mérito.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "El gobierno fingió el alunizaje.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "El gobierno fingió el alunizaje.",
+        "t": "A",
+        "v": "832214_1",
+        "n": "HumanPromptAudio"
+    }]
+}

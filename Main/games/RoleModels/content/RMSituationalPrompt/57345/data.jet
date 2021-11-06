@@ -1,0 +1,145 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "guiño",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "la madre naturaleza lo demanda",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién contaría constantemente la historia sobre aquella vez que se hicieron caca en los pantalones?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué ubicación realmente necesita baños más convenientes?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién no tendría ningún problema para seguir adelante con su día después de cagar sus pantalones?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién se asusta más fácilmente?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿Como la fila para el baño?",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Investigando tu novela?",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es un término mejor para “cagar”?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Mucho trabajo y un flujo incontrolable",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Los sándwiches de carne caen como patada al hígado",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál fue la cosa más arriesgada que hayas comido?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de estas explicaciones la razón más probable por la que hipotéticamente te habrías hecho caca en los pantalones?",
+            "t": "A",
+            "v": "828164_1",
+            "n": "Prompt"
+        }
+    ]
+}

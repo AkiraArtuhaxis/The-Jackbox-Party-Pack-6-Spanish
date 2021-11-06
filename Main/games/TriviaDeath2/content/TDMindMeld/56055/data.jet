@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "una categoría de Premio Nobel",
+            "n": "PromptText"
+        },
+        {
+            "s": "una categoría de Premio Nobel",
+            "t": "A",
+            "v": "800839_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

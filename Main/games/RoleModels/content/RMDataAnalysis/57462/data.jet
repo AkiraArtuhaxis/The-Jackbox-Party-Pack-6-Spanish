@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Tus amigos te están ayudando a mudarte. ¿Qué les darías por su trabajo físico?",
+            "t": "A",
+            "v": "831252_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál es la peor parte de asistir a fiestas universitarias?",
+            "t": "A",
+            "v": "829920_1",
+            "n": "Prompt"
+        }
+    ]
+}

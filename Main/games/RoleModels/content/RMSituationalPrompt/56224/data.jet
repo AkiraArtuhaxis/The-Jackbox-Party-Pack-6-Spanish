@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Justo como la solía calentar mamá.",
+            "t": "A",
+            "v": "803860_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Aquí va una para tu viejo cerebro de fideo.",
+            "t": "A",
+            "v": "803859_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién siempre tiene frío?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién se maneja mejor con un presupuesto limitado?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es la forma más elegante de saludar a alguien?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es el ingrediente más decadente pero inesperado que podrías agregarle a una papá horneada?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Tan frío.",
+            "t": "A",
+            "v": "803858_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Ten cuidado. Esa papa está cargada.",
+            "t": "A",
+            "v": "803857_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Explica por qué los “gustos” están sobrevalorados.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "LA-ANGOSTA.",
+            "t": "A",
+            "v": "803856_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Eres bueno para la alma.",
+            "t": "A",
+            "v": "803855_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién preferirías tener alrededor cuando estás enfermo?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué sopa combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "803848_1",
+            "n": "Prompt"
+        }
+    ]
+}

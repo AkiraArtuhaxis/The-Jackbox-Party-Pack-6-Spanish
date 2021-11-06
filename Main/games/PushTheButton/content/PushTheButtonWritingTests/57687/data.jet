@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Dos celebridades con las que me gustaría pasar el rato son...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Dos celebridades que me parecen increibles son...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dos celebridades de las que escucho hablar todo el tiempo son...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Dos celebridades que a las personas mayores les gustan son...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Two celebrities older people like are...",
+            "t": "A",
+            "v": "834807_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

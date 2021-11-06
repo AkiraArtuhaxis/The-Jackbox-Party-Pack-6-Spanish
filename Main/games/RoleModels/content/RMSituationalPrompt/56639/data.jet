@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Oh, hey.",
+            "t": "A",
+            "v": "810943_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Honk, honk.",
+            "t": "A",
+            "v": "810942_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Dime rufián, antes de experimentar con orinales. ¿Qué fue lo más impresionante que prendiste fuego?",
+            "t": "A",
+            "v": "810946_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Haz un sonido de pedo complicado y con muchos matices.",
+            "t": "A",
+            "v": "810945_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "En 3 palabras o menos, describe el peor sonido de pedo.",
+            "t": "A",
+            "v": "821933_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién sería acusado de crímenes de nerd?",
+            "t": "A",
+            "v": "821932_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Tut.",
+            "t": "A",
+            "v": "810941_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién es la última persona en irse de una fiesta?",
+            "t": "A",
+            "v": "821935_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Todos dieces.",
+            "t": "A",
+            "v": "810940_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién ha conducido el vehículo más grande?",
+            "t": "A",
+            "v": "821934_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Los jerbos van a estar bien, ¿verdad?",
+            "t": "A",
+            "v": "810939_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Se quema.",
+            "t": "A",
+            "v": "810938_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Haz tu mejor imitación de Matthew McConaughey.",
+            "t": "A",
+            "v": "821936_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿A quién le interesaban más los caballos de pequeño?",
+            "t": "A",
+            "v": "810944_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Quién es cada uno de ustedes castigado después de clases?",
+            "t": "A",
+            "v": "810931_2",
+            "n": "Prompt"
+        }
+    ]
+}

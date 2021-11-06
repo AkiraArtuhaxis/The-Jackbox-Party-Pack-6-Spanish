@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Casi como el verdadero!",
+            "t": "A",
+            "v": "804450_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Aterrador.",
+            "t": "A",
+            "v": "804449_2",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién se deleita más con las deficiencias de otras personas?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué ingrediente llevaría a las galletas con malvavisco al siguiente nivel?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Okey, señor falso, ¿cuál es tu mejor o peor frase de levante?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién conoce realmente las reglas del reciclado correcto?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Mmm... maíz.",
+            "t": "A",
+            "v": "804448_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué secreto oscuro has estado ocultando del mundo?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Auch!",
+            "t": "A",
+            "v": "804447_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Squish.",
+            "t": "A",
+            "v": "804446_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Como una roca.",
+            "t": "A",
+            "v": "804445_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién mantiene sus sentimientos más profundamente enterrados?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿De qué están hechos?",
+            "t": "A",
+            "v": "804438_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Quiero cambiarme el color de mi cabello.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Tengo muchos zapatos.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Odio los fuegos artificiales.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Quiero cambiarme el nombre.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Quiero cambiarme el nombre.",
+        "t": "A",
+        "v": "823365_1",
+        "n": "HumanPromptAudio"
+    }]
+}

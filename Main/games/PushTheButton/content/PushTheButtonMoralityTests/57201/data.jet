@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Keanu Reeves",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Beyoncé",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dwayne \u201cLa Roca\u201d Johnson",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un accidente grave obliga a los cirujanos a injertar tu cabeza en el cuerpo de un voluntario. El voluntario que eliges es a...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un accidente grave obliga a los cirujanos a injertar tu cabeza en el cuerpo de un voluntario. El voluntario que eliges es a...",
+            "t": "A",
+            "v": "823917_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "la ciudad de Nueva York",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "el centro de Nevada",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Miami Beach",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Eres un hombre-lobo. Es luna llena. Para la seguridad de todos, debes llegar rápidamente a...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Eres un hombre-lobo. Es luna llena. Para la seguridad de todos, debes llegar rápidamente a...",
+            "t": "A",
+            "v": "824506_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

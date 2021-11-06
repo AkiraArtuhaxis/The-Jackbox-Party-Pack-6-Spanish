@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Descubres un micrófono que puede transmitir un mensaje a todas las personas de la Tierra. ¿Qué dices?",
+            "t": "A",
+            "v": "833108_1",
+            "n": "Prompt"
+        }
+    ]
+}

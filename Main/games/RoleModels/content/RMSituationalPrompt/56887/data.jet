@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Muy normal. Muy bueno.",
+            "t": "A",
+            "v": "815998_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "A rockear.",
+            "t": "A",
+            "v": "815997_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Tenemos que saber. ¿Qué es lo que está haciendo bultos?",
+            "t": "A",
+            "v": "817480_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Muéstrale a la habitación como se despierta un vampiro.",
+            "t": "A",
+            "v": "816000_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién tiene actualmente más cremalleras en su ropa?",
+            "t": "A",
+            "v": "817482_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es emocional como un signo de agua del zodíaco?",
+            "t": "A",
+            "v": "817481_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "el mundo es tu colchón",
+            "t": "A",
+            "v": "815996_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Además de todas las cosas que escuchas en las películas... ¿Cuál es la verdadera debilidad de un vampiro?",
+            "t": "A",
+            "v": "817484_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Es posible que seas una mala cama, pero también eres un terrible sofá.",
+            "t": "A",
+            "v": "815995_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién se pone firme cuando la situación se vuelve dura?",
+            "t": "A",
+            "v": "817483_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "A surfear.",
+            "t": "A",
+            "v": "815994_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Arrodíllense, plebeyos.",
+            "t": "A",
+            "v": "815993_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Demuestra como es un verdadero saludo real.",
+            "t": "A",
+            "v": "817485_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué jugador es más probable que duerma en pijamas de seda?",
+            "t": "A",
+            "v": "815999_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué tipo de cama es cada uno de ustedes?",
+            "t": "A",
+            "v": "815986_1",
+            "n": "Prompt"
+        }
+    ]
+}

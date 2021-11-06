@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si pudieras diseñar una habitación en una Casa Embrujada, ¿cuál sería?",
+            "t": "A",
+            "v": "829153_1",
+            "n": "Prompt"
+        }
+    ]
+}

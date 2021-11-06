@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál es el mejor tema para una suite romántica de un hotel?",
+            "t": "A",
+            "v": "831760_1",
+            "n": "Prompt"
+        }
+    ]
+}

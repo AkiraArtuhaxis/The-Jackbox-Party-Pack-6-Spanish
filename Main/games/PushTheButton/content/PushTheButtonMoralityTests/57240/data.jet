@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "devolverlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "seguir la corriente",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "destruirlo",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu asistente telefónico adquiere sensibilidad y te dice que te ama. Deberías...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu asistente telefónico adquiere sensibilidad y te dice que te ama. Deberías...",
+            "t": "A",
+            "v": "825354_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "Pude haber sido el/la mejor estudiante en mi graduación si me hubiera esforzado más.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Disfrute la secundaria.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Soy una de las mejores personas en mi trabajo.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Soy inteligente.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "El dinero me motiva.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "La universidad es una pérdida de tiempo.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Quiero tomar clases nocturnas.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Pude haber sido el/la mejor estudiante en mi graduación si me hubiera esforzado más.",
+        "t": "A",
+        "v": "818524_1",
+        "n": "HumanPromptAudio"
+    }]
+}

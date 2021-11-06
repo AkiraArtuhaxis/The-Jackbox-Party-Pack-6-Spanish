@@ -1,0 +1,168 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es más probable que vaya en un viaje de auto-descubrimiento de <i>Comer, rezar, amar<\/i> en Italia luego de haberse divorciado?",
+            "t": "A",
+            "v": "813584_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Muéstrale a la habitación cómo golpearías un tiburón.",
+            "t": "A",
+            "v": "813586_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es lo último que te gustaría ver cayendo al lado tuyo mientras haces paracaidismo?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es la primera frase que te gustaría aprender en italiano?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Okay, nerd. ¿Quién es tu personaje favorito de Shakespeare y por qué?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Cuál es el secreto de tu inmortalidad?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué sería algo más asombroso que podría haber dicho Neil Armstrong cuando camino en la luna por primera vez?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Ya que eres un buscador de emociones, ¿Cuál es la manera más emocionante en la que quieres morir?",
+            "t": "A",
+            "v": "813580_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué cosa en una lista de objetivos en la vida son?",
+            "t": "A",
+            "v": "813494_2",
+            "n": "Prompt"
+        }
+    ]
+}

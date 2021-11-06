@@ -1,0 +1,160 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "La buena noticia es que no tuviste que esperar mucho tiempo por ello.",
+            "t": "A",
+            "v": "803900_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Chucky, creo que necesitas un tiempo fuera.",
+            "t": "A",
+            "v": "803899_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Actúa como si un alien está saliendo de tu pecho.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es la peor pesadilla que hayas tenido?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál sería el peor juguete que podría cobrar vida y tratar de matarte?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién se vería mejor con trenzas?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién tiene la colección de suéteres más fea?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Discúlpame, tienes un poco de saliva en tu barbilla.",
+            "t": "A",
+            "v": "803897_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué error haría que acabes muerto en una película de terror?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡¿Quién hace tus uñas?!",
+            "t": "A",
+            "v": "803896_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Detrás de esa máscara hay una persona horrible esperando a salir!",
+            "t": "A",
+            "v": "803895_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién es más cercano a su mamá?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de película de terror mejor combina con cada uno?",
+            "t": "A",
+            "v": "803888_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Marcas de Coca-Cola",
+            "t": "A",
+            "v": "798123_1",
+            "n": "Q"
+        }
+    ]
+}

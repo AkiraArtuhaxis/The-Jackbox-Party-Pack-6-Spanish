@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Dibuja a un fantasma.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Dibuja a una figura histórica muerta.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Dibuja a una celebridad actual.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Dibuja a un fantasma famoso.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Dibuja a un fantasma famoso.",
+        "t": "A",
+        "v": "807549_0",
+        "n": "HumanPromptAudio"
+    }]
+}

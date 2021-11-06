@@ -1,0 +1,188 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Qué jugador definitivamente tendría una boda con temática de <i>Harry Potter<\/i>?",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "...sin comentarios...",
+            "t": "A",
+            "v": "819520_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Usas algo de sal, es súper efectiva\nOR\n¡Tu paladar está evolucionando!",
+            "t": "A",
+            "v": "819519_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién tendría las clasificaciones más altas en la escuela de magia?",
+            "t": "A",
+            "v": "819523_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿A dónde llevas a Batman en una salida como amigos?",
+            "t": "A",
+            "v": "819522_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cómo sería el sabor de Pikachu? No seas desagradable.",
+            "t": "A",
+            "v": "823306_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Crea el nombre de un personaje que podría existir en <i>Juego de Tronos<\/i>, pero que definitivamente no existe.",
+            "t": "A",
+            "v": "823305_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Disfruta haciendo enojar a la gente\nOR\ncreado por definitivamente no George R.R. Martin",
+            "t": "A",
+            "v": "819518_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Um... ¿Qué jugador sería el Jedi más poderoso?",
+            "t": "A",
+            "v": "823308_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Mazel tov!\nOR\nHarry Potter y la cámara de la bendición marital",
+            "t": "A",
+            "v": "819517_2",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién sería tu compañero en un videojuego?",
+            "t": "A",
+            "v": "823307_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Usualmente esas no son buenas noticias para tu familia.\nOR\nBueno, él me dijo que otro era su mejor amigo",
+            "t": "A",
+            "v": "819516_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "En esta fanfic, ¿a qué personaje de <i>Star Wars<\/i> te enfrentas en un combate de sables láser hasta el final?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Fluye por todo, pero especialmente por ti",
+            "t": "A",
+            "v": "819515_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién hace los mejores sonidos de sable láser?",
+            "t": "A",
+            "v": "819521_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿En qué pieza de fan fiction te autoinsertarías?",
+            "t": "A",
+            "v": "819508_1",
+            "n": "Prompt"
+        }
+    ]
+}

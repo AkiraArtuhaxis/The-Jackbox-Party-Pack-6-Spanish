@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Eres realmente indefinible.",
+            "t": "A",
+            "v": "802586_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Pensaba que eras demasiado chévere para usar etiquetas.",
+            "t": "A",
+            "v": "802585_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Metes tu mano en tu sombrero de copa, dices una palabra mágica, ¿y qué sacas?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién sería el mejor atajador de beisbol?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Si fueras un vaquero, ¿Cómo llamarías a tu caballo?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene más probabilidades de ir de mochilero por Europa?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Hola amigo.",
+            "t": "A",
+            "v": "802584_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Ah, oui.",
+            "t": "A",
+            "v": "802583_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Honestamente... ¿quién podría lucir un atuendo de terciopelo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Asumo que siempre tienes mostaza a mano.",
+            "t": "A",
+            "v": "802582_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Toma tu base, y este rol.",
+            "t": "A",
+            "v": "802581_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Explica por qué el vinilo es mejor que el digital.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué sombrero son?",
+            "t": "A",
+            "v": "802574_1",
+            "n": "Prompt"
+        }
+    ]
+}

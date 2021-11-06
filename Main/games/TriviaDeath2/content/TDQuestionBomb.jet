@@ -1,0 +1,397 @@
+{
+    "episodeid": 1393,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 57031,
+            "text": "[EventName=HOST/AltHost]Dice, “Cortar el cable terciario.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "blanco",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "rojo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 57030,
+            "text": "[EventName=HOST/AltHost]Dice, “Cortar el preantepenúltimo cable.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "rojo",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "negro",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56021,
+            "text": "[EventName=HOST/AltHost]Dice, \"Cortar el alambre que está en la misma posición que <i>La cámara de los secretos</i> en la saga de Harry Potter.\"",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "rojo",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "negro",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55990,
+            "text": "[EventName=HOST/AltHost]Dice, “Corte el cable que tiene el mismo color que el nombre de Morgan Freeman en <i>Shawshank Redemption/Sueños de libertad</i>.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "rojo",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarillo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55972,
+            "text": "[EventName=HOST/AltHost]Dice, “Corte el cable que que tiene el mismo color que Plaza del Parque en un tablero estándar de Monopoly.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarillo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "rojo",
+                    "text": ""
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55910,
+            "text": "[EventName=HOST/AltHost]Solo dice, “Corte el último cable que sea del mismo color que el sombrero del hombre que cuida de Jorge el Curioso.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "rojo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarillo",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55908,
+            "text": "[EventName=HOST/AltHost]Dice, “Corta el cable que Pablo Picasso habría cortado entre 1901 y 1904.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "rojo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarillo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "correct": true,
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55905,
+            "text": "[EventName=HOST/AltHost]Dice, \"Corta el cable que sea del mismo color que la piedra del tiempo en <i>Avengers: Infinity War</i>\"",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "rojo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarillo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55877,
+            "text": "[EventName=HOST/AltHost]Dice que hay que cortar el cable “sable”.",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "negro",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "rojo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55875,
+            "text": "[EventName=HOST/AltHost]Dice: “Cortar el alambre que concuerde con el color que tradicionalmente llevan las ropas de las novias en China.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarillo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "rojo",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "blanco",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55827,
+            "text": "[EventName=HOST/AltHost]Dice: “Cortar el alambre que sea aproximadamente del mismo color que ‘smoky wisteria’ en el catálogo de J.Crew.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarillo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "blanco",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "violeta",
+                    "correct": true,
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55745,
+            "text": "[EventName=HOST/AltHost]Dice: “couper le fil vert.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "rojo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "naranja",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55457,
+            "text": "[EventName=HOST/AltHost]Dice: “Cortar el cable que tenga un color primario en la luz pero no en pigmento.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarillo",
+                    "text": "amarillo"
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": "azul"
+                },
+                {
+                    "controllerClass": "rojo",
+                    "text": "rojo"
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": "verde"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55351,
+            "text": "[EventName=HOST/AltHost]Las instrucciones dicen: “¡Cortar el cable VERDANTE!”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarillo",
+                    "text": "corta el cable AMARILLO"
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": "corta el cable AZUL"
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": "corta el cable VERDE"
+                },
+                {
+                    "controllerClass": "blanco",
+                    "text": "corta el cable BLANCO"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        }
+    ]
+}

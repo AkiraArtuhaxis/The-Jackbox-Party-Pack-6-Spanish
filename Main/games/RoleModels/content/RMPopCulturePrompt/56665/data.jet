@@ -1,0 +1,158 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "No son ningún Burt Reynolds, pero ¿quién lo es?",
+            "t": "A",
+            "v": "811731_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Si tuvieras que adoptar legalmente los hijos de uno de tus amigos, de quién serían?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Un reportador importante de la ciudad quiere conseguir una primicia de ti. ¿Quién pretende ser para ganarse tu confianza?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es el nombre de tu especial de comedia en Netflix?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Nadie quiere meterse con Zohan.",
+            "t": "A",
+            "v": "811730_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Si lo de ex mariscal de campo de fútbol americano no funciona, ¿cuál es tu personaje de Adam Sandler de repuesto?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Debes pelear con alguien usando solo tus pies. ¿Qué clase de zapatos utilizas?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué local de comida rápida debería Adam Sandler promocionar en su próxima película?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Di algo malvado en la peor voz de Adam Sandler que te puedas imaginar",
+            "t": "A",
+            "v": "811733_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de estos personajes de Adam Sandler es cada uno?",
+            "t": "A",
+            "v": "811720_1",
+            "n": "Prompt"
+        }
+    ]
+}

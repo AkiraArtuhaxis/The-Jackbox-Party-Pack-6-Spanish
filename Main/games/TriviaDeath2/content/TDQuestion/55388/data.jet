@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Según WebMD, ¿qué tan grandes son, aproximadamente, las chinches?",
+            "t": "A",
+            "v": "788945_2",
+            "n": "Q"
+        },
+        {
+            "s": "Mira, todo va bien en el hotel y no quiero ninguna pregunta de seguimiento sobre por qué sé esto, pero...",
+            "t": "A",
+            "v": "788952_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[an apple seed] [a sesame seed] [a pumpkin seed] [a mango seed]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

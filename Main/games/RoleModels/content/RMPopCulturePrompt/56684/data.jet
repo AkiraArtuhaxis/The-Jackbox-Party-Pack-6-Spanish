@@ -1,0 +1,168 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Halleloo a ti también",
+            "t": "A",
+            "v": "812138_2",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "El Diablo está en tus detalles",
+            "t": "A",
+            "v": "812137_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es más probable que haga campaña política?",
+            "t": "A",
+            "v": "812141_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién nunca diría la brusca verdad?",
+            "t": "A",
+            "v": "812140_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién derrotaría al diablo en una competición de su elección?",
+            "t": "A",
+            "v": "812143_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Bueno...¡veamos tu sashay más feroz!",
+            "t": "A",
+            "v": "812142_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Sashay te quedas",
+            "t": "A",
+            "v": "812136_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué haría que te echen de un reality show?",
+            "t": "A",
+            "v": "822648_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Yay ciencia!",
+            "t": "A",
+            "v": "812135_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Olvídate de “Hola”, ¿Cuál es una manera única de saludar a la gente?",
+            "t": "A",
+            "v": "822647_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Sí, tú",
+            "t": "A",
+            "v": "812134_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Has funcionado!",
+            "t": "A",
+            "v": "812133_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién es más probable que lidere una clase de Zumba?",
+            "t": "A",
+            "v": "812139_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué frase icónica de <i>RuPaul's Drag Race<\/i> es más probable que uses en tu vida?",
+            "t": "A",
+            "v": "812126_1",
+            "n": "Prompt"
+        }
+    ]
+}

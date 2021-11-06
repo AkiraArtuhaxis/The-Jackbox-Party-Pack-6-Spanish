@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Computadores Apple",
+            "t": "A",
+            "v": "822913_1",
+            "n": "Q"
+        }
+    ]
+}

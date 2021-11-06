@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "cortésmente",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "discretamente",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "seductoramente",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Una persona a tu lado en el autobús se hizo popó en los pantalones. La PEOR manera de decírselo es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Una persona a tu lado en el autobús se hizo popó en los pantalones. La PEOR manera de decírselo es...",
+            "t": "A",
+            "v": "827282_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

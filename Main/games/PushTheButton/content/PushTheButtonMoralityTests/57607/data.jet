@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "salir",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "quedarte adentro y relajarte",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "lidiar con eso más tarde",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Descubres que la llamada del asesino proviene del interior de la casa. Lo que harías después es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Descubres que la llamada del asesino proviene del interior de la casa. Lo que harías después es...",
+            "t": "A",
+            "v": "833442_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "uno de los siete países más grandes del mundo según masa terrestre",
+            "n": "PromptText"
+        },
+        {
+            "s": "uno de los siete países más grandes del mundo según masa terrestre",
+            "t": "A",
+            "v": "799069_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "decirle a todos",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "tenderle una trampa",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "irrumpir en su casa",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Crees que tu vecino es un asesino serial, pero necesitas pruebas. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Crees que tu vecino es un asesino serial, pero necesitas pruebas. Lo que debes hacer es...",
+            "t": "A",
+            "v": "819119_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

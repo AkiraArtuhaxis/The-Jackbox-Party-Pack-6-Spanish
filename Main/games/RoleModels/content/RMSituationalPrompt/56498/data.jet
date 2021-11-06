@@ -1,0 +1,154 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Los gatos te aman.",
+            "t": "A",
+            "v": "808325_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Muy presidencial.",
+            "t": "A",
+            "v": "808324_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién tiene el mayor talle de sombreros?",
+            "t": "A",
+            "v": "808328_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es el más descaradamente romántico?",
+            "t": "A",
+            "v": "808327_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es otra cosa que probablemente puedes ver desde el espacio?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Al menos tienes un techo sobre tu cabeza... generalmente hablando.",
+            "t": "A",
+            "v": "808323_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Para que utilizas todo ese hilo?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Me encanta tu postura.",
+            "t": "A",
+            "v": "808322_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál crees que es el propósito secreto de Stonehenge?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Hay mucho de ti para recorrer.",
+            "t": "A",
+            "v": "808321_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Bien joué!",
+            "t": "A",
+            "v": "808320_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¡Nadie se mueva!... Ahora, ¿Quién está sentado o de pie con más inclinación?",
+            "t": "A",
+            "v": "808326_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué lugares emblemáticos famosos son cada uno de ustedes?",
+            "t": "A",
+            "v": "808313_1",
+            "n": "Prompt"
+        }
+    ]
+}

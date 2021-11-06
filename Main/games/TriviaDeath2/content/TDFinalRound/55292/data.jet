@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Mascotas más antiguas que Ronald McDonald",
+            "t": "A",
+            "v": "786458_1",
+            "n": "Q"
+        }
+    ]
+}

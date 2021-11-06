@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Tu ni siquiera vas aquí.",
+            "t": "A",
+            "v": "805132_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Tienes un minuto disponible?",
+            "t": "A",
+            "v": "805131_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién llevaría un libro a un cine?",
+            "t": "A",
+            "v": "821788_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Baila mientras le cuentas a la habitación sobre las mascotas de tu infancia.",
+            "t": "A",
+            "v": "821787_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es algo que actualmente te apasiona muchísimo?",
+            "t": "A",
+            "v": "821790_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién ha llorado en su propia fiesta de cumpleaños?",
+            "t": "A",
+            "v": "821789_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿¿¿Poooor quuuué???",
+            "t": "A",
+            "v": "805130_2",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién haría un mejor trabajo aplicándose mascara al conducir?",
+            "t": "A",
+            "v": "821792_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Quiero decir, no va a terminarse por si sola.",
+            "t": "A",
+            "v": "805129_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién aparecería intencionalmente en una fiesta a la que fue accidentalmente invitado?",
+            "t": "A",
+            "v": "821791_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡FIES-TAAA!",
+            "t": "A",
+            "v": "805128_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Y de alguna manera también masticando chicle.",
+            "t": "A",
+            "v": "805127_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Haz contacto visual intenso con alguien en la sala y pregúntale si se preocupa por el medio ambiente.",
+            "t": "A",
+            "v": "821793_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "La música para: ¿Qué es lo mejor para gritar?",
+            "t": "A",
+            "v": "805133_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué persona de una fiesta universitaria sería cada uno de ustedes?",
+            "t": "A",
+            "v": "805120_1",
+            "n": "Prompt"
+        }
+    ]
+}

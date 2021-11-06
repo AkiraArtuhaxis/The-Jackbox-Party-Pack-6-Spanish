@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Ya rompiste la primera regla.",
+            "t": "A",
+            "v": "807694_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "A menos que quieras convencernos de lo contrario.",
+            "t": "A",
+            "v": "807693_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si fueras elegido, ¿qué brindarías a esta escuela?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Usa todas tus habilidades del club de debate para convencerlos a todos de que deberías obtener este rol.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién se uniría a un club solo para la foto en el anuario?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿De qué tema podrías hablar por horas?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Ah, oui.",
+            "t": "A",
+            "v": "807692_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿En quién confiarías para guardar un secreto?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Jaque mate.",
+            "t": "A",
+            "v": "807691_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es una frase nueva y asombrosa que podría reemplazar a “jaque mate”?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Creo que sabemos de quién viene el drama.",
+            "t": "A",
+            "v": "807690_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Tu gobiernas esta escuela.",
+            "t": "A",
+            "v": "807689_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién podría llorar más convincentemente para evitar recibir una multa de exceso de velocidad?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué club de secundaria son?",
+            "t": "A",
+            "v": "807682_1",
+            "n": "Prompt"
+        }
+    ]
+}

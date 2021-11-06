@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál es el snack perfecto para una fiesta?",
+            "t": "A",
+            "v": "829452_1",
+            "n": "Prompt"
+        }
+    ]
+}

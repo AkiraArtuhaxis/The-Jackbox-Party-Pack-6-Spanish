@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me gusta abrazar.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Me gusta pasar el rato con mis amigos/amigas.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "El café es vida.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Me gusta tomarme de la mano con mis amigos/amigas.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Me gusta tomarme de la mano con mis amigos/amigas.",
+        "t": "A",
+        "v": "818601_1",
+        "n": "HumanPromptAudio"
+    }]
+}

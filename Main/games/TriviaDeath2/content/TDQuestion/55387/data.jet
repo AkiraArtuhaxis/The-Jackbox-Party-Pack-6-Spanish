@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de estos pedazos de vejestorios pueden usar mis invitados para hacer café?",
+            "t": "A",
+            "v": "788934_2",
+            "n": "Q"
+        },
+        {
+            "s": "Mi presunto primo Aloysius dejó un montón de cosas viejas en un baúl la última vez que estuvo aquí.",
+            "t": "A",
+            "v": "788941_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[scintillator] [thermoregulator] [granulator] [percolator]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

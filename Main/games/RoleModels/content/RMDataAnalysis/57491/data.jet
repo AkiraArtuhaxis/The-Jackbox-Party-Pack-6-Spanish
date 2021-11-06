@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Tienes una hora extra por la mañana antes de trabajar. ¿Cómo la usas?",
+            "t": "A",
+            "v": "831824_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Eres molesto, pero tus amigos te mantienen cerca de todas formas.",
+            "t": "A",
+            "v": "803138_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Grita “¡Cielos!” como si acabaras de descubrir una pista.",
+            "t": "A",
+            "v": "803148_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "O sea, ¿Qué jugador dice \"o sea\" más frecuentemente en su vocabulario?",
+            "t": "A",
+            "v": "803147_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Cuándo hay un problema, ¿en quién confían para que idee el plan para resolverlo?",
+            "t": "A",
+            "v": "803150_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿A quién le importa más la moda?",
+            "t": "A",
+            "v": "803149_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es la frase célebre que gritarías si acabaras de descubrir una pista?",
+            "t": "A",
+            "v": "816749_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Sé tan molesto como puedas hasta que se acabe el tiempo.",
+            "t": "A",
+            "v": "803151_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Sabía que eras tu todo este tiempo...",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si estuviertas en una cita, ¿cómo ocultarías el hecho de que en realidad eres un perro de 30 centímetros?",
+            "t": "A",
+            "v": "816750_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién es más fácil de sobornar con comida?",
+            "t": "A",
+            "v": "803139_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de <i>Scooby-Doo<\/i> mejor combina con cada uno de ustedes?",
+            "t": "A",
+            "v": "803126_1",
+            "n": "Prompt"
+        }
+    ]
+}

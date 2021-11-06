@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Científicos ganadores del Nobel",
+            "t": "A",
+            "v": "783708_2",
+            "n": "Q"
+        }
+    ]
+}

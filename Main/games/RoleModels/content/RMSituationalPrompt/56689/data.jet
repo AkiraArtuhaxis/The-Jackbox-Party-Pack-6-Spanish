@@ -1,0 +1,101 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "s": "Yum yum yum.",
+            "t": "A",
+            "v": "812300_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "No necesitas una prescripción para eso.",
+            "t": "A",
+            "v": "812299_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Haz tu mejor voz de “niña pequeña poseída por el diablo”.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué hace que succiones tanto?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué práctica médica obsoleta son?",
+            "t": "A",
+            "v": "812288_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "No es una cirugía cerebral. Espera.",
+            "t": "A",
+            "v": "812298_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Pasa rápido.",
+            "t": "A",
+            "v": "812297_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Intento exorcizar durante 20 minutos todos los días.",
+            "t": "A",
+            "v": "812296_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Gracias por chupar.",
+            "t": "A",
+            "v": "812295_1",
+            "n": "RevealJoke0"
+        }
+    ]
+}

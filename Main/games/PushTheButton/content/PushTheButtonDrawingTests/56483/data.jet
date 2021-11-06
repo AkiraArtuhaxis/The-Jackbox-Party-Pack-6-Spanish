@@ -1,0 +1,88 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "Dibuja tu peor cita.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Dibuja un sueño que hayas tenído.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Dibuja una escena de película famosa.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Dibuja una mala cita.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Dibuja una pelea.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Dibuja una ruptura.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Dibuja un bicho de estómago.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Dibuja tu peor cita.",
+        "t": "A",
+        "v": "808132_0",
+        "n": "HumanPromptAudio"
+    }]
+}

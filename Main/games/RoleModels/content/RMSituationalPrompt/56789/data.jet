@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Slipknot? Más bien slip... ¡sí!",
+            "t": "A",
+            "v": "814251_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Me prestas algo de spray para el cabello",
+            "t": "A",
+            "v": "814250_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién tiene el mejor cabello para cabecear rockeando?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Si la muerte tuviera un trabajo remunerado, ¿cuál sería?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué objeto inanimado te asustaría más si de repente comenzara a hablar?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién tiene más multas por exceso de velocidad?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Qué viaje, loco.",
+            "t": "A",
+            "v": "814249_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué es lo más pesado que levantaste este mes?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "No tan rápido",
+            "t": "A",
+            "v": "814248_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la mejor manera de comer Korn (choclo)?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Verdaderamente eres el Maestro de las Marionetas",
+            "t": "A",
+            "v": "814247_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Alabado sea Satanás",
+            "t": "A",
+            "v": "814246_2",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Inventa el título de una nueva canción de la banda Cinderella.",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué género de metal son?",
+            "t": "A",
+            "v": "814239_3",
+            "n": "Prompt"
+        }
+    ]
+}

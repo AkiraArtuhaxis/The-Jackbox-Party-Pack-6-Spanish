@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Me pareces... decente.",
+            "t": "A",
+            "v": "807802_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Es necesario que uses tus gafas de sol adentro?",
+            "t": "A",
+            "v": "807801_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si pudieras elegir un animal adicional para llevar, ¿cuál sería?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es la cosa más elegante en la que gastaste dinero esta semana?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿En quién nunca confiarías como tu compañero si formaran un dúo?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es más probable que falsee su muerte?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Necesitas alguien que genere desorden y luego escape.",
+            "t": "A",
+            "v": "807800_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Haz o di algo que consiga que te aplauda el grupo.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "QEPD el VIP.",
+            "t": "A",
+            "v": "807799_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más probable que surfee encima de un auto... a lo Teen Wolf?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Te saludamos.",
+            "t": "A",
+            "v": "807798_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Cha-ching.",
+            "t": "A",
+            "v": "807797_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Calla a las multitudes de una manera condescendiente.",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué música heroica se reproduciría cuando entras al ring?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Si fueran un luchador profesional, ¿cuáles de estos serían los aspectos que los harían destacar?",
+            "t": "A",
+            "v": "807790_1",
+            "n": "Prompt"
+        }
+    ]
+}

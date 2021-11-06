@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Tan preparado.",
+            "t": "A",
+            "v": "831059_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Todavía despierto?",
+            "t": "A",
+            "v": "831058_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Alguien te mete en su cajón de trastos. ¿Con qué otro artículo inútil te haces amigo?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Después de que alguien te mastica por un tiempo, ¿A qué huele su aliento?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es lo mejor que has conseguido en menos de cinco horas?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Eres un DVD de comedia romántica de $6. ¿Cómo es la reseña escrita en la contraportada?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Podría quedarme dormida en las cejas de Peter Gallegher.",
+            "t": "A",
+            "v": "831057_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Cha Ching.",
+            "t": "A",
+            "v": "831056_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Eres encogido y enviado a luchar contra un ejército de gérmenes de gripe. ¿Cuál es el arma que eliges?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Fresco.",
+            "t": "A",
+            "v": "831055_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Lo usaste mejor!",
+            "t": "A",
+            "v": "831054_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿A quién describirías como \"una colección energizante de ingredientes misteriosos\"?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Vas a casarte con Danny Devito. ¿Cuál es el hashtag de su boda?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué objeto demasiado caro comprado impulsivamente es cada uno de ustedes?",
+            "t": "A",
+            "v": "831047_1",
+            "n": "Prompt"
+        }
+    ]
+}

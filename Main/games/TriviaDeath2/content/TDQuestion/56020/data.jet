@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál es la relación de los <i>Hermanos a la obra</i>?",
+            "t": "A",
+            "v": "800332_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según el perfil del asesino, nunca miran HGTV, así que no hay manera de que sepan la respuesta a esta pregunta. ¿Tú la sabes?",
+            "t": "A",
+            "v": "800339_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[they are not actually brothers] [they were born 10 months apart] [they are fraternal twins] [they are identical twins]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

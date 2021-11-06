@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "rehúsas y te vas",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "aceptas y te quedas",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "aceptas y te vas",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Una mujer te pide que cuides su bolso mientras va al baño. Tú...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Una mujer te pide que cuides su bolso mientras va al baño. Tú...",
+            "t": "A",
+            "v": "814138_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

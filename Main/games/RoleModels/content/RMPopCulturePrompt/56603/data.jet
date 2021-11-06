@@ -1,0 +1,181 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt10"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Te has asegurado el ídolo de inmunidad.",
+            "t": "A",
+            "v": "810041_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "El enlace faltante",
+            "t": "A",
+            "v": "810040_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Haz tu versión a capella de la canción de <i>Jeopardy<\/i>.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Si estuvieras en tu lecho de muerte, ¿qué querrías confesarle a Vanna White?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "OK, así que eres Steve Harvey. Describe tu traje favorito para llevar puesto mientras eres anfitrión de 100 latinoamericanos dicen.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Improvisa tu propio rap freestyle sobre por qué realmente eres Wayne Brady.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡La encuesta dice!",
+            "t": "A",
+            "v": "810039_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿De quién es este rol, por cierto?",
+            "t": "A",
+            "v": "810038_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Haz una imitación exagerada de Steve Harvey sorprendido por la respuesta de un concursante de 100 personas dicen.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Qué afortunado.",
+            "t": "A",
+            "v": "810037_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién es más probable que pueda sobrevivir en una isla desierta por un año?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¿Quién es un hombre que solía tener un bigote asombroso?",
+            "t": "A",
+            "v": "810036_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál de estos jugadores nunca se permitiría ser el eslabón más débil?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Inventa una palabra con la mayor cantidad de vocales posible.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué anfitrión de programas de juegos es cada uno?",
+            "t": "A",
+            "v": "810029_1",
+            "n": "Prompt"
+        },
+        {
+            "s": "¿Cuál es el peor trato que has hecho?",
+            "t": "A",
+            "n": "RevealPrompt10"
+        }
+    ]
+}

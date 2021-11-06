@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me gustan los video juegos violentos.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Prefiero hamburguesas que hot dogs.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Soy un buen cocinero/una buena cocinera.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Mi higiene personal está por debajo del promedio.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Mi higiene personal está por debajo del promedio.",
+        "t": "A",
+        "v": "806738_1",
+        "n": "HumanPromptAudio"
+    }]
+}

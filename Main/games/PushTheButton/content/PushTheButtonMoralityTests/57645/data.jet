@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "$0",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "$50",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "$100",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu peor enemigo/a está a $1 dólar de recaudar lo suficiente para una cirugía que salvará su vida. Tú donas...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu peor enemigo/a está a $1 dólar de recaudar lo suficiente para una cirugía que salvará su vida. Tú donas...",
+            "t": "A",
+            "v": "834052_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

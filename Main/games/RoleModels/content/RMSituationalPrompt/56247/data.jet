@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Pero dijiste que ibas a pasar...",
+            "t": "A",
+            "v": "804304_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Te entiendo, pero no te respeto.",
+            "t": "A",
+            "v": "804303_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si tuvieras que ver un video durante 14 horas, ¿Cuál sería?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es más probable que se quede dormido en la cena?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué jugador es más probable que este en la cama a las 9pm?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es un terrible eslogan para cigarrillos?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Oh, hola.",
+            "t": "A",
+            "v": "804302_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Ok, ahora haz “Compilación de mejores Vines Julio 2015”",
+            "t": "A",
+            "v": "804301_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Así que nunca llegaste a la fiesta. ¿Qué estuviste haciendo en su lugar?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Despierta y huele la cerveza.",
+            "t": "A",
+            "v": "804300_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué jugador es más probable que pierda un vuelo?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "En serio, gracias.",
+            "t": "A",
+            "v": "804299_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué jugador es más probable que tenga un canal secreto de Youtube?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Cuál es un enchastre que te niegas a tocar.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Dónde estaría cada uno de ustedes al final de una gran fiesta?",
+            "t": "A",
+            "v": "804292_1",
+            "n": "Prompt"
+        }
+    ]
+}

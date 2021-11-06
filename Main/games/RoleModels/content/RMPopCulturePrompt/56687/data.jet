@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Escuchemos tu versión",
+            "t": "A",
+            "v": "812224_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Esto es impactante",
+            "t": "A",
+            "v": "812223_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién ganaría una carrera de 100m?",
+            "t": "A",
+            "v": "812227_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién tiene más sangre latina en su interior?",
+            "t": "A",
+            "v": "812226_2",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién es más probable que críe niños para que luchen contra el crimen?",
+            "t": "A",
+            "v": "812229_2",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿A quién le disgustaría menos comer cerebros?",
+            "t": "A",
+            "v": "812228_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "No...tuZombie",
+            "t": "A",
+            "v": "812222_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡Revela un secreto sorprendente en tu mejor voz de telenovela!",
+            "t": "A",
+            "v": "822954_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Sí que piensas rápido",
+            "t": "A",
+            "v": "812221_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si hicieran un musical de Broadway sobre tu vida, ¿Cómo se llamaría?",
+            "t": "A",
+            "v": "812230_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Giro dramático!",
+            "t": "A",
+            "v": "812220_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Pero ¿eres más un Sam, o un Dean...?",
+            "t": "A",
+            "v": "812219_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál sería el mejor uso para la súper velocidad?",
+            "t": "A",
+            "v": "822955_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién probablemente tenga la historia de fantasmas más aterradora?",
+            "t": "A",
+            "v": "812225_2",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué serie dramática de CW es cada uno?",
+            "t": "A",
+            "v": "812212_1",
+            "n": "Prompt"
+        }
+    ]
+}

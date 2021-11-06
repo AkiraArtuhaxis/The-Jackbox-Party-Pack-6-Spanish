@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Tienes la oportunidad de escribir el primer mensaje a vida extraterrestre recién descubierta. ¿Qué dices?",
+            "t": "A",
+            "v": "831226_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "acusarlo/a",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "decirle que confiese",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "darle el visto bueno",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "La pareja de tu mejor amigo/a coquetea contigo. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "La pareja de tu mejor amigo/a coquetea contigo. Lo que debes hacer es...",
+            "t": "A",
+            "v": "805265_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

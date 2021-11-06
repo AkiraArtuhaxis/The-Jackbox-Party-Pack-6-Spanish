@@ -1,0 +1,154 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Lo entendemos. ¡Eres lluvioso!",
+            "t": "A",
+            "v": "817665_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Pequeño picarón",
+            "t": "A",
+            "v": "817664_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué actor interpretaría a tu hermano, si estuvieran haciendo una serie sobre ti?",
+            "t": "A",
+            "v": "817667_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es lo más extraño que hayas visto en tu tiempo como policía de Seattle?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Inventa el nombre de un manjar británico que no existe.",
+            "t": "A",
+            "v": "823695_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Fuiste mi primer crush",
+            "t": "A",
+            "v": "817663_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Haz una impresión de la aguja espacial.",
+            "t": "A",
+            "v": "823707_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cómo le va a Maris?",
+            "t": "A",
+            "v": "817661_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "El médico está presente",
+            "t": "A",
+            "v": "817660_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Responde como Eddie: Si tuvieras la oportunidad de hablar con Frasier, ¿qué le dirías?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién parece más el personaje principal de su propia historia de vida?",
+            "t": "A",
+            "v": "817666_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Qué personaje de <i>Frasier<\/i> combina mejor con cada uno de ustedes",
+            "t": "A",
+            "v": "817653_1",
+            "n": "Prompt"
+        }
+    ]
+}

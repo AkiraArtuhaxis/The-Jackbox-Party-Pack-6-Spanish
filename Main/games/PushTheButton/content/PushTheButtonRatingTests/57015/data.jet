@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me cae bien la gente de esta habitación.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Me la estoy pasando bien",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Me veo bien hoy.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Arruinaré a alguien de esta habitación... algún día.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Arruinaré a alguien de esta habitación... algún día.",
+        "t": "A",
+        "v": "819095_1",
+        "n": "HumanPromptAudio"
+    }]
+}

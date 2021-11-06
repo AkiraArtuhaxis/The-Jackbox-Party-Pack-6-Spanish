@@ -1,0 +1,150 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Abrazador de árboles.",
+            "t": "A",
+            "v": "806916_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es tu idea de una salida romántica por la noche?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿En quién no se puede confiar en que se tome las cosas seriamente?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién aprovecharía un evento cultural como una oportunidad para salir de fiesta?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Ese fue bueno. Me hiciste caer.",
+            "t": "A",
+            "v": "806915_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es el mejor árbol para abrazar?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¿Te traigo otra Dos Equis?",
+            "t": "A",
+            "v": "806914_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Eres adorable.",
+            "t": "A",
+            "v": "806913_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Me encanta tu disfraz de Vampiro-Barra-Sailor Moon!",
+            "t": "A",
+            "v": "806912_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es el mejor lugar para ir buscando descuentos?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cuál es tu disfraz de Halloween predilecto?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué fiesta no oficial combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "806905_1",
+            "n": "Prompt"
+        }
+    ]
+}

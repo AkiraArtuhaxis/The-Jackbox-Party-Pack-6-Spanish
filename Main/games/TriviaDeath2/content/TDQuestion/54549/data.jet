@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Los seres humanos tienen siete vértebras en el cuello, ¿pero cuántas tiene el cuello de una jirafa?",
+            "t": "A",
+            "v": "775119_2",
+            "n": "Q"
+        },
+        {
+            "s": "Aquí viene una pregunta donde cada palabra parece que está mal escrita.",
+            "t": "A",
+            "v": "775126_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[six] [seven] [eight] [ten]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

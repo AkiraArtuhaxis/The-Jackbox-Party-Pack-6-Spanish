@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Dibuja un Oso Teddy.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Dibuja a un oso de caricatura.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Dibuja a un oso feroz.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Dibuja a un oso.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Dibuja a un oso.",
+        "t": "A",
+        "v": "808216_0",
+        "n": "HumanPromptAudio"
+    }]
+}

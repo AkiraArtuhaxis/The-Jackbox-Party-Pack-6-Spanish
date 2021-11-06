@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿De qué marca es el eslogan “when it rains, it pours” (cuándo llueve, diluvia)?",
+            "t": "A",
+            "v": "775039_2",
+            "n": "Q"
+        },
+        {
+            "s": "Puede que odie a la gente, ¡pero ADORO las marcas!",
+            "t": "A",
+            "v": "775046_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Maxwell House] [Miller Lite] [Morton Salt] [Aquafence]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

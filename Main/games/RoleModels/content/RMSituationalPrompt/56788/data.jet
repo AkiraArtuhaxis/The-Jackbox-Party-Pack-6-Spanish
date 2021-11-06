@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Suelten los vasos",
+            "t": "A",
+            "v": "814231_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Yo sí!",
+            "t": "A",
+            "v": "814230_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es la mayor exportación de tu planeta alienígena?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué es algo que NO estaba escrito en la Telaraña de Charlotte, pero debería haberlo estado?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿A qué sabía la poción de la bruja?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué inventaste para volverte tan rico?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Psssh... buenito",
+            "t": "A",
+            "v": "814229_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Una bebé serpiente muy mortífera está en los escalones de tu casa. Es mortal pero también un bebé. ¿Qué haces?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Cha-Ching",
+            "t": "A",
+            "v": "814228_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién lleva puesto más joyería?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Llévame a tu orfanato.",
+            "t": "A",
+            "v": "814227_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Siento algo",
+            "t": "A",
+            "v": "814226_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo obtendría superpoderes cada uno de ustedes?",
+            "t": "A",
+            "v": "814219_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Hay audiciones abiertas para una comedia erótica de terror que está siendo filmada por tu zona. ¿Para que papel te presentas?",
+            "t": "A",
+            "v": "835585_1",
+            "n": "Prompt"
+        }
+    ]
+}

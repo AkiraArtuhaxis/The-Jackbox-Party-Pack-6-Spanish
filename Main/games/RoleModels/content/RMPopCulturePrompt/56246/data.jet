@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Nadie te puede entender, pero te aman",
+            "t": "A",
+            "v": "804280_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Animal. Bien.",
+            "t": "A",
+            "v": "804279_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién puede hacer la mejor impresión de chef sueco... en sueco perfecto?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Es hora de que comience la música....¿qué Kermit puede dar el mejor “¡Yaaayy!”",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién se roba el centro de atención?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Todo el mundo está de acuerdo en que no saben lo que eres",
+            "t": "A",
+            "v": "804278_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién tuvo el fin de semana más salvaje?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Tus chistes son malos, pero adorables",
+            "t": "A",
+            "v": "804277_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Tal vez pueda ayudarnos... ¿Qué es exactamente Gonzo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Eres una diva y mi héroe de la infancia",
+            "t": "A",
+            "v": "804276_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Gracias por ser la voz de la razón",
+            "t": "A",
+            "v": "804275_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Es un duelo a micrófono abierto...¿cuál de ustedes Fozzies puede hacer el mejor juego de palabras de osos?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué Muppet es cada uno?",
+            "t": "A",
+            "v": "804268_1",
+            "n": "Prompt"
+        }
+    ]
+}

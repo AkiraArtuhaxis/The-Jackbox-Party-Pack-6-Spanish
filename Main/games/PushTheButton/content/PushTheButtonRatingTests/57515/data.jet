@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "true",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me esperaría a estar solo en un baño publico antes de hacer popó.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Me consideraría a mí mismo ser frugal.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Soy un poco presumido/presumida.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Mis pedos huelen a París en primavera.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Mis pedos huelen a París en primavera.",
+        "t": "A",
+        "v": "832226_1",
+        "n": "HumanPromptAudio"
+    }]
+}

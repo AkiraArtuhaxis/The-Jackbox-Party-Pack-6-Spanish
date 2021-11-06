@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Ah, recuerdos",
+            "t": "A",
+            "v": "812578_4",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Eras tu todo este tiempo!",
+            "t": "A",
+            "v": "812577_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién organizaría una fiesta sin que sus padres se enteren?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién nunca se da cuenta cuando la gente coquetea con él/ella?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Podríamos ver tu baile de celebración?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡Al final del juego!",
+            "t": "A",
+            "v": "812576_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Estás reinventándote por completo, ¿Cuál es tu nuevo nombre?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "OMG Eres hermoso",
+            "t": "A",
+            "v": "812575_2",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más probable que esté ocultando poderes supernaturales?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "...pero entonces tus padres llegan a casa temprano....",
+            "t": "A",
+            "v": "812574_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Al menos te dejaron salir del casillero",
+            "t": "A",
+            "v": "812573_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es una mascota horrible para un equipo de fútbol de secundaria?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién te ayudaría a hacer trampa en este juego?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué escena de una película adolescente son?",
+            "t": "A",
+            "v": "812566_1",
+            "n": "Prompt"
+        }
+    ]
+}

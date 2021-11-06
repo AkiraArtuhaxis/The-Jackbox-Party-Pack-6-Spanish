@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Cuándo eventualmente sea juzgado por asesinato en Londres, ¿cuántos jurados estarán presentes?",
+            "t": "A",
+            "v": "777759_3",
+            "n": "Q"
+        },
+        {
+            "s": "Parte de la clave de mi éxito es siempre pensar un paso adelante.",
+            "t": "A",
+            "v": "777766_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[6] [8] [10] [12]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

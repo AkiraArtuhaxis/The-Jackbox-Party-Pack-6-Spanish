@@ -1,0 +1,80 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Alguien de mantenimiento a quién quizá deba llamar es...",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Cuando escucho la palabra \u201cnalga,\u201d pienso en...",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Cuando escucho el término \u201clinda sonrisa,\u201d pienso en...",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Cuando escucho la palabra \u201cromance,\u201d pienso en...",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "Cuando escucho el término \u201craja en la cola,\u201d pienso en...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Cuando escucho el término  \u201cbutt crack,\u201d pienso en...",
+            "t": "A",
+            "v": "834675_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

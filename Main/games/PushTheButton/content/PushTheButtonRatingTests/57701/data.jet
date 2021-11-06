@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Debería de haber un Día Nacional de los cachorritos donde todos nos tomemos el día para apreciar a los cachorritos.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "El tocino es horrible.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "El béisbol es aburrido.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "El béisbol sería más divertido si el lanzador gritara \u201cChoo choo!\u201d cada que lanzara una recta.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "El béisbol sería más divertido si el lanzador gritara \u201cChoo choo!\u201d cada que lanzara una recta.",
+        "t": "A",
+        "v": "834975_1",
+        "n": "HumanPromptAudio"
+    }]
+}

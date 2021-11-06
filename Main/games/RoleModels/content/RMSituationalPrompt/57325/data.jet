@@ -1,0 +1,145 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Cuéntanos que objeto inanimado disfrutarías más besando.",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "¡¡eso fue entre tú y yo!!",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Paso uno: escribir libro.",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿A qué celebridad (que totalmente es tu mejor amigo/a) dedicas tu autobiografía?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "sí, eso lo resume bastante bien.",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Por obvias razones, no puedes publicar este libro con su nombre real. ¿Qué seudónimo usarías?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "sin spoilers por favor",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "No puedes deletrear no ficción sin ficción",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué es algo que tienes más en común con un absoluto sociópata?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Sorry not sorry",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Completa esta advertencia. Este libro contiene el siguiente contenido gráfico:",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Estás escribiendo tu autobiografía desde la cárcel. ¿Cómo titulas el capítulo sobre tu bien merecido encarcelamiento?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué título es más probable que use cada uno para sus eventuales autobiografías?",
+            "t": "A",
+            "v": "827459_1",
+            "n": "Prompt"
+        }
+    ]
+}

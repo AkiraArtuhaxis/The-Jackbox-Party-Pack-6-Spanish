@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Un punto para el Team Jacob!",
+            "t": "A",
+            "v": "803960_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eres mi Jonas favorito.",
+            "t": "A",
+            "v": "803959_2",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién se vería mejor con pelo negro y lleno de aceite para el cabello?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál hubiera sido un mejor nombre para la banda Jonas Brothers?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¡Danos tu mejor aullido de hombre-lobo!",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Ojalá pudiera dejarte.",
+            "t": "A",
+            "v": "803958_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué te hace hermoso?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Lo que es genial de ti es que no sabes que eres alguien hermoso!",
+            "t": "A",
+            "v": "803957_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién es más probable que “se sacuda” de una mala ruptura?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "No seamos DISCRETOS sobre esto.",
+            "t": "A",
+            "v": "803956_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién estaría más cómodo en una playa nudista?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Tu cuerpo es realmente una maravilla.",
+            "t": "A",
+            "v": "803955_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿A quién describirías como temperamental, sarcástico y talentoso?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué ex-novio de Taylor Swift combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "803948_1",
+            "n": "Prompt"
+        }
+    ]
+}

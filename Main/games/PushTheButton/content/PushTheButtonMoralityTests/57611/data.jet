@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "\u201cNos vemos esta noche\u201d",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "\u201cTengo cosquillas\u201d",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "\u201cLos abrazos son mis favoritos\u201d",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu hijo/a trajo a la casa un muñeco parlante espeluznante. Te desharías de él si te dijera...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu hijo/a trajo a la casa un muñeco parlante espeluznante. Te desharías de él si te dijera...",
+            "t": "A",
+            "v": "833490_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

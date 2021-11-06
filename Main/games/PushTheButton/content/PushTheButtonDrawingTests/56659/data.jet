@@ -1,0 +1,124 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty8"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty7"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt7"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt8"
+    }, {
+        "t": "S",
+        "v": "Dibuja al animal más lindo.",
+        "n": "AlienPromptText8"
+    }, {
+        "t": "S",
+        "v": "Dibuja algo venenoso.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Dibuja una botella de leche.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Dibuja una bandera pirata.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "Dibuja un escorpión.",
+        "n": "AlienPromptText6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Dibuja un cóctel burbujeante.",
+        "n": "AlienPromptText7"
+    }, {
+        "t": "S",
+        "v": "Dibuja una serpiente.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Dibuja una araña.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Dibuja una botella de alcohol ilegal.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Dibuja una avispa.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Dibuja algo venenoso.",
+        "t": "A",
+        "v": "811564_0",
+        "n": "HumanPromptAudio"
+    }]
+}

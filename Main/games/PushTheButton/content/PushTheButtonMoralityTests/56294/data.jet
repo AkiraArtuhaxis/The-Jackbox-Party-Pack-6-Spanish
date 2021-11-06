@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "reportarlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "decirle que confiese",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "darle el visto bueno",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un niño de diez años se come una uva del supermercado sin pagar. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un niño de diez años se come una uva del supermercado sin pagar. Lo que debes hacer es...",
+            "t": "A",
+            "v": "805277_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

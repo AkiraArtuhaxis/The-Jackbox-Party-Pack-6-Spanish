@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un postre.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un pastel de bodas.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja tu animal de granja favorito.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un pastel ganador del primer lugar en la feria estatal.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Dibuja un pastel ganador del primer lugar en la feria estatal.",
+            "t": "A",
+            "v": "814880_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

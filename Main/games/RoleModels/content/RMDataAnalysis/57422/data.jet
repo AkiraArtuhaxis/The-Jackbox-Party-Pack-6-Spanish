@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si un bar nombrara una bebida en honor a ti, ¿qué tendría?",
+            "t": "A",
+            "v": "830606_1",
+            "n": "Prompt"
+        }
+    ]
+}

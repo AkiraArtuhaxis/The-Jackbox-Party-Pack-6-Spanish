@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¡Los carpinchos son los roedores más grandes del mundo! ¿Cuáles les siguen?",
+            "t": "A",
+            "v": "776019_2",
+            "n": "Q"
+        },
+        {
+            "s": "Algunas personas piensan que solo porque soy un asesino serial debería tener ratas, pero yo me quedo tipo como, ¡por favor, eso es de amateur!",
+            "t": "A",
+            "v": "776026_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[the guinea pig] [the Brazilian porcupine ] [the American beaver] [the Holland Lop rabbit]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

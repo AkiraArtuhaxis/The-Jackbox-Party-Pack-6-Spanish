@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Partes de motores de auto",
+            "t": "A",
+            "v": "783363_2",
+            "n": "Q"
+        }
+    ]
+}

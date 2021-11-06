@@ -1,0 +1,167 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Qué profun... -damente frito.",
+            "t": "A",
+            "v": "812108_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¿Existen estos siquiera?",
+            "t": "A",
+            "v": "812107_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién tiene el mejor brazo para lanzar?",
+            "t": "A",
+            "v": "812111_2",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Gira en círculos todo lo que puedas sin terminar mareado.",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién pasa más tiempo en el espejo cada mañana?",
+            "t": "A",
+            "v": "812112_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Qué mareo",
+            "t": "A",
+            "v": "812106_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué es lo primero que freirías?",
+            "t": "A",
+            "v": "822634_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Estas cosas siempre están manipuladas",
+            "t": "A",
+            "v": "812105_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Con quién te gustaría estar varado en un bote salvavidas?",
+            "t": "A",
+            "v": "822633_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Emocionante! ¡Y peligroso!",
+            "t": "A",
+            "v": "812104_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Eres un poco divertido",
+            "t": "A",
+            "v": "812103_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién es un hombre feliz... o mujer?",
+            "t": "A",
+            "v": "822635_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cómo llamarías a tu algo peligrosa montaña rusa?",
+            "t": "A",
+            "v": "812109_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué atracción de carnaval son?",
+            "t": "A",
+            "v": "812096_2",
+            "n": "Prompt"
+        }
+    ]
+}

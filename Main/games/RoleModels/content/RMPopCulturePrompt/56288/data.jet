@@ -1,0 +1,167 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Perdón por ser demasiado dramático",
+            "t": "A",
+            "v": "805178_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eres mi reina.",
+            "t": "A",
+            "v": "805177_2",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿El hijo de quién se revelaría contra su padre/madre en una batalla climática?",
+            "t": "A",
+            "v": "811629_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Si robaras una máquina de tiempo....¿Cómo la usarías para hacerte rico?",
+            "t": "A",
+            "v": "805180_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién causaría más daño teniendo un ejercito de monstruos a su disposición?",
+            "t": "A",
+            "v": "811631_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién lleva el atuendo con más estilo?",
+            "t": "A",
+            "v": "811630_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Eres el tipo de malvado con clase",
+            "t": "A",
+            "v": "805176_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Imagina que estas con un Jedi en un ascensor... ¿cuál sería tu propuesta de porque unirte al lado oscuro?",
+            "t": "A",
+            "v": "818476_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Claramente, no eres una persona de perros",
+            "t": "A",
+            "v": "805175_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¡Bien hecho, McFly!",
+            "t": "A",
+            "v": "805174_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién probablemente sea el mejor jugador de ajedrez?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Este es tu destino.",
+            "t": "A",
+            "v": "805173_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Ya sabes lo que va a pasar... ¿Quién puede gritar \"Khan\" mejor?",
+            "t": "A",
+            "v": "805179_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Qué malo de los clásicos del cine es cada uno",
+            "t": "A",
+            "v": "805166_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Es hora de conseguir un nuevo representante",
+            "t": "A",
+            "v": "804870_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Yo te vería a través de un canal de cable borroso",
+            "t": "A",
+            "v": "804869_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¡Grita “You’re tearing me apart Lisa!” como si lo dijeras en serio!",
+            "t": "A",
+            "v": "811266_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién tiene los dedos más largos?",
+            "t": "A",
+            "v": "811265_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál sería la canción de tu número de burlesque?",
+            "t": "A",
+            "v": "811268_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Piensa en un nombre peor para una película donde los pájaros atacan a las personas.",
+            "t": "A",
+            "v": "811267_2",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Personalmente, creo que eres más impactante que el terror",
+            "t": "A",
+            "v": "804868_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Oh...hola, sujeto de prueba",
+            "t": "A",
+            "v": "804867_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¡Grita “Not the BEES!” como si lo dijeras en serio!",
+            "t": "A",
+            "v": "811269_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Eres malo, pero tienes vestimentas excelentes",
+            "t": "A",
+            "v": "804866_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Eres terrible en una forma clásica",
+            "t": "A",
+            "v": "804865_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién ha visto más películas malas?",
+            "t": "A",
+            "v": "818316_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Entonces, si el Plan 9 era crear zombis... ¿Qué era el Plan 10 del espacio exterior?",
+            "t": "A",
+            "v": "811264_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué gran película mala es cada uno?",
+            "t": "A",
+            "v": "804858_1",
+            "n": "Prompt"
+        }
+    ]
+}

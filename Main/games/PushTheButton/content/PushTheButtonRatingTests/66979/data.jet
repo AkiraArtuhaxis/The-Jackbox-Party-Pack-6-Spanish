@@ -1,0 +1,124 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty8"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty7"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt7"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt8"
+    }, {
+        "t": "S",
+        "v": "Quiero involucrarme con la política algún día.",
+        "n": "AlienPromptText8"
+    }, {
+        "t": "S",
+        "v": "Veo muchas transmisiones de juegos en línea.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Soy anti-tecnología.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Desearía viajar más.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "Quiero tomar una clase da actuación.",
+        "n": "AlienPromptText6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "No creo en la ciencia.",
+        "n": "AlienPromptText7"
+    }, {
+        "t": "S",
+        "v": "Veo mucha televisión.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Como mucha comida chatarra.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Nunca tendré un reloj inteligente.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "Necesito beber más agua.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Veo muchas transmisiones de juegos en línea.",
+        "t": "A",
+        "v": "890504_3",
+        "n": "HumanPromptAudio"
+    }]
+}

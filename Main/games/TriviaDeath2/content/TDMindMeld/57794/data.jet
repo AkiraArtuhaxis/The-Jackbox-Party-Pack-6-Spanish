@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "uno de los poderes de los Planetarios de Capitán Planeta<br>pista: son (en su mayoría) elementos clásicos en la naturaleza",
+            "n": "PromptText"
+        },
+        {
+            "s": "uno de los poderes de los planetarios de Capitán Planeta",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "sea optimista",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "busque venganza",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "ignore a los haters",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Estás criando a un bebé alien súper fuerte. Lo más importante que puedes enseñarle es que siempre...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Estás criando a un bebé alien súper fuerte. Lo más importante que puedes enseñarle es que siempre...",
+            "t": "A",
+            "v": "825366_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

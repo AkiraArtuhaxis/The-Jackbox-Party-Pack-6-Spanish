@@ -1,0 +1,44 @@
+{
+    "content": [
+        {
+            "id": 1, 
+            "topic": "cuando derramas tu miel a propósito para llamar la atención"
+        }, 
+        {
+            "id": 2, 
+            "topic": "cuando bailas solo rotando tus muñecas"
+        }, 
+        {
+            "id": 3, 
+            "topic": "cuando molestas a tu profesor siendo amable"
+        }, 
+        {
+            "id": 4, 
+            "topic": "cuando mezclas salsa picante en tu licuado"
+        }, 
+        {
+            "id": 5, 
+            "topic": "cuando te sacas los anteojos y ahora eres popular"
+        }, 
+        {
+            "id": 6, 
+            "topic": "cuando le haces una broma al refugio adoptando y luego devolviendo 12 perros"
+        }, 
+        {
+            "id": 7, 
+            "topic": "cuando te endeudas para comprar un muy buen sombrero"
+        }, 
+        {
+            "id": 8, 
+            "topic": "cuando te ríes por demasiado tiempo de una broma y todos están callados"
+        }, 
+        {
+            "id": 9, 
+            "topic": "cuando te casas solo por venganza"
+        }, 
+        {
+            "id": 10, 
+            "topic": "cuando sueñas sobre una experiencia aburrida de la vida diaria"
+        }
+    ]
+}

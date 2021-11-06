@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Estás en una feria de muestras y puedes escribir lo que sea en tu etiqueta. ¿Qué escribes?",
+            "t": "A",
+            "v": "829946_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Tenemos que reportarte al FBI por esto",
+            "t": "A",
+            "v": "813755_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "También viene con un probabilidad extra de enfermedad cardíaca",
+            "t": "A",
+            "v": "813754_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es la mejor peor película?",
+            "t": "A",
+            "v": "813758_2",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién preferirías que te calme luego de golpearte el dedo del pie?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es un gran eslogan para un nuevo caramelo hecho de jarabe de remolacha?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Te sacrificas a ti mismo para que los animales que comemos coman.",
+            "t": "A",
+            "v": "813753_2",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es un buen nombre para un restaurante que solo sirve crema de elote a temperatura ambiente?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Qué dulce es ser mazorcado por ti",
+            "t": "A",
+            "v": "813752_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es el nombre de tu galardonado cerdo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Muy bien",
+            "t": "A",
+            "v": "813751_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Nuestra mazorca es una mazorca increíble",
+            "t": "A",
+            "v": "813750_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué gritarías antes de tirar fuegos artificiales en un picnic del Día de la Independencia?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué tipo de maíz son?",
+            "t": "A",
+            "v": "813743_1",
+            "n": "Prompt"
+        }
+    ]
+}

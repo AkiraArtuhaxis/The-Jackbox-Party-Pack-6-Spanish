@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Países con banderas rojas, blancas y azules",
+            "t": "A",
+            "v": "796234_1",
+            "n": "Q"
+        }
+    ]
+}

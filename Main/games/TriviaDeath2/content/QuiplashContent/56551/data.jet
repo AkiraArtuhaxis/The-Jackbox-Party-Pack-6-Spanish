@@ -1,0 +1,50 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "StadiumAnswers"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "[EventName=HOST/AltHost]¡Alerta de opinión controversial! Todos los perros son niños y todos los gatos son <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¡Alerta de opinión controversial! Todos los perros son niños y todos los gatos son <BLANK>",
+            "t": "A",
+            "v": "808906_2",
+            "n": "PromptAudio"
+        }
+    ]
+}

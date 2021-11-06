@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "Oh, hola.",
+            "t": "A",
+            "v": "802568_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Están lloviendo... solo tú, hallelujah.",
+            "t": "A",
+            "v": "802567_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Es un día nublado de octubre. Las hojas están cayendo. ¿Qué estás escuchando?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién probablemente posea el suéter más cómodo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿A quién lo excitaría la idea de una familia grande?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién probablemente piensa que sudar es algo bueno?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Qué frialdad.",
+            "t": "A",
+            "v": "802566_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Nada más práctico que un suéter ligero para cualquier situación.",
+            "t": "A",
+            "v": "802565_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Por qué estamos mejor ahora que hace 10 años?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "ALGUIEN ARDIENTE VA EN CAMINO.",
+            "t": "A",
+            "v": "802564_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Mírate, ¡irradias orgullo por esto!",
+            "t": "A",
+            "v": "802563_2",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Muéstranos el trabajo lagrimal, haz tu mejor llanto ganador del Óscar.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué temporada representa a cada uno de ustedes?",
+            "t": "A",
+            "v": "802556_1",
+            "n": "Prompt"
+        }
+    ]
+}

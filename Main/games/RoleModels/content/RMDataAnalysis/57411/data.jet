@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál es la mejor manera de conocer a tus vecinos?",
+            "t": "A",
+            "v": "830320_1",
+            "n": "Prompt"
+        }
+    ]
+}

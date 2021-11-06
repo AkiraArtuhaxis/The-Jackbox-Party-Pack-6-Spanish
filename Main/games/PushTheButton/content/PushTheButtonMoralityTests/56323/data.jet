@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "quedártelo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "bajarle al baño y olvidarlo",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "llevárselo de vuelta",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Ves el anillo de bodas de un compañero de trabajo en el inodoro. Debes...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Ves el anillo de bodas de un compañero de trabajo en el inodoro. Debes...",
+            "t": "A",
+            "v": "805685_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Qué es lo opuesto a un sumiller?",
+            "t": "A",
+            "v": "809116_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Sal de aquí!",
+            "t": "A",
+            "v": "809115_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién se vería mejor con un bigote de manija?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué artículo escribirías para una revista Cosmo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Este nombre es bastante básico. ¿Cuál es un mejor nombre para un whiscola?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién te parece que es engañosamente fuerte?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Para qué arreglar la perfección.",
+            "t": "A",
+            "v": "809114_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién es más probable que se una a una fraternidad o sororidad?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "No recordarás haber elegido esto",
+            "t": "A",
+            "v": "809113_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es el peor momento para emborracharse a Jager Bombs?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Largo de mi jardín",
+            "t": "A",
+            "v": "809112_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Eres semejante Carrie",
+            "t": "A",
+            "v": "809111_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué cóctel clásico combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "809104_1",
+            "n": "Prompt"
+        }
+    ]
+}

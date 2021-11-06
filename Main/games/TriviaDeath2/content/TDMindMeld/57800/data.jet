@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "uno de los seis amigos de la serie de TV <i>Friends<\/i>",
+            "n": "PromptText"
+        },
+        {
+            "s": "uno de los seis amigos de la serie de TV <i>Friends<\/i>",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}

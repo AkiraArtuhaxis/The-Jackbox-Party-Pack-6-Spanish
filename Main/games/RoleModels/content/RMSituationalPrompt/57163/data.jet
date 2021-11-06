@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Toma una naranja, o cinco.",
+            "t": "A",
+            "v": "822413_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Estás rascando el suelo, pero bien hecho.",
+            "t": "A",
+            "v": "822412_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es tu nombre de pirata intimidante, proveniente de tu garfio?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Todos se han estado preguntando: ¿Cómo terminaste usando un parche en el ojo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién pasaría más tiempo lijando, tintando y barnizando su pata de palo?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es algo molesto que tu loro se la pasa repitiendo en público?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Eres como el diablito en mi hombro.",
+            "t": "A",
+            "v": "822411_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién consume menos frutas frescas?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "En serio, las manos están sobrevaloradas.",
+            "t": "A",
+            "v": "822410_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "No se necesita mucho para personalizar.",
+            "t": "A",
+            "v": "822409_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Te veo!",
+            "t": "A",
+            "v": "822408_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿En qué parte de tu cara/cuerpo llevarías tu único arete de oro?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué accesorio de pirata llevarías puesto todos los días?",
+            "t": "A",
+            "v": "822401_1",
+            "n": "Prompt"
+        }
+    ]
+}

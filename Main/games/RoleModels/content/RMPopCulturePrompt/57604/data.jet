@@ -1,0 +1,145 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "típico hijo de en medio",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "No te preocupes, sólo una fase incómoda.",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál sería tu adorable muletilla de sitcom familiar?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál de tus habilidades sería más valiosa para una agencia gubernamental en las sombras?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién se vería mejor con la moda de los años 90?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién daría el peor consejo amoroso?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "DJ (SFX: bocina de dj) ¡¡¡TANNER!!!",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién es el hijo del medio... o al menos actúa como tal?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "El Tío Jesse de Stranger Things",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué nombre le darías a tu casa club?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "qué grosero",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Casi tan poderoso como las gemelas Olsen",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué niño de <i>Stranger Things<\/i> o de <i>Tres por tres<\/i> es cada uno?",
+            "t": "A",
+            "v": "833387_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "$1",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "$50",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "$100",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Una venta de garaje tiene una tarjeta de béisbol con un valor de $100 dólares a un precio de $1 dólar. Intentas comprarla por...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Una venta de garaje tiene una tarjeta de béisbol con un valor de $100 dólares a un precio de $1 dólar. Intentas comprarla por...",
+            "t": "A",
+            "v": "805697_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

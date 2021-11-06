@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "La única jugada ganadora es no jugar.",
+            "t": "A",
+            "v": "804990_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Firmaré esta petición.",
+            "t": "A",
+            "v": "804989_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Volviendo al horrible tablero de dibujo... ¿cómo podría mejorarse el diseño del Ciempiés Humano?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Como el sistema de apoyo del grupo, ¿cómo harías para mantener alta la moral?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Además de los crímenes de lesa humanidad... ¿quién te ayudaría con tu propio negocio turbio?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué harías si vieras un ciempiés humano arrastrándose por la calle?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Bueno tener pasatiempos, supongo.",
+            "t": "A",
+            "v": "804988_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Estás en la parte trasera del ciempiés... ¿cómo usarías tus pies desenfrenados?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Te ganaste una horrible, horrible medalla de bronce.",
+            "t": "A",
+            "v": "804987_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué jugador tiene mejor voz para cantar?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Todas son malas, pero esta es la peor. Lo lamento.",
+            "t": "A",
+            "v": "804986_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¿Bien... hecho?",
+            "t": "A",
+            "v": "804985_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién probablemente ha estado en más protestas?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Orden para la mesa también conocida como el Ciempiés, ¿Cuál sería su primera solicitud de comida y por qué?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué posición tendría cada uno de ustedes en el ciempiés humano? Disculpas, por cierto.",
+            "t": "A",
+            "v": "804978_1",
+            "n": "Prompt"
+        }
+    ]
+}

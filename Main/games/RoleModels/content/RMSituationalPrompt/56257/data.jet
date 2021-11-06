@@ -1,0 +1,155 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Se vería tan bien con trenzas francesas.",
+            "t": "A",
+            "v": "804510_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es más probable que sea el diablo disfrazado?",
+            "t": "A",
+            "v": "807230_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién ganaría una carrera de globos aerostáticos alrededor del mundo?",
+            "t": "A",
+            "v": "807229_2",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál sería el nombre de tu película para adultos?",
+            "t": "A",
+            "v": "807232_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿Cómo recortas esa cosa?",
+            "t": "A",
+            "v": "804508_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién tiene actualmente la barba más larga?",
+            "t": "A",
+            "v": "809791_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Eres el rey de las patillas.",
+            "t": "A",
+            "v": "804507_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿A qué edad debería empezar a ahorrar para la jubilación?",
+            "t": "A",
+            "v": "807233_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Mantén tu mentón alto.",
+            "t": "A",
+            "v": "804506_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Dale a la cera, nena.",
+            "t": "A",
+            "v": "804505_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién luciría mejor en una fotografía antigua de los 1800s?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué vello facial combina mejor con ustedes?",
+            "t": "A",
+            "v": "804498_2",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "La única opción respetable.",
+            "t": "A",
+            "v": "809543_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Oh detente, eres hermoso.",
+            "t": "A",
+            "v": "809542_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Dile a la habitación lo que le dices a tu estilista cuando vas a hacerte un nuevo peinado.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué estabas haciendo en el momento que tu pareja de 22 años estaba naciendo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Por qué rostro de celebridad NO querrías conseguir cirugía plástica para parecerte?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Describe tu cuerpo soñado en términos del animal al que más te parecerías.",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es la única comodidad moderna que te llevarías a tu ermita?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Intenta peinarlo para la IZQUIERDA",
+            "t": "A",
+            "v": "809540_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién no puede manejar a más de 60?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Nada extraño en absoluto!",
+            "t": "A",
+            "v": "809539_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Vroom vroom",
+            "t": "A",
+            "v": "809538_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién se vería mejor con el pelo rapado?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué crisis de mediana edad combina con cada uno?",
+            "t": "A",
+            "v": "809531_1",
+            "n": "Prompt"
+        }
+    ]
+}

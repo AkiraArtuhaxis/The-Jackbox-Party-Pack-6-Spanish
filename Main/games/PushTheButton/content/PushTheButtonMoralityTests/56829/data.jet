@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "miras",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "inmediatamente te vas de ahí",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "llamas a la policía",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Parece que aliens están secuestrando a tus vecinos. Tú...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Parece que aliens están secuestrando a tus vecinos. Tú...",
+            "t": "A",
+            "v": "814976_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

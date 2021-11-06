@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Cuál es esa cosa que necesitas que tus estúpidos padres nunca te dieron?",
+            "t": "A",
+            "v": "823791_1",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Haz una reverencia.",
+            "t": "A",
+            "v": "816734_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Guau.",
+            "t": "A",
+            "v": "816733_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién se ve más inocente?",
+            "t": "A",
+            "v": "822659_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es más probable que arme una rabieta?",
+            "t": "A",
+            "v": "816736_2",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué cantante o banda súper encantador/a piensas contratar para que toquen en tu fiesta de cumpleaños?",
+            "t": "A",
+            "v": "822661_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién podría lucirse con una barba blanca y larga?",
+            "t": "A",
+            "v": "822660_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Demasiado viejo para los sueños.",
+            "t": "A",
+            "v": "816732_2",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Muéstrale a todos la mirada que tiene un bebé recién nacido cuando descubre el estado actual del mundo.",
+            "t": "A",
+            "v": "822663_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Tan dulce.",
+            "t": "A",
+            "v": "816731_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué compra impulsiva realizarías durante tu crisis de mediana edad?",
+            "t": "A",
+            "v": "822662_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Tiempo agotado!",
+            "t": "A",
+            "v": "816730_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Awwww.",
+            "t": "A",
+            "v": "816729_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es el mejor consejo de vida que puedes dar?",
+            "t": "A",
+            "v": "816735_2",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué edad mejor representa a cada uno de ustedes?",
+            "t": "A",
+            "v": "816722_2",
+            "n": "Prompt"
+        }
+    ]
+}

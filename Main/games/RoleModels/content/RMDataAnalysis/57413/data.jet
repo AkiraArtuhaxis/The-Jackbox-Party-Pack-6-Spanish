@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si fueras un Cazafantasmas, ¿qué fantasma de una persona famosa te encantaría cazar?",
+            "t": "A",
+            "v": "830372_1",
+            "n": "Prompt"
+        }
+    ]
+}

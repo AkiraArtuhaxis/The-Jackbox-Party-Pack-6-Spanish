@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Palabras en el preámbulo de la constitución de los Estados Unidos",
+            "t": "A",
+            "v": "781200_2",
+            "n": "Q"
+        }
+    ]
+}

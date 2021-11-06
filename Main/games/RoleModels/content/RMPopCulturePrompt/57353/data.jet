@@ -1,0 +1,145 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Pones el “nutrifu” en “nutrifusión”",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Hip hip, pasas!",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "La gente o te adora o te odia. ¿Por qué es eso?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Agitas tu varita y dices la palabra mágica: “Trifolio”.  ¿Qué ocurre?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál sería el peor personaje ficticio al que traer a una noche de juegos?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Debe ser así de bajo para pan-sar.",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Dé la definición del diccionario de la palabra “Nutrifusión”.",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Mantequilla de maní, qué bien",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Nombra una manera en la que eres dolorosamente promedio.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Opinión controversial: Eres el mejor",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Tan fresco y tan delgado",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Si un caníbal fuera a cocinarte y comerte, ¿qué parte de ti tendría más gusto a menta?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué galleta de niña exploradora son?",
+            "t": "A",
+            "v": "828576_1",
+            "n": "Prompt"
+        }
+    ]
+}

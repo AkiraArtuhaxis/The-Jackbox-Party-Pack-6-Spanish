@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Para demostrar que eres inocente, dime qué cita se le atribuye a René Descartes.",
+            "t": "A",
+            "v": "798204_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según los testimonios de testigos, al verdadero asesino le parece que la filosofía francesa es demasiado inmadura... así que...",
+            "t": "A",
+            "v": "798211_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[“That which does not kill me makes me stronger.”] [“The unexamined life is not worth living.”] [“I think, therefore I am.”] [“How can mirrors be real if our eyes aren’t real?”]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

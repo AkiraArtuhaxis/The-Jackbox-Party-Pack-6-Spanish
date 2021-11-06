@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Debería haber un Día Nacional de Cachorritos donde tomamos un día libre para apreciar a los cachorritos.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "El béisbol sería más divertido si el pitcher gritara \u201c¡Chuu chuu!\u201d cuando lanzara una bola rápida.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Conozco casi toda la letra de \u201cAll Star\u201d por Smash Mouth.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "El tocino es terrible.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "El tocino es terrible.",
+        "t": "A",
+        "v": "820107_1",
+        "n": "HumanPromptAudio"
+    }]
+}

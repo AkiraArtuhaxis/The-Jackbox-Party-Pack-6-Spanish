@@ -1,0 +1,179 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡AAAAAARRRGH!",
+            "t": "A",
+            "v": "819952_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "bow-chika-bow-wow",
+            "t": "A",
+            "v": "819951_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿A quién le envían más cosas a su casa?",
+            "t": "A",
+            "v": "819954_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "En una palabra, ¿cuál es tu mayor posesión?",
+            "t": "A",
+            "v": "823655_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué escogerías como tu última cena?",
+            "t": "A",
+            "v": "823651_2",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Me sorprende que reuniste la energía para elegir algo.",
+            "t": "A",
+            "v": "819950_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué jugador probablemente haya “tenido intimidad” más recientemente?",
+            "t": "A",
+            "v": "823663_2",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Deberías estar orgulloso de esto",
+            "t": "A",
+            "v": "819949_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué jugador duerme más siestas?",
+            "t": "A",
+            "v": "823659_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Bah patrañas!",
+            "t": "A",
+            "v": "819948_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Tu crush está al otro lado de la habitación. Llama su atención sin usar ninguna palabra.",
+            "t": "A",
+            "v": "823665_1",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¿No quieres compartir este rol, verdad?",
+            "t": "A",
+            "v": "819947_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué es lo más insignificante en un día promedio que puede ponerte de mal humor?",
+            "t": "A",
+            "v": "823664_1",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué es lo que más deseas?",
+            "t": "A",
+            "v": "819953_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de los pecados capitales son?",
+            "t": "A",
+            "v": "819940_2",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "No tienes más dinero, pero estás seguro que tu mano de póker puede ganarle a la del villano. ¿Qué apuestas?",
+            "t": "A",
+            "v": "830450_1",
+            "n": "Prompt"
+        }
+    ]
+}

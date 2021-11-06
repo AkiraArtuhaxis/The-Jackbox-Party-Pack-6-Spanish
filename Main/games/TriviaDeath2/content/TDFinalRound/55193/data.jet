@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Libros escritos en primera persona",
+            "t": "A",
+            "v": "782440_2",
+            "n": "Q"
+        }
+    ]
+}

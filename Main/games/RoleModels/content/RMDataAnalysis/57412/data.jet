@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Qué es la cosa más extraña a la que le tienes miedo?",
+            "t": "A",
+            "v": "830346_1",
+            "n": "Prompt"
+        }
+    ]
+}

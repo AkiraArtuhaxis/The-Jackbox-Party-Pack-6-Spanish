@@ -1,0 +1,167 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¡Qué giro!",
+            "t": "A",
+            "v": "805230_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡Quién es un buen rol! ¡Quién es un buen rol!",
+            "t": "A",
+            "v": "805229_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es más probable que camine descalzo?",
+            "t": "A",
+            "v": "806952_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Si fueras a luchar contra ti mismo... ¿Cómo burlarías a tu versión del futuro?",
+            "t": "A",
+            "v": "805232_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué habilidad única aportarías a una misión espacial para destruir un asteroide?",
+            "t": "A",
+            "v": "806954_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué haría falta para que te dejaras perder en este juego?",
+            "t": "A",
+            "v": "806953_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¿Pero no somos todos?",
+            "t": "A",
+            "v": "805228_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Wow! ¡Es increíble que tu carrera sobrevivió a esto?!",
+            "t": "A",
+            "v": "805227_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Muéstrale a la habitación tu mejor mirada de horror y sorpresa al darte cuenta que eres un fantasma.",
+            "t": "A",
+            "v": "806955_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡No olvides tu reloj!",
+            "t": "A",
+            "v": "805226_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "La gente debatirá por siempre si eres una persona navideña",
+            "t": "A",
+            "v": "805225_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿A quién describirías como un bebé adulto?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Combinemos a John McClaine & Mikey... ¡Di tu línea favorita de Duro de Matar en una voz de bebé!",
+            "t": "A",
+            "v": "805231_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "Si fueras un Bruce Willis, ¿qué Bruce Willis sería cada uno?",
+            "t": "A",
+            "v": "805218_1",
+            "n": "Prompt"
+        }
+    ]
+}

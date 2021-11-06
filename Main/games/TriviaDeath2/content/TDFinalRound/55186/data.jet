@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Novelas de James Patterson",
+            "t": "A",
+            "v": "782183_1",
+            "n": "Q"
+        }
+    ]
+}

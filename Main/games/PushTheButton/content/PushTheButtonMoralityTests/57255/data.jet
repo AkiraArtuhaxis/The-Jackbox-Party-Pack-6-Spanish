@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "le tiras un beso",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "te paras y aplaudes",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "le gritas \u201c¡Buuu!\u201d muy fuerte",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un/a extraño/a atractivo/a te guiña el ojo en el parque, entonces tú...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un/a extraño/a atractivo/a te guiña el ojo en el parque, entonces tú...",
+            "t": "A",
+            "v": "825700_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

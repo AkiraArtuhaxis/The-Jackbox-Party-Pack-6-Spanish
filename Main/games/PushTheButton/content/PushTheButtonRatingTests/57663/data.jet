@@ -1,0 +1,76 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "No conozco la diferencia entre un caimán y un cocodrilo.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Soy una persona de perros.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Soy una persona de gatos.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Tienen que hacer una película live action del <i>Pato Darkwing<\/i>.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "true",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "El espárrago hace apestosa mi pipí.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "t": "S",
+        "v": "Conozco absolutamente la diferencia entre un caimán y un cocodrilo.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Conozco absolutamente la diferencia entre un caimán y un cocodrilo.",
+        "t": "A",
+        "v": "834386_1",
+        "n": "HumanPromptAudio"
+    }]
+}

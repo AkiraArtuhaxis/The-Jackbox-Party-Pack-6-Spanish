@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Ooooo la la.",
+            "t": "A",
+            "v": "809166_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Modo bestia.",
+            "t": "A",
+            "v": "809165_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿En quién confiarías que haga lo que le pediste que haga?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién ha comido tacos más recientemente?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Oye cariño, ¿qué es algo con lo que te vas a dar un gusto más tarde?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Oye gruñón, ¿cuál es la cosa que más te molesta?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Has ganado por una nariz.",
+            "t": "A",
+            "v": "809164_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién es el conductor más rápido?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Yipi!",
+            "t": "A",
+            "v": "809163_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Puede que seas duro por fuera, pero ¿Qué es lo que te hace suave y blando por dentro?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Ah-ehm.",
+            "t": "A",
+            "v": "809162_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién es un buen chico?",
+            "t": "A",
+            "v": "809161_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Intenta ladrar con un acento francés.",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué raza de perro son?",
+            "t": "A",
+            "v": "809154_1",
+            "n": "Prompt"
+        }
+    ]
+}

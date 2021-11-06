@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Estás invitado a la casa de un posible vampiro. ¿Qué llevas?",
+            "t": "A",
+            "v": "829504_1",
+            "n": "Prompt"
+        }
+    ]
+}

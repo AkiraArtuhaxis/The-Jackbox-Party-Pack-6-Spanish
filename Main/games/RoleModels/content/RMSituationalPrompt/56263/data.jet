@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Oh sí, puedo verlo.",
+            "t": "A",
+            "v": "804630_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "No puedo creer que no seas mantequilla",
+            "t": "A",
+            "v": "804629_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es tu persona favorita llamada alguna variación de Meg?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es más probable que pida hablar con un gerente?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién se hubiera pasado protestando en los años 60?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Cuál es la manera más extraña que alguien podría decir tu nombre?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "El autocorrector se dio por vencido, ¿eh?",
+            "t": "A",
+            "v": "804628_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién interpretaría a Peggy en una producción de <i>Hamilton<\/i>?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Yo también tuve padres *interesantes*",
+            "t": "A",
+            "v": "804627_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Te invitan a un programa de cocina, ¿Qué plato preparas?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Duquesa.",
+            "t": "A",
+            "v": "804626_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Bien por ti!",
+            "t": "A",
+            "v": "804625_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué manera de escribir Megan son?",
+            "t": "A",
+            "v": "804618_1",
+            "n": "Prompt"
+        }
+    ]
+}

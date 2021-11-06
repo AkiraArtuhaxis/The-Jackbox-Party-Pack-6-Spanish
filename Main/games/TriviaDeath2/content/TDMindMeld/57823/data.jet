@@ -1,0 +1,19 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPromptAudio"
+        },
+        {
+            "t": "S",
+            "v": "un miembro de la Comunidad del Anillo en <i>El señor de los anillos<\/i>",
+            "n": "PromptText"
+        },
+        {
+            "s": "un miembro de la Comunidad del Anillo en <i>El señor de los anillos<\/i>",
+            "t": "A",
+            "n": "PromptAudio"
+        }
+    ]
+}

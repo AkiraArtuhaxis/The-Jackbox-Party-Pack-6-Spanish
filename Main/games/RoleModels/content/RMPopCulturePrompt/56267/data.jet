@@ -1,0 +1,174 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Sígueme en esta.",
+            "t": "A",
+            "v": "804710_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Parece que tus amigos te sirvieron el té.",
+            "t": "A",
+            "v": "804709_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es más probable que tropiece y se caiga de cabeza en un agujero sin fondo?",
+            "t": "A",
+            "v": "808943_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién tiene la sonrisa más grande (contando la altura y el ancho)?",
+            "t": "A",
+            "v": "808942_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es algo que te preocupa profundamente en este momento?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Todo no podría ser más relajado.",
+            "t": "A",
+            "v": "804708_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué objeto del día a día todos deberían empezar a usar como vaso?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "No hagas que este se vuelva loco.",
+            "t": "A",
+            "v": "804707_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién permanece misteriosamente calmado incluso en situaciones estresantes?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Borra esa sonrisa de tu cara.",
+            "t": "A",
+            "v": "804706_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Si de repente fueras muy, muy pequeño, ¿En qué cosa adorable dormirías?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Curioso y curiosísimo.",
+            "t": "A",
+            "v": "804705_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Haz tu mejor impresión de Johnny Depp explicando el proceso de convertirse en el Sombrerero Loco.",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué es lo último que te dejo verdaderamente loco?",
+            "t": "A",
+            "v": "808941_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué personaje de <i>Alicia en el país de las maravillas<\/i> eres?",
+            "t": "A",
+            "v": "804698_1",
+            "n": "Prompt"
+        }
+    ]
+}

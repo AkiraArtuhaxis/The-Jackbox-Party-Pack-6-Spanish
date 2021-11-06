@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "ayudarlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "rehusarte",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "delatarlo/a",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un buen amigo está preocupado de no graduarse y te pide que le ayudes a hacer trampa en su examen. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un buen amigo está preocupado de no graduarse y te pide que le ayudes a hacer trampa en su examen. Lo que debes hacer es...",
+            "t": "A",
+            "v": "805409_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

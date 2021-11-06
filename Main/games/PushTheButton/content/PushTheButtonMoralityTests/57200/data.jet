@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "al billonario",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "al padre de familia",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "al cirujano",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Se te ofrece la oportunidad de que tus ondas cerebrales se apoderen del cuerpo de otra persona, borrando las suyas. Eliges...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Se te ofrece la oportunidad de que tus ondas cerebrales se apoderen del cuerpo de otra persona, borrando las suyas. Eliges...",
+            "t": "A",
+            "v": "823905_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Si hago un tajo por la puerta y grito “Aquí está Johnny!”, ¿cuál de estas críticas sería correcto que me dieran?",
+            "t": "A",
+            "v": "797889_1",
+            "n": "Q"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Intro"
+        },
+        {
+            "s": "[“You’re ripping off Jack Nicholson who was ripping off Steve Martin.”] [“You’re ripping off Jack Nicholson who was ripping off Steve Allen.”] [“You’re ripping off Jack Nicholson who was ripping off Ed McMahon.”] [“You’re ripping off Jack Nicholson who was ripping off Joan Rivers.”]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

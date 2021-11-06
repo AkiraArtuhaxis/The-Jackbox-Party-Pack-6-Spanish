@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "30 a la vez, bebé",
+            "t": "A",
+            "v": "828548_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "La verdad está ahí fuera",
+            "t": "A",
+            "v": "828547_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién odia más los ruidos fuertes?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Qué mensaje de correo electrónico imprimirías y enmarcarías?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¡Ha habido un asesinato! ¿Quién probablemente lo hizo?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Por cuánto tiempo has podido aguantar más despierto?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "La historia medieval es GENIAL",
+            "t": "A",
+            "v": "828546_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Google te lleva a la bebida",
+            "t": "A",
+            "v": "828545_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué DVD nunca es retirado de la biblioteca?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Cada mensaje de cadena reenviado mata un bosque",
+            "t": "A",
+            "v": "828544_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Te felicitamos por tu transparencia",
+            "t": "A",
+            "v": "828543_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Inventa el nombre para una nueva revista para adultos con un público objetivo muy específico.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué persona de una biblioteca eres?",
+            "t": "A",
+            "v": "828536_1",
+            "n": "Prompt"
+        }
+    ]
+}

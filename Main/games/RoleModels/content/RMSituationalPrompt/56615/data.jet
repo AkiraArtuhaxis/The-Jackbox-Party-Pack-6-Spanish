@@ -1,0 +1,150 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Todo es tan fácil para ti.",
+            "t": "A",
+            "v": "810349_2",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién piensa todo dos veces antes de hacerlo?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Imagina que el mundo está a punto de llegar a su fin. ¿Cuál es el lado positivo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién sería tu pareja de baila soñada?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es lo último que derramaste?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Ganaste por mayoría y todavía te quejas.",
+            "t": "A",
+            "v": "810347_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Veo a través de tu disfraz y eres hermoso.",
+            "t": "A",
+            "v": "810346_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué es lo peor que le puede ocurrir a tu pan?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Ahora puedes costearte algunos gises nuevos!",
+            "t": "A",
+            "v": "810345_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Y acabas de hacerlo!",
+            "t": "A",
+            "v": "810344_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién es más probable que se ría de alguien que se acaba de tropezar?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué modismos son los más adecuados para cada uno?",
+            "t": "A",
+            "v": "810337_1",
+            "n": "Prompt"
+        }
+    ]
+}

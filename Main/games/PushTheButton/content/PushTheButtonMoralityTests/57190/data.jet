@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "decir algo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "sentarse en silencio",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "atacar",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Una transmisión alien le pide a cualquier planeta que reciba su mensaje que responda con su posición. La Tierra debería...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Una transmisión alien le pide a cualquier planeta que reciba su mensaje que responda con su posición. La Tierra debería...",
+            "t": "A",
+            "v": "823515_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

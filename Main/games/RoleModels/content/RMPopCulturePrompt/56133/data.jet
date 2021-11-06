@@ -1,0 +1,158 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Sin ofensa.",
+            "t": "A",
+            "v": "823024_0",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Realmente necesitas centrarte.",
+            "t": "A",
+            "v": "802407_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Eres muy viajero.",
+            "t": "A",
+            "v": "802406_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién sería un mejor Hamlet? Permitidos los accesorios de calavera.",
+            "t": "A",
+            "v": "820313_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién sería el último de pié en un concurso de bebidas?",
+            "t": "A",
+            "v": "802409_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién se pasa más tiempo mirando noticias del mercado de valores?",
+            "t": "A",
+            "v": "820315_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "Puede que todos estemos trabajando para usted algún día.",
+            "t": "A",
+            "v": "802405_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién ha visitado más países extranjeros?",
+            "t": "A",
+            "v": "820317_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Bebe. Te lo mereces.",
+            "t": "A",
+            "v": "802404_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¡Eres el (bleep)!",
+            "t": "A",
+            "v": "802403_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Con quién te gustaría ser pareja en una noche de trivia?",
+            "t": "A",
+            "v": "820319_1",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Preocupada yace la cabeza que lleva una corona.",
+            "t": "A",
+            "v": "802402_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Lista tus mejores palabras de 4 letras en 10 segundos",
+            "t": "A",
+            "v": "802408_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué categoría de <i>Jeopardy!<\/i> son cada uno de ustedes?",
+            "t": "A",
+            "v": "802395_1",
+            "n": "Prompt"
+        }
+    ]
+}

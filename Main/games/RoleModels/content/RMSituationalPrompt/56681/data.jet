@@ -1,0 +1,169 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿A beneficio de qué o quién es tu caridad?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es un buen nombre para un vino increíblemente costoso?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué jugador tiene más arte en sus paredes?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué nombre le darías a tu yate?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Eso debe ser bueno.",
+            "t": "A",
+            "v": "812042_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué nombre le darías a tu poni de polo?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Wow, debe ser bueno.",
+            "t": "A",
+            "v": "812041_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Si eres cuestionado por un organismo de recaudación de impuestos, ¿por qué jugador mentirías para protegerlo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Debe ser agradable.",
+            "t": "A",
+            "v": "812040_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Muy bueno.",
+            "t": "A",
+            "v": "812039_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué jugador es más probable que cuando diga “artista” lo diga como “artiste” a lo francés?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién se vería más regio montando un poni de polo?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué pasatiempo de los ricos más ricos son?",
+            "t": "A",
+            "v": "812032_1",
+            "n": "Prompt"
+        }
+    ]
+}

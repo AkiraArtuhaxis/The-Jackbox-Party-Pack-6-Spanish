@@ -1,0 +1,100 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty5"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty4"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty3"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "0",
+        "n": "Difficulty"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt5"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt6"
+    }, {
+        "t": "S",
+        "v": "Las Kardashians son tesoros Americanos.",
+        "n": "HumanPromptText"
+    }, {
+        "t": "S",
+        "v": "Las obras de teatro me aburren un poco.",
+        "n": "AlienPromptText4"
+    }, {
+        "t": "S",
+        "v": "Kim Kardashian es un icono de la moda.",
+        "n": "AlienPromptText5"
+    }, {
+        "t": "S",
+        "v": "Tengo una debilidad por los chismes de celebridades.",
+        "n": "AlienPromptText6"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Me encanta <i>The Real Housewives<\/i>.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Prefiero programación de reality a programas escritos.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Veo más deportes que televisión regular.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt3"
+    }, {
+        "t": "S",
+        "v": "No tengo uso para una suscripción de TV.",
+        "n": "AlienPromptText3"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt4"
+    }, {
+        "s": "Las Kardashians son tesoros Americanos.",
+        "t": "A",
+        "v": "832066_1",
+        "n": "HumanPromptAudio"
+    }]
+}

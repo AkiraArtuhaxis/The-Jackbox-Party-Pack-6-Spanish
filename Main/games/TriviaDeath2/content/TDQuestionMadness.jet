@@ -1,0 +1,425 @@
+{
+    "episodeid": 1395,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56007,
+            "text": "[EventName=HOST/AltHost]¿Cuál de estos personajes es un robot?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Luke Skywalker"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "C-3PO"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Han Solo"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Princesa Leia"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56006,
+            "text": "[EventName=HOST/AltHost]¿Cuál de éstos es una estrella enana?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "la Luna"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "el Sol"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "la Tierra"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Plutón"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55998,
+            "text": "[EventName=HOST/AltHost]¿Quién ganó el Derby de Kentucky en 2007?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "un perro"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "un gato"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "una serpiente"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "un caballo"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55993,
+            "text": "[EventName=HOST/AltHost]¿Cuál de estos animales tiene el cuello más largo?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "tigre"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "jirafa"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "pingüino"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "tortuga de caja occidental"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55961,
+            "text": "[EventName=HOST/AltHost]¿Qué tipo de animal protagonizó <i>Liberen a Willy</i>?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "morsa asesina"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "ballena asesina"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "perro asesino"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "abeja asesina"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55824,
+            "text": "[EventName=HOST/AltHost]¿Cuál de estos animales come a otros animales?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "león"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "ciervo"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "jirafa"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "ovejas"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55823,
+            "text": "[EventName=HOST/AltHost]¿Qué cuerpo celeste gira alrededor de la Tierra?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Luna"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Marte"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Sol"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Milky Way"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55822,
+            "text": "[EventName=HOST/AltHost]¿Cuál es la raíz cuadrada de 1?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "4"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "3"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "2"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "1"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55743,
+            "text": "[EventName=HOST/AltHost]¿Quién salta y salta en la canción para niños que dice “Pepe vení”?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "el cerdito"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "el sapo"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "la vaca"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "el gato"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55729,
+            "text": "[EventName=HOST/AltHost]¿En qué fecha cae Halloween?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "4 de julio"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "15 de marzo"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "31 de octubre"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "1ro de noviembre"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55726,
+            "text": "[EventName=HOST/AltHost]¿Quién cantó “Single Ladies”?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Sting"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Beyoncé"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Prince"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Eminem"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55725,
+            "text": "[EventName=HOST/AltHost]¿A cuánto equivale un decímetro?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "1000 milímetros"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "10 milímetros"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "100 milímetros"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "0,1 milímetros"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55724,
+            "text": "[EventName=HOST/AltHost]¿Cuál país es europeo?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Canadá"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Irak"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Francia"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Brasil"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55723,
+            "text": "[EventName=HOST/AltHost]¿Cuál de éstos es un metal?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Oxígeno"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Hidrógeno"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Hierro"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Helio"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55722,
+            "text": "[EventName=HOST/AltHost]¿Quién interpretó a Indiana Jones?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Arnold Schwarzenegger"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Bruce Willis"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Harrison Ford"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Chevy Chase"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        }
+    ]
+}

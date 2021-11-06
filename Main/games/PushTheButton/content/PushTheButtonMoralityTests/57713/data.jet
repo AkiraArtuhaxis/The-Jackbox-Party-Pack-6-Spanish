@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "$1",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "$2",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "$3",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "A un extraño en una tienda le falta $1 dólar para pagar unos pañales. Le das...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "A un extraño en una tienda le falta $1 dólar para pagar unos pañales. Le das...",
+            "t": "A",
+            "v": "835119_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

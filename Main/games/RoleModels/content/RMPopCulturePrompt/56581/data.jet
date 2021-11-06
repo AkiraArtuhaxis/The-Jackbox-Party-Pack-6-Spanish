@@ -1,0 +1,157 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "s": "¡Guau! SÍ que tenemos una situación molesta.",
+            "t": "A",
+            "v": "809658_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡No necesitarás un remake!",
+            "t": "A",
+            "v": "809657_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién parece ser el más confundido en una noche de juegos?",
+            "t": "A",
+            "v": "809661_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¡Hora de bailar al estilo de John Travolta/Uma Thurman!",
+            "t": "A",
+            "v": "809660_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Canta tu canción favorita del <i>El Rey León</i>... solo unos segundos",
+            "t": "A",
+            "v": "818697_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién es más probable que ceda su asiento en un bote salvavidas?",
+            "t": "A",
+            "v": "818696_2",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Píntame como uno de tus sujetos de prueba.",
+            "t": "A",
+            "v": "809656_3",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "Eras meta antes de que lo meta fuera cool",
+            "t": "A",
+            "v": "809655_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿A qué deporte o juego desafiarías a un equipo de monstruos extraterrestres?",
+            "t": "A",
+            "v": "818698_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¿Saben como llaman a este sujeto de prueba en Francia?",
+            "t": "A",
+            "v": "809654_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Sí, claro!",
+            "t": "A",
+            "v": "809653_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "Hola Sidney....¿cuál es tu película aterradora favorita?",
+            "t": "A",
+            "v": "809659_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué película clásica de los 90 son?",
+            "t": "A",
+            "v": "809646_1",
+            "n": "Prompt"
+        }
+    ]
+}

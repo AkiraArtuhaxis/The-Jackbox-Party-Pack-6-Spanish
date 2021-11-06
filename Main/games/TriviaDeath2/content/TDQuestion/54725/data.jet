@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de estas piezas de música clásica tradicionalmente contienen disparos de cañón?",
+            "t": "A",
+            "v": "776879_2",
+            "n": "Q"
+        },
+        {
+            "s": "No hay suficientes armas en la música si me preguntan a mí.",
+            "t": "A",
+            "v": "776886_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[“1812 Overture”] [“The Four Seasons”] [“In The Hall of the Mountain King”] [“Concerto no. 1”]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "indignarte",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "cortésmente seguir la corriente",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "entusiastamente decir \u201c¡Sí!\u201d",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "La pareja de tu mejor amigo/a coquetea contigo. Lo que debes hacer es...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "La pareja de tu mejor amigo/a coquetea contigo. Lo que debes hacer es...",
+            "t": "A",
+            "v": "827314_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

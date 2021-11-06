@@ -1,0 +1,162 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién es más apto para todo público?",
+            "t": "A",
+            "v": "811156_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién puede pasar por más emociones en 10 segundos?",
+            "t": "A",
+            "v": "811155_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Si fueras a realizar una película sobre ellos, ¿Cuál vida requeriría del mayor presupuesto?",
+            "t": "A",
+            "v": "811158_1",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué es lo más peligroso que hayas hecho?",
+            "t": "A",
+            "v": "811157_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la peor película que disfrutas sinceramente?",
+            "t": "A",
+            "v": "811159_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Generemos algo de emoción... Danos la primera línea del tráiler de tu película con tu voz más intensa.",
+            "t": "A",
+            "v": "818187_1",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cómo llamarías a tu especial de stand-up?",
+            "t": "A",
+            "v": "811154_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué dirías los críticos de cine sobre ustedes?",
+            "t": "A",
+            "v": "804818_1",
+            "n": "Prompt"
+        }
+    ]
+}

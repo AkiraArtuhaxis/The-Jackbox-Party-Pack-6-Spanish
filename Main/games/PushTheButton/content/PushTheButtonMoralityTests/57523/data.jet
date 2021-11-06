@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "asesinato",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "lavado de dinero",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "violaciones del código de salud",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Tu ciudad legaliza cualquier crimen por una noche. Tú eliges...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Tu ciudad legaliza cualquier crimen por una noche. Tú eliges...",
+            "t": "A",
+            "v": "832322_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

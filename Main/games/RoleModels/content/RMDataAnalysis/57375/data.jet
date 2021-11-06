@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál sería tu arma/herramienta predilecta durante el apocalipsis zombi?",
+            "t": "A",
+            "v": "829283_1",
+            "n": "Prompt"
+        }
+    ]
+}

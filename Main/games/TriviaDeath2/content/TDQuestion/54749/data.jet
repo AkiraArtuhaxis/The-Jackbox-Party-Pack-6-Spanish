@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué mujer enferma y retorcida llamó a su mejor amigo cordero “Lamb Chop”?",
+            "t": "A",
+            "v": "777119_2",
+            "n": "Q"
+        },
+        {
+            "s": "Confesión: Las marionetas me aterran un poco.",
+            "t": "A",
+            "v": "777126_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Angela Lansbury] [Bernadette Peters] [Shari Lewis] [Candice Bergen]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

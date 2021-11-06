@@ -1,0 +1,170 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Bueno... me alegra que lo hayas logrado.",
+            "t": "A",
+            "v": "803202_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Secretamente, todo el mundo te odia.",
+            "t": "A",
+            "v": "803201_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Muéstranos tu mejor pose de estatua.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es la mejor broma escolar?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué hacías en lugar de ir al día de la foto?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién NO puede guardar un secreto?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "¡OMG! ¿Escuchaste quién fue votado como el más chismoso?",
+            "t": "A",
+            "v": "803200_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡Qué artístico!",
+            "t": "A",
+            "v": "803199_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Muéstranos tu mejor pose para foto de baile de graduación.",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¿Quién es gracioso ahora? De hecho, tú lo eres.",
+            "t": "A",
+            "v": "803198_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿De qué celebridad estabas enamorado/a en la secundaria?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién siempre gana en los juegos de dibujo de Jackbox?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Cómo llamarías tu marca de spray para el pelo?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué anuario de escuela secundaria se adapta mejor a cada uno de ustedes?",
+            "t": "A",
+            "v": "803190_1",
+            "n": "Prompt"
+        }
+    ]
+}

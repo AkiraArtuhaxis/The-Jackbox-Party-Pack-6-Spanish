@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Honestamente, ¿qué te gustaría escribir en tu tapete de bienvenida?",
+            "t": "A",
+            "v": "830294_1",
+            "n": "Prompt"
+        }
+    ]
+}

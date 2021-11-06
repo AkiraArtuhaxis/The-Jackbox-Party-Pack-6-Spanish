@@ -1,0 +1,161 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "(Silbando.)",
+            "t": "A",
+            "v": "804120_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Una estrella fugaz incineraría el molde.",
+            "t": "A",
+            "v": "804119_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Además de dinero, ¿qué es algo que aceptarías como pago?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es más probable que se convierta en una celebridad?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién tuvo el cumpleaños más reciente?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¡Acabas de hacer ambas cosas!",
+            "t": "A",
+            "v": "804118_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "¡¿si, cierto?! Especialmente si hay tráfico.",
+            "t": "A",
+            "v": "804117_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Cuál es la herramienta más afilada que podrías encontrar en un hipotético cobertizo?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "¡Eso si es orbitar alrededor del sol!",
+            "t": "A",
+            "v": "804116_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién probablemente silba en la ducha?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Tu lo has dicho, no yo.",
+            "t": "A",
+            "v": "804115_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Quién no tendría miedo caminando en un callejón oscuro por la noche?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Quién puede silbar mejor?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué letra de “All Star” mejor combina con cada uno de ustedes?",
+            "t": "A",
+            "v": "804108_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Animales monógamos",
+            "t": "A",
+            "v": "796563_1",
+            "n": "Q"
+        }
+    ]
+}

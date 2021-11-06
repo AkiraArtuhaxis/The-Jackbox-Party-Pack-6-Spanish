@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "¿Cuál sería el nombre de tu movimiento característico de lucha?",
+            "t": "A",
+            "v": "831174_1",
+            "n": "Prompt"
+        }
+    ]
+}

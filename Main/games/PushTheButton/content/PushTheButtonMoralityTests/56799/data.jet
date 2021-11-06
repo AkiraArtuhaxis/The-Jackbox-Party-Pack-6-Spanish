@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "combates el crimen",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "lo vendes",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "no le dices a nadie",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Encuentras un tanque funcional de la Segunda Guerra Mundial y después...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Encuentras un tanque funcional de la Segunda Guerra Mundial y después...",
+            "t": "A",
+            "v": "814500_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

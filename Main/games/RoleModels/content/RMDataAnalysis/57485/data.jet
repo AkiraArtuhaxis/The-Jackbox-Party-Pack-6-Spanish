@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Al hacer paracaidismo, ¿qué es lo más genial que se puede gritar mientras saltas del avión?",
+            "t": "A",
+            "v": "831710_1",
+            "n": "Prompt"
+        }
+    ]
+}

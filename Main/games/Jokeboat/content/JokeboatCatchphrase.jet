@@ -1,0 +1,100 @@
+{
+    "content": [
+        {
+            "id": 1, 
+            "topic": "Emmm\u2026¿muy <BLANK>?"
+        }, 
+        {
+            "id": 2, 
+            "topic": "Eh, SÍ, soy <BLANK>."
+        }, 
+        {
+            "id": 3, 
+            "topic": "¿Alguien dijo <BLANK>?"
+        }, 
+        {
+            "id": 4, 
+            "topic": "¡Me llaman <BLANK>!"
+        }, 
+        {
+            "id": 5, 
+            "topic": "¡Dame <BLANK>!"
+        }, 
+        {
+            "id": 6, 
+            "topic": "¡Deme <BLANK>, por favor!"
+        }, 
+        {
+            "id": 7, 
+            "topic": "¡Mi <BLANK>!"
+        }, 
+        {
+            "id": 8, 
+            "topic": "¡Ding-Dong <BLANK>!"
+        }, 
+        {
+            "id": 9, 
+            "topic": "¿Es así tu <BLANK>?"
+        }, 
+        {
+            "id": 10, 
+            "topic": "¿Quién ordenó <BLANK>?"
+        }, 
+        {
+            "id": 11, 
+            "topic": "¡Hola, <BLANK>!"
+        }, 
+        {
+            "id": 12, 
+            "topic": "¡Soy un poco <BLANK>!"
+        }, 
+        {
+            "id": 13, 
+            "topic": "¡Es hora de <BLANK>!"
+        }, 
+        {
+            "id": 14, 
+            "topic": "¡Ni hablar, ni <BLANK>!"
+        }, 
+        {
+            "id": 15, 
+            "topic": "¡Consíguete algo de <BLANK>!"
+        }, 
+        {
+            "id": 16, 
+            "topic": "¡Miska, Muska, <BLANK>!"
+        }, 
+        {
+            "id": 17, 
+            "topic": "¡Llámenme <BLANK>!"
+        }, 
+        {
+            "id": 18, 
+            "topic": "¡Se puso <BLANK>!"
+        }, 
+        {
+            "id": 19, 
+            "topic": "¡Díganme <BLANK>!"
+        }, 
+        {
+            "id": 20, 
+            "topic": "¡Siéntate en mi <BLANK>!"
+        }, 
+        {
+            "id": 21, 
+            "topic": "¡Prueba mi <BLANK>!"
+        }, 
+        {
+            "id": 22, 
+            "topic": "¿Dónde está mi <BLANK>?"
+        }, 
+        {
+            "id": 23, 
+            "topic": "A la grande le puse <BLANK>."
+        }, 
+        {
+            "id": 24, 
+            "topic": "¿Les gusta mi <BLANK>?"
+        }
+    ]
+}

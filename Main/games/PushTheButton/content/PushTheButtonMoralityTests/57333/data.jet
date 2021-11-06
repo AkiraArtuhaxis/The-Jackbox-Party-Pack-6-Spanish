@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "le dices a alguien",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "lo arreglas",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "dejas una nota",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Atascas y desbordas un inodoro en la fiesta de un/a amigo/a. Tú inmediatamente...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Atascas y desbordas un inodoro en la fiesta de un/a amigo/a. Tú inmediatamente...",
+            "t": "A",
+            "v": "827710_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

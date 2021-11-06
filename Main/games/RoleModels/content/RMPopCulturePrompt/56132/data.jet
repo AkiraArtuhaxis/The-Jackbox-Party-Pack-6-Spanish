@@ -1,0 +1,157 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Eres demasiado inteligente para seguir convenciones de nombres",
+            "t": "A",
+            "v": "802383_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Pero, así, de una manera buena",
+            "t": "A",
+            "v": "802382_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Haz tu mejor “ronquido”.",
+            "t": "A",
+            "v": "806728_1",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién te parece que la está pasando mejor en este momento?",
+            "t": "A",
+            "v": "802385_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Qué es lo más insignificante que ha arruinado tu día?",
+            "t": "A",
+            "v": "806729_1",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Despierta y recoge las bolitas",
+            "t": "A",
+            "v": "802381_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién preferirías que te haga cirugía?",
+            "t": "A",
+            "v": "809576_1",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "El más nervioso de los personajes de Disney",
+            "t": "A",
+            "v": "802380_2",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "Mudito no habla, así que hazte la cara que harías cuando descubriste que tus amigos piensan que eres Mudito.",
+            "t": "A",
+            "v": "806731_1",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Espero que seas... oh... lo eres.",
+            "t": "A",
+            "v": "802379_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¡Todos miren a esta persona!",
+            "t": "A",
+            "v": "802378_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué es lo más embarazoso que puede ocurrir en este momento?",
+            "t": "A",
+            "v": "802384_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cuál de los siete enanos es cada uno?",
+            "t": "A",
+            "v": "802371_1",
+            "n": "Prompt"
+        }
+    ]
+}

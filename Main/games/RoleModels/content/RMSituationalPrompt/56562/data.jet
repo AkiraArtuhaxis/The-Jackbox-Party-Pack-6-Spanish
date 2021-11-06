@@ -1,0 +1,151 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Nos pasa a los mejores",
+            "t": "A",
+            "v": "809234_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Pero qué hardcore",
+            "t": "A",
+            "v": "809233_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es un nombre tierno para un ratón flatulento?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Cuál es el mejor efecto de sonido de dibujos animados para cualquier ocasión?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál es el mejor lugar para “soltar uno” sin que nadie se de cuenta?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Quién sería el mejor asesino?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Refrescante",
+            "t": "A",
+            "v": "809232_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Quién probablemente tiene ropa a mano para “emergencias”?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Awwww",
+            "t": "A",
+            "v": "809231_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién ganaría una batalla de baile al estilo de los 80?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Sssshhh",
+            "t": "A",
+            "v": "809230_2",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "Eterno",
+            "t": "A",
+            "v": "809229_2",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "No me digan que no han pensado sobre ello. ¿Qué pedo combina mejor con cada uno de ustedes?",
+            "t": "A",
+            "v": "809222_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "combates el crimen",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "lo vendes",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "no le dices a nadie",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Encuentras a un orangután súper fuerte y muy leal. Entonces tu...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Encuentras a un orangután súper fuerte y muy leal. Entonces tu...",
+            "t": "A",
+            "v": "814512_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

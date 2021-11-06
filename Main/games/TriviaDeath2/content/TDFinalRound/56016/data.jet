@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Detectives en series de <i>La ley y el orden<\/i>",
+            "t": "A",
+            "v": "800228_1",
+            "n": "Q"
+        }
+    ]
+}

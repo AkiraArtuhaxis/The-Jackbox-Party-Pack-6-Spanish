@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si tuvieras un presupuesto ilimitado, ¿qué agregarías a tu sala de estar?",
+            "t": "A",
+            "v": "829764_1",
+            "n": "Prompt"
+        }
+    ]
+}

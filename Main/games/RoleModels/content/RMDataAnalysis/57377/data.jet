@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Si vivieras en Poniente, ¿cómo llamarías a tu espada?",
+            "t": "A",
+            "v": "829335_1",
+            "n": "Prompt"
+        }
+    ]
+}

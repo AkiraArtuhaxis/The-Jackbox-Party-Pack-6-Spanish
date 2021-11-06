@@ -1,0 +1,173 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "Con tu mejor voz de capitán, describe por favor lo que todos verían si miraran por la ventana.",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "¿Le importaría ir debajo de su asiento, por favor?",
+            "t": "A",
+            "v": "809396_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Podría ir en cualquier sentido.",
+            "t": "A",
+            "v": "809395_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Quién NUNCA está equivocado?",
+            "t": "A",
+            "v": "809398_1",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "Como miembro de primera clase, ¿por qué eres mejor que todos los demás aquí?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Oh, chico.",
+            "t": "A",
+            "v": "809394_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Cuál es un libro que llevas a todas partes pero que nunca lees?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Te has ganado esto.",
+            "t": "A",
+            "v": "809393_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Qué es algo que, no importa donde estés, siempre te hace llorar?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Pretzels por favor.",
+            "t": "A",
+            "v": "809392_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Cuál es la mejor parte de volar alrededor del mundo gratis?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "Entendido.",
+            "t": "A",
+            "v": "809391_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Qué es algo en lo que has estado equivocado, pero te negabas a reconocerlo?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "Apunta todas las salidas de la habitación.",
+            "t": "A",
+            "v": "809397_1",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Quién es cada uno en este avión?",
+            "t": "A",
+            "v": "809384_1",
+            "n": "Prompt"
+        }
+    ]
+}

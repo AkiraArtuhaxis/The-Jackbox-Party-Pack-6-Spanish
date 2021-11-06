@@ -1,0 +1,171 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "¿Alguna vez has pensado en matar con amabilidad?",
+            "t": "A",
+            "v": "803246_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "¡¿No eres Euron Greyjoy?!",
+            "t": "A",
+            "v": "803245_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "Si vas a empujar a alguien a un tren, tendrás que hacerte el inocente después. Haz tu mejor llamada de auxilio falsa para alertar a la policía de este terrible accidente.",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "¿Quién es más escurridizo?",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Cuál sería tu insulto más letal?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Qué tipo de almohada es el más letal y por qué?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Supongo que no necesitarán esa melatonina después de todo.",
+            "t": "A",
+            "v": "803244_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¡DESENFUNDEN! ¡Quién haga las mejores pistolas con los dedos gana!",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Bueno, será rápido.",
+            "t": "A",
+            "v": "803243_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "En un duelo, ¿quién desenfundaría más rápido?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Uh, ¿Te importa si cambiamos bebidas?",
+            "t": "A",
+            "v": "803242_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Qué frase pegadiza dirías justo antes de empujar a tu víctima?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "¡Bang!",
+            "t": "A",
+            "v": "803241_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¿Qué cosa genial dirías antes de cortar en dos a tu enemigo?",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Qué método de asesinato más probablemente utilizaría cada uno de ustedes?",
+            "t": "A",
+            "v": "803234_1",
+            "n": "Prompt"
+        }
+    ]
+}

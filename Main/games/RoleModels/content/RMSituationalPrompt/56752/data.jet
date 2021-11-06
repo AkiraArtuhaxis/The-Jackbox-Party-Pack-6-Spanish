@@ -1,0 +1,181 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke4"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke2"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt1"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt2"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke0"
+        },
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasRevealJoke1"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt7"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt8"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt9"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt3"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt4"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt5"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasRevealPrompt6"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "RevealPrompt9"
+        },
+        {
+            "s": "Justo como mi madre.",
+            "t": "A",
+            "v": "813653_1",
+            "n": "RevealJoke5"
+        },
+        {
+            "s": "Definitivamente hoy es un día abrasador.",
+            "t": "A",
+            "v": "813652_1",
+            "n": "RevealJoke4"
+        },
+        {
+            "s": "¿Cuál es el nombre irónico que le diste a tu hijo o hija?",
+            "t": "A",
+            "n": "RevealPrompt2"
+        },
+        {
+            "s": "Qué es lo último que dices que hace que te echen del partido.",
+            "t": "A",
+            "n": "RevealPrompt1"
+        },
+        {
+            "s": "¿Quién es más probable que devuelva una comida en un restaurante si no le gusta?",
+            "t": "A",
+            "n": "RevealPrompt4"
+        },
+        {
+            "s": "¿Por qué inscribiste a tu hijo o hija a la liga de béisbol infantil?",
+            "t": "A",
+            "n": "RevealPrompt3"
+        },
+        {
+            "s": "Al menos hiciste un acto de presencia.",
+            "t": "A",
+            "v": "813651_1",
+            "n": "RevealJoke3"
+        },
+        {
+            "s": "¿Qué jugador es más agresivamente competitivo?",
+            "t": "A",
+            "n": "RevealPrompt6"
+        },
+        {
+            "s": "Ganar lol",
+            "t": "A",
+            "v": "813650_1",
+            "n": "RevealJoke2"
+        },
+        {
+            "s": "¿Quién podría haber interpretado a un padre que trabaja demasiado en una película infantil de los 90?",
+            "t": "A",
+            "n": "RevealPrompt5"
+        },
+        {
+            "s": "Deja en paz a Kelsey.",
+            "t": "A",
+            "v": "813649_1",
+            "n": "RevealJoke1"
+        },
+        {
+            "s": "¿Quién verdaderamente te apoya a ti en este juego?",
+            "t": "A",
+            "n": "RevealPrompt8"
+        },
+        {
+            "s": "(Silenciosamente) Buen trabajo.",
+            "t": "A",
+            "v": "813648_1",
+            "n": "RevealJoke0"
+        },
+        {
+            "s": "¿Cuál es el evento de la vida de un hijo que es más devastador para un padre perderse?",
+            "t": "A",
+            "n": "RevealPrompt7"
+        },
+        {
+            "s": "¡Tu hijo/a ha golpeado un jonrón! Celebra lo más silenciosamente que puedas.",
+            "t": "A",
+            "n": "RevealPrompt0"
+        },
+        {
+            "s": "¿Cómo se comportaría cada uno de ustedes en el partido de béisbol infantil de su hijo/a?",
+            "t": "A",
+            "v": "813641_1",
+            "n": "Prompt"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasPrompt"
+        },
+        {
+            "s": "Eres un espía. Un(a) contra agente atractivo/a tiene el archivo secreto. ¿Cómo lo consigues de él/ella?",
+            "t": "A",
+            "v": "830658_1",
+            "n": "Prompt"
+        }
+    ]
+}

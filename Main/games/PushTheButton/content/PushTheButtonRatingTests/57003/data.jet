@@ -1,0 +1,52 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "1",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "En ocasiones puedo ser un cretino/una cretina.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Yo sería un buen/una buena líder de un culto.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Yo sería un muy buen perro",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Yo sería un gran presidente.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Yo sería un gran presidente.",
+        "t": "A",
+        "v": "818910_1",
+        "n": "HumanPromptAudio"
+    }]
+}

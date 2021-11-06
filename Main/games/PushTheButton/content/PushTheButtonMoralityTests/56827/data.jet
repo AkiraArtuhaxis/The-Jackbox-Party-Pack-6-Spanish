@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "tomarlo",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "dejárlo ahí",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "hablarle a un/a amigo/a para que te ayude",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "El sofá perfecto lleva más de 24 horas en la acera. Deberías...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "El sofá perfecto lleva más de 24 horas en la acera. Deberías...",
+            "t": "A",
+            "v": "814952_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

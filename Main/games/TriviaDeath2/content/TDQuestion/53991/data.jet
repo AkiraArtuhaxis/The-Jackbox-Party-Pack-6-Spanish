@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de mis malditos cuchillos de cocina está curvado hacia arriba?",
+            "t": "A",
+            "v": "769490_1",
+            "n": "Q"
+        },
+        {
+            "s": "Me encanta cocinar...",
+            "t": "A",
+            "v": "769497_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[the boning knife] [the scimitar knife] [the bird’s beak paring knife] [the cleaver]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

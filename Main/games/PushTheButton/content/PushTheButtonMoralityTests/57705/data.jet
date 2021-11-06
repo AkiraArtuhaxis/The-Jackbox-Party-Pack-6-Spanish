@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "les dirías a todos",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "tenderías una trampa",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "irrumpirías en su casa",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Un grupo de elfos diminutos se mueven hacia un árbol en tu patio trasero. Si te acercas a ellos, te sisean y muestran sus garras hacia ti. Tú...",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Un grupo de elfos diminutos se mueven hacia un árbol en tu patio trasero. Si te acercas a ellos, te sisean y muestran sus garras hacia ti. Tú...",
+            "t": "A",
+            "v": "835023_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}
