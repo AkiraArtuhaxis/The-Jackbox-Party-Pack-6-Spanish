@@ -4943,12 +4943,12 @@
                 {
                     "difficulty": 0,
                     "correct": true,
-                    "text": "medios"
+                    "text": "sociales"
                 },
                 {
                     "difficulty": 0,
                     "correct": true,
-                    "text": "guardián"
+                    "text": "guardianes"
                 },
                 {
                     "difficulty": 0,
@@ -4958,12 +4958,12 @@
                 {
                     "difficulty": 0,
                     "correct": true,
-                    "text": "diario"
+                    "text": "lactosa"
                 },
                 {
                     "difficulty": 0,
                     "correct": true,
-                    "text": "taller"
+                    "text": "estudio"
                 },
                 {
                     "difficulty": 0,
@@ -4973,7 +4973,7 @@
                 {
                     "difficulty": 1,
                     "correct": true,
-                    "text": "agresivo"
+                    "text": "violencia"
                 },
                 {
                     "difficulty": 0,
@@ -4993,12 +4993,12 @@
                 {
                     "difficulty": 0,
                     "correct": false,
-                    "text": "violeta"
+                    "text": "lila"
                 },
                 {
                     "difficulty": 0,
                     "correct": false,
-                    "text": "desarrollador"
+                    "text": "desarrollar"
                 },
                 {
                     "difficulty": 0,
@@ -15646,7 +15646,7 @@
                 {
                     "difficulty": 0,
                     "correct": false,
-                    "text": "agresivo"
+                    "text": "violencia"
                 },
                 {
                     "difficulty": 0,
@@ -20366,7 +20366,7 @@
                 {
                     "difficulty": 0,
                     "correct": true,
-                    "text": "George Frideric Handel"
+                    "text": "George Frideric Händel"
                 },
                 {
                     "difficulty": 0,
