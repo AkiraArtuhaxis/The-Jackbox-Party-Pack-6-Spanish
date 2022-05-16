@@ -1,0 +1,75 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Acabamos de descubrir internet.",
+        "INTERNET_DISCONNECTED": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "ROOM_DESTROYED": "Se ha producido un error y tu sala se ha desintegrado.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "SOCKET_DISCONNECTED": "Hemos perdido la conexión con los servidores de Jackbox Games.",
+        "TIMEOUT": "Parece que no podemos conectarte a los servidores de Jackbox Games.<br />Comprueba que tu conexión a Internet funciona correctamente.",
+        "USER_DISCONNECT": "Te has desconectado del servidor. Vuelve a intentarlo.",
+        "LOST_LICENSE": "No hemos encontrado la licencia para este contenido.",
+        "STEAM_ERROR": "No hemos podido validar tu licencia de Steam.",
+        "TWITCH_PRIME_ERROR": "No hemos podido validar tu licencia de Twitch Prime.",
+        "LOST_DLC": "No hemos encontrado la licencia para el contenido descargable. Volviendo al menú principal...",
+        "CLOSE": "Cerrar",
+        "QUIT": "Salir",
+        "BACK": "Atrás",
+        "MENU_GAME_NAME_1": "TRIVIA DE LA MUERTE 2",
+        "MENU_GAME_NAME_2": "MODELO A SEGUIR",
+        "MENU_GAME_NAME_3": "CRUCERO CÓMICO",
+        "MENU_GAME_NAME_4": "DICCIONARIUM",
+        "MENU_GAME_NAME_5": "PULSA EL BOTÓN",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "AJUSTES",
+        "MENU_HOW_TO": "CÓMO JUGAR",
+        "BADGE_TITLE_PLAYERS": "JUGADORES",
+        "BADGE_TITLE_FAMILY_MODE": "PARA TODA LA FAMILIA",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "NO PARA TODA LA FAMILIA",
+        "BADGE_TITLE_AUDIENCE": "PÚBLICO",
+        "BADGE_SUB_PLAYERS": "USA CELULARES/TABLETS",
+        "BADGE_SUB_FAMILY_MODE": "OPCIONAL",
+        "BADGE_SUB_NOT_FAMILY_MODE": "¡EN SERIO!",
+        "BADGE_SUB_AUDIENCE": "MÁS PUEDEN JUGAR",
+        "INFO_DESCRIPTION_GAME_1": "Un asesino serial está armando un juego absurdo de trivia desde su Hotel Asesino de la familia con la que vivía. ¿Podrás sobrevivir?",
+        "INFO_DESCRIPTION_GAME_2": "Todos somos alguien, asi que, ¿quién eres? ¿El planificador? ¿El especial? ¿El picante? Entra al laboratorio y descúbrelo.",
+        "INFO_DESCRIPTION_GAME_3": "¡Ahoy! Eres un comediante amateur en un crucero de cuarta. ¿Tienes lo que se necesita para ganar el show de talento?",
+        "INFO_DESCRIPTION_GAME_4": "El ser humano ha estado inventando palabras y frases por siglos. Ahora es tu turno para contribuir una entrada en las páginas del Diccionarium.",
+        "INFO_DESCRIPTION_GAME_5": "¡Peligro! Alienígenas cambia-forma se han infiltrado en tu nave. ¿Pueden tú y tu tripulación encontrarlos antes que se acabe el tiempo?",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "AJUSTES",
+        "SETTINGS_FULL_SCREEN": "Pantalla completa",
+        "SETTINGS_VOLUME": "Volumen",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "SÍ hará que los juegos estén en pantalla completa.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Haz del juego uno RUIDOSO o CALLADO.",
+        "SETTINGS_TOGGLE_ON": "SÍ",
+        "SETTINGS_TOGGLE_OFF": "NO",
+        "HELP_TITLE": "INSTRUCCIONES",
+        "HELP_LINE_1": "Elige un juego utilizando un mando.",
+        "HELP_LINE_2": "Cuando llegues al lobby, tome tu celular, tablet o laptop.",
+        "HELP_LINE_3": "Dirígete a jackbox.lol en tu dispositivo.",
+        "HELP_LINE_4": "Ingresa el código de 4 letras mostrado en la pantalla de tu TV y tu nombre como jugador.",
+        "HELP_LINE_5": "El primer jugador en unirse al lobby del juego (el VIP) puede comenzar el juego desde su dispositivo cuando todos estén listos.",
+        "HELP_LINE_6": "Disfruta con tus amigos, familia, o completos desconocidos.",
+        "HELP_URL": "help.jackboxgames.com"
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}
