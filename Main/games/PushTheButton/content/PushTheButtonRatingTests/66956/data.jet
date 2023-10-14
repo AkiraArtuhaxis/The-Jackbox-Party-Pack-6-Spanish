@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Soy un poco supersticioso/supersticiosa.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Me encantan los juegos de mesa.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Le tengo miedo a los payasos.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Los tableros de ouija pueden comunicarse con fantasmas.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Los tableros de ouija pueden comunicarse con fantasmas.",
-        "t": "A",
-        "v": "890228_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Soy un poco supersticioso/supersticiosa.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Me encantan los juegos de mesa.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Le tengo miedo a los payasos.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Los tableros de ouija pueden comunicarse con fantasmas.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Los tableros de ouija pueden comunicarse con fantasmas.",
+            "t": "A",
+            "v": "890228_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

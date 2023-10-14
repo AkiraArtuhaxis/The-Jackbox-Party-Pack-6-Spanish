@@ -102,12 +102,12 @@
         },
         {
             "t": "S",
-            "v": "Dos personajes de ficción que me gustaría ver luchar son...",
+            "v": "Dos personajes de ficción que me gustaría ver pelear son...",
             "n": "AlienPromptText7"
         },
         {
             "t": "S",
-            "v": "Dos celebridades que desearía que estuvieran juntos son...",
+            "v": "Dos celebridades que desearía que estuvieran juntas son...",
             "n": "AlienPromptText0"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My two favorite people are...",
+            "s": "Mis dos personas favoritas son...",
             "t": "A",
             "v": "834723_1",
             "n": "HumanPromptAudio"

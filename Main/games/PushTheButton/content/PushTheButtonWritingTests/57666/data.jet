@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Lo más asqueroso que he tocado es...",
+            "v": "Lo más asqueroso que he tocado en mi vida es...",
             "n": "AlienPromptText8"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "La mayoría de las personas no saben que tengo una colección secreta de\u2026",
+            "v": "La mayoría de las personas no saben que tengo una colección secreta de…",
             "n": "AlienPromptText2"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Las pestes hogareñas que más me asustan son\u2026",
+            "v": "Las pestes hogareñas que más me asustan son…",
             "n": "AlienPromptText3"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The most unique thing I collect is...",
+            "s": "Lo más particular que colecciono es...",
             "t": "A",
             "v": "834555_1",
             "n": "HumanPromptAudio"

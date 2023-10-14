@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "venderla en eBay",
+            "v": "lo venderías en eBay",
             "n": "AlienPromptText1"
         },
         {
@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "quedártela",
+            "v": "quedártelo",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Encuentras la chaqueta de tu ex en tu casa. Es muy cara así que deberías...",
+            "v": "Encuentras la chaqueta de tu ex en tu casa. Es muy costosa así que deberías...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Encuentras la chaqueta de tu ex en tu casa. Es muy cara así que deberías...",
+            "s": "Encuentras la chaqueta de tu ex en tu casa. Es muy costosa así que deberías...",
             "t": "A",
             "v": "814392_1",
             "n": "HumanPromptAudio"

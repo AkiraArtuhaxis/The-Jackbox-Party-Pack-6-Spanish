@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "El mejor mes para tomar vacaciones es...",
+            "v": "El mejor mes para tomarse vacaciones es...",
             "n": "HumanPromptText"
         },
         {
-            "s": "El mejor mes para tomar vacaciones es...",
+            "s": "El mejor mes para tomarse vacaciones es...",
             "t": "A",
             "v": "805543_0",
             "n": "HumanPromptAudio"

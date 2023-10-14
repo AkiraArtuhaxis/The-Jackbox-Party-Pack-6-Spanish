@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja spandex.",
+            "v": "Dibuja licra.",
             "n": "HumanPromptText"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja correr desnudo.",
+            "v": "Dibuja el correr desnudo.",
             "n": "AlienPromptText3"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja spandex.",
+            "s": "Dibuja licra.",
             "t": "A",
             "v": "836223_1",
             "n": "HumanPromptAudio"

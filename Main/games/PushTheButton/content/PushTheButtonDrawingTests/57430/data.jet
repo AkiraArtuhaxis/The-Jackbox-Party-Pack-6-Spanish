@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja a Winnie-Pooh.",
+            "v": "Dibuja a Winnie Pooh.",
             "n": "HumanPromptText"
         },
         {
@@ -116,7 +116,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja a Winnie-Pooh.",
+            "s": "Dibuja a Winnie Pooh.",
             "t": "A",
             "v": "830766_1",
             "n": "HumanPromptAudio"

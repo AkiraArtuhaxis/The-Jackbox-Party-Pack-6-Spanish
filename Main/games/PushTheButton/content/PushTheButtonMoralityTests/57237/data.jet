@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cTal vez después.\u201d",
+            "v": "“Tal vez después.”",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cSeguro. ¿Porqué no?\u201d",
+            "v": "“Seguro. ¿Porqué no?”",
             "n": "AlienPromptText1"
         },
         {
@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "\u201cProbaré 1.\u201d",
+            "v": "“Probaré 1.”",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Tu cirujano plástico te informa que podrías lucir hasta 20 años más joven con manos de langosta. Tu le contestas...",
+            "v": "Tu cirujano plástico te informa que podrías lucir hasta 20 años más joven con manos de langosta. Tú le contestas...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Tu cirujano plástico te informa que podrías lucir hasta 20 años más joven con manos de langosta. Tu le contestas...",
+            "s": "Tu cirujano plástico te informa que podrías lucir hasta 20 años más joven con manos de langosta. Tú le contestas...",
             "t": "A",
             "v": "825318_1",
             "n": "HumanPromptAudio"

@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Desearía poder leer las mentes.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "La carne es mejor que el pollo.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Uno debería ser amable con los animales.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Los granjeros deberían pagarle a sus animales.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Los granjeros deberían pagarle a sus animales.",
-        "t": "A",
-        "v": "818769_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Desearía poder leer las mentes.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "La carne es mejor que el pollo.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Uno debería ser amable con los animales.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Los granjeros deberían pagarle a sus animales.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Los granjeros deberían pagarle a sus animales.",
+            "t": "A",
+            "v": "818769_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

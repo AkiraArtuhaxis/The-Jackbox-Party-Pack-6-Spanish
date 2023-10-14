@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Parece que aliens están secuestrando a tus vecinos. Tú...",
+            "v": "Parece que los aliens están secuestrando a tus vecinos. Tú...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Parece que aliens están secuestrando a tus vecinos. Tú...",
+            "s": "Parece que los aliens están secuestrando a tus vecinos. Tú...",
             "t": "A",
             "v": "814976_1",
             "n": "HumanPromptAudio"

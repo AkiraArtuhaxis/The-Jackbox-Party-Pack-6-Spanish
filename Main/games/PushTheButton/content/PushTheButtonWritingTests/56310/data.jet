@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Mi actor o actriz favorito es...",
+            "v": "Mi actor o actriz favorito/a es...",
             "n": "HumanPromptText"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Mi actor o actriz favorito es...",
+            "s": "Mi actor o actriz favorito/a es...",
             "t": "A",
             "v": "805483_0",
             "n": "HumanPromptAudio"

@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Algo que actualmente llevo puesto específicamente es...",
+            "v": "Algo que específicamente llevo puesto ahora es...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Something I\u2019m specifically wearing right now is...",
+            "s": "Algo que específicamente llevo puesto ahora es...",
             "t": "A",
             "v": "832748_1",
             "n": "HumanPromptAudio"

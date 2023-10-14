@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cnalga,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “nalga”, pienso en...",
             "n": "AlienPromptText1"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho el término \u201clinda sonrisa,\u201d pienso en...",
+            "v": "Cuando escucho el término “linda sonrisa”, pienso en...",
             "n": "AlienPromptText2"
         },
         {
@@ -62,16 +62,16 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cromance,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “romance”, pienso en...",
             "n": "AlienPromptText3"
         },
         {
             "t": "S",
-            "v": "Cuando escucho el término \u201craja en la cola,\u201d pienso en...",
+            "v": "Cuando escucho el término “raja en la cola”, pienso en...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Cuando escucho el término  \u201cbutt crack,\u201d pienso en...",
+            "s": "Cuando escucho el término “raja en la cola”, pienso en...",
             "t": "A",
             "v": "834675_1",
             "n": "HumanPromptAudio"

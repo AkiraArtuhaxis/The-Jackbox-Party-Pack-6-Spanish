@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Dos celebridades que desearía que estuvieran juntos son...",
+            "v": "Dos celebridades que desearía que estuvieran juntas son...",
             "n": "AlienPromptText0"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Two celebrities who annoy me are...",
+            "s": "Dos celebridades que me molestan son...",
             "t": "A",
             "v": "834735_1",
             "n": "HumanPromptAudio"

@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "vendes por eBay",
+            "v": "lo venderías en eBay",
             "n": "AlienPromptText1"
         },
         {
@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Descubres una foto de tu papá con OJ Simpson, asi que tu la...",
+            "v": "Descubres una foto de tu papá con alguien que luego resultó ser un asesino, así que tú la...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Descubres una foto de tu papá con OJ Simpson, asi que tu la...",
+            "s": "Descubres una foto de tu papá con alguien que luego resultó ser un asesino, así que tú la...",
             "t": "A",
             "v": "826798_1",
             "n": "HumanPromptAudio"

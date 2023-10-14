@@ -132,7 +132,7 @@
         },
         {
             "t": "S",
-            "v": "Mi pasatiempo favorito es...",
+            "v": "Mi pasatiempo preferido es...",
             "n": "AlienPromptText1"
         },
         {
@@ -161,7 +161,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "I would consider myself an expert about...",
+            "s": "Me consideraría experto/a en...",
             "t": "A",
             "v": "889952_1",
             "n": "HumanPromptAudio"

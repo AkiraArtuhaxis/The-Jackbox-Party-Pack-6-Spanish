@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Soy siempre consciente del medio ambiente.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Soy presumido/presumida.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Puedo hacer un buen acento Inglés.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Uso mi ropa interior por días y días hasta que no soporto el olor.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Uso mi ropa interior por días y días hasta que no soporto el olor.",
-        "t": "A",
-        "v": "819059_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Soy siempre consciente del medio ambiente.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Soy alguien importante.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Puedo hacer un buen acento Inglés.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Uso mi ropa interior por días y días hasta que no soporto el olor.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Uso mi ropa interior por días y días hasta que no soporto el olor.",
+            "t": "A",
+            "v": "819059_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

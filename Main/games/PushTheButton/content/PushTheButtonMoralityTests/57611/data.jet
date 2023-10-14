@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cNos vemos esta noche\u201d",
+            "v": "“Nos vemos esta noche”",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cTengo cosquillas\u201d",
+            "v": "“Tengo cosquillas”",
             "n": "AlienPromptText1"
         },
         {
@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "\u201cLos abrazos son mis favoritos\u201d",
+            "v": "“Los abrazos son mis favoritos”",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Tu hijo/a trajo a la casa un muñeco parlante espeluznante. Te desharías de él si te dijera...",
+            "v": "Tu hijo trajo a la casa un muñeco parlante espeluznante. Te desharías del muñeco si te dijera...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Tu hijo/a trajo a la casa un muñeco parlante espeluznante. Te desharías de él si te dijera...",
+            "s": "Tu hijo trajo a la casa un muñeco parlante espeluznante. Te desharías del muñeco si te dijera...",
             "t": "A",
             "v": "833490_1",
             "n": "HumanPromptAudio"

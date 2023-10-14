@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja una mohawk.",
+            "v": "Dibuja a alguien con una cresta.",
             "n": "HumanPromptText"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja una mohawk.",
+            "s": "Dibuja a alguien con una cresta.",
             "t": "A",
             "v": "831482_1",
             "n": "HumanPromptAudio"

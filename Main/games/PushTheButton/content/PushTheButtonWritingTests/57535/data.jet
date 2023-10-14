@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "Algo en lo que soy secretamente bueno es...",
+            "v": "Algo en lo que soy secretamente bueno/a es...",
             "n": "HumanPromptText"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Something I am secretly really good at is...",
+            "s": "Algo en lo que soy secretamente bueno/a es...",
             "t": "A",
             "v": "832466_1",
             "n": "HumanPromptAudio"

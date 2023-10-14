@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Mi locación ficticia favorita es...",
+            "v": "Mi lugar de ficción favorito es...",
             "n": "HumanPromptText"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Mi locación ficticia favorita es...",
+            "s": "Mi lugar de ficción favorito es...",
             "t": "A",
             "v": "803387_0",
             "n": "HumanPromptAudio"

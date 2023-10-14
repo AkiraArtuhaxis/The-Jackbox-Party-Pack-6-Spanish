@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Lo más asqueroso que he tocado es...",
+            "v": "Lo más asqueroso que he tocado en mi vida es...",
             "n": "AlienPromptText8"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Mi personaje animado favorito es...",
+            "v": "Mi personaje de caricatura favorito es...",
             "n": "AlienPromptText6"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Mi animal preferido es...",
+            "v": "Mi animal favorito es...",
             "n": "AlienPromptText2"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The coolest thing I\u2019ve ever taken a selfie with is...",
+            "s": "Lo más asombroso junto a lo que me tomé una selfie es...",
             "t": "A",
             "v": "833768_1",
             "n": "HumanPromptAudio"

@@ -77,12 +77,12 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201ccacahuate,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “cacahuate”, pienso en...",
             "n": "HumanPromptText"
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201csexy,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “sexy”, pienso en...",
             "n": "AlienPromptText4"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201ctravieso,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “travieso”, pienso en...",
             "n": "AlienPromptText6"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cnerd,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “nerd”, pienso en...",
             "n": "AlienPromptText0"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cbobo,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “bobo”, pienso en...",
             "n": "AlienPromptText1"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201ctontín,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “tontín”, pienso en...",
             "n": "AlienPromptText2"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cmusculoso,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “musculoso”, pienso en...",
             "n": "AlienPromptText3"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Cuando escucho la palabra \u201cgoober,\u201d pienso en...",
+            "s": "Cuando escucho la palabra “cacahuate”, pienso en...",
             "t": "A",
             "v": "834819_1",
             "n": "HumanPromptAudio"

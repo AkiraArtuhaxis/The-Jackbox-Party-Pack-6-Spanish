@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Mi personaje animado favorito es...",
+            "v": "Mi personaje de caricatura favorito es...",
             "n": "HumanPromptText"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Mi animal preferido es...",
+            "v": "Mi animal favorito es...",
             "n": "AlienPromptText3"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My favorite cartoon character is...",
+            "s": "Mi personaje de caricatura favorito es...",
             "t": "A",
             "v": "831138_1",
             "n": "HumanPromptAudio"

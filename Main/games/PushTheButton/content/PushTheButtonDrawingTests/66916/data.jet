@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja la película de <i>El Gato en el Sombrero.<\/i>.",
+            "v": "Dibuja <i>El Gato en el Sombrero<\/i>.",
             "n": "HumanPromptText"
         },
         {
@@ -116,7 +116,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja la película de <i>El Gato en el Sombrero.<\/i>.",
+            "s": "Dibuja <i>El Gato en el Sombrero<\/i>.",
             "t": "A",
             "v": "889748_1",
             "n": "HumanPromptAudio"

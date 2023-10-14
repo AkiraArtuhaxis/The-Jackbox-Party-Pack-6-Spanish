@@ -87,7 +87,7 @@
         },
         {
             "t": "S",
-            "v": "Mi personaje animado favorito es...",
+            "v": "Mi personaje de caricatura favorito es...",
             "n": "AlienPromptText5"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Una celebridad que me parece atractiva es...",
+            "v": "Una celebridad que encuentro atractiva es...",
             "n": "AlienPromptText2"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The actor or actress I want to play me in a movie is...",
+            "s": "El actor o actriz que quisiera que me interprete en una película es...",
             "t": "A",
             "v": "833624_1",
             "n": "HumanPromptAudio"

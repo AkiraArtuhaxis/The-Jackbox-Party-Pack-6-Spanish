@@ -102,7 +102,7 @@
         },
         {
             "t": "S",
-            "v": "La mejor cita de película de los años \u201890 es...",
+            "v": "La mejor cita de película de los años ‘90 es...",
             "n": "AlienPromptText7"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My favorite movie quote is probably...",
+            "s": "Mi cita de película favorita es probablemente...",
             "t": "A",
             "v": "836741_1",
             "n": "HumanPromptAudio"

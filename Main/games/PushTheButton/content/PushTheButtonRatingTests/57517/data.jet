@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Las papas fritas son horribles una vez que se enfrían.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Me ha parecido atractivo/atractiva un personaje de caricatura.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Nunca podría ser vegano.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Me siento atraído por el personaje ladrón de Mcdonalds.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Me siento atraído por el personaje ladrón de Mcdonalds.",
-        "t": "A",
-        "v": "832250_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Las papas fritas son horribles una vez que se enfrían.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Me ha parecido atractivo/atractiva un personaje de caricatura.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Nunca podría ser vegano.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Me atrae el personaje ladrón de McDonald's.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Me atrae el personaje ladrón de McDonald's.",
+            "t": "A",
+            "v": "832250_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

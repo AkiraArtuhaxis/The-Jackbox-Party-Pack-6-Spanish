@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Mi desayuno favorito es...",
+            "v": "Mi comida favorita para el desayuno es...",
             "n": "AlienPromptText0"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "A dish I can cook well enough to serve to guests is...",
+            "s": "Un plato que puedo preparar lo suficientemente bien para servir a invitados es...",
             "t": "A",
             "v": "833194_1",
             "n": "HumanPromptAudio"

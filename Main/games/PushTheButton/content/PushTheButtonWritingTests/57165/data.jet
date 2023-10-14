@@ -102,7 +102,7 @@
         },
         {
             "t": "S",
-            "v": "Mi película de monstruos favorita es...",
+            "v": "Mi película favorita de monstruos es...",
             "n": "AlienPromptText7"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My favorite scary movie is...",
+            "s": "Mi película atemorizante favorita es...",
             "t": "A",
             "v": "822504_1",
             "n": "HumanPromptAudio"

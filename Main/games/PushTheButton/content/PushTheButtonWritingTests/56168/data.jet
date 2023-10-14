@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Mi película favorita de los 80s es...",
+            "v": "Mi película favorita de los 80‘s es...",
             "n": "HumanPromptText"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
             "t": "S",
-            "v": "Mi película favorita de los 90s es...",
+            "v": "Mi película favorita de los 90‘s es...",
             "n": "AlienPromptText2"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Mi película favorita de los 80s es...",
+            "s": "Mi película favorita de los 80‘s es...",
             "t": "A",
             "v": "802985_0",
             "n": "HumanPromptAudio"

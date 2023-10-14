@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El animal más asombroso para montar si éste te deja sería...",
+            "v": "El animal más asombroso para montar si este te dejara sería...",
             "n": "HumanPromptText"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The coolest animal to ride if it would let you would be...",
+            "s": "El animal más asombroso para montar si este te dejara sería...",
             "t": "A",
             "v": "831034_1",
             "n": "HumanPromptAudio"

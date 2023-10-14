@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Tu hijo/a quiere uno de esos palos saltarínes (pogo stick). Cuanto más costosos son, más seguros son. Tú compras el que cuesta...",
+            "v": "Tu hijo quiere uno de esos palos saltarines. Cuanto más costosos son, más seguros son. Tú compras el que cuesta...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Tu hijo/a quiere uno de esos palos saltarínes (pogo stick). Cuanto más costosos son, más seguros son. Tú compras el que cuesta...",
+            "s": "Tu hijo quiere uno de esos palos saltarines. Cuanto más costosos son, más seguros son. Tú compras el que cuesta...",
             "t": "A",
             "v": "825330_1",
             "n": "HumanPromptAudio"

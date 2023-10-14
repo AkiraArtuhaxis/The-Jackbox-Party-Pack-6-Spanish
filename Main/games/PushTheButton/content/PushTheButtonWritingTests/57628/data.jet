@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Algo que hago todas las mañanas es...",
+            "v": "Algo que hago cada mañana es...",
             "n": "AlienPromptText6"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "I spend most of my free time doing this...",
+            "s": "Paso la mayor parte de mi tiempo libre haciendo lo siguiente...",
             "t": "A",
             "v": "833708_1",
             "n": "HumanPromptAudio"

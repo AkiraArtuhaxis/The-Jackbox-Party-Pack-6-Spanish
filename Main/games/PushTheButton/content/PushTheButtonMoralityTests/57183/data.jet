@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Eres un Noe moderno pero con un bote más pequeño. No tendrías problema en dejar atrás a...",
+            "v": "Eres un Noé moderno pero con un bote más pequeño. No tendrías problema en dejar atrás a...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Eres un Noe moderno pero con un bote más pequeño. No tendrías problema en dejar atrás a...",
+            "s": "Eres un Noé moderno pero con un bote más pequeño. No tendrías problema en dejar atrás a...",
             "t": "A",
             "v": "823425_1",
             "n": "HumanPromptAudio"

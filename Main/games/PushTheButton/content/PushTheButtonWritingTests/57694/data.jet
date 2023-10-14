@@ -42,17 +42,17 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cpicante\u201d para describir...",
+            "v": "Probablemente usaría la palabra “picante” para describir...",
             "n": "HumanPromptText"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cromántico\u201d para describir...",
+            "v": "Probablemente usaría la palabra “romántico” para describir...",
             "n": "AlienPromptText4"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201carrugado\u201d para describir...",
+            "v": "Probablemente usaría la palabra “arrugado” para describir...",
             "n": "AlienPromptText5"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201csabroso\u201d para describir...",
+            "v": "Probablemente usaría la palabra “sabroso” para describir...",
             "n": "AlienPromptText0"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201caburrido\u201d para describir...",
+            "v": "Probablemente usaría la palabra “aburrido” para describir...",
             "n": "AlienPromptText1"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cardiente\u201d para describir...",
+            "v": "Probablemente usaría la palabra “ardiente” para describir...",
             "n": "AlienPromptText2"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría el término \u201cojos llorosos\u201d para describir...",
+            "v": "Probablemente usaría el término “ojos llorosos” para describir...",
             "n": "AlienPromptText3"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Probablemente usaría la palabra \u201cspicy\u201d para describir...",
+            "s": "Probablemente usaría la palabra “picante” para describir...",
             "t": "A",
             "v": "834891_1",
             "n": "HumanPromptAudio"

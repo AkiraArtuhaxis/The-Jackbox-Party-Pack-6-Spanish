@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "El último libro que leí trataba sobre...",
+            "v": "El último libro que leí se trataba de...",
             "n": "HumanPromptText"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The last book I read was all about...",
+            "s": "El último libro que leí se trataba de...",
             "t": "A",
             "v": "833684_1",
             "n": "HumanPromptAudio"

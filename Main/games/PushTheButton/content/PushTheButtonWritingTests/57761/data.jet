@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "La peor canción que se te pegó en la cabeza es...",
+            "v": "La peor canción que puede quedarse atascada en tu cabeza es...",
             "n": "AlienPromptText0"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The best TV theme song is...",
+            "s": "El mejor tema musical de TV es...",
             "t": "A",
             "v": "836621_1",
             "n": "HumanPromptAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "[EventName=HOST/AltHost]Cuando un rebaño de cuervos llega a tu cama, significa que...",
+            "v": "[EventName=HOST/AltHost]cuando una bandada de cuervos llega a tu cama, significa que...",
             "n": "PromptText"
         },
         {
@@ -41,7 +41,7 @@
             "n": "KeywordResponseAudio"
         },
         {
-            "s": "[EventName=HOST/AltHost]Cuando un rebaño de cuervos llega a tu cama, significa que...",
+            "s": "[EventName=HOST/AltHost]cuando una bandada de cuervos llega a tu cama, significa que...",
             "t": "A",
             "v": "799978_2",
             "n": "PromptAudio"

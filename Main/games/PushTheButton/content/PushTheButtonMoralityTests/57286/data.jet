@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "\u201c¡Eres asombrosa!\u201d",
+            "v": "“¡Eres asombrosa!”",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "\u201c¡Yo podría hacer eso!\u201d",
+            "v": "“¡Yo podría hacer eso!”",
             "n": "AlienPromptText1"
         },
         {
@@ -47,7 +47,7 @@
         },
         {
             "t": "S",
-            "v": "\u201c¡Esto es brujería!\u201d",
+            "v": "“¡Esto es brujería!”",
             "n": "AlienPromptText2"
         },
         {

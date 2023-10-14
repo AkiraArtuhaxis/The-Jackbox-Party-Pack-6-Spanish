@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "Dos celebridades que desearía que estuvieran juntos son...",
+            "v": "Dos celebridades que desearía que estuvieran juntas son...",
             "n": "HumanPromptText"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Two celebrities I wish would get together are...",
+            "s": "Dos celebridades que desearía que estuvieran juntas son...",
             "t": "A",
             "v": "834711_1",
             "n": "HumanPromptAudio"

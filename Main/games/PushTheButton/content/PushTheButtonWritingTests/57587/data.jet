@@ -102,7 +102,7 @@
         },
         {
             "t": "S",
-            "v": "Mi juego de mesa preferido es...",
+            "v": "Mi juego de mesa favorito es...",
             "n": "AlienPromptText7"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "A sport I used to play is...",
+            "s": "Un deporte que solía jugar es...",
             "t": "A",
             "v": "833158_1",
             "n": "HumanPromptAudio"

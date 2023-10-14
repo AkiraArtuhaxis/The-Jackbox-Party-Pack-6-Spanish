@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja un auto volador.",
+            "v": "Dibuja un carro volador.",
             "n": "AlienPromptText8"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja una película de <i>Rápido & Furioso<\/i>.",
+            "v": "Dibuja una película de <i>Rápidos y Furiosos<\/i>.",
             "n": "HumanPromptText"
         },
         {
@@ -161,7 +161,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja una película de <i>Rápido & Furioso<\/i>.",
+            "s": "Dibuja una película de <i>Rápidos y Furiosos<\/i>.",
             "t": "A",
             "v": "890000_1",
             "n": "HumanPromptAudio"

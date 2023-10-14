@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Mi comida reconfortante favorita es...",
+            "v": "Mi comida de la infancia favorita es...",
             "n": "AlienPromptText1"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "I really like the smell of...",
+            "s": "Me gusta mucho el olor de...",
             "t": "A",
             "v": "890120_1",
             "n": "HumanPromptAudio"

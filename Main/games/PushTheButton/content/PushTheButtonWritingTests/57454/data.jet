@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando pienso en los 90, pienso en...",
+            "v": "Cuando pienso en los 90‘s, pienso en...",
             "n": "AlienPromptText2"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando pienso en los 80, pienso en...",
+            "v": "Cuando pienso en los 80‘s, pienso en...",
             "n": "AlienPromptText3"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The one fad I never got into was...",
+            "s": "Una moda a la que nunca pude seguir fue...",
             "t": "A",
             "v": "831114_1",
             "n": "HumanPromptAudio"

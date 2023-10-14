@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "delatarlo",
+            "v": "acusarlo/a",
             "n": "AlienPromptText0"
         },
         {
@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Descubres que el líder de tu país es un alienígena. Pero la vida para todos nunca ha sido mejor. Lo que debes hacer es...",
+            "v": "Descubres que el líder de tu país es un alien del espacio. Pero la vida para todos nunca ha sido mejor. Lo que debes hacer es...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Descubres que el líder de tu país es un alienígena. Pero la vida para todos nunca ha sido mejor. Lo que debes hacer es...",
+            "s": "Descubres que el líder de tu país es un alien del espacio. Pero la vida para todos nunca ha sido mejor. Lo que debes hacer es...",
             "t": "A",
             "v": "805301_0",
             "n": "HumanPromptAudio"

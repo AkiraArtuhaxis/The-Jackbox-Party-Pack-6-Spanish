@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "le gritas \u201c¡Buuu!\u201d muy fuerte",
+            "v": "le gritas “¡Buuu!” muy fuerte",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Un/a extraño/a atractivo/a te guiña el ojo en el parque, entonces tú...",
+            "v": "Una persona desconocida atractiva te guiña el ojo en el parque, entonces tú...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Un/a extraño/a atractivo/a te guiña el ojo en el parque, entonces tú...",
+            "s": "Una persona desconocida atractiva te guiña el ojo en el parque, entonces tú...",
             "t": "A",
             "v": "825700_1",
             "n": "HumanPromptAudio"

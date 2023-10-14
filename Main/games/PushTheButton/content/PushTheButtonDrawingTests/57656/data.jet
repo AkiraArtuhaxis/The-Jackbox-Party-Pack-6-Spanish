@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja un juego de fútbol americano.",
+            "v": "Dibuja un partido de fútbol americano.",
             "n": "HumanPromptText"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja un juego de fútbol americano.",
+            "s": "Dibuja un partido de fútbol americano.",
             "t": "A",
             "v": "834226_1",
             "n": "HumanPromptAudio"

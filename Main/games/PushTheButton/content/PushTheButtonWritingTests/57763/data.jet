@@ -72,27 +72,27 @@
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201crepugnante\u201d para describir a...",
+            "v": "Usaría la palabra “repugnante” para describir a...",
             "n": "AlienPromptText8"
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201cagradable\u201d para describir a...",
+            "v": "Usaría la palabra “agradable” para describir a...",
             "n": "HumanPromptText"
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201cdivertido/a\u201d para describir a...",
+            "v": "Usaría la palabra “divertido/a” para describir a...",
             "n": "AlienPromptText4"
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201cmolesto/a\u201d para describir a...",
+            "v": "Usaría la palabra “molesto/a” para describir a...",
             "n": "AlienPromptText5"
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201cfrágil\u201d para describir a...",
+            "v": "Usaría la palabra “frágil” para describir a...",
             "n": "AlienPromptText6"
         },
         {
@@ -102,12 +102,12 @@
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201chorripilante\u201d para describir a...",
+            "v": "Usaría la palabra “horripilante” para describir a...",
             "n": "AlienPromptText7"
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201cexquisito/a\u201d para describir a...",
+            "v": "Usaría la palabra “exquisito/a” para describir a...",
             "n": "AlienPromptText0"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201cfrustrante\u201d para describir a...",
+            "v": "Usaría la palabra “frustrante” para describir a...",
             "n": "AlienPromptText1"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201chumillante\u201d para describir a...",
+            "v": "Usaría la palabra “humillante” para describir a...",
             "n": "AlienPromptText2"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Usaría la palabra \u201cdelicioso/a\u201d para describir a...",
+            "v": "Usaría la palabra “delicioso/a” para describir a...",
             "n": "AlienPromptText3"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "I would use the word \u201cdelightful\u201d to describe...",
+            "s": "Usaría la palabra “agradable” para describir a...",
             "t": "A",
             "v": "836645_1",
             "n": "HumanPromptAudio"

@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "le dices a alguien",
+            "v": "decirle a alguien",
             "n": "AlienPromptText0"
         },
         {
@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "dejas una nota",
+            "v": "dejar una nota",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Atascas y desbordas un inodoro en la fiesta de un/a amigo/a. Tú inmediatamente...",
+            "v": "Atascas y desbordas un inodoro en la fiesta de un amigo. Tú inmediatamente...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Atascas y desbordas un inodoro en la fiesta de un/a amigo/a. Tú inmediatamente...",
+            "s": "Atascas y desbordas un inodoro en la fiesta de un amigo. Tú inmediatamente...",
             "t": "A",
             "v": "827710_1",
             "n": "HumanPromptAudio"

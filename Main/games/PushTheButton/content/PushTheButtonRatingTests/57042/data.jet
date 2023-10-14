@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Debo acariciar a un perro si se me acerca.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Debes cepillar tus dientes tres veces al día.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Podría renunciar al queso por el resto de mi vida.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Debes lavarte las manos después de usar el baño.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Debes lavarte las manos después de usar el baño.",
-        "t": "A",
-        "v": "819771_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Debo acariciar a un perro si se me acerca.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Debes cepillar tus dientes tres veces al día.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Podría renunciar al queso por el resto de mi vida.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Debes lavarte las manos después de usar el baño.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Debes lavarte las manos después de usar el baño.",
+            "t": "A",
+            "v": "819771_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

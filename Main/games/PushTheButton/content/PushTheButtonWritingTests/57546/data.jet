@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando estoy enfermo me gusta...",
+            "v": "Cuando estoy enfermo/a, me gusta...",
             "n": "HumanPromptText"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
             "t": "S",
-            "v": "Mi desayuno favorito es...",
+            "v": "Mi comida favorita para el desayuno es...",
             "n": "AlienPromptText5"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "t": "S",
-            "v": "La comida que me genera más placer es...",
+            "v": "Mi comida de la infancia favorita es...",
             "n": "AlienPromptText0"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "When I\u2019m sick, I like...",
+            "s": "Cuando estoy enfermo/a, me gusta...",
             "t": "A",
             "v": "832598_1",
             "n": "HumanPromptAudio"

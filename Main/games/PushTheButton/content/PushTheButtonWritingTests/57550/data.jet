@@ -56,7 +56,7 @@
             "n": "HumanPromptText"
         },
         {
-            "s": "The app I use most on my phone is...",
+            "s": "La aplicación que más uso en mi teléfono es...",
             "t": "A",
             "v": "832654_1",
             "n": "HumanPromptAudio"

@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Eres un Noe moderno pero con un bote más pequeño. Debes salvar a...",
+            "v": "Eres un Noé moderno pero con un bote más pequeño. Debes salvar a...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Eres un Noe moderno pero con un bote más pequeño. Debes salvar a...",
+            "s": "Eres un Noé moderno pero con un bote más pequeño. Debes salvar a...",
             "t": "A",
             "v": "823413_1",
             "n": "HumanPromptAudio"

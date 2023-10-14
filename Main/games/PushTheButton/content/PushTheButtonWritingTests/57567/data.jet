@@ -71,7 +71,7 @@
             "n": "HumanPromptText"
         },
         {
-            "s": "A family member I speak to all the time is my...",
+            "s": "Un pariente con el que hablo todo el tiempo es mi...",
             "t": "A",
             "v": "832904_1",
             "n": "HumanPromptAudio"

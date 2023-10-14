@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Algo que me gustaría hacer por mi cuenta es...",
+            "v": "Algo que me gusta hacer por mi cuenta es...",
             "n": "AlienPromptText3"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "If I had a robot, I would use it to...",
+            "s": "Si tuviera un robot, lo usaría para...",
             "t": "A",
             "v": "832796_1",
             "n": "HumanPromptAudio"

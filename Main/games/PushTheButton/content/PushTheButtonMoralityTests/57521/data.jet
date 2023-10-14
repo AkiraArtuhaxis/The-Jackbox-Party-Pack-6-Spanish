@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cAdelante\u201d",
+            "v": "“Adelante”",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cNegociemos\u201d",
+            "v": "“Negociemos”",
             "n": "AlienPromptText1"
         },
         {
@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "\u201cTe pago para que te detengas\u201d",
+            "v": "“Te pago para que te detengas”",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Un hacker quiere $50,000 dólares o revelará tus mensajes de texto al mundo. Tú le dirías...",
+            "v": "Un hacker quiere $50.000 dólares o revelará tus mensajes de texto al mundo. Tú le dirías...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Un hacker quiere $50,000 dólares o revelará tus mensajes de texto al mundo. Tú le dirías...",
+            "s": "Un hacker quiere $50.000 dólares o revelará tus mensajes de texto al mundo. Tú le dirías...",
             "t": "A",
             "v": "832298_1",
             "n": "HumanPromptAudio"

@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "La canción que quiero que se toque en mi funeral es...",
+            "v": "La canción que quiero que se reproduzca en mi funeral es...",
             "n": "HumanPromptText"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "La canción que quiero que se toque en mi funeral es...",
+            "s": "La canción que quiero que se reproduzca en mi funeral es...",
             "t": "A",
             "v": "803399_0",
             "n": "HumanPromptAudio"

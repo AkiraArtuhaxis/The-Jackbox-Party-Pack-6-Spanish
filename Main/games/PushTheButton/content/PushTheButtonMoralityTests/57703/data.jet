@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "te detienes",
+            "v": "detenerte",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "continuas",
+            "v": "continuar",
             "n": "AlienPromptText1"
         },
         {
@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "bajas la velocidad",
+            "v": "ir más despacio",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Todo crimen es legal por un día. Al acercate a un semáforo en rojo, tu...",
+            "v": "Todo crimen es legal por un día. Al acercarte a un semáforo en rojo, tú...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Todo crimen es legal por un día. Al acercate a un semáforo en rojo, tu...",
+            "s": "Todo crimen es legal por un día. Al acercarte a un semáforo en rojo, tú...",
             "t": "A",
             "v": "834999_1",
             "n": "HumanPromptAudio"

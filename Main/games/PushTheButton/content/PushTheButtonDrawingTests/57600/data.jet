@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja a una silueta hecha con tiza.",
+            "v": "Dibuja un contorno de gis.",
             "n": "AlienPromptText5"
         },
         {

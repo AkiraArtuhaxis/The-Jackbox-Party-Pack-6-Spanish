@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "\u201c¡Te lo mereces!\u201d",
+            "v": "“¡Te lo mereces!”",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "\u201c¡Estoy detrás de ti!\u201d",
+            "v": "“¡Estoy detrás de ti!”",
             "n": "AlienPromptText1"
         },
         {
@@ -47,7 +47,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cPronto terminará.\u201d",
+            "v": "“Pronto terminará.”",
             "n": "AlienPromptText2"
         },
         {

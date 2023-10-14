@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja recostado/recostada en cama.",
+            "v": "Dibuja recostado\/recostada en cama.",
             "n": "AlienPromptText1"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja \u201c¡deprisa, deprisa, deprisa!\u201d",
+            "v": "Dibuja “¡deprisa, deprisa, deprisa!”",
             "n": "AlienPromptText3"
         },
         {

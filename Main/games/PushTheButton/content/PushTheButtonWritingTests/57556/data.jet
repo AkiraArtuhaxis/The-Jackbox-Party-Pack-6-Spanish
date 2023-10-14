@@ -56,7 +56,7 @@
             "n": "HumanPromptText"
         },
         {
-            "s": "A beverage I can\u2019t stand is...",
+            "s": "Una bebida que detesto es...",
             "t": "A",
             "v": "832736_1",
             "n": "HumanPromptAudio"

@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Me interesa la moda.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Los hombres deberían usar sombrero otra vez como si fuera 1949.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Está bien hacer pipí en una piscina pública.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Los calcetines y las sandalias no deberían usarse al mismo tiempo.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Los calcetines y las sandalias no deberían usarse al mismo tiempo.",
-        "t": "A",
-        "v": "832190_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Me interesa la moda.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Los hombres deberían usar sombrero otra vez como si fuera 1949.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Está bien hacer pipí en una piscina pública.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Los calcetines y las sandalias no deberían usarse al mismo tiempo.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Los calcetines y las sandalias no deberían usarse al mismo tiempo.",
+            "t": "A",
+            "v": "832190_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

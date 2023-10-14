@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "les dirías a todos",
+            "v": "decirle a todos",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "tenderías una trampa",
+            "v": "tenderle una trampa",
             "n": "AlienPromptText1"
         },
         {
@@ -47,7 +47,7 @@
         },
         {
             "t": "S",
-            "v": "irrumpirías en su casa",
+            "v": "irrumpir en su casa",
             "n": "AlienPromptText2"
         },
         {

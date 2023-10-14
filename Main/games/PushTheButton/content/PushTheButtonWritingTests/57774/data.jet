@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "El peor olor es probablemente...",
+            "v": "El peor olor en el mundo es probablemente...",
             "n": "AlienPromptText8"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "If I could only eat one dish every meal for one year, I\u2019d choose...",
+            "s": "Si solo pudiera comer un plato en cada comida durante un año, eligiría...",
             "t": "A",
             "v": "836777_1",
             "n": "HumanPromptAudio"

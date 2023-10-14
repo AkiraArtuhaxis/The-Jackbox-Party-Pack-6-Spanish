@@ -1,124 +1,155 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty5"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty4"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "Difficulty"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty8"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty7"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty6"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt5"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt6"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt7"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt8"
-    }, {
-        "t": "S",
-        "v": "Dibuja a Hércules",
-        "n": "AlienPromptText8"
-    }, {
-        "t": "S",
-        "v": "Dibuja a Abraham Lincoln sin camiseta.",
-        "n": "HumanPromptText"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un presidente desnudo.",
-        "n": "AlienPromptText4"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un mago stripper.",
-        "n": "AlienPromptText5"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un Abraham Lincoln sexy",
-        "n": "AlienPromptText6"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un hombre fuerte elegante",
-        "n": "AlienPromptText7"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un hombre fornido con barba.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un hombre sin camiseta con un sombrero de copa.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Dibuja a Abraham Lincoln.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Dibuja a Lincoln en una bañera.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt4"
-    }, {
-        "s": "Dibuja a Abraham Lincoln sin camiseta.",
-        "t": "A",
-        "v": "809767_0",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a Hércules",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un Abraham Lincoln sin camiseta.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un presidente desnudo.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un mago stripper.",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un Abraham Lincoln sexy",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un hombre fuerte elegante",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un hombre fornido con barba.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un hombre sin camiseta con un sombrero de copa.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a Abraham Lincoln.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a Lincoln en una bañera.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Dibuja a un Abraham Lincoln sin camiseta.",
+            "t": "A",
+            "v": "809767_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

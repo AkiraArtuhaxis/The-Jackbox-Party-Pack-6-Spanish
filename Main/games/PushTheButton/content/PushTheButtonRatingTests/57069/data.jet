@@ -1,88 +1,110 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty5"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty4"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt5"
-    }, {
-        "t": "S",
-        "v": "La taxidermia no es siniestra.",
-        "n": "HumanPromptText"
-    }, {
-        "t": "S",
-        "v": "Podría destripar y limpiar un pescado.",
-        "n": "AlienPromptText4"
-    }, {
-        "t": "S",
-        "v": "Soy una persona de gatos.",
-        "n": "AlienPromptText5"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Si cazara, comería lo que matara.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Me encanta el Halloween.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Podría comerme siete hot dogs en quince minutos.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Yo visitaría un <i>Jurassic Park<\/i> real.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt4"
-    }, {
-        "s": "La taxidermia no es siniestra.",
-        "t": "A",
-        "v": "820281_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "La taxidermia no es escalofriante.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Podría destripar y limpiar un pescado.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Soy una persona de gatos.",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Si cazara, comería lo que matara.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Me encanta el Halloween.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Podría comerme siete hot dogs en quince minutos.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Yo visitaría un <i>Jurassic Park<\/i> real.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "La taxidermia no es escalofriante.",
+            "t": "A",
+            "v": "820281_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

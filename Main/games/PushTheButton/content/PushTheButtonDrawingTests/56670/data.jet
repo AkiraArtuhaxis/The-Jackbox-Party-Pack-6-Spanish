@@ -1,124 +1,155 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty5"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty4"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "Difficulty"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty8"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty7"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty6"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt5"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt6"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt7"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt8"
-    }, {
-        "t": "S",
-        "v": "Dibuja un arte abstracto.",
-        "n": "AlienPromptText8"
-    }, {
-        "t": "S",
-        "v": "Dibuja un mapa de los Estados Unidos.",
-        "n": "HumanPromptText"
-    }, {
-        "t": "S",
-        "v": "Dibuja una mancha.",
-        "n": "AlienPromptText4"
-    }, {
-        "t": "S",
-        "v": "Dibuja Rusia.",
-        "n": "AlienPromptText5"
-    }, {
-        "t": "S",
-        "v": "Dibuja todos los 50 estados de Estados Unidos.",
-        "n": "AlienPromptText6"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Dibuja el mapa de un país.",
-        "n": "AlienPromptText7"
-    }, {
-        "t": "S",
-        "v": "Dibuja America.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Dibuja Norte América.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Dibuja un tachón o un borrón.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Dibuja a la Tierra.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt4"
-    }, {
-        "s": "Dibuja un mapa de los Estados Unidos.",
-        "t": "A",
-        "v": "811835_0",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja arte abstracto.",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un mapa de los Estados Unidos.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja una mancha.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja Rusia.",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja todos los 50 estados de Estados Unidos.",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja el mapa de un país.",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja America.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja Norte América.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un tachón o un borrón.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a la Tierra.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Dibuja un mapa de los Estados Unidos.",
+            "t": "A",
+            "v": "811835_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

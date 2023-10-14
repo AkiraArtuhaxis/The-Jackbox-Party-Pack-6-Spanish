@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cTe pago para que te detengas\u201d",
+            "v": "“Te pago para que te detengas”",
             "n": "AlienPromptText0"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "\u201cHablemos sobre esto\u201d",
+            "v": "“Hablemos sobre esto”",
             "n": "AlienPromptText1"
         },
         {
@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "\u201cAdelante\u201d",
+            "v": "“Adelante”",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Tu hijo/a sin talento quiere que lo lleves a una audición de teatro comunitario. Tú ABSOLUTAMENTE NO dirías...",
+            "v": "Tu hijo sin talento quiere que lo lleves a una audición de teatro comunitario. Tú ABSOLUTAMENTE NO dirías...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Tu hijo/a sin talento quiere que lo lleves a una audición de teatro comunitario. Tú ABSOLUTAMENTE NO dirías...",
+            "s": "Tu hijo sin talento quiere que lo lleves a una audición de teatro comunitario. Tú ABSOLUTAMENTE NO dirías...",
             "t": "A",
             "v": "832310_1",
             "n": "HumanPromptAudio"

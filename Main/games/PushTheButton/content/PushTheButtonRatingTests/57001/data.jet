@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Está bien mentir.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Siempre digo la verdad.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Me es emocionante mentir",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Está bien decir una mentira blanca.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Está bien decir una mentira blanca.",
-        "t": "A",
-        "v": "818866_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Está bien mentir.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Siempre digo la verdad.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Me es emocionante mentir",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Está bien decir una mentira piadosa.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Está bien decir una mentira piadosa.",
+            "t": "A",
+            "v": "818866_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

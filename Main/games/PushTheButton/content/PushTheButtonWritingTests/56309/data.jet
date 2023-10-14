@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Alguien que encuentro atractivo/atractiva es...",
+            "v": "Alguien que encuentro atractivo/a es...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Alguien que encuentro atractivo/atractiva es...",
+            "s": "Alguien que encuentro atractivo/a es...",
             "t": "A",
             "v": "805471_0",
             "n": "HumanPromptAudio"

@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "El período del tiempo con la ropa más genial fue...",
+            "v": "El período de tiempo con la ropa más genial fue...",
             "n": "HumanPromptText"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "El período del tiempo con la ropa más genial fue...",
+            "s": "El período de tiempo con la ropa más genial fue...",
             "t": "A",
             "v": "805567_0",
             "n": "HumanPromptAudio"

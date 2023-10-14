@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "Dwayne \u201cLa Roca\u201d Johnson",
+            "v": "Dwayne “La Roca” Johnson",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Aterrizan aliens invasores pero dejarán que 1 persona los convenza de no conquistar a la Tierra. La elección correcta es...",
+            "v": "Aterrizan aliens invasores pero dejarán que una persona los convenza de no conquistar a la Tierra. La elección correcta es...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Aterrizan aliens invasores pero dejarán que 1 persona los convenza de no conquistar a la Tierra. La elección correcta es...",
+            "s": "Aterrizan aliens invasores pero dejarán que una persona los convenza de no conquistar a la Tierra. La elección correcta es...",
             "t": "A",
             "v": "823579_1",
             "n": "HumanPromptAudio"

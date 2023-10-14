@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Es tiempo de darle a tu hijo \u201cla plática\u201d pero llega tarde de la escuela. Deberías...",
+            "v": "Es tiempo de darle a tu hijo \"la charla\" pero llega tarde de la escuela. Deberías...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Es tiempo de darle a tu hijo \u201cla plática\u201d pero llega tarde de la escuela. Deberías...",
+            "s": "Es tiempo de darle a tu hijo \"la charla\" pero llega tarde de la escuela. Deberías...",
             "t": "A",
             "v": "816606_2",
             "n": "HumanPromptAudio"

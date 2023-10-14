@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja a tu mejor amigo/amiga.",
+            "v": "Dibuja a tu mejor amigo/a.",
             "n": "HumanPromptText"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja \u201c¡hola!\u201d",
+            "v": "Dibuja “¡hola!”",
             "n": "AlienPromptText7"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja a alguien del cuarto.",
+            "v": "Dibuja a alguien de esta habitación.",
             "n": "AlienPromptText2"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja a tu mejor amigo/amiga.",
+            "s": "Dibuja a tu mejor amigo/a.",
             "t": "A",
             "v": "832574_1",
             "n": "HumanPromptAudio"

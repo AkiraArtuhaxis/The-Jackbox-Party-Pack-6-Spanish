@@ -1,88 +1,110 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty5"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty4"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt5"
-    }, {
-        "t": "S",
-        "v": "Nada es más importante que el dinero.",
-        "n": "HumanPromptText"
-    }, {
-        "t": "S",
-        "v": "Sor rápido/rápida en gastarme mi salario.",
-        "n": "AlienPromptText4"
-    }, {
-        "t": "S",
-        "v": "Necesitas tomar un tiempo libre por tu salud mental",
-        "n": "AlienPromptText5"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Siempre traigo efectivo.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Quiero ser rico/rica.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Nada es más importante que la familia.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Me preocupa pagar las deudas.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt4"
-    }, {
-        "s": "Nada es más importante que el dinero.",
-        "t": "A",
-        "v": "818577_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "Nada es más importante que el dinero.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Sor rápido/rápida en gastarme mi salario.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Necesitas tomar un tiempo libre por tu salud mental",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Siempre traigo efectivo.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Quiero ser rico/rica.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Nada es más importante que la familia.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Me preocupa pagar las deudas.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Nada es más importante que el dinero.",
+            "t": "A",
+            "v": "818577_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "El monstruo de películas más aterrador es...",
+            "v": "El monstruo de película más aterrador es...",
             "n": "HumanPromptText"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
             "t": "S",
-            "v": "Mi personaje de películas favorito es...",
+            "v": "Mi personaje favorito de película es...",
             "n": "AlienPromptText2"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The scariest movie monster is...",
+            "s": "El monstruo de película más aterrador es...",
             "t": "A",
             "v": "833636_1",
             "n": "HumanPromptAudio"

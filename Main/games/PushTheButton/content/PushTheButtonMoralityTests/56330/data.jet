@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "traérselo",
+            "v": "llevárselo de vuelta",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Un compañero de trabajo olvida bajarle al baño y piensas que su excremento se mira extraño. Lo que debes hacer es...",
+            "v": "Un compañero de trabajo olvida tirar de la cadena y piensas que su excremento se ve extraño. Lo que debes hacer es...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Un compañero de trabajo olvida bajarle al baño y piensas que su excremento se mira extraño. Lo que debes hacer es...",
+            "s": "Un compañero de trabajo olvida tirar de la cadena y piensas que su excremento se ve extraño. Lo que debes hacer es...",
             "t": "A",
             "v": "805769_1",
             "n": "HumanPromptAudio"

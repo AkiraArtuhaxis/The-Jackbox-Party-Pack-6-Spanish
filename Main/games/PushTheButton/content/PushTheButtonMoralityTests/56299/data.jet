@@ -27,7 +27,7 @@
         },
         {
             "t": "S",
-            "v": "delatarlo",
+            "v": "acusarlo/a",
             "n": "AlienPromptText0"
         },
         {
@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Un compañero de tu equipo conecta un jonrón ganador de la Serie Mundial con un bate tapado con un corcho. Lo que debes hacer es...",
+            "v": "Un compañero de tu equipo conecta un jonrón ganador de la Serie Mundial con un bate ilegal. Lo que debes hacer es...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Un compañero de tu equipo conecta un jonrón ganador de la Serie Mundial con un bate tapado con un corcho. Lo que debes hacer es...",
+            "s": "Un compañero de tu equipo conecta un jonrón ganador de la Serie Mundial con un bate ilegal. Lo que debes hacer es...",
             "t": "A",
             "v": "805337_0",
             "n": "HumanPromptAudio"

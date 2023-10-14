@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "La mejor película de los 90s es...",
+            "v": "La mejor película de los 90‘s es...",
             "n": "HumanPromptText"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
             "t": "S",
-            "v": "La mejor película de los 80s es...",
+            "v": "La mejor película de los 80‘s es...",
             "n": "AlienPromptText5"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "La película más graciosa de los 90s es...",
+            "v": "La película más graciosa de los 90‘s es...",
             "n": "AlienPromptText1"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "La mejor película de los 90s es...",
+            "s": "La mejor película de los 90‘s es...",
             "t": "A",
             "v": "802997_0",
             "n": "HumanPromptAudio"

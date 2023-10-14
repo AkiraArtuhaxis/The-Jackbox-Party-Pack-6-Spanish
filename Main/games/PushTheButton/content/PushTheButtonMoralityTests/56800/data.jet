@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Encuentras a un orangután súper fuerte y muy leal. Entonces tu...",
+            "v": "Encuentras a un orangután súper fuerte y muy leal. Entonces tú...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Encuentras a un orangután súper fuerte y muy leal. Entonces tu...",
+            "s": "Encuentras a un orangután súper fuerte y muy leal. Entonces tú...",
             "t": "A",
             "v": "814512_1",
             "n": "HumanPromptAudio"

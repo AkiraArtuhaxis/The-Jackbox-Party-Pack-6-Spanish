@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Encuentras $100 dólares en efectivo en la calle. Otra persona se acerca y dice que son de ella. Le das...",
+            "v": "Encuentras $100 dólares en efectivo en la calle. Otra persona se acerca y dice que son de su propiedad. Le das...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Encuentras $100 dólares en efectivo en la calle. Otra persona se acerca y dice que son de ella. Le das...",
+            "s": "Encuentras $100 dólares en efectivo en la calle. Otra persona se acerca y dice que son de su propiedad. Le das...",
             "t": "A",
             "v": "824530_1",
             "n": "HumanPromptAudio"

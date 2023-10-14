@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Una película que me aterrorizó fue...",
+            "v": "Una película que me aterrorizaba era...",
             "n": "AlienPromptText6"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "t": "S",
-            "v": "Una película que no me permitieron ver en mi niñez fue...",
+            "v": "Una película que no me dejaban mirar en mi infancia era...",
             "n": "AlienPromptText7"
         },
         {

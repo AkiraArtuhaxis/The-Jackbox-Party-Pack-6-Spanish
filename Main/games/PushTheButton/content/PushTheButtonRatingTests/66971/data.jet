@@ -1,76 +1,95 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty4"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "Los 32 son una buena edad.",
-        "n": "AlienPromptText4"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Me encantaría ir a Italia.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Los deportistas universitarios deberían ser pagados.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Prefiero la pizza que la pasta.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Los aliens probablemente sean reales.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt4"
-    }, {
-        "t": "S",
-        "v": "Podría levantar, como, tres uvas con mi mente antes de que me sangre la naríz.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Podría levantar, como, tres uvas con mi mente antes de que me sangre la naríz.",
-        "t": "A",
-        "v": "890408_2",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "Los 32 son una buena edad.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Me encantaría ir a Italia.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Los deportistas universitarios deberían ser pagados.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Prefiero la pizza que la pasta.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Los aliens probablemente sean reales.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "t": "S",
+            "v": "Podría levantar, como, tres uvas con mi mente antes de que me sangre la naríz.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Podría levantar, como, tres uvas con mi mente antes de que me sangre la naríz.",
+            "t": "A",
+            "v": "890408_2",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

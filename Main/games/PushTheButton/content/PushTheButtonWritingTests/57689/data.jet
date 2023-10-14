@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho el término  \u201cinspirador,\u201d pienso en...",
+            "v": "Cuando escucho el término  “inspirador”, pienso en...",
             "n": "HumanPromptText"
         },
         {
@@ -87,12 +87,12 @@
         },
         {
             "t": "S",
-            "v": "Mi snack preferido es...",
+            "v": "Mi bocadillo favorito es...",
             "n": "AlienPromptText7"
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cliderazgo,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “liderazgo”, pienso en...",
             "n": "AlienPromptText0"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201chéroe,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “héroe”, pienso en...",
             "n": "AlienPromptText1"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cmilagro,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “milagro”, pienso en...",
             "n": "AlienPromptText2"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cewww,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “ewww”, pienso en...",
             "n": "AlienPromptText3"
         },
         {
@@ -131,7 +131,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Cuando escucho el término \u201cinspirational,\u201d I think...",
+            "s": "Cuando escucho el término  “inspirador”, pienso en...",
             "t": "A",
             "v": "834831_1",
             "n": "HumanPromptAudio"

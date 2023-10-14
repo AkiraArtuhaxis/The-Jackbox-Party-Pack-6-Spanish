@@ -82,7 +82,7 @@
         },
         {
             "t": "S",
-            "v": "Mi animal favorito del zoológico es...",
+            "v": "Mi animal de zoológico favorito es...",
             "n": "AlienPromptText4"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My favorite T-shirt has THIS on it.",
+            "s": "Mi camiseta favorita tiene ESTO en ella.",
             "t": "A",
             "v": "889760_1",
             "n": "HumanPromptAudio"

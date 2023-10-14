@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "Mi videojuego favorito es...",
+            "v": "Mi video juego favorito es...",
             "n": "HumanPromptText"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "t": "S",
-            "v": "El último videojuego que jugué fue...",
+            "v": "El último video juego que jugué fue...",
             "n": "AlienPromptText7"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My favorite video game is...",
+            "s": "Mi video juego favorito es...",
             "t": "A",
             "v": "830998_1",
             "n": "HumanPromptAudio"

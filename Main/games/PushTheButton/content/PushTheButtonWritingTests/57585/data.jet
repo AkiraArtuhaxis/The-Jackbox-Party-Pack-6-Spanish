@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "La peor película que he visto completa fue...",
+            "v": "La peor película que he visto por completo fue...",
             "n": "AlienPromptText5"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Mi personaje de Disney favorito es...",
+            "v": "Mi personaje favorito de Disney es...",
             "n": "AlienPromptText0"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Mi personaje de animación favorito es...",
+            "v": "Mi personaje de caricatura favorito es...",
             "n": "AlienPromptText1"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My favorite Disney movie is...",
+            "s": "Mi película favorita de Disney es...",
             "t": "A",
             "v": "833134_1",
             "n": "HumanPromptAudio"

@@ -47,16 +47,16 @@
         },
         {
             "t": "S",
-            "v": "Dwayne \u201cLa Roca\u201d Johnson",
+            "v": "Dwayne “La Roca” Johnson",
             "n": "AlienPromptText2"
         },
         {
             "t": "S",
-            "v": "Los aliens invasores perdonarán a la Tierra si pueden llevarse a 1 persona de regreso a su planeta para siempre. Deberíamos darles a...",
+            "v": "Los aliens invasores perdonarán a la Tierra si pueden llevarse a una persona de regreso a su planeta para siempre. Deberíamos darles a...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Los aliens invasores perdonarán a la Tierra si pueden llevarse a 1 persona de regreso a su planeta para siempre. Deberíamos darles a...",
+            "s": "Los aliens invasores perdonarán a la Tierra si pueden llevarse a una persona de regreso a su planeta para siempre. Deberíamos darles a...",
             "t": "A",
             "v": "823595_1",
             "n": "HumanPromptAudio"

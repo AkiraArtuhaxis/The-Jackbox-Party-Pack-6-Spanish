@@ -82,7 +82,7 @@
         },
         {
             "t": "S",
-            "v": "Mi animal preferido es...",
+            "v": "Mi animal favorito es...",
             "n": "AlienPromptText2"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The background image on my phone screen is...",
+            "s": "El fondo de pantalla en mi celular es...",
             "t": "A",
             "v": "832678_1",
             "n": "HumanPromptAudio"

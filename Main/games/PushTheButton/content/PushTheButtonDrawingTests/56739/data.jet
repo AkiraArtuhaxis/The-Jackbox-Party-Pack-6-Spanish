@@ -1,124 +1,155 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty5"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty4"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "Difficulty"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty8"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty7"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty6"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt5"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt6"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt7"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt8"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un vampiro.",
-        "n": "AlienPromptText8"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un juez.",
-        "n": "HumanPromptText"
-    }, {
-        "t": "S",
-        "v": "Dibuja a Batman.",
-        "n": "AlienPromptText4"
-    }, {
-        "t": "S",
-        "v": "Dibuja al espíritu de la Muerte.",
-        "n": "AlienPromptText5"
-    }, {
-        "t": "S",
-        "v": "Dibuja una sala de justicia.",
-        "n": "AlienPromptText6"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un juez de feria de ciencias.",
-        "n": "AlienPromptText7"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un juez malo.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un juez de televisión.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Dibuja a la Suprema Corte de Justicia.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Dibuja a un tipo en toga.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt4"
-    }, {
-        "s": "Dibuja a un juez.",
-        "t": "A",
-        "v": "813354_0",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un vampiro.",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un juez.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a Batman.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja al espíritu de la Muerte.",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja una sala de justicia.",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un juez de feria de ciencias.",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un juez malo.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un juez de televisión.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a la Suprema Corte de Justicia.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja a un tipo en toga.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Dibuja a un juez.",
+            "t": "A",
+            "v": "813354_0",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

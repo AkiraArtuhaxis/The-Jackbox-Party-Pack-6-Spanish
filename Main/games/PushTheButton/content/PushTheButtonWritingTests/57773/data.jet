@@ -87,7 +87,7 @@
         },
         {
             "t": "S",
-            "v": "Un trabajo en el que ganes mucho dinero sería...",
+            "v": "Un trabajo donde ganarías mucho dinero sería...",
             "n": "AlienPromptText5"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "t": "S",
-            "v": "El trabajo que quería cuando creciera era...",
+            "v": "El trabajo que quería cuando fuera grande era...",
             "n": "AlienPromptText0"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "My dream job would be...",
+            "s": "Mi trabajo soñado sería...",
             "t": "A",
             "v": "836765_1",
             "n": "HumanPromptAudio"

@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Lo más asqueroso que tengo ahora mismo en mi refrigerador es...",
+            "v": "Lo más asqueroso ahora mismo en mi refrigerador es...",
             "n": "AlienPromptText5"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de alguien en esta habitación es...",
+            "v": "El nombre de alguien en esta sala...",
             "n": "AlienPromptText2"
         },
         {
@@ -131,7 +131,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The worst smell in the world would have to be...",
+            "s": "El peor olor en el mundo seguramente es...",
             "t": "A",
             "v": "831090_1",
             "n": "HumanPromptAudio"

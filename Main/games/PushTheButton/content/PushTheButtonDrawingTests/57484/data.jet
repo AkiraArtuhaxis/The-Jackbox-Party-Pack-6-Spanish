@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja un barco pequeño.",
+            "v": "Dibuja un barco divertido.",
             "n": "HumanPromptText"
         },
         {
@@ -131,7 +131,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja un barco pequeño.",
+            "s": "Dibuja un barco divertido.",
             "t": "A",
             "v": "831698_1",
             "n": "HumanPromptAudio"

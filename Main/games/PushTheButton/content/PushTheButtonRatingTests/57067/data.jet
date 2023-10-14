@@ -1,64 +1,80 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "A los médicos se les paga demasiado.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Prefiero el queso apestoso.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Desearía que los perros hablaran.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Los pancakes son mejores que los waffles.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "A los maestros se les paga demasiado.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "A los maestros se les paga demasiado.",
-        "t": "A",
-        "v": "820223_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "A los médicos se les paga demasiado.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Prefiero el queso apestoso.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Desearía que los perros hablaran.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Los pancakes son mejores que los waffles.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "A los maestros se les paga demasiado.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "A los maestros se les paga demasiado.",
+            "t": "A",
+            "v": "820223_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

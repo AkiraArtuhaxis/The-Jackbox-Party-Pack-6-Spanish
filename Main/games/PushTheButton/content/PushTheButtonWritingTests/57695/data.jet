@@ -72,27 +72,27 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la frase \u201cse me hace agua la boca\u201d para describir...",
+            "v": "Probablemente usaría la frase “se me hace agua la boca” para describir...",
             "n": "AlienPromptText8"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201crepulsivo\u201d para describir...",
+            "v": "Probablemente usaría la palabra “repulsivo” para describir...",
             "n": "HumanPromptText"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201casqueroso\u201d para describir...",
+            "v": "Probablemente usaría la palabra “asqueroso” para describir...",
             "n": "AlienPromptText4"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201capestoso\u201d para describir...",
+            "v": "Probablemente usaría la palabra “apestoso” para describir...",
             "n": "AlienPromptText5"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cperturbador\u201d para describir...",
+            "v": "Probablemente usaría la palabra “perturbador” para describir...",
             "n": "AlienPromptText6"
         },
         {
@@ -102,12 +102,12 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cromántico\u201d para describir...",
+            "v": "Probablemente usaría la palabra “romántico” para describir...",
             "n": "AlienPromptText7"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201csucio\u201d para describir...",
+            "v": "Probablemente usaría la palabra “sucio” para describir...",
             "n": "AlienPromptText0"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cnauseabundo\u201d para describir...",
+            "v": "Probablemente usaría la palabra “nauseabundo” para describir...",
             "n": "AlienPromptText1"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201caburrido\u201d para describir...",
+            "v": "Probablemente usaría la palabra “aburrido” para describir...",
             "n": "AlienPromptText2"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cpicante\u201d para describir...",
+            "v": "Probablemente usaría la palabra “picante” para describir...",
             "n": "AlienPromptText3"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Probablemente usaría la palabra \u201crepulsive\u201d para describir...",
+            "s": "Probablemente usaría la palabra “repulsivo” para describir...",
             "t": "A",
             "v": "834903_1",
             "n": "HumanPromptAudio"

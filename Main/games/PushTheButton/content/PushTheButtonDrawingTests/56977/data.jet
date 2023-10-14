@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Dibújate como Batman.",
+            "v": "Dibujate como Batman.",
             "n": "HumanPromptText"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibújate como Batman.",
+            "s": "Dibujate como Batman.",
             "t": "A",
             "v": "818126_0",
             "n": "HumanPromptAudio"

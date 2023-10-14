@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Encuentras a un genio con un menú ilimitado de deseos. Tú le dices \u201cDeseo...\u201d",
+            "v": "Encuentras a un genio con un menú ilimitado de deseos. Tú le dices “Deseo...”",
             "n": "HumanPromptText"
         },
         {
-            "s": "Encuentras a un genio con un menú ilimitado de deseos. Tú le dices \u201cDeseo...\u201d",
+            "s": "Encuentras a un genio con un menú ilimitado de deseos. Tú le dices “Deseo...”",
             "t": "A",
             "v": "823503_1",
             "n": "HumanPromptAudio"

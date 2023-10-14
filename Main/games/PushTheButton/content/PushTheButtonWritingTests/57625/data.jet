@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "El nombre de alguien en esta habitación es...",
+            "v": "El nombre de alguien en esta sala...",
             "n": "AlienPromptText6"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Mi snack preferido es...",
+            "v": "Mi bocadillo favorito es...",
             "n": "AlienPromptText1"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "It\u2019s not a party unless you have...",
+            "s": "No es una fiesta si no tienes...",
             "t": "A",
             "v": "833672_1",
             "n": "HumanPromptAudio"

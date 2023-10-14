@@ -71,7 +71,7 @@
             "n": "HumanPromptText"
         },
         {
-            "s": "The funniest word I can think of is...",
+            "s": "La palabra más graciosa que se me ocurre es...",
             "t": "A",
             "v": "833538_1",
             "n": "HumanPromptAudio"

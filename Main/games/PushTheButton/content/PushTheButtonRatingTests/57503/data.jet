@@ -1,52 +1,65 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "Difficulty"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Los animales me quieren.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "La vida es mejor con mascotas.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Acariciaría a un oso si tuviera la oportunidad.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "Podría vencer a un oso adormilado en un combate de lucha libre.",
-        "n": "HumanPromptText"
-    }, {
-        "s": "Podría vencer a un oso adormilado en un combate de lucha libre.",
-        "t": "A",
-        "v": "832054_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Los animales me quieren.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "La vida es mejor con mascotas.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Acariciaría a un oso si tuviera la oportunidad.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Podría vencer a un oso adormilado en un combate de lucha libre.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Podría vencer a un oso adormilado en un combate de lucha libre.",
+            "t": "A",
+            "v": "832054_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

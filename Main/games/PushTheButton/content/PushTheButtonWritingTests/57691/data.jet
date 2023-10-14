@@ -72,22 +72,22 @@
         },
         {
             "t": "S",
-            "v": "Mi personaje animado favorito es...",
+            "v": "Mi personaje de caricatura favorito es...",
             "n": "AlienPromptText8"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201csudoroso\u201d para describir...",
+            "v": "Probablemente usaría la palabra “sudoroso” para describir...",
             "n": "HumanPromptText"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201chúmedo\u201d para describir...",
+            "v": "Probablemente usaría la palabra “húmedo” para describir...",
             "n": "AlienPromptText4"
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cardiente\u201d para describir...",
+            "v": "Probablemente usaría la palabra “ardiente” para describir...",
             "n": "AlienPromptText5"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cewww\u201d para describir...",
+            "v": "Probablemente usaría la palabra “ewww” para describir...",
             "n": "AlienPromptText0"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201capestoso\u201d para describir...",
+            "v": "Probablemente usaría la palabra “apestoso” para describir...",
             "n": "AlienPromptText1"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201cpegajoso\u201d para describir...",
+            "v": "Probablemente usaría la palabra “pegajoso” para describir...",
             "n": "AlienPromptText2"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Probablemente usaría la palabra \u201casqueroso\u201d para describir...",
+            "v": "Probablemente usaría la palabra “asqueroso” para describir...",
             "n": "AlienPromptText3"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Probablemente usaría la palabra \u201csweaty\u201d para describir...",
+            "s": "Probablemente usaría la palabra “sudoroso” para describir...",
             "t": "A",
             "v": "834855_1",
             "n": "HumanPromptAudio"

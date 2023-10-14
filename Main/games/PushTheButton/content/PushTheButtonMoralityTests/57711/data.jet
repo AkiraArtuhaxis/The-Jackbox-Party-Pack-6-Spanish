@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Mientras rompes con alguien en un restaurante, ella/él comienza a ahogarse. Entonces tú...",
+            "v": "Mientras rompes con alguien en un restaurante, comienza a ahogarse. Entonces tú...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Mientras rompes con alguien en un restaurante, ella/él comienza a ahogarse. Entonces tú...",
+            "s": "Mientras rompes con alguien en un restaurante, comienza a ahogarse. Entonces tú...",
             "t": "A",
             "v": "835095_1",
             "n": "HumanPromptAudio"

@@ -1,124 +1,155 @@
 {
-    "fields": [{
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty5"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty4"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty3"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty2"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty1"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty0"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "Difficulty"
-    }, {
-        "t": "N",
-        "v": "2",
-        "n": "AlienPromptDifficulty8"
-    }, {
-        "t": "N",
-        "v": "1",
-        "n": "AlienPromptDifficulty7"
-    }, {
-        "t": "N",
-        "v": "0",
-        "n": "AlienPromptDifficulty6"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt5"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt6"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt7"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt8"
-    }, {
-        "t": "S",
-        "v": "Dibuja un accidente terrible.",
-        "n": "AlienPromptText8"
-    }, {
-        "t": "S",
-        "v": "Dibuja una noche loca en el bar.",
-        "n": "HumanPromptText"
-    }, {
-        "t": "S",
-        "v": "Dibuja una pareja con un bebé.",
-        "n": "AlienPromptText4"
-    }, {
-        "t": "S",
-        "v": "Dibuja una casa quemándose.",
-        "n": "AlienPromptText5"
-    }, {
-        "t": "S",
-        "v": "Dibuja una pelea de bar.",
-        "n": "AlienPromptText6"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt0"
-    }, {
-        "t": "S",
-        "v": "Dibuja un restaurante familiar.",
-        "n": "AlienPromptText7"
-    }, {
-        "t": "S",
-        "v": "Dibuja tu última noche en un bar.",
-        "n": "AlienPromptText0"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt1"
-    }, {
-        "t": "S",
-        "v": "Dibuja un bar muy divertido.",
-        "n": "AlienPromptText1"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt2"
-    }, {
-        "t": "S",
-        "v": "Dibuja un antro.",
-        "n": "AlienPromptText2"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt3"
-    }, {
-        "t": "S",
-        "v": "Dibuja movimientos de baile sensuales.",
-        "n": "AlienPromptText3"
-    }, {
-        "t": "S",
-        "v": "true",
-        "n": "AlienPromptAdultt4"
-    }, {
-        "s": "Dibuja una noche loca en el bar.",
-        "t": "A",
-        "v": "807406_1",
-        "n": "HumanPromptAudio"
-    }]
+    "fields": [
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty5"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty4"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty3"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "N",
+            "v": "2",
+            "n": "AlienPromptDifficulty8"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty7"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty6"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt5"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt6"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt7"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un accidente terrible.",
+            "n": "AlienPromptText8"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja una noche loca en el bar.",
+            "n": "HumanPromptText"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja una pareja con un bebé.",
+            "n": "AlienPromptText4"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja una casa quemándose.",
+            "n": "AlienPromptText5"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja una pelea de bar.",
+            "n": "AlienPromptText6"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un restaurante familiar.",
+            "n": "AlienPromptText7"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja tu última noche en un bar.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un bar muy divertido.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja un antro.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt3"
+        },
+        {
+            "t": "S",
+            "v": "Dibuja movimientos de baile sensuales.",
+            "n": "AlienPromptText3"
+        },
+        {
+            "t": "S",
+            "v": "true",
+            "n": "AlienPromptAdultt4"
+        },
+        {
+            "s": "Dibuja una noche loca en el bar.",
+            "t": "A",
+            "v": "807406_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
 }

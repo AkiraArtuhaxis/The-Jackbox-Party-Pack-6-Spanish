@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Estás en una barbacoa en el patio trasero y alguien comienza a encender fuegos artificiales ilegales. Tú...",
+            "v": "Estás en una parillada en el patio trasero y alguien comienza a encender fuegos artificiales ilegales. Tú...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Estás en una barbacoa en el patio trasero y alguien comienza a encender fuegos artificiales ilegales. Tú...",
+            "s": "Estás en una parillada en el patio trasero y alguien comienza a encender fuegos artificiales ilegales. Tú...",
             "t": "A",
             "v": "814988_1",
             "n": "HumanPromptAudio"

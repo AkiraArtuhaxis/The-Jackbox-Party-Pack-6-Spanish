@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Mi película divertida favorita es...",
+            "v": "Mi película de comedia favorita es...",
             "n": "AlienPromptText8"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "The best movie to quote in your wedding vows would be...",
+            "s": "La mejor película que citar en tus votos matrimoniales sería...",
             "t": "A",
             "v": "836729_1",
             "n": "HumanPromptAudio"

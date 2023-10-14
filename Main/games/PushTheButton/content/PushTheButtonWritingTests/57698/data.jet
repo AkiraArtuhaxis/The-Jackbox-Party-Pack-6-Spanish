@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando pienso en \u201cEl Señor de los Anillos,\u201d pienso en...",
+            "v": "Cuando pienso en “El Señor de los Anillos,” pienso en...",
             "n": "AlienPromptText8"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando pienso en el Discovery Channel, pienso en...",
+            "v": "Cuando pienso en Discovery Channel, pienso en...",
             "n": "AlienPromptText4"
         },
         {
@@ -146,7 +146,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Cuando pienso en the outdoors, pienso en...",
+            "s": "Cuando pienso en el aire libre, pienso en...",
             "t": "A",
             "v": "834939_1",
             "n": "HumanPromptAudio"

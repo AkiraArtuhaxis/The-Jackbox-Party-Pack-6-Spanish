@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja lloviendo granizo.",
+            "v": "Dibuja una tormenta de granizo.",
             "n": "HumanPromptText"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Dibuja lloviendo granizo.",
+            "s": "Dibuja una tormenta de granizo.",
             "t": "A",
             "v": "834615_1",
             "n": "HumanPromptAudio"

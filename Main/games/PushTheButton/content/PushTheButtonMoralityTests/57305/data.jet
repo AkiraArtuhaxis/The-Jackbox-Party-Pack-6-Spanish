@@ -37,7 +37,7 @@
         },
         {
             "t": "S",
-            "v": "vendes por eBay",
+            "v": "lo venderías en eBay",
             "n": "AlienPromptText1"
         },
         {
@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Tu hijo/a te trae a casa una horrible obra de arte que hicieron en la escuela y te la entrega. Tú inmediatamente la...",
+            "v": "Tu hijo te trae a casa una horrible obra de arte que hicieron en la escuela y te la entrega. Tú inmediatamente la...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Tu hijo/a te trae a casa una horrible obra de arte que hicieron en la escuela y te la entrega. Tú inmediatamente la...",
+            "s": "Tu hijo te trae a casa una horrible obra de arte que hicieron en la escuela y te la entrega. Tú inmediatamente la...",
             "t": "A",
             "v": "826786_1",
             "n": "HumanPromptAudio"

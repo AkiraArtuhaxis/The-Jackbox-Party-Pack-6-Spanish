@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Eres elegido/a para representar a tu distrito en los Juegos del Hambre. Deberías intentar...",
+            "v": "Te eligen para representar a tu distrito en los Juegos del Hambre. Deberías intentar...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Eres elegido/a para representar a tu distrito en los Juegos del Hambre. Deberías intentar...",
+            "s": "Te eligen para representar a tu distrito en los Juegos del Hambre. Deberías intentar...",
             "t": "A",
             "v": "815310_1",
             "n": "HumanPromptAudio"

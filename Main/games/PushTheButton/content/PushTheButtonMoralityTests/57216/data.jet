@@ -52,11 +52,11 @@
         },
         {
             "t": "S",
-            "v": "Eres un hombre-lobo. Es luna llena. Para la seguridad de todos, debes llegar rápidamente a...",
+            "v": "Eres un hombre lobo. Es luna llena. Para la seguridad de todos, debes llegar rápidamente a...",
             "n": "HumanPromptText"
         },
         {
-            "s": "Eres un hombre-lobo. Es luna llena. Para la seguridad de todos, debes llegar rápidamente a...",
+            "s": "Eres un hombre lobo. Es luna llena. Para la seguridad de todos, debes llegar rápidamente a...",
             "t": "A",
             "v": "824506_1",
             "n": "HumanPromptAudio"

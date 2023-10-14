@@ -42,7 +42,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho el término \u201cvarita mágica,\u201d pienso en...",
+            "v": "Cuando escucho el término “varita mágica”, pienso en...",
             "n": "HumanPromptText"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cciencia,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “ciencia”, pienso en...",
             "n": "AlienPromptText5"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cmagia,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “magia”, pienso en...",
             "n": "AlienPromptText0"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho el nombre \u201cHarry Potter,\u201d pienso en...",
+            "v": "Cuando escucho el nombre “Harry Potter,” pienso en...",
             "n": "AlienPromptText1"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho la palabra \u201cencanto,\u201d pienso en...",
+            "v": "Cuando escucho la palabra “encanto”, pienso en...",
             "n": "AlienPromptText2"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "t": "S",
-            "v": "Cuando escucho el término \u201chechizo mágico,\u201d pienso en...",
+            "v": "Cuando escucho el término “hechizo mágico”, pienso en...",
             "n": "AlienPromptText3"
         },
         {
@@ -101,7 +101,7 @@
             "n": "AlienPromptAdultt4"
         },
         {
-            "s": "Cuando escucho el término  \u201cmagic wand,\u201d pienso en...",
+            "s": "Cuando escucho el término “varita mágica”, pienso en...",
             "t": "A",
             "v": "834687_1",
             "n": "HumanPromptAudio"

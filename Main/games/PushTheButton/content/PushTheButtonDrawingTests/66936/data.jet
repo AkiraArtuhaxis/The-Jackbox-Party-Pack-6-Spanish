@@ -107,7 +107,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja a un muñeco.",
+            "v": "Dibuja un muñeco.",
             "n": "AlienPromptText0"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja a un muñeco asesino.",
+            "v": "Dibuja un muñeco asesino.",
             "n": "AlienPromptText1"
         },
         {
