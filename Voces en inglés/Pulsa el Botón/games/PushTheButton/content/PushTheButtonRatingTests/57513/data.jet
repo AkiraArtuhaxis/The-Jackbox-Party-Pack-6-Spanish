@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "1",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Cenar desayunos es genial.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "La salchicha es mejor que el tocino.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "No me gustan los cereales azucarados.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Raisin Bran es claramente el mejor cereal.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Raisin Bran es claramente el mejor cereal.",
+            "t": "A",
+            "v": "832202_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}

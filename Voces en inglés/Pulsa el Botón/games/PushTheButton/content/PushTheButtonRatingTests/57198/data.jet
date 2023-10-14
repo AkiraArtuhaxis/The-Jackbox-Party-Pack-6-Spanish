@@ -1,0 +1,65 @@
+{
+    "fields": [
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty2"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty1"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "AlienPromptDifficulty0"
+        },
+        {
+            "t": "N",
+            "v": "0",
+            "n": "Difficulty"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt0"
+        },
+        {
+            "t": "S",
+            "v": "Puedo levantar pesas de 150 libras.",
+            "n": "AlienPromptText0"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt1"
+        },
+        {
+            "t": "S",
+            "v": "Puedo arreglar casi cualquier cosa de mi carro.",
+            "n": "AlienPromptText1"
+        },
+        {
+            "t": "S",
+            "v": "false",
+            "n": "AlienPromptAdultt2"
+        },
+        {
+            "t": "S",
+            "v": "Puedo clavar la pelota.",
+            "n": "AlienPromptText2"
+        },
+        {
+            "t": "S",
+            "v": "Puedo correr una milla en menos de seis minutos.",
+            "n": "HumanPromptText"
+        },
+        {
+            "s": "Puedo correr una milla en menos de seis minutos.",
+            "t": "A",
+            "v": "823869_1",
+            "n": "HumanPromptAudio"
+        }
+    ]
+}
