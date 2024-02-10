@@ -8018,20 +8018,20 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "en los años 1860"
+                    "text": "en la década de 1860"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "en los años 1900"
+                    "text": "en la década de 1900"
                 },
                 {
                     "controllerClass": "",
-                    "text": "en los años 1920"
+                    "text": "en la década de 1920"
                 },
                 {
                     "controllerClass": "",
-                    "text": "en los años 1950"
+                    "text": "en la década de 1950"
                 }
             ],
             "us": false,

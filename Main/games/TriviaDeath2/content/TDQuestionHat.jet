@@ -290,20 +290,20 @@
             "choices": [
                 {
                     "controllerClass": "",
-                    "text": "1940s"
+                    "text": "la década de 1940"
                 },
                 {
                     "controllerClass": "",
-                    "text": "en los años 1950"
+                    "text": "la década de 1950"
                 },
                 {
                     "controllerClass": "",
-                    "text": "1960s"
+                    "text": "la década de 1960"
                 },
                 {
                     "controllerClass": "",
                     "correct": true,
-                    "text": "1970s"
+                    "text": "la década de 1970"
                 }
             ],
             "us": false,
