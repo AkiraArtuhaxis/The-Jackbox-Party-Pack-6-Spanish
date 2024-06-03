@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "En la mitología griega, ¿quién logró cortar la cabeza de Medusa?",
+            "t": "A",
+            "v": "810748_1",
+            "n": "Q"
+        },
+        {
+            "s": "Creo que es hora de una pregunta sobre la decapitación.",
+            "t": "A",
+            "v": "810755_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Theseus] [Odysseus] [Prometheus] [Perseus]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

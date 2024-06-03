@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Fila inferior de un teclado QWERTY",
+            "t": "A",
+            "v": "785169_1",
+            "n": "Q"
+        }
+    ]
+}

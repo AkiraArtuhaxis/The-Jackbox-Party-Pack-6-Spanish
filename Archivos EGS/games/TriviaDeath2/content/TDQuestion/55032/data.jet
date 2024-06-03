@@ -1,0 +1,59 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Según el <i>Oxford English Dictionary<\/i>, ¿cuál es la letra que aparece con menos frecuencia en el inglés?",
+            "t": "A",
+            "v": "779949_3",
+            "n": "Q"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Intro"
+        },
+        {
+            "s": "[Q] [Y] [Z] [X]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

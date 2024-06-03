@@ -1,0 +1,59 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué país lidera el desfile de atletas en la ceremonia de las olimpiadas?",
+            "t": "A",
+            "v": "779479_3",
+            "n": "Q"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Intro"
+        },
+        {
+            "s": "[Greece] [the country first in the alphabet of the host nation] [the host nation] [the previous nation to host]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

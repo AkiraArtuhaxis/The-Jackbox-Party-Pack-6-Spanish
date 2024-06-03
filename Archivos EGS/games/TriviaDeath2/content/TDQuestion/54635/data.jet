@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Según Maslow, ¿cuál es la mayor necesidad... aquella que está en la cima de la pirámide?",
+            "t": "A",
+            "v": "775979_1",
+            "n": "Q"
+        },
+        {
+            "s": "NECESITAN que los libere, o solo QUIEREN que los libere.",
+            "t": "A",
+            "v": "775986_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[self-actualization] [feeling of accomplishment] [loving relationships] [food]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

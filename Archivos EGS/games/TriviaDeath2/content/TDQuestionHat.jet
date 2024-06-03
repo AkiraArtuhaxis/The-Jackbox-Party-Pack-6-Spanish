@@ -1,0 +1,537 @@
+{
+    "episodeid": 1392,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56090,
+            "text": "Como nunca me leías, Padre, solo escuche historias de la boca de esta persona, el anfitrión de <i>Reading Rainbow<\/i>:",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Michael Dorn"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "LeVar Burton"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Brent Spiner"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Wil Wheaton"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56088,
+            "text": "Si alguna vez hubieras estado para mí, Papá, hubiera sido como Alejandro el Grande, y tu podrías haber sido como su mentor...",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Sócrates"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Aristóteles"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Pitágoras"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Alejandro el Bastante Bueno"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56087,
+            "text": "Decías que <i>Miami Vice<\/i> no era una temática apropiada para el cuarto de un niño, Padre, pero no te seguí la corriente. ¿Qué pareja de detectives pinté sobre mi cama?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Riggs y Murtaugh"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Cagney y Lacey"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Tango y Cash"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Tubbs y Crockett"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56083,
+            "text": "No fuiste a mi final de tenís en la secundaria, Padre. ¿Me puedes decir cuantos juegos debo perder para perder un set?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "ocho juegos"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "seis juegos"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "cuatro juegos"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "dos juegos"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56050,
+            "text": "¿Cuál era el nombre de mi Transformer, que se convertía en dinosaurio en lugar de vehículo, Padre?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Grimlock"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Devastador"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Megatron"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "El Comilón"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56049,
+            "text": "Si me hubieras llevado al parque de patinaje como te pedí, sabrías que mi pie delantero es el derecho; ¿eso en qué tipo de patinador me convierte?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "ollie"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "goofy"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "frontside"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "deslizado"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56048,
+            "text": "¿Cuál de estos viejos western de la televisión mostraban el tipo de relación padre-hijo que nunca tuve?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>Johnny Ringo<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "<i>The Rifleman<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Revolver a la orden<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Buscado vivo o muerto<\/i>"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56045,
+            "text": "He deseado a la esposa de Babar. Padre, ¿cuál es el nombre de esa bella elefante?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Tantor"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Mary Lou LaRue"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Madeleine"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Celeste"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56035,
+            "text": "Cuándo quería hablar contigo, ¿apretaba el botón del zumbador eléctrico que formaba parte de qué juego de mesa?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>Scattergories<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "<i>Tabú<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Kerplunk<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Trouble<\/i>"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56033,
+            "text": "No querías que te diga “Papá”... así que te decía “Murky Dismal”, ¿el malo de cuál de mis dibujitos preferidos?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>Jem<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "<i>Rainbow Brite<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Rosita Fresita \/ Frutillita<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>My pequeño pony<\/i>"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56014,
+            "text": "Papá, siempre te burlabas de mí por ser menos exitoso que las notas adhesivas debido a que nacimos en la misma década. ¿Me recuerdas qué década era esa?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "la década de 1940"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "la década de 1950"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "la década de 1960"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "la década de 1970"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55995,
+            "text": "De pequeño leía montones de libros de Ernest Hemingway, probablemente porque su apodo era…",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Padre"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Papa"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Pops"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Big Papi"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55454,
+            "text": "¡Me compraste el disfraz de Halloween equivocado cuando tenía 18! ¡Quería ser un X-Men! ¡Este personaje NO era un X-Men!",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Cíclope"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Griffin"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Fénix"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Bestia"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55428,
+            "text": "Si ALGUNA VEZ te sentarás conmigo a ver mi película preferida, lo sabrías ¿...de qué país hereda el trono Anne Hathaway en <i>El diario de la princesa<\/i>?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Andorra"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Bialya"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Genovia"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Lichtenburg"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55425,
+            "text": "Cuando era pequeño fuiste a buscar helado y nunca regresaste, pero, ¡¡¡NO HACÍAN estos helados en 1985!!!",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Baskin-Robbins"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Breyers"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Ben & Jerry’s"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Cold Stone Creamery"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55377,
+            "text": "Qué libro de Dr. Seuss no me dejabas leer porque contenía un canguro resentido que te recordaba a Mamá?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "<i>El gato en el sombrero<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>¡Cómo el Grinch robó la Navidad!<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "<i>Hop on Pop<\/i>"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "<i>Horton y el mundo de los Quién<\/i>"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55367,
+            "text": "Padre. ¿Cuál es el nombre del planeta natal de Mork, en la serie de televisión <i>Mork y Mindy<\/i>, al cuál siempre decía que iba a partir cuando era pequeño?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Tork"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Bork"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Ork"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Work"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55365,
+            "text": "Si hubieras visto mi producción escolar de <i>Godspell<\/i>, Papá, ¿me hubieras visto cantar cuál de las siguientes canciones?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "“Music of the Night”"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "“Day by Day”"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "“One Day More”"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "“Any Dream Will Do”"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55370,
+            "text": "Como nunca estabas presente, compartía mis sentimientos con mi Osito cariñosito con un arcoíris en su pancita. ¿Cuál es el nombre oficial de ese Osito cariñosito?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "text": "Cariñosito"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Valientosito"
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Amigosita"
+                },
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Alegrosita"
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        }
+    ]
+}

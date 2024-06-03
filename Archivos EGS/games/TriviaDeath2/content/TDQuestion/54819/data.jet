@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿A quién le rogó Dolly Parton, “por favor no se lleve a mi hombre”?",
+            "t": "A",
+            "v": "777819_2",
+            "n": "Q"
+        },
+        {
+            "s": "Satanás no es la única deidad que adoro. ¡También estoy obsesionado con la gran Dolly Parton!",
+            "t": "A",
+            "v": "777826_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Jolene] [Aimee] [Lorraine] [Gloria]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

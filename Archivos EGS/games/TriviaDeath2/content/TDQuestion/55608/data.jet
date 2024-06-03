@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de estos alimentos religiosos tradicionalmente no contiene gluten?",
+            "t": "A",
+            "v": "792604_1",
+            "n": "Q"
+        },
+        {
+            "s": "Pues, realmente quiero encontrar a Dios, pero no quiero ingerir carbohidratos en el proceso. ¿Entienden a lo que me refiero?",
+            "t": "A",
+            "v": "792611_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[matzo] [communion wafers] [Easter eggs] [potato latkes]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

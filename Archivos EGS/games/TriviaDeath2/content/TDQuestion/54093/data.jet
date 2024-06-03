@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cómo se llama esa cosa roja rara colgando en el cuello de un gallo?",
+            "t": "A",
+            "v": "770510_1",
+            "n": "Q"
+        },
+        {
+            "s": "Siendo francos, a mí este tema se me hace algo asqueroso.",
+            "t": "A",
+            "v": "770517_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[a wattle ] [a gizzard] [a poult] [a covert]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

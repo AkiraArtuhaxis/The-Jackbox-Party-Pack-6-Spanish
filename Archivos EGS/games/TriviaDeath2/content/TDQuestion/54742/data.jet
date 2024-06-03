@@ -1,0 +1,59 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué es algo que NO afirma haber hecho el Diablo en la canción “Sympathy for the Devil”?",
+            "t": "A",
+            "v": "777049_2",
+            "n": "Q"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Intro"
+        },
+        {
+            "s": "[“I rode a tank, held a general’s rank.”] [“I taught man to hate in chorus”] [“I laid traps for troubadours”] [“I shouted out, ‘who killed the Kennedys?’”]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

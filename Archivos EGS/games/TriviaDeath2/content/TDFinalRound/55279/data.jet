@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Caballeros de la mesa redonda",
+            "t": "A",
+            "v": "785879_2",
+            "n": "Q"
+        }
+    ]
+}

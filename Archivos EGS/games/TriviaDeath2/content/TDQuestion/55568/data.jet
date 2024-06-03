@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué hace la herramienta de esponja en Photoshop?",
+            "t": "A",
+            "v": "792100_2",
+            "n": "Q"
+        },
+        {
+            "s": "Estoy tratando de colocar mi cara en una foto de Hugh Jackman sin camiseta y me pregunto...",
+            "t": "A",
+            "v": "792107_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[erases pixels] [rounds edges] [adds/removes color] [makes picture sparkly]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

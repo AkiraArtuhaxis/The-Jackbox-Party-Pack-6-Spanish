@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Misterios de Agatha Christie",
+            "t": "A",
+            "v": "783913_1",
+            "n": "Q"
+        }
+    ]
+}

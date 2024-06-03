@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Quién es Noam Chomsky?",
+            "t": "A",
+            "v": "779559_3",
+            "n": "Q"
+        },
+        {
+            "s": "Vivo escuchando este nombre una y otra vez en mi cafetería local y, o sea, obviamente sé quién es, pero me da curiosidad saber si ustedes saben...",
+            "t": "A",
+            "v": "779566_3",
+            "n": "Intro"
+        },
+        {
+            "s": "[a linguist] [a poet] [a physicist] [a novelist]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

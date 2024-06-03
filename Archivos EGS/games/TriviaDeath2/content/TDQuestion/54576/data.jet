@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Según la canción de Tracy Chapman, tienes un auto veloz, pero ¿qué tiene ella?",
+            "t": "A",
+            "v": "775389_2",
+            "n": "Q"
+        },
+        {
+            "s": "(tarareando) Oh, disculpen, tengo esta canción pegada en la cabeza.",
+            "t": "A",
+            "v": "775396_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[a plan to get us outta here] [a tank of gas and some snacks] [a suitcase filled with dreams] [an additional fast car]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

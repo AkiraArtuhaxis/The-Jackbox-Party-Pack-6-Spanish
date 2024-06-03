@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Rocas metamórficas",
+            "t": "A",
+            "v": "794006_1",
+            "n": "Q"
+        }
+    ]
+}

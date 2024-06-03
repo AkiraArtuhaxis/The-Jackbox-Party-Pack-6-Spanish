@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "El tejido cerebral se compone de materia gris, ¿y de qué otro tipo de materia?",
+            "t": "A",
+            "v": "809578_1",
+            "n": "Q"
+        },
+        {
+            "s": "Oigan, ¿alguno conoce una manera eficaz de remover tejido cerebral de una máscara de esquí hecha de poliéster? Pregunto por un amigo.",
+            "t": "A",
+            "v": "809585_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[red matter] [blue matter] [pink matter] [white matter]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

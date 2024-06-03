@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué playa tiene la costa más larga?",
+            "t": "A",
+            "v": "774359_2",
+            "n": "Q"
+        },
+        {
+            "s": "Quiero reservar una estadía en un resort Sandals pero no sé cuál....",
+            "t": "A",
+            "v": "774366_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Long Beach in the United States] [Muizenberg in South Africa] [Playa Novillero in Mexico] [Ninety Mile Beach in Australia]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

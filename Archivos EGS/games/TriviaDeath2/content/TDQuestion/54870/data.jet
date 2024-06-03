@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué parte de un globo aerostático se llama técnicamente “el sobre”?",
+            "t": "A",
+            "v": "778329_2",
+            "n": "Q"
+        },
+        {
+            "s": "Aquí viene una pregunta que solo millonarios del siglo diecinueve deberían saber...",
+            "t": "A",
+            "v": "778336_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[the sandbag] [the knotted rope] [the riding compartment] [the balloon]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

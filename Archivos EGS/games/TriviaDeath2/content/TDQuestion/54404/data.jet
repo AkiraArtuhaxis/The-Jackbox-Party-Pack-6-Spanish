@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué Spice Girl NO tiene un verso sola en “Wannabe”?",
+            "t": "A",
+            "v": "773620_2",
+            "n": "Q"
+        },
+        {
+            "s": "Miren, sé que esta pregunta aparece en Jeopardy! todo el tiempo, pero debo preguntarla también...",
+            "t": "A",
+            "v": "773627_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Ginger] [Baby] [Sporty] [Posh]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

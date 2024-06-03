@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál de mis armas asesinas tomaría MÁS tiempo en biodegradarse?",
+            "t": "A",
+            "v": "810713_1",
+            "n": "Q"
+        },
+        {
+            "s": "Como asesino en serie profesional, el medio ambiente es de las cosas que más me preocupa, como se imaginarán. Teniendo en cuenta eso...",
+            "t": "A",
+            "v": "810720_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[my LEATHER strangling gloves] [my ALUMINUM bat] [my NYLON noose] [my jagged shard of GLASS]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

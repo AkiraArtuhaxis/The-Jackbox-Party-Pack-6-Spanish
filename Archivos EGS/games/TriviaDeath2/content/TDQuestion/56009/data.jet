@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Tengo una terrible alergia a los mariscos. ¿Cuál de estas comidas NO va a matarme?",
+            "t": "A",
+            "v": "800081_1",
+            "n": "Q"
+        },
+        {
+            "s": "No sé porque estoy revelando esta información pero...",
+            "t": "A",
+            "v": "800088_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[prawn] [abalone] [tilapia] [oyster]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

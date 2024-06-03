@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Ganadores del Derby de Kentucky",
+            "t": "A",
+            "v": "782820_2",
+            "n": "Q"
+        }
+    ]
+}

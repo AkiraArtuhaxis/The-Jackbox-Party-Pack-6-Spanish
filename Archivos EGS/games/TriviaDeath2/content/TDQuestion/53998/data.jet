@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Si organizo una increíble despedida de soltera para un querido amigo en Londres, ¿cómo se llama?",
+            "t": "A",
+            "v": "769560_1",
+            "n": "Q"
+        },
+        {
+            "s": "¡Lo único que me pone más nervioso que la policía es organizar una fiesta!",
+            "t": "A",
+            "v": "769567_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[a buck’s night] [a bachelor experience] [a stag do] [a hen party]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntro"
+  },
+  {
+   "t": "A",
+   "v": "introAudio",
+   "n": "Intro"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQ"
+  },
+  {
+   "t": "A",
+   "v": "questionAudio",
+   "n": "Q",
+   "s": "¿La música de quién NO se encuentra en el disco de oro de las Voyager?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasPic"
+  },
+  {
+   "t": "G",
+   "v": "image",
+   "n": "Pic"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasVamp"
+  },
+  {
+   "t": "A",
+   "v": "pictureVamp",
+   "n": "Vamp"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Bebidas con cafeína",
+            "t": "A",
+            "v": "785562_1",
+            "n": "Q"
+        }
+    ]
+}

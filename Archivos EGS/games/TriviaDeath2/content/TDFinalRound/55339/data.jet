@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Las musas griegas",
+            "t": "A",
+            "v": "788176_1",
+            "n": "Q"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Compositores alemanes",
+            "t": "A",
+            "v": "825183_1",
+            "n": "Q"
+        }
+    ]
+}

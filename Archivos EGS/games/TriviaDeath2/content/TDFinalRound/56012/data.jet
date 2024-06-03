@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Ocupaciones relacionadas a barcos",
+            "t": "A",
+            "v": "800114_1",
+            "n": "Q"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Países sobre el ecuador",
+            "t": "A",
+            "v": "795610_1",
+            "n": "Q"
+        }
+    ]
+}

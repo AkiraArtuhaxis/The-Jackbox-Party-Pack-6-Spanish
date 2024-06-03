@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cómo se ve la hiedra venenosa?",
+            "t": "A",
+            "v": "774869_1",
+            "n": "Q"
+        },
+        {
+            "s": "Hmmm... creo que voy a tener que devolver esta ensalada...",
+            "t": "A",
+            "v": "774876_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[green with three leaves] [brown with two leaves] [green with five leaves] [brown with no leaves... it’s a root.]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

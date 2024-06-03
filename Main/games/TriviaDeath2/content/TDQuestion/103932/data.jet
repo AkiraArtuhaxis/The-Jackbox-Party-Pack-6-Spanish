@@ -1,0 +1,45 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntro"
+  },
+  {
+   "t": "A",
+   "v": "introAudio",
+   "n": "Intro"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQ"
+  },
+  {
+   "t": "A",
+   "v": "questionAudio",
+   "n": "Q",
+   "s": "¿Quién fue el artista más stremeado por Spotify en todo el mundo en 2020, 2021 y 2022?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasPic"
+  },
+  {
+   "t": "G",
+   "v": "image",
+   "n": "Pic"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasVamp"
+  },
+  {
+   "t": "A",
+   "v": "pictureVamp",
+   "n": "Vamp"
+  }
+ ]
+}

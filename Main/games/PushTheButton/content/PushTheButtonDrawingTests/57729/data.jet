@@ -77,7 +77,7 @@
         },
         {
             "t": "S",
-            "v": "Dibuja un pato feliz.",
+            "v": "Dibuja a un pato feliz.",
             "n": "HumanPromptText"
         },
         {

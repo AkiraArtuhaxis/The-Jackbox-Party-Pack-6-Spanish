@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Animales con rayas",
+            "t": "A",
+            "v": "826822_1",
+            "n": "Q"
+        }
+    ]
+}

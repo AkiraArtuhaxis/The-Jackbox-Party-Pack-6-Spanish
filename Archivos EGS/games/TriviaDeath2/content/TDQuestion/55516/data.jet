@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué frase se utiliza para describir un período de declive en los precios de acciones?",
+            "t": "A",
+            "v": "791138_2",
+            "n": "Q"
+        },
+        {
+            "s": "No sería un muy buen psicópate si no les hiciera al menos una pregunta sobre el mercado de valores.",
+            "t": "A",
+            "v": "791145_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[bull market] [pig market] [wolf market] [bear market]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

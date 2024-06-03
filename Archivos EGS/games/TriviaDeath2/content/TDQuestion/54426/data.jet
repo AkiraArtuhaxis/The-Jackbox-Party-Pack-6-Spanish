@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué enfermedad de hongos ataca al maíz?",
+            "t": "A",
+            "v": "773840_3",
+            "n": "Q"
+        },
+        {
+            "s": "Okey chicos, tratemos de ser maduros sobre esta pregunta que sigue.",
+            "t": "A",
+            "v": "773847_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[corn spoil] [corn smut] [corn filth] [corn porn]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

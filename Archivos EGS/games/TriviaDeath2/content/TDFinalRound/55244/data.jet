@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Más alto que la Torre Eiffel",
+            "t": "A",
+            "v": "784406_2",
+            "n": "Q"
+        }
+    ]
+}

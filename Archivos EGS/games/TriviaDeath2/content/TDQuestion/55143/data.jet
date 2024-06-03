@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Qué obra de Tennessee Williams incluye a un personaje patriarca llamado “Gran Papi”?",
+            "t": "A",
+            "v": "781059_2",
+            "n": "Q"
+        },
+        {
+            "s": "Tomando a cautivos y jugando juegos siniestros... Vaya, me he convertido en mi padre.",
+            "t": "A",
+            "v": "781066_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[<i>A Streetcar Named Desire<\/i>] [<i>Cat on a Hot Tin Roof<\/i>] [<i>The Glass Menagerie<\/i>] [<i>The Night of the Iguana<\/i>]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

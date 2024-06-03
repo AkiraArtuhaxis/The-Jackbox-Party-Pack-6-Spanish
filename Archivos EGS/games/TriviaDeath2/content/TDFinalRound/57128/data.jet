@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Numerales romanos",
+            "t": "A",
+            "v": "821428_1",
+            "n": "Q"
+        }
+    ]
+}

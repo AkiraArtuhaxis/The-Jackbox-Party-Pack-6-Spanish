@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "Si calzo un talle 7 en la medida estadounidense, ¿cuál es mi tamaño en la medida europea?",
+            "t": "A",
+            "v": "775899_2",
+            "n": "Q"
+        },
+        {
+            "s": "Tengo pies pequeños, pero me agasajan los zuecos europeos.",
+            "t": "A",
+            "v": "775906_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[7] [11] [40] [52]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

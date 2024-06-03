@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Animales que estadísticamente sobreviven más que un alce",
+            "t": "A",
+            "v": "784201_2",
+            "n": "Q"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Presidentes de EE.UU. con solo un mandato",
+            "t": "A",
+            "v": "784119_1",
+            "n": "Q"
+        }
+    ]
+}

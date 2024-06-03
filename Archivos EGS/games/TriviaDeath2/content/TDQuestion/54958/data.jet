@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Cuál estilo crearía una hermosa corona de cabello que da toda la vuelta alrededor de mi cabeza?",
+            "t": "A",
+            "v": "779209_2",
+            "n": "Q"
+        },
+        {
+            "s": "Siempre olvido el nombre de esto cuando hablo con mi estilista.",
+            "t": "A",
+            "v": "779216_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Dutch braid] [chain link braid] [milkmaid braid] [skeleton braid]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

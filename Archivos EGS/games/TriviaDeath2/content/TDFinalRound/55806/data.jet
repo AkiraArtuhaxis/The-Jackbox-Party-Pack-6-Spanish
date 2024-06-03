@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Lanzamientos de béisbol",
+            "t": "A",
+            "v": "796430_1",
+            "n": "Q"
+        }
+    ]
+}

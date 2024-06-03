@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "¿Quién hace pianos?",
+            "t": "A",
+            "v": "773520_2",
+            "n": "Q"
+        },
+        {
+            "s": "Estoy buscando algo pesado para atar en una cuerda y luego dejar caer sobre personas.",
+            "t": "A",
+            "v": "773527_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Steinman] [Steinway] [Steingold] [Steinfeld]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

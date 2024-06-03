@@ -1,0 +1,51 @@
+{
+    "fields": [{
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty2"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty1"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "AlienPromptDifficulty0"
+    }, {
+        "t": "N",
+        "v": "2",
+        "n": "Difficulty"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt0"
+    }, {
+        "t": "S",
+        "v": "Prefiero árboles de Navidad reales que falsos.",
+        "n": "AlienPromptText0"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt1"
+    }, {
+        "t": "S",
+        "v": "Uva es el mejor sabor de una paleta.",
+        "n": "AlienPromptText1"
+    }, {
+        "t": "S",
+        "v": "false",
+        "n": "AlienPromptAdultt2"
+    }, {
+        "t": "S",
+        "v": "Puedo encontrar a México en el mapa.",
+        "n": "AlienPromptText2"
+    }, {
+        "t": "S",
+        "v": "Alguna vez me he puesto a pensar anteriormente lo bien fornido que está el monstruo de Frankenstein.",
+        "n": "HumanPromptText"
+    }, {
+        "s": "Alguna vez me he puesto a pensar anteriormente lo bien fornido que está el monstruo de Frankenstein.",
+        "t": "A",
+        "n": "HumanPromptAudio"
+    }]
+}

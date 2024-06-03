@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Tiene una estrella en el Paseo de la Fama de Hollywood",
+            "t": "A",
+            "v": "790014_1",
+            "n": "Q"
+        }
+    ]
+}

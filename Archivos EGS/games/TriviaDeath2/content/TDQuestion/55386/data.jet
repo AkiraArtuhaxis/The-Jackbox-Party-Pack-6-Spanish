@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "O sea, ¿QUÉ sería un \"sham\" en inglés?",
+            "t": "A",
+            "v": "788923_1",
+            "n": "Q"
+        },
+        {
+            "s": "La peor parte de manejar un Hotel Asesino es hacer las camas entre medio de rachas de asesinatos. ODIO las cosas de camas lujosas.",
+            "t": "A",
+            "v": "788930_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[decorative bed skirt] [decorative headboard] [decorative blanket] [decorative pillow cover]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

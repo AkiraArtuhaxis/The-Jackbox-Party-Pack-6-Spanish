@@ -1,0 +1,45 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasIntro"
+  },
+  {
+   "t": "A",
+   "v": "introAudio",
+   "n": "Intro"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQ"
+  },
+  {
+   "t": "A",
+   "v": "questionAudio",
+   "n": "Q",
+   "s": "¿Qué unidad de tiempo es una trillonésima de una mil millonésima de un segundo?"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasPic"
+  },
+  {
+   "t": "G",
+   "v": "image",
+   "n": "Pic"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasVamp"
+  },
+  {
+   "t": "A",
+   "v": "pictureVamp",
+   "n": "Vamp"
+  }
+ ]
+}

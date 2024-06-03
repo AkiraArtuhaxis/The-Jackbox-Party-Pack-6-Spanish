@@ -1,0 +1,15 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasQ"
+        },
+        {
+            "s": "Libros de Roald Dahl",
+            "t": "A",
+            "v": "792747_1",
+            "n": "Q"
+        }
+    ]
+}
