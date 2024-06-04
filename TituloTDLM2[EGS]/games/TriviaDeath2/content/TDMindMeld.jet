@@ -1,0 +1,2891 @@
+{
+    "episodeid": 1399,
+    "content": [
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Trivia de la Muerte 2",
+                    "alt": [
+                        "Trivia Murder Party 2",
+                        "TMP 2",
+                        "Trivia Murder Party Two",
+                        "Trivia Murder Party Dos",
+                        "TMP2",
+                        "Trivia de Muerte 2",
+                        "TDLM 2",
+                        "Trivia de la Muerte Dos",
+                        "TDLM2",
+                        "TDM 2",
+                        "TDM2",
+                        "Este juego",
+                        "Este"
+                    ]
+                },
+                {
+                    "answer": "Modelo a Seguir",
+                    "alt": [
+                        "Rolemodels",
+                        "roll models",
+                        "rollmodels",
+                        "role model",
+                        "roll model",
+                        "Modelo seguir",
+                        "modeloaseguir",
+                        "modeloseguir",
+                        "Modello a Seguir",
+                        "Modello Seguir"
+                    ]
+                },
+                {
+                    "answer": "Crucero Cómico",
+                    "alt": [
+                        "Joke Bot",
+                        "Boat Joke",
+                        "JokeBoat",
+                        "Joke Boats",
+                        "Jokes Boat",
+                        "Cruceros Cómicos",
+                        "Crucero Comico",
+                        "Cruceros Comicos",
+                        "CruceroCómico",
+                        "CruceroComico",
+                        "Barco Cómico",
+                        "Barco Comico"
+                    ]
+                },
+                {
+                    "answer": "Diccionarium",
+                    "alt": [
+                        "Dictionaryium",
+                        "Dictionaryum",
+                        "Dictionariyum",
+                        "Dictionaryim",
+                        "diction arium",
+                        "diction-arium",
+                        "diction*arium",
+                        "Diccionaryium",
+                        "Diccionaryum",
+                        "Diccionariyum",
+                        "Diccionaryim",
+                        "diccion arium",
+                        "diccion-arium",
+                        "diccion*arium"
+                    ]
+                },
+                {
+                    "answer": "Pulsa el Botón",
+                    "alt": [
+                        "Push a Button",
+                        "Push Button",
+                        "Push the Buton",
+                        "PTB",
+                        "Push a Buton",
+                        "Push Buton",
+                        "Pushing the Button",
+                        "Pushing Button",
+                        "Pulsa el Boton",
+                        "Pulsar el Botón",
+                        "Pulsar el Boton",
+                        "PEB",
+                        "Aprieta el Botón",
+                        "Aprieta el Boton",
+                        "Presiona el Botón",
+                        "Presiona el Boton"
+                    ]
+                }
+            ],
+            "id": 57811,
+            "text": "un juego de <i>The Jackbox Party Pack 6</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Charlie Brown",
+                    "alt": [
+                        "Charlie",
+                        "Chuck"
+                    ]
+                },
+                {
+                    "answer": "Lucy",
+                    "alt": [
+                        "Lucy van Pelt",
+                        "Lucy Pelt",
+                        "Lucille",
+                        "Lucille van Pelt",
+                        "Lucille Pelt"
+                    ]
+                },
+                {
+                    "answer": "Linus",
+                    "alt": [
+                        "Linus van Pelt",
+                        "Linus Pelt"
+                    ]
+                },
+                {
+                    "answer": "Sally",
+                    "alt": [
+                        "Sally Brown",
+                        "Sallie",
+                        "Sallie Brown"
+                    ]
+                },
+                {
+                    "answer": "Patty",
+                    "alt": [
+                        "Peppermint Patty",
+                        "Pepermint Patty",
+                        "Patti",
+                        "Peppermint Patti",
+                        "PP",
+                        "Patricia",
+                        "Patricia Reichardt",
+                        "Patty Reichardt",
+                        "Paty"
+                    ]
+                },
+                {
+                    "answer": "Schroeder",
+                    "alt": [
+                        "Shroeder",
+                        "shrowder",
+                        "Schrowder"
+                    ]
+                },
+                {
+                    "answer": "Snoopy",
+                    "alt": [
+                        "Snupy",
+                        "Snoppy"
+                    ]
+                },
+                {
+                    "answer": "Woodstock",
+                    "alt": [
+                        "wood stock",
+                        "woodstalk",
+                        "emilio"
+                    ]
+                }
+            ],
+            "id": 57805,
+            "text": "un personaje de <i>Eres un buen hombre, Charlie Brown</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "George Washington",
+                    "alt": [
+                        "Washington"
+                    ]
+                },
+                {
+                    "answer": "John Adams",
+                    "alt": [
+                        "Adams",
+                        "Adam",
+                        "John Adam",
+                        "Jon Adams",
+                        "Jon Adam"
+                    ]
+                },
+                {
+                    "answer": "Thomas Jefferson",
+                    "alt": [
+                        "Jeferson",
+                        "Tomas Jefferson",
+                        "Tomas Jeferson",
+                        "Tom Jefferson",
+                        "Thomas Jeferson",
+                        "Jefferson"
+                    ]
+                },
+                {
+                    "answer": "James Madison",
+                    "alt": [
+                        "Madison",
+                        "James Maddison",
+                        "Maddison",
+                        "James Madison Jr."
+                    ]
+                },
+                {
+                    "answer": "James Monroe",
+                    "alt": [
+                        "Monroe",
+                        "Monro",
+                        "Munroe",
+                        "James Munroe"
+                    ]
+                },
+                {
+                    "answer": "John Quincy Adams",
+                    "alt": [
+                        "John Q Adams",
+                        "JQA",
+                        "JQ Adams",
+                        "John Q. Adams",
+                        "Jon Quincy Adams"
+                    ]
+                },
+                {
+                    "answer": "Andrew Jackson",
+                    "alt": [
+                        "Jackson",
+                        "Andrew Jacksen",
+                        "Jacksen"
+                    ]
+                },
+                {
+                    "answer": "Martin Van Buren",
+                    "alt": [
+                        "MVB",
+                        "Van Buren",
+                        "Martin Van Buron",
+                        "Van Burin",
+                        "Martin Van Burin",
+                        "Buren",
+                        "Maarten Van Buren",
+                        "Marten Van Buren"
+                    ]
+                },
+                {
+                    "answer": "William Henry Harrison",
+                    "alt": [
+                        "Harrison",
+                        "Harison",
+                        "William Henry Harison",
+                        "William Harrison",
+                        "Will Harrison",
+                        "Will Henry Harrison",
+                        "William Harison"
+                    ]
+                },
+                {
+                    "answer": "John Tyler",
+                    "alt": [
+                        "Tyler",
+                        "Jon Tyler"
+                    ]
+                }
+            ],
+            "id": 57804,
+            "text": "uno de los primeros diez presidentes de los Estados Unidos",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "rojo",
+                    "alt": [
+                        "anillo rojo"
+                    ]
+                },
+                {
+                    "answer": "azul",
+                    "alt": [
+                        "anillo azul"
+                    ]
+                },
+                {
+                    "answer": "amarillo",
+                    "alt": [
+                        "anillo amarillo"
+                    ]
+                },
+                {
+                    "answer": "verde",
+                    "alt": [
+                        "anillo verde"
+                    ]
+                },
+                {
+                    "answer": "negro",
+                    "alt": [
+                        "anillo negro"
+                    ]
+                }
+            ],
+            "id": 57801,
+            "text": "uno de los colores de los anillos olímpicos",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Rachel",
+                    "alt": [
+                        "Reichel",
+                        "Rachel Green",
+                        "Rachael",
+                        "Rachelle",
+                        "Raychel",
+                        "Rachel Karen Green",
+                        "Rach",
+                        "Raych"
+                    ]
+                },
+                {
+                    "answer": "Monica",
+                    "alt": [
+                        "Monika",
+                        "Mónica",
+                        "Monica Geller",
+                        "Monica Geler",
+                        "Mon"
+                    ]
+                },
+                {
+                    "answer": "Phoebe",
+                    "alt": [
+                        "Pheebe",
+                        "Fibi",
+                        "Phobe",
+                        "Phoebe Buffay",
+                        "Phoebe Buffet",
+                        "Phoebe Hannigan",
+                        "Phoebe Buffay Hannigan",
+                        "Phoebe Buffay-Hannigan"
+                    ]
+                },
+                {
+                    "answer": "Joey",
+                    "alt": [
+                        "Joe",
+                        "Joey Tribbiani",
+                        "Yoey",
+                        "Joseph",
+                        "Joseph Francis “Joey” Tribbiani Jr."
+                    ]
+                },
+                {
+                    "answer": "Chandler",
+                    "alt": [
+                        "Chandeler",
+                        "Chandler Bing",
+                        "Chandalar",
+                        "Chadelar",
+                        "Chanandler Bong",
+                        "Chandler Muriel Bing"
+                    ]
+                },
+                {
+                    "answer": "Ross",
+                    "alt": [
+                        "Roz",
+                        "Russ",
+                        "Ross Geller",
+                        "Ross Geler",
+                        "Ross Eustace Geller"
+                    ]
+                }
+            ],
+            "id": 57800,
+            "text": "uno de los seis amigos de la serie de TV <i>Friends</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "E",
+                    "alt": [
+                        "mi"
+                    ]
+                },
+                {
+                    "answer": "B",
+                    "alt": [
+                        "si"
+                    ]
+                },
+                {
+                    "answer": "G",
+                    "alt": [
+                        "sol"
+                    ]
+                },
+                {
+                    "answer": "D",
+                    "alt": [
+                        "re"
+                    ]
+                },
+                {
+                    "answer": "A",
+                    "alt": [
+                        "la"
+                    ]
+                },
+                {
+                    "answer": "E",
+                    "alt": [
+                        "mi"
+                    ]
+                }
+            ],
+            "id": 57798,
+            "text": "nombre de las cuerdas de guitarra<br>tienen nombres de notas",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Maine",
+                    "alt": [
+                        "mane",
+                        "main",
+                        "Mayne"
+                    ]
+                },
+                {
+                    "answer": "Maryland",
+                    "alt": [
+                        "mariland",
+                        "Marryland"
+                    ]
+                },
+                {
+                    "answer": "Massachusetts",
+                    "alt": [
+                        "masachusets",
+                        "massachusets",
+                        "masachusetts",
+                        "massachuset",
+                        "massachusett",
+                        "masachuset",
+                        "masachusett"
+                    ]
+                },
+                {
+                    "answer": "Michigan",
+                    "alt": [
+                        "Michagan",
+                        "Michegan",
+                        "Mishigan",
+                        "Mishagan",
+                        "Michigen",
+                        "Michagen",
+                        "Mishagen"
+                    ]
+                },
+                {
+                    "answer": "Minnesota",
+                    "alt": [
+                        "minesota",
+                        "Minnisota"
+                    ]
+                },
+                {
+                    "answer": "Mississippi",
+                    "alt": [
+                        "misisipi",
+                        "missisipi",
+                        "misissipi",
+                        "misissippi",
+                        "missisippi",
+                        "misissipi"
+                    ]
+                },
+                {
+                    "answer": "Missouri",
+                    "alt": [
+                        "misouri",
+                        "mizzouri",
+                        "mizouri",
+                        "missori"
+                    ]
+                },
+                {
+                    "answer": "Montana",
+                    "alt": [
+                        "Monntana"
+                    ]
+                }
+            ],
+            "id": 57797,
+            "text": "un estado de Estados Unidos que comience con “M”",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "soberbia",
+                    "alt": [
+                        "orgullo"
+                    ]
+                },
+                {
+                    "answer": "envidia",
+                    "alt": [
+                        "celos",
+                        "celoso",
+                        "celosa"
+                    ]
+                },
+                {
+                    "answer": "gula",
+                    "alt": [
+                        "hambre",
+                        "hambriento"
+                    ]
+                },
+                {
+                    "answer": "deseo",
+                    "alt": [
+                        "lujuria"
+                    ]
+                },
+                {
+                    "answer": "ira",
+                    "alt": [
+                        "ira",
+                        "venganza",
+                        "furia"
+                    ]
+                },
+                {
+                    "answer": "avaricia",
+                    "alt": [
+                        "avaricioso",
+                        "avariciosa"
+                    ]
+                },
+                {
+                    "answer": "pereza",
+                    "alt": [
+                        "perezoso",
+                        "peresa",
+                        "peresoso",
+                        "peresosa"
+                    ]
+                }
+            ],
+            "id": 57795,
+            "text": "uno de los siete pecados capitales",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "tierra",
+                    "alt": [
+                        "la tierra"
+                    ]
+                },
+                {
+                    "answer": "viento",
+                    "alt": [
+                        "el viento",
+                        "aire"
+                    ]
+                },
+                {
+                    "answer": "fuego",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "agua",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "corazón",
+                    "alt": [
+                        "corazon",
+                        "el corazón"
+                    ]
+                }
+            ],
+            "id": 57794,
+            "text": "uno de los poderes de los Planetarios de Capitán Planeta<br>pista: son (en su mayoría) elementos clásicos en la naturaleza",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Aries",
+                    "alt": [
+                        "Ares",
+                        "Aires"
+                    ]
+                },
+                {
+                    "answer": "Tauro",
+                    "alt": [
+                        "Tauro",
+                        "Toro",
+                        "Tauros"
+                    ]
+                },
+                {
+                    "answer": "Géminis",
+                    "alt": [
+                        "Jemini"
+                    ]
+                },
+                {
+                    "answer": "Cáncer",
+                    "alt": [
+                        "Cancer"
+                    ]
+                },
+                {
+                    "answer": "Leo",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Virgo",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Libra",
+                    "alt": [
+                        "Livra",
+                        "Librah"
+                    ]
+                },
+                {
+                    "answer": "Escorpio",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Sagitario",
+                    "alt": [
+                        "Sagittario",
+                        "Sajitario",
+                        "Sagetario"
+                    ]
+                },
+                {
+                    "answer": "Capricornio",
+                    "alt": [
+                        "Caprecornio"
+                    ]
+                },
+                {
+                    "answer": "Acuario",
+                    "alt": [
+                        "Aquarius",
+                        "Aguario"
+                    ]
+                },
+                {
+                    "answer": "Piscis",
+                    "alt": [
+                        "Picis",
+                        "Pisis"
+                    ]
+                }
+            ],
+            "id": 57791,
+            "text": "uno de los doce signos astrológicos del zodíaco",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "A",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "B",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "C",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "D",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "E",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "F",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "G",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "H",
+                    "alt": [
+                        ""
+                    ]
+                }
+            ],
+            "id": 57788,
+            "text": "una de las ocho primeras letras del alfabeto",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Lunes",
+                    "alt": [
+                        "Lúnes"
+                    ]
+                },
+                {
+                    "answer": "Martes",
+                    "alt": [
+                        "Mates",
+                        "Mártes"
+                    ]
+                },
+                {
+                    "answer": "Miércoles",
+                    "alt": [
+                        "Miercoles",
+                        "Mierkoles",
+                        "Miercolez"
+                    ]
+                },
+                {
+                    "answer": "Jueves",
+                    "alt": [
+                        "Juves",
+                        "Juebes"
+                    ]
+                },
+                {
+                    "answer": "Viernes",
+                    "alt": [
+                        "Vienes"
+                    ]
+                },
+                {
+                    "answer": "Sábado",
+                    "alt": [
+                        "Sabado",
+                        "Savado"
+                    ]
+                },
+                {
+                    "answer": "Domingo",
+                    "alt": [
+                        "Dommingo"
+                    ]
+                }
+            ],
+            "id": 57787,
+            "text": "un día de la semana",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "tomate",
+                    "alt": [
+                        "tomates",
+                        "tomato",
+                        "jitomate",
+                        "tomatera",
+                        "tomateras",
+                        "jitomates",
+                        "gitomate"
+                    ]
+                },
+                {
+                    "answer": "zanahoria",
+                    "alt": [
+                        "zanahorias",
+                        "zanaoria",
+                        "sanaoria",
+                        "sanaorias",
+                        "sanahoria",
+                        "sanahorias",
+                        "zanaria"
+                    ]
+                },
+                {
+                    "answer": "apio",
+                    "alt": [
+                        "hapio",
+                        "apeo",
+                        "apios"
+                    ]
+                },
+                {
+                    "answer": "remolacha",
+                    "alt": [
+                        "remolacha",
+                        "acelga",
+                        "betabel"
+                    ]
+                },
+                {
+                    "answer": "perejil",
+                    "alt": [
+                        "perejiles",
+                        "peregil",
+                        "peregiles",
+                        "perjil"
+                    ]
+                },
+                {
+                    "answer": "lechuga",
+                    "alt": [
+                        "leshuga",
+                        "lachuga",
+                        "luchuga",
+                        "lochuga"
+                    ]
+                },
+                {
+                    "answer": "berro de agua",
+                    "alt": [
+                        "berro",
+                        "agrón",
+                        "mastuerzo de agua",
+                        "mastuerzo",
+                        "agron"
+                    ]
+                },
+                {
+                    "answer": "espinaca",
+                    "alt": [
+                        "spinaca",
+                        "espinacas",
+                        "spinacas",
+                        "espinaka"
+                    ]
+                }
+            ],
+            "id": 57341,
+            "text": "una de las verduras que se encuentran en el jugo de verduras V8 original",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Rápidos y furiosos",
+                    "alt": [
+                        "A todo gas",
+                        "Fast & Furious",
+                        "rapidos y furiosos",
+                        "rapido y furioso"
+                    ]
+                },
+                {
+                    "answer": "Más rápido más furioso",
+                    "alt": [
+                        "Mas rapido mas furioso",
+                        "Muy rápido muy furioso",
+                        "2F 2F",
+                        "2 Fast 2 Furious",
+                        "2F2F"
+                    ]
+                },
+                {
+                    "answer": "Rápido y furioso: Reto Tokio",
+                    "alt": [
+                        "A todo gas: Tokyo Race",
+                        "Fast and the Furious Tokyo Drift",
+                        "Tokyo Race",
+                        "Reto Tokio",
+                        "Rapido y furioso: Reto Tokio"
+                    ]
+                },
+                {
+                    "answer": "Rápidos y furiosos",
+                    "alt": [
+                        "Fast and Furious: Aún más rápido",
+                        "rapidos y furiosos",
+                        "Aun mas rapido",
+                        "fast & furious"
+                    ]
+                },
+                {
+                    "answer": "Rápidos y furiosos: 5in control",
+                    "alt": [
+                        "Sin control"
+                    ]
+                },
+                {
+                    "answer": "Rápidos y furiosos 6",
+                    "alt": [
+                        "Fast and Furious 6",
+                        "Rapidos y furiosos 6",
+                        "Rapidos y furiosos seis"
+                    ]
+                },
+                {
+                    "answer": "Rápidos y furiosos 7",
+                    "alt": [
+                        "Fast & Furious 7",
+                        "Rapidos y furiosos 7",
+                        "Furious 7"
+                    ]
+                }
+            ],
+            "id": 57035,
+            "text": "el título de una de las primeras 7 películas de <i>Rápidos y furiosos</i>",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "National",
+                    "alt": [
+                        "Nacional",
+                        "Nación",
+                        "Nation",
+                        "Nacion"
+                    ]
+                },
+                {
+                    "answer": "Aeronautics",
+                    "alt": [
+                        "Aeronáutica",
+                        "Aironautics",
+                        "Aeronautica",
+                        "Aeronautic",
+                        "Aeronáuticas"
+                    ]
+                },
+                {
+                    "answer": "Space",
+                    "alt": [
+                        "espacio",
+                        "espacial"
+                    ]
+                },
+                {
+                    "answer": "Administration",
+                    "alt": [
+                        "administración",
+                        "administraton",
+                        "administracion",
+                        "aministracion",
+                        "administraton"
+                    ]
+                }
+            ],
+            "id": 56076,
+            "text": "una de las palabras que componen el acrónimo NASA",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "La piedra filosofal",
+                    "alt": [
+                        "La piedra del filósofo",
+                        "La piedra del hechicero",
+                        "Piedra filosofal",
+                        "Harry Potter y la piedra filosofal",
+                        "Harry Potter y una piedra filosofal"
+                    ]
+                },
+                {
+                    "answer": "La cámara secreta",
+                    "alt": [
+                        "La camara de los secretos",
+                        "Camara de los secretos",
+                        "La cámara de los secretos",
+                        "Harry Potter y la cámara secreta"
+                    ]
+                },
+                {
+                    "answer": "El prisionero de Azkabán",
+                    "alt": [
+                        "El prisionero de Azkaban",
+                        "El preso de Azkaban",
+                        "El prisionero de Askaban",
+                        "Prisionero de Azkabán",
+                        "Harry Potter y el prisionero de Azkabán"
+                    ]
+                },
+                {
+                    "answer": "El cáliz de fuego",
+                    "alt": [
+                        "El caliz de fuego",
+                        "Harry Potter y el cáliz de fuego"
+                    ]
+                },
+                {
+                    "answer": "La orden del fénix",
+                    "alt": [
+                        "La orden del fenix",
+                        "Orden del fenix",
+                        "La orden de fenix",
+                        "Orden del phoenix",
+                        "Harry Potter y la Orden del Fénix"
+                    ]
+                },
+                {
+                    "answer": "El príncipe mestizo",
+                    "alt": [
+                        "El príncipe meztiso",
+                        "El príncipe mediasangre",
+                        "Harry Potter y el príncipe mestizo"
+                    ]
+                },
+                {
+                    "answer": "Las reliquias de la muerte",
+                    "alt": [
+                        "La reliquia de la muerte",
+                        "Reliquias de la muerte",
+                        "Reliquia de la muerte",
+                        "Reliquias mortales",
+                        "Harry Potter y las reliquias de la muerte"
+                    ]
+                }
+            ],
+            "id": 56075,
+            "text": "uno de los libros originales de <i>Harry Potter</i><br><i>Harry Potter y ________</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Mercurio",
+                    "alt": [
+                        "Murcurio",
+                        "Mercury",
+                        "Mercurío"
+                    ]
+                },
+                {
+                    "answer": "Venus",
+                    "alt": [
+                        "Venis",
+                        "Vennus",
+                        "Benus"
+                    ]
+                },
+                {
+                    "answer": "Tierra",
+                    "alt": [
+                        "Terra",
+                        "Tera",
+                        "Thierra"
+                    ]
+                },
+                {
+                    "answer": "Marte",
+                    "alt": [
+                        "Mate",
+                        "Martes",
+                        "Marrte"
+                    ]
+                },
+                {
+                    "answer": "Júpiter",
+                    "alt": [
+                        "Jupitre",
+                        "Jupiter",
+                        "Jupitar",
+                        "Joopiter"
+                    ]
+                },
+                {
+                    "answer": "Saturno",
+                    "alt": [
+                        "Saterno",
+                        "Satorno"
+                    ]
+                },
+                {
+                    "answer": "Neptuno",
+                    "alt": [
+                        "Neptun",
+                        "Neptune",
+                        "Netttuno",
+                        "Netuno"
+                    ]
+                },
+                {
+                    "answer": "Urano",
+                    "alt": [
+                        "Uranis",
+                        "Uranus",
+                        "Yurano",
+                        "Tuano",
+                        "Recto"
+                    ]
+                }
+            ],
+            "id": 56057,
+            "text": "uno de los planetas en nuestro sistema solar",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Antonio y Cleopatra",
+                    "alt": [
+                        "Antony y Cleopatra",
+                        "Anthony y Cleopatra",
+                        "Antono y Cleopatra",
+                        "Antonio y Cleopatar",
+                        "Antonio Cleopatra",
+                        "Cleopatra",
+                        "Antony Cleopatra"
+                    ]
+                },
+                {
+                    "answer": "Coriolano",
+                    "alt": [
+                        "Coriolanus"
+                    ]
+                },
+                {
+                    "answer": "Cimbelino",
+                    "alt": [
+                        "Cymbeline",
+                        "Cymbelino"
+                    ]
+                },
+                {
+                    "answer": "Hamlet",
+                    "alt": [
+                        "Hamlett",
+                        "Jamlet",
+                        "Hamlette",
+                        "Hammlet"
+                    ]
+                },
+                {
+                    "answer": "Julius Caesar",
+                    "alt": [
+                        "July César",
+                        "Julius Caesar",
+                        "César",
+                        "Caesar",
+                        "Julío Cesar",
+                        "Juli César",
+                        "César"
+                    ]
+                },
+                {
+                    "answer": "El rey Lear",
+                    "alt": [
+                        "King Lear",
+                        "Lear",
+                        "Rey Lear",
+                        "Rey Leer"
+                    ]
+                },
+                {
+                    "answer": "Macbeth",
+                    "alt": [
+                        "McBeth",
+                        "Macbet",
+                        "McBet",
+                        "MakBeth"
+                    ]
+                },
+                {
+                    "answer": "Otelo",
+                    "alt": [
+                        "Othello",
+                        "Otelo el Moro de Venecia",
+                        "El moro de Venecia"
+                    ]
+                },
+                {
+                    "answer": "Romeo y Julieta",
+                    "alt": [
+                        "Romeo & Julieta",
+                        "Romeo Julieta",
+                        "Romeo and Juliet"
+                    ]
+                },
+                {
+                    "answer": "Timón de Atenas",
+                    "alt": [
+                        "Timon de Atenas",
+                        "Timón de Athenas",
+                        "Timon de Athenas"
+                    ]
+                },
+                {
+                    "answer": "Tito Andrónico",
+                    "alt": [
+                        "Titus Andronicus"
+                    ]
+                },
+                {
+                    "answer": "Troilo y Crésida",
+                    "alt": [
+                        "Troylo y Crésida",
+                        "Troilo y Crésida",
+                        "Troilus y Cressida",
+                        "Troilo y Cressida",
+                        "Troy y Crésida",
+                        "Troylo y Crésida",
+                        "Troylo y Cresida",
+                        "Troilo Crésida",
+                        "Troilus Cressida",
+                        "Troilo Cressida"
+                    ]
+                }
+            ],
+            "id": 56056,
+            "text": "una de las tragedias de Shakespeare",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Paz",
+                    "alt": [
+                        "premio de paz",
+                        "premio de la paz",
+                        "premio paz",
+                        "premio Nobel de la Paz",
+                        "el premio nobel de la paz"
+                    ]
+                },
+                {
+                    "answer": "Literatura",
+                    "alt": [
+                        "premio nobel a la literatura",
+                        "literario",
+                        "el premio nobel de la literatura",
+                        "literario",
+                        "premio nobel de literatura"
+                    ]
+                },
+                {
+                    "answer": "Física",
+                    "alt": [
+                        "físicas",
+                        "fisica",
+                        "premio nobel en física",
+                        "premio nobel de física"
+                    ]
+                },
+                {
+                    "answer": "Medicina/Fisiología",
+                    "alt": [
+                        "medicina",
+                        "fisiología",
+                        "medicina y fisiología",
+                        "fisiologia",
+                        "fisiología/medicina",
+                        "fisiología y medicina",
+                        "fisiología & medicina",
+                        "fisiología o medicina",
+                        "premio nobel en fisiología o medicina"
+                    ]
+                },
+                {
+                    "answer": "Química",
+                    "alt": [
+                        "premio nobel en química",
+                        "quimica",
+                        "chemistry"
+                    ]
+                },
+                {
+                    "answer": "Ciencias Económicas",
+                    "alt": [
+                        "Económicas",
+                        "Ciencia Económica",
+                        "premio nobel en ciencias económicas",
+                        "Ciencias Economicas"
+                    ]
+                }
+            ],
+            "id": 56055,
+            "text": "una categoría de Premio Nobel",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Homero",
+                    "alt": [
+                        "Homie",
+                        "Homar",
+                        "Homer"
+                    ]
+                },
+                {
+                    "answer": "Marge",
+                    "alt": [
+                        "Marg",
+                        "March"
+                    ]
+                },
+                {
+                    "answer": "Bart",
+                    "alt": [
+                        "Bort",
+                        "Vart",
+                        "Bartt"
+                    ]
+                },
+                {
+                    "answer": "Lisa",
+                    "alt": [
+                        "Lissa",
+                        "Liza",
+                        "Eliza"
+                    ]
+                },
+                {
+                    "answer": "Maggie",
+                    "alt": [
+                        "Maggy"
+                    ]
+                },
+                {
+                    "answer": "Abraham",
+                    "alt": [
+                        "Abuelo",
+                        "Abu",
+                        "Abe",
+                        "Abuelo Abe",
+                        "Abuelo Simpson"
+                    ]
+                }
+            ],
+            "id": 56054,
+            "text": "uno de los nombres de los miembros de la familia en <i>Los Simpson</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Q",
+                    "alt": [
+                        "ficha Q"
+                    ]
+                },
+                {
+                    "answer": "Z",
+                    "alt": [
+                        "ficha Z"
+                    ]
+                },
+                {
+                    "answer": "J",
+                    "alt": [
+                        "ficha J"
+                    ]
+                },
+                {
+                    "answer": "X",
+                    "alt": [
+                        "ficha X"
+                    ]
+                },
+                {
+                    "answer": "K",
+                    "alt": [
+                        "ficha K"
+                    ]
+                }
+            ],
+            "id": 56053,
+            "text": "una de las cinco letras con más valor en <i>Scrabble</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Nilo",
+                    "alt": [
+                        "el Nilo",
+                        "el río Nilo",
+                        "Río Nilo"
+                    ]
+                },
+                {
+                    "answer": "Amazon",
+                    "alt": [
+                        "el Amazonas",
+                        "el río Amazonas",
+                        "Rio Amazonas"
+                    ]
+                },
+                {
+                    "answer": "Yangtsé",
+                    "alt": [
+                        "the Yangtsé",
+                        "el río Yangtsé",
+                        "Río Yangtsé",
+                        "Yangtze",
+                        "Yangse",
+                        "el río Yangtze",
+                        "el Yangtze",
+                        "yangtse",
+                        "rio yangtse"
+                    ]
+                },
+                {
+                    "answer": "Mississippi",
+                    "alt": [
+                        "el Misisipi",
+                        "el río Misisipi",
+                        "Río Misisipi",
+                        "misissippi",
+                        "missisippi",
+                        "mississippi"
+                    ]
+                }
+            ],
+            "id": 56052,
+            "text": "uno de los cuatro ríos más largos del mundo",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "George Washington",
+                    "alt": [
+                        "Washington"
+                    ]
+                },
+                {
+                    "answer": "Abraham Lincoln",
+                    "alt": [
+                        "Lincoln",
+                        "Abe Lincoln",
+                        "Lincon"
+                    ]
+                },
+                {
+                    "answer": "Thomas Jefferson",
+                    "alt": [
+                        "Jefferson",
+                        "Tomas Jefferson",
+                        "Jeferson",
+                        "Thomas Jeferson",
+                        "Tom Jefferson",
+                        "Tom Jeferson"
+                    ]
+                },
+                {
+                    "answer": "Theodore Roosevelt",
+                    "alt": [
+                        "Roosevelt",
+                        "Teddy Roosevelt"
+                    ]
+                }
+            ],
+            "id": 56051,
+            "text": "una de las caras en el monte Rushmore",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Una",
+                    "alt": [
+                        "1"
+                    ]
+                },
+                {
+                    "answer": "de",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "estas",
+                    "alt": [
+                        "esta"
+                    ]
+                },
+                {
+                    "answer": "cinco",
+                    "alt": [
+                        "5"
+                    ]
+                },
+                {
+                    "answer": "palabras",
+                    "alt": [
+                        "palabra"
+                    ]
+                }
+            ],
+            "id": 55988,
+            "text": "una de estas cinco palabras",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Donkey Kong",
+                    "alt": [
+                        "DK",
+                        "Donky Kong"
+                    ]
+                },
+                {
+                    "answer": "Fox",
+                    "alt": [
+                        "Star Fox",
+                        "Fox McCloud"
+                    ]
+                },
+                {
+                    "answer": "Jigglypuff",
+                    "alt": [
+                        "Jiglypuff",
+                        "Jiglypuf",
+                        "Jigglypuf"
+                    ]
+                },
+                {
+                    "answer": "Kirby",
+                    "alt": [
+                        "Kerby",
+                        "Kirbi",
+                        "Cerby",
+                        "Kerbee",
+                        "Cerbee",
+                        "Cirbee",
+                        "Currbee",
+                        "Currby",
+                        "Curbby"
+                    ]
+                },
+                {
+                    "answer": "Link",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Luigi",
+                    "alt": [
+                        "Luigee"
+                    ]
+                },
+                {
+                    "answer": "Mario",
+                    "alt": [
+                        "Super Mario"
+                    ]
+                },
+                {
+                    "answer": "Ness",
+                    "alt": [
+                        "Nes"
+                    ]
+                },
+                {
+                    "answer": "Samus",
+                    "alt": [
+                        "Samus Aran"
+                    ]
+                },
+                {
+                    "answer": "Yoshi",
+                    "alt": [
+                        "Yosi",
+                        "Yoshee",
+                        "Yoshie",
+                        "Yoshy",
+                        "Yoshey"
+                    ]
+                },
+                {
+                    "answer": "Captain Falcon",
+                    "alt": [
+                        "Falcon",
+                        "Cap Falcon",
+                        "Falcon",
+                        "Capitán Falcon"
+                    ]
+                },
+                {
+                    "answer": "Pikachu",
+                    "alt": [
+                        "Picachu",
+                        "Pikachoo",
+                        "Pickachu"
+                    ]
+                }
+            ],
+            "id": 55987,
+            "text": "un personaje jugable en el primer juego de <i>Super Smash Bros.</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Rey",
+                    "alt": [
+                        "el rey",
+                        "reyes",
+                        "los reyes"
+                    ]
+                },
+                {
+                    "answer": "Reina",
+                    "alt": [
+                        "la reina",
+                        "reinas",
+                        "las reinas"
+                    ]
+                },
+                {
+                    "answer": "Torre",
+                    "alt": [
+                        "la torre",
+                        "rook",
+                        "castillo",
+                        "el castillo",
+                        "castillos",
+                        "los castillos",
+                        "torres",
+                        "castillos",
+                        "roque",
+                        "el roque",
+                        "roques",
+                        "los roques"
+                    ]
+                },
+                {
+                    "answer": "Alfil",
+                    "alt": [
+                        "el alfil",
+                        "bishop",
+                        "bishops",
+                        "los alfiles",
+                        "afil",
+                        "afiles",
+                        "los afiles"
+                    ]
+                },
+                {
+                    "answer": "Caballo",
+                    "alt": [
+                        "caballero",
+                        "el caballo",
+                        "caballero",
+                        "caballos",
+                        "caballos",
+                        "los caballos",
+                        "los caballeros",
+                        "saltarín",
+                        "el saltarín",
+                        "saltarin",
+                        "el saltarin",
+                        "caballito",
+                        "caballitos",
+                        "los caballitos",
+                        "caballín",
+                        "caballines",
+                        "caballerito",
+                        "caballeritos"
+                    ]
+                },
+                {
+                    "answer": "Peón",
+                    "alt": [
+                        "peones",
+                        "el peón",
+                        "peon"
+                    ]
+                }
+            ],
+            "id": 55986,
+            "text": "una pieza de ajedrez",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "YOU DON\u2019T KNOW JACK: Full Stream",
+                    "alt": [
+                        "you don\u2019t know jack",
+                        "ydkj",
+                        "you dont now jack",
+                        "jack",
+                        "you dont know jack"
+                    ]
+                },
+                {
+                    "answer": "Divide la Sala",
+                    "alt": [
+                        "split room",
+                        "split a room",
+                        "str",
+                        "divide sala",
+                        "dividir la sala",
+                        "dls"
+                    ]
+                },
+                {
+                    "answer": "Mad Verse City",
+                    "alt": [
+                        "mad city",
+                        "mad versus city",
+                        "mad verses city",
+                        "mad vs city",
+                        "mad v city",
+                        "mvc",
+                        "Man Verse City",
+                        "Mad vs. City",
+                        "Mad Verse City: Ciudad del Rap",
+                        "Mad Verse City: CDR",
+                        "Ciudad del Rap",
+                        "La Ciudad del Rap"
+                    ]
+                },
+                {
+                    "answer": "Patentes Dementes",
+                    "alt": [
+                        "patent stupid",
+                        "patentley stupid",
+                        "stupid patents",
+                        "patentemente estúpido",
+                        "patentemente estupido",
+                        "Patente Demente",
+                        "Patente Dementes",
+                        "Patentes Demente"
+                    ]
+                },
+                {
+                    "answer": "Zeeple Dome",
+                    "alt": [
+                        "Zeep Dome",
+                        "ZeepleDome",
+                        "Zeepel Dome",
+                        "ZeepelDome",
+                        "Zeeple",
+                        "ZD",
+                        "Zeeple Doom"
+                    ]
+                }
+            ],
+            "id": 55985,
+            "text": "un juego de <i>The Jackbox Party Pack 5</i>",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Subway",
+                    "alt": [
+                        "Sub Way"
+                    ]
+                },
+                {
+                    "answer": "McDonald’s",
+                    "alt": [
+                        "McDonalds",
+                        "Mc Donald’s",
+                        "Mc Donalds",
+                        "Mcdonald",
+                        "MacDonalds"
+                    ]
+                },
+                {
+                    "answer": "Burger King",
+                    "alt": [
+                        "BK",
+                        "Burgerking",
+                        "Magic Tavern",
+                        "Booger King"
+                    ]
+                },
+                {
+                    "answer": "Taco Bell",
+                    "alt": [
+                        "Tacobell",
+                        "Taco Bel"
+                    ]
+                },
+                {
+                    "answer": "Pizza Hut",
+                    "alt": [
+                        "PizzaHut",
+                        "The Hut",
+                        "Pizza Hutt",
+                        "Piza Hut",
+                        "P Hut"
+                    ]
+                },
+                {
+                    "answer": "Wendy’s",
+                    "alt": [
+                        "Wendys",
+                        "Wendies",
+                        "Wendy",
+                        "Wandys"
+                    ]
+                }
+            ],
+            "id": 55970,
+            "text": "una de las cadenas de comida rápida en el top 6 de los Estados Unidos<br>(basado en número de establecimientos)",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Carne",
+                    "alt": [
+                        "Hamburguesa",
+                        "Patys",
+                        "Paty",
+                        "patty",
+                        "paty de carne",
+                        "dos patys",
+                        "doble carne",
+                        "bife",
+                        "dos patys de carne",
+                        "2 patys",
+                        "2 patys de carne",
+                        "doble paty",
+                        "bife de hamburguesa",
+                        "bifes de hamburguesa",
+                        "carne de hamburguesa",
+                        "dobles patties",
+                        "doble patty",
+                        "doble carne"
+                    ]
+                },
+                {
+                    "answer": "Salsa Big Mac",
+                    "alt": [
+                        "Salsa",
+                        "Mil islas",
+                        "Salsa mil islas",
+                        "Aderezo",
+                        "Aderezo especial",
+                        "salsa especial"
+                    ]
+                },
+                {
+                    "answer": "Lechuga",
+                    "alt": [
+                        "Lecuga",
+                        "Lechuga iceberg",
+                        "hojas de lechuga"
+                    ]
+                },
+                {
+                    "answer": "Queso",
+                    "alt": [
+                        "Queso amarillo"
+                    ]
+                },
+                {
+                    "answer": "Pepinillos",
+                    "alt": [
+                        "Pepinillo",
+                        "Pepino",
+                        "Pepinos",
+                        "2 pepinillos",
+                        "dos pepinillos",
+                        "2 pepinos",
+                        "dos pepinos"
+                    ]
+                },
+                {
+                    "answer": "Cebollas",
+                    "alt": [
+                        "Cebolla",
+                        "Cebolla cruda",
+                        "Cebollas crudas",
+                        "Cebolla cortada",
+                        "Cebollas cortadas"
+                    ]
+                },
+                {
+                    "answer": "Bollo",
+                    "alt": [
+                        "Bollos",
+                        "Pan",
+                        "Pan con sésamo",
+                        "Panes",
+                        "Pan de hamburguesa",
+                        "Panes con semillas"
+                    ]
+                }
+            ],
+            "id": 55969,
+            "text": "uno de los ingredientes de una Big Mac",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Allen",
+                    "alt": [
+                        "Alan",
+                        "Allan",
+                        "Alen"
+                    ]
+                },
+                {
+                    "answer": "Paar",
+                    "alt": [
+                        "Parr",
+                        "Par"
+                    ]
+                },
+                {
+                    "answer": "Carson",
+                    "alt": [
+                        "Carsen",
+                        "Carsan",
+                        "Carrson"
+                    ]
+                },
+                {
+                    "answer": "Leno",
+                    "alt": [
+                        "Lenno"
+                    ]
+                },
+                {
+                    "answer": "O’Brien",
+                    "alt": [
+                        "Obrian",
+                        "O’Brian",
+                        "Obrien"
+                    ]
+                },
+                {
+                    "answer": "Fallon",
+                    "alt": [
+                        "Falon",
+                        "Fallin",
+                        "Falun",
+                        "Fallun"
+                    ]
+                }
+            ],
+            "id": 55968,
+            "text": "un anfitrión oficial en <i>Tonight Show</i><br>(solo el apellido)",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Columbia Británica",
+                    "alt": [
+                        "BC",
+                        "Colombie-Britannique",
+                        "British Columbia",
+                        "Columbia",
+                        "Colonia Británica"
+                    ]
+                },
+                {
+                    "answer": "Alberta",
+                    "alt": [
+                        "AB",
+                        "Albertah",
+                        "Albarta",
+                        "Albertta"
+                    ]
+                },
+                {
+                    "answer": "Nueva Escocia",
+                    "alt": [
+                        "NS",
+                        "Nouvelle-Écosse",
+                        "New Scotland",
+                        "Nova Scotia",
+                        "Nueva Scocia"
+                    ]
+                },
+                {
+                    "answer": "Nuevo Brunswick",
+                    "alt": [
+                        "NB",
+                        "Nouveau-Brunswick",
+                        "New Brunswick",
+                        "Nueva Brunswick"
+                    ]
+                },
+                {
+                    "answer": "Manitoba",
+                    "alt": [
+                        "MB",
+                        "Manatoba"
+                    ]
+                },
+                {
+                    "answer": "Saskatchewan",
+                    "alt": [
+                        "SK"
+                    ]
+                },
+                {
+                    "answer": "Ontario",
+                    "alt": [
+                        "ON",
+                        "Onterio",
+                        "Onntario",
+                        "Ontarrio"
+                    ]
+                },
+                {
+                    "answer": "Quebec",
+                    "alt": [
+                        "QC",
+                        "Québec",
+                        "Quabec",
+                        "Quebek",
+                        "Quebeck"
+                    ]
+                },
+                {
+                    "answer": "Terranova y Labrador",
+                    "alt": [
+                        "NL",
+                        "Newfoundland",
+                        "Newfoundland y Labrador",
+                        "Labrador",
+                        "Terranova"
+                    ]
+                },
+                {
+                    "answer": "Isla del Príncipe Eduardo",
+                    "alt": [
+                        "PE",
+                        "Principe Eduardo",
+                        "Prince Edward Island",
+                        "Príncipe Eduardo",
+                        "Isla del Principe Eduardo"
+                    ]
+                }
+            ],
+            "id": 55967,
+            "text": "una provincia canadiense<br>(¡ningún territorio!)",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Pakistán",
+                    "alt": [
+                        "Pakistan",
+                        "Pakitan",
+                        "Paquistan"
+                    ]
+                },
+                {
+                    "answer": "Palaos",
+                    "alt": [
+                        "Palau"
+                    ]
+                },
+                {
+                    "answer": "Panamá",
+                    "alt": [
+                        "Panama",
+                        "Panana",
+                        "Pananá"
+                    ]
+                },
+                {
+                    "answer": "Papúa Nueva Guinea",
+                    "alt": [
+                        "Papua Nueva Guinea",
+                        "Papua New Guinea",
+                        "Papúa",
+                        "Papua"
+                    ]
+                },
+                {
+                    "answer": "Paraguay",
+                    "alt": [
+                        "Paragay",
+                        "Paragway",
+                        "Paraway"
+                    ]
+                },
+                {
+                    "answer": "Perú",
+                    "alt": [
+                        "Peru",
+                        "Paru"
+                    ]
+                },
+                {
+                    "answer": "Polonia",
+                    "alt": [
+                        "Poland",
+                        "Pollonia"
+                    ]
+                },
+                {
+                    "answer": "Países Bajos",
+                    "alt": [
+                        "Paises Bajos",
+                        "Los Países Bajos",
+                        "Los Paises Bajos",
+                        "Países Bajo",
+                        "Paises Bajo",
+                        "País Bajo",
+                        "Pais Bajo"
+                    ]
+                },
+                {
+                    "answer": "Portugal",
+                    "alt": [
+                        "Portugla",
+                        "Portugul"
+                    ]
+                }
+            ],
+            "id": 55966,
+            "text": "un país que comienza con la letra “P”",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Brasil",
+                    "alt": [
+                        "Brasil",
+                        "Brezil",
+                        "Brazile"
+                    ]
+                },
+                {
+                    "answer": "Argentina",
+                    "alt": [
+                        "Republica Argentina",
+                        "República Argentina",
+                        "Argentino"
+                    ]
+                },
+                {
+                    "answer": "Perú",
+                    "alt": [
+                        "Republica de Perú",
+                        "República del Perú",
+                        "Peru"
+                    ]
+                },
+                {
+                    "answer": "Chile",
+                    "alt": [
+                        "Chille",
+                        "Republica de Chile",
+                        "República de Chile",
+                        "Chilli"
+                    ]
+                },
+                {
+                    "answer": "Colombia",
+                    "alt": [
+                        "Columbia",
+                        "Republica de Colombia"
+                    ]
+                },
+                {
+                    "answer": "Venezuela",
+                    "alt": [
+                        "Venezuella",
+                        "República Venezolana"
+                    ]
+                },
+                {
+                    "answer": "Ecuador",
+                    "alt": [
+                        "Equador",
+                        "Republica de Ecuador"
+                    ]
+                },
+                {
+                    "answer": "Bolivia",
+                    "alt": [
+                        "Balivia",
+                        "Estado de Bolivia",
+                        "Bulivia"
+                    ]
+                },
+                {
+                    "answer": "Uruguay",
+                    "alt": [
+                        "Urugay",
+                        "Republica de Uruguay"
+                    ]
+                },
+                {
+                    "answer": "Paraguay",
+                    "alt": [
+                        "Paragay",
+                        "Republica de Paraguay"
+                    ]
+                },
+                {
+                    "answer": "Surinam",
+                    "alt": [
+                        "Suriname",
+                        "Republica de Surinam",
+                        "Republiek Suriname"
+                    ]
+                },
+                {
+                    "answer": "Guyana",
+                    "alt": [
+                        "Guyana Francesa",
+                        "Guiana",
+                        "Guianas"
+                    ]
+                },
+                {
+                    "answer": "Trinidad y Tobago",
+                    "alt": [
+                        "Trinidad",
+                        "Tobago",
+                        "Trinidad Tobago",
+                        "Trinidad & Tobago",
+                        "Trinidad and Tobago"
+                    ]
+                }
+            ],
+            "id": 55964,
+            "text": "un país de Sudamérica",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Rusia",
+                    "alt": [
+                        "Federación de Rusia",
+                        "Russia",
+                        "Rusiah"
+                    ]
+                },
+                {
+                    "answer": "Canadá",
+                    "alt": [
+                        "Canuda"
+                    ]
+                },
+                {
+                    "answer": "Estados Unidos de América",
+                    "alt": [
+                        "US",
+                        "USA",
+                        "Estados Unidos de America",
+                        "Estados Unidos",
+                        "U.S.",
+                        "EE. UU.",
+                        "Estados Unidos",
+                        "Estados Unidos de América",
+                        "los EEUU",
+                        "los EE. UU."
+                    ]
+                },
+                {
+                    "answer": "China",
+                    "alt": [
+                        "República Popular China",
+                        "PRC",
+                        "P.R.C."
+                    ]
+                },
+                {
+                    "answer": "Brasil",
+                    "alt": [
+                        "Brasil"
+                    ]
+                },
+                {
+                    "answer": "India",
+                    "alt": [
+                        "República de India"
+                    ]
+                },
+                {
+                    "answer": "Australia",
+                    "alt": [
+                        "Mancomunidad de Australia"
+                    ]
+                }
+            ],
+            "id": 55963,
+            "text": "uno de los siete países más grandes del mundo según masa terrestre",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Rojo",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Amarillo",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Verde",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Blanco",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Azul",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Naranja",
+                    "alt": [
+                        ""
+                    ]
+                }
+            ],
+            "id": 55962,
+            "text": "un color en el cubo de Rubik original",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Labrador Retrievers",
+                    "alt": [
+                        "lab",
+                        "labs",
+                        "labrador",
+                        "retriever",
+                        "retrievers",
+                        "labrador retriever"
+                    ]
+                },
+                {
+                    "answer": "German Shepherds",
+                    "alt": [
+                        "German shepherd",
+                        "german shepherd dogs",
+                        "shepherd",
+                        "shepherds"
+                    ]
+                },
+                {
+                    "answer": "Golden Retrievers",
+                    "alt": [
+                        "golden retriever"
+                    ]
+                },
+                {
+                    "answer": "French Bulldogs",
+                    "alt": [
+                        "French bulldog"
+                    ]
+                },
+                {
+                    "answer": "Bulldogs",
+                    "alt": [
+                        "bulldog"
+                    ]
+                },
+                {
+                    "answer": "Beagles",
+                    "alt": [
+                        "beagle",
+                        "beagel",
+                        "beagels"
+                    ]
+                },
+                {
+                    "answer": "Poodles",
+                    "alt": [
+                        "poodle",
+                        "poodel",
+                        "poodels"
+                    ]
+                },
+                {
+                    "answer": "Rottweilers",
+                    "alt": [
+                        "rotweiler",
+                        "rotweilers",
+                        "rottweiler"
+                    ]
+                }
+            ],
+            "id": 55958,
+            "text": "una de las ocho razas de perro más populares en American Kennel Club",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "León",
+                    "alt": [
+                        "leones"
+                    ]
+                },
+                {
+                    "answer": "Hiena",
+                    "alt": [
+                        "hienas",
+                        "yena",
+                        "yenas"
+                    ]
+                },
+                {
+                    "answer": "Bucero de pico rojo",
+                    "alt": [
+                        "toco picorrojo",
+                        "cálao",
+                        "pájaro"
+                    ]
+                },
+                {
+                    "answer": "Jabalí",
+                    "alt": [
+                        "jabali",
+                        "facocero",
+                        "warthog"
+                    ]
+                },
+                {
+                    "answer": "Suricata",
+                    "alt": [
+                        "meerkat",
+                        "suricatta",
+                        "surikata",
+                        "sooricata",
+                        "surícata"
+                    ]
+                },
+                {
+                    "answer": "Mandril",
+                    "alt": [
+                        "mandrill"
+                    ]
+                },
+                {
+                    "answer": "Topo",
+                    "alt": [
+                        "ardilla",
+                        "tuza"
+                    ]
+                }
+            ],
+            "id": 55957,
+            "text": "una especie animal que se muestra hablando en la versión original de <i>El rey león</i>",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "hidrógeno",
+                    "alt": [
+                        "hydrogen",
+                        "hidrogen",
+                        "hidrogeno",
+                        "H2",
+                        "H"
+                    ]
+                },
+                {
+                    "answer": "helio",
+                    "alt": [
+                        "helium",
+                        "He"
+                    ]
+                },
+                {
+                    "answer": "lítio",
+                    "alt": [
+                        "litio",
+                        "Li"
+                    ]
+                },
+                {
+                    "answer": "berilio",
+                    "alt": [
+                        "barilio",
+                        "berylium",
+                        "berileo",
+                        "Be"
+                    ]
+                },
+                {
+                    "answer": "boro",
+                    "alt": [
+                        "borro",
+                        "B"
+                    ]
+                },
+                {
+                    "answer": "carbón",
+                    "alt": [
+                        "carbon",
+                        "C"
+                    ]
+                },
+                {
+                    "answer": "nitrógeno",
+                    "alt": [
+                        "nitrogeno",
+                        "nitro",
+                        "nytrogen",
+                        "N"
+                    ]
+                },
+                {
+                    "answer": "oxígeno",
+                    "alt": [
+                        "oxigeno",
+                        "O",
+                        "O2"
+                    ]
+                },
+                {
+                    "answer": "flúor",
+                    "alt": [
+                        "fluor",
+                        "floor",
+                        "F"
+                    ]
+                },
+                {
+                    "answer": "neón",
+                    "alt": [
+                        "neon",
+                        "nion",
+                        "Ne"
+                    ]
+                }
+            ],
+            "id": 55922,
+            "text": "uno de los primeros diez elementos de la tabla periódica",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "África",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Asia",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "Europa",
+                    "alt": [
+                        ""
+                    ]
+                },
+                {
+                    "answer": "América del Norte",
+                    "alt": [
+                        "Norteamérica",
+                        "Norte América"
+                    ]
+                },
+                {
+                    "answer": "América del Sur",
+                    "alt": [
+                        "Sudamérica",
+                        "Suramérica"
+                    ]
+                },
+                {
+                    "answer": "Australia",
+                    "alt": [
+                        "Oceanía"
+                    ]
+                },
+                {
+                    "answer": "Antártica",
+                    "alt": [
+                        "Polo Sur",
+                        "Antártida"
+                    ]
+                }
+            ],
+            "id": 57812,
+            "text": "un continente",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "tigre",
+                    "alt": [
+                        "tigger",
+                        "tiger",
+                        "tigres",
+                        "tigre bengala",
+                        "tigre siberiano"
+                    ]
+                },
+                {
+                    "answer": "león",
+                    "alt": [
+                        "leon"
+                    ]
+                },
+                {
+                    "answer": "jaguar",
+                    "alt": [
+                        "yaguar",
+                        "llaguar",
+                        "yaguarete",
+                        "yaguareté",
+                        "iaguar"
+                    ]
+                },
+                {
+                    "answer": "puma",
+                    "alt": [
+                        "pumas",
+                        "coogar",
+                        "pumas",
+                        "panteras",
+                        "león de montaña",
+                        "cougar",
+                        "leon de montaña",
+                        "leones de montaña",
+                        "panther",
+                        "pantera"
+                    ]
+                },
+                {
+                    "answer": "leopardo",
+                    "alt": [
+                        "pardo",
+                        "lepardo",
+                        "lepardo",
+                        "lopardo",
+                        "leopado"
+                    ]
+                }
+            ],
+            "id": 57822,
+            "text": "una de las cinco especies más grandes de los grandes felinos en el mundo",
+            "us": false
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Superior",
+                    "alt": [
+                        "Lake Superior"
+                    ]
+                },
+                {
+                    "answer": "Huron",
+                    "alt": [
+                        "Lake Huron",
+                        "hurron",
+                        "lake hurron"
+                    ]
+                },
+                {
+                    "answer": "Michigan",
+                    "alt": [
+                        "Lake Michigan",
+                        "michigen",
+                        "lake michigen"
+                    ]
+                },
+                {
+                    "answer": "Ontario",
+                    "alt": [
+                        "Lake Ontario",
+                        "onterio",
+                        "lake onterio"
+                    ]
+                },
+                {
+                    "answer": "Erie",
+                    "alt": [
+                        "Lake Erie",
+                        "eerie",
+                        "lake eerie"
+                    ]
+                }
+            ],
+            "id": 57819,
+            "text": "uno de los cinco Grandes Lagos de Norteamérica",
+            "us": true
+        },
+        {
+            "x": false,
+            "answers": [
+                {
+                    "answer": "Gandalf",
+                    "alt": [
+                        "Gandolf",
+                        "Gandalf el Gris",
+                        "gandalf el blanco",
+                        "gandalfo"
+                    ]
+                },
+                {
+                    "answer": "Frodo",
+                    "alt": [
+                        "Frodo Baggins",
+                        "Frodo Bagins",
+                        "Frodou"
+                    ]
+                },
+                {
+                    "answer": "Sam",
+                    "alt": [
+                        "Samwise",
+                        "Samwise Gamgee",
+                        "Sam Gamgee"
+                    ]
+                },
+                {
+                    "answer": "Aragorn",
+                    "alt": [
+                        "Arragorn",
+                        "Aragon",
+                        "Aragarn",
+                        "Aragornn",
+                        "Trancos"
+                    ]
+                },
+                {
+                    "answer": "Legolas",
+                    "alt": [
+                        "Legollas",
+                        "Legolus",
+                        "Legolass",
+                        "Légolas",
+                        "Legulas"
+                    ]
+                },
+                {
+                    "answer": "Gimli",
+                    "alt": [
+                        "Gimmli",
+                        "Gimlli",
+                        "Gimlee",
+                        "Gimlie"
+                    ]
+                },
+                {
+                    "answer": "Pippin",
+                    "alt": [
+                        "Pipin",
+                        "Pippen",
+                        "Pippan",
+                        "Pippin Took",
+                        "Peregrin",
+                        "Peregrin Tuk"
+                    ]
+                },
+                {
+                    "answer": "Merry",
+                    "alt": [
+                        "Mary",
+                        "Marry",
+                        "Mery",
+                        "Merry Brandybuck",
+                        "Meriadoc",
+                        "Meriadoc Brandigamo"
+                    ]
+                },
+                {
+                    "answer": "Boromir",
+                    "alt": [
+                        "Borrormir",
+                        "Boramir",
+                        "Borumir",
+                        "Boromeer",
+                        "Borumeer"
+                    ]
+                }
+            ],
+            "id": 57823,
+            "text": "un miembro de la Comunidad del Anillo en <i>El señor de los anillos</i>",
+            "us": false
+        }
+    ]
+}
