@@ -3,22 +3,22 @@
   {
    "choices": [
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": true,
      "text": "verde"
     },
     {
-     "controllerClass": "blanco",
+     "controllerClass": "white",
      "correct": false,
      "text": "blanco"
     }
@@ -34,22 +34,22 @@
   {
    "choices": [
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     },
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": true,
      "text": "verde"
     }
@@ -65,22 +65,22 @@
   {
    "choices": [
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     },
     {
-     "controllerClass": "naranja",
+     "controllerClass": "orange",
      "correct": false,
      "text": "naranja"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": true,
      "text": "verde"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     }
@@ -96,24 +96,24 @@
   {
    "choices": [
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "blanco",
+     "controllerClass": "white",
      "correct": false,
      "text": "blanco"
     },
     {
-     "controllerClass": "lila",
+     "controllerClass": "purple",
      "correct": true,
-     "text": "lila"
+     "text": "violeta"
     }
    ],
    "id": "55827",
@@ -127,22 +127,22 @@
   {
    "choices": [
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     },
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": true,
      "text": "rojo"
     },
     {
-     "controllerClass": "blanco",
+     "controllerClass": "white",
      "correct": false,
      "text": "blanco"
     }
@@ -158,22 +158,22 @@
   {
    "choices": [
     {
-     "controllerClass": "negro",
+     "controllerClass": "black",
      "correct": true,
      "text": "negro"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     }
@@ -189,22 +189,22 @@
   {
    "choices": [
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": true,
      "text": "verde"
     },
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     }
@@ -220,22 +220,22 @@
   {
    "choices": [
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": true,
      "text": "azul"
     }
@@ -251,22 +251,22 @@
   {
    "choices": [
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": true,
      "text": "amarillo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     }
@@ -282,22 +282,22 @@
   {
    "choices": [
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": true,
      "text": "azul"
     },
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     }
@@ -313,22 +313,22 @@
   {
    "choices": [
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": true,
      "text": "rojo"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "amarillo",
+     "controllerClass": "yellow",
      "correct": false,
      "text": "amarillo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     }
@@ -344,22 +344,22 @@
   {
    "choices": [
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": true,
      "text": "rojo"
     },
     {
-     "controllerClass": "negro",
+     "controllerClass": "black",
      "correct": false,
      "text": "negro"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     }
@@ -375,22 +375,22 @@
   {
    "choices": [
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": true,
      "text": "rojo"
     },
     {
-     "controllerClass": "negro",
+     "controllerClass": "black",
      "correct": false,
      "text": "negro"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": false,
      "text": "azul"
     }
@@ -406,22 +406,22 @@
   {
    "choices": [
     {
-     "controllerClass": "blanco",
+     "controllerClass": "white",
      "correct": false,
      "text": "blanco"
     },
     {
-     "controllerClass": "rojo",
+     "controllerClass": "red",
      "correct": false,
      "text": "rojo"
     },
     {
-     "controllerClass": "azul",
+     "controllerClass": "blue",
      "correct": true,
      "text": "azul"
     },
     {
-     "controllerClass": "verde",
+     "controllerClass": "green",
      "correct": false,
      "text": "verde"
     }

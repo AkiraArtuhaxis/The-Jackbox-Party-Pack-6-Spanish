@@ -9,20 +9,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "blanco",
+                    "controllerClass": "white",
                     "text": ""
                 },
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 }
             ],
@@ -37,20 +37,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "negro",
+                    "controllerClass": "black",
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 }
             ],
@@ -65,20 +65,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "negro",
+                    "controllerClass": "black",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 }
             ],
@@ -93,20 +93,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 }
             ],
@@ -121,20 +121,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": ""
                 }
             ],
@@ -149,20 +149,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 }
             ],
@@ -177,19 +177,19 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "correct": true,
                     "text": ""
                 }
@@ -205,20 +205,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 }
             ],
@@ -233,20 +233,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "negro",
+                    "controllerClass": "black",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 }
             ],
@@ -261,20 +261,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 },
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "blanco",
+                    "controllerClass": "white",
                     "text": ""
                 }
             ],
@@ -289,19 +289,19 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "text": ""
                 },
                 {
-                    "controllerClass": "blanco",
+                    "controllerClass": "white",
                     "text": ""
                 },
                 {
-                    "controllerClass": "violeta",
+                    "controllerClass": "purple",
                     "correct": true,
                     "text": ""
                 }
@@ -317,20 +317,20 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": ""
                 },
                 {
-                    "controllerClass": "naranja",
+                    "controllerClass": "orange",
                     "text": ""
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "correct": true,
                     "text": ""
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": ""
                 }
             ],
@@ -345,19 +345,19 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "amarillo",
+                    "controllerClass": "yellow",
                     "text": "amarillo"
                 },
                 {
-                    "controllerClass": "azul",
+                    "controllerClass": "blue",
                     "text": "azul"
                 },
                 {
-                    "controllerClass": "rojo",
+                    "controllerClass": "red",
                     "text": "rojo"
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "correct": true,
                     "text": "verde"
                 }
@@ -373,21 +373,21 @@
             "pic": false,
             "choices": [
                 {
-                    "controllerClass": "amarillo",
-                    "text": "corta el cable AMARILLO"
+                    "controllerClass": "yellow",
+                    "text": "cortar el cable AMARILLO"
                 },
                 {
-                    "controllerClass": "azul",
-                    "text": "corta el cable AZUL"
+                    "controllerClass": "blue",
+                    "text": "cortar el cable AZUL"
                 },
                 {
-                    "controllerClass": "verde",
+                    "controllerClass": "green",
                     "correct": true,
-                    "text": "corta el cable VERDE"
+                    "text": "cortar el cable VERDE"
                 },
                 {
-                    "controllerClass": "blanco",
-                    "text": "corta el cable BLANCO"
+                    "controllerClass": "white",
+                    "text": "cortar el cable BLANCO"
                 }
             ],
             "us": false,
