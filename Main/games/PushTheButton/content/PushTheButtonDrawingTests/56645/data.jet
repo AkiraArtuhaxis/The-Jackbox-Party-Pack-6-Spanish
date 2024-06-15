@@ -82,17 +82,17 @@
         },
         {
             "t": "S",
-            "v": "Dibujate a ti mismo como bebé.",
+            "v": "Dibújate a ti mismo/a como bebé.",
             "n": "AlienPromptText4"
         },
         {
             "t": "S",
-            "v": "Dibujate montando un dinosaurio.",
+            "v": "Dibújate montando un dinosaurio.",
             "n": "AlienPromptText5"
         },
         {
             "t": "S",
-            "v": "Dibujate comiendo una manzana.",
+            "v": "Dibújate comiendo una manzana.",
             "n": "AlienPromptText6"
         },
         {
@@ -102,12 +102,12 @@
         },
         {
             "t": "S",
-            "v": "Dibujate jubilado.",
+            "v": "Dibújate jubilado/a.",
             "n": "AlienPromptText7"
         },
         {
             "t": "S",
-            "v": "Dibujate a ti mismo.",
+            "v": "Dibújate a ti mismo/a.",
             "n": "AlienPromptText0"
         },
         {

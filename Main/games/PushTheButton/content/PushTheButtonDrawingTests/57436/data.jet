@@ -117,7 +117,7 @@
         },
         {
             "t": "S",
-            "v": "Dibujate de vacaciones.",
+            "v": "Dibújate de vacaciones.",
             "n": "AlienPromptText1"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
             "t": "S",
-            "v": "Dibujate a ti mismo en un auto costoso.",
+            "v": "Dibújate a ti mismo/a en un auto costoso.",
             "n": "AlienPromptText3"
         },
         {

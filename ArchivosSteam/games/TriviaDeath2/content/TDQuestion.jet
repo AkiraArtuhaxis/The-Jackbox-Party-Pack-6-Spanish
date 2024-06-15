@@ -54,26 +54,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "right about now"
+     "text": "right about now (en estos momentos)"
     },
     {
      "correct": false,
-     "text": "the funk soul brother"
+     "text": "the funk soul brother (el hermano del funk soul)"
     },
     {
      "correct": false,
-     "text": "check it out now"
+     "text": "check it out now (mira esto ya)"
     },
     {
      "correct": true,
-     "text": "my hairless mother"
+     "text": "my hairless mother (mi madre sin pelo)"
     }
    ],
    "id": "103930",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is NOT a line in Fatboy Slim’s “The Rockafeller Skank”?",
-   "text": "Which is NOT a line in Fatboy Slim’s “The Rockafeller Skank”?"
+   "questionAudio": "¿Cuál NO es un verso de “The Rockafeller Skank” de Fatboy Slim?",
+   "text": "¿Cuál NO es un verso de “The Rockafeller Skank” de Fatboy Slim?"
   },
   {
    "choices": [
@@ -529,51 +529,51 @@
    "choices": [
     {
      "correct": false,
-     "text": "The Joy of Cooking"
+     "text": "La alegría de cocinar"
     },
     {
      "correct": false,
-     "text": "Mastering the Art of French Cooking"
+     "text": "Perfeccionando el arte de la cocina francesa"
     },
     {
      "correct": false,
-     "text": "The Barefoot Contessa Cookbook"
+     "text": "El libro de cocina de la condesa descalza"
     },
     {
      "correct": true,
-     "text": "Jacques Pépin Sings!"
+     "text": "¡Jacques Pépin Canta!"
     }
    ],
    "id": "103954",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is NOT a real cookbook?",
-   "text": "Which is NOT a real cookbook?"
+   "questionAudio": "¿Cuál NO es un verdadero libro de cocina?",
+   "text": "¿Cuál NO es un verdadero libro de cocina?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "“Oh, be good!”"
+     "text": "“¡Qué descomunal!”"
     },
     {
      "correct": true,
-     "text": "“Oh, behave!”"
+     "text": "“¡Qué morrocotudo!”"
     },
     {
      "correct": false,
-     "text": "“Oh, heavens!”"
+     "text": "“¡Qué tremendo!”"
     },
     {
      "correct": false,
-     "text": "“Oh, swell!”"
+     "text": "“¡Qué pasmoso!”"
     }
    ],
    "id": "103955",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What does Austin Powers say?",
-   "text": "What does Austin Powers say?"
+   "questionAudio": "¿Qué dice Austin Powers?",
+   "text": "¿Qué dice Austin Powers?"
   },
   {
    "choices": [
@@ -604,26 +604,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "Boots with the laces"
+     "text": "Botas con cordones"
     },
     {
      "correct": true,
-     "text": "Apple Bottom jeans"
+     "text": "Jeans Apple Bottom"
     },
     {
      "correct": false,
-     "text": "Spandex pants"
+     "text": "Pantalones de spandex"
     },
     {
      "correct": false,
-     "text": "A green t-shirt"
+     "text": "Una camiseta verde"
     }
    ],
    "id": "103957",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "In Flo Rida’s song “Low,” what is shawty wearing?",
-   "text": "In Flo Rida’s song “Low,” what is shawty wearing?"
+   "questionAudio": "En la canción “Low” de Flo Rida, ¿qué lleva puesto “shawty”?",
+   "text": "En la canción “Low” de Flo Rida, ¿qué lleva puesto “shawty”?"
   },
   {
    "choices": [
@@ -781,7 +781,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "“A Little Polish Night Music”"
+     "text": "“Una pequeña música nocturna polaca”"
     },
     {
      "correct": false,
@@ -793,14 +793,14 @@
     },
     {
      "correct": false,
-     "text": "“America the Funky”"
+     "text": "“Los Estados Unidos Funky”"
     }
    ],
    "id": "103981",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is a real national anthem?",
-   "text": "Which is a real national anthem?"
+   "questionAudio": "¿Cuál es un verdadero himno nacional?",
+   "text": "¿Cuál es un verdadero himno nacional?"
   },
   {
    "choices": [
@@ -874,8 +874,8 @@
    "id": "103984",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "How many double-sided stitches are on a regulation baseball?",
-   "text": "How many double-sided stitches are on a regulation baseball?"
+   "questionAudio": "¿Cuántas puntadas de doble cara hay en una pelota de béisbol reglamentaria?",
+   "text": "¿Cuántas puntadas de doble cara hay en una pelota de béisbol reglamentaria?"
   },
   {
    "choices": [
@@ -1014,18 +1014,18 @@
     },
     {
      "correct": false,
-     "text": "Florence"
+     "text": "Florencia"
     },
     {
      "correct": false,
-     "text": "Milan"
+     "text": "Milán"
     }
    ],
    "id": "103991",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which Italian city is known as “the Eternal City”?",
-   "text": "Which Italian city is known as “the Eternal City”?"
+   "questionAudio": "¿Qué ciudad italiana es conocida como “La Ciudad Eterna”?",
+   "text": "¿Qué ciudad italiana es conocida como “La Ciudad Eterna”?"
   },
   {
    "choices": [
@@ -1049,33 +1049,33 @@
    "id": "103992",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "If you order a California roll at a sushi restaurant, what are you getting?",
-   "text": "If you order a California roll at a sushi restaurant, what are you getting?"
+   "questionAudio": "Si pides un California roll en un restaurante de sushi, ¿qué te darían?",
+   "text": "Si pides un California roll en un restaurante de sushi, ¿qué te darían?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "[i]The Real Housewives of New York City[/i]"
+     "text": "[i]Amas de Casa Reales de New York City[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Real Housewives of Dubai[/i]"
+     "text": "[i]Amas de Casa Reales de Dubai[/i]"
     },
     {
      "correct": true,
-     "text": "[i]The Real Housewives of Ottawa[/i]"
+     "text": "[i]Amas de Casa Reales de Ottawa[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Real Housewives of Salt Lake City[/i]"
+     "text": "[i]Amas de Casa Reales de Salt Lake City[/i]"
     }
    ],
    "id": "103993",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is NOT a real [i]Real Housewives[/i] franchise?",
-   "text": "Which is NOT a real [i]Real Housewives[/i] franchise?"
+   "questionAudio": "¿Cuál NO ES una verdadera franquicia de [i]Amas de Casa Reales[/i]?",
+   "text": "¿Cuál NO ES una verdadera franquicia de [i]Amas de Casa Reales[/i]?"
   },
   {
    "choices": [
@@ -1181,15 +1181,15 @@
    "choices": [
     {
      "correct": true,
-     "text": "icosahedron"
+     "text": "icosaedro"
     },
     {
      "correct": false,
-     "text": "dodecahedron"
+     "text": "dodecaedro"
     },
     {
      "correct": false,
-     "text": "octahedron"
+     "text": "octaedro"
     },
     {
      "correct": false,
@@ -1199,8 +1199,8 @@
    "id": "103998",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What is the geometric name for a 20-sided die?",
-   "text": "What is the geometric name for a 20-sided die?"
+   "questionAudio": "¿Cuál es el nombre geométrico para un dado de veinte lados?",
+   "text": "¿Cuál es el nombre geométrico para un dado de veinte lados?"
   },
   {
    "choices": [
@@ -1331,32 +1331,32 @@
    "choices": [
     {
      "correct": true,
-     "text": "leapling"
+     "text": "bisiesto"
     },
     {
      "correct": false,
-     "text": "leaper creeper"
+     "text": "sesto de bi"
     },
     {
      "correct": false,
-     "text": "leapster"
+     "text": "bisesto"
     },
     {
      "correct": false,
-     "text": "read ‘em and leap"
+     "text": "bebesiesto"
     }
    ],
    "id": "104006",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What do you call a baby born on Leap Day?",
-   "text": "What do you call a baby born on Leap Day?"
+   "questionAudio": "¿Cómo llamas a un bebé nacido el Día Bisiesto?",
+   "text": "¿Cómo llamas a un bebé nacido el Día Bisiesto?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Cape Cod"
+     "text": "Cabo Cod"
     },
     {
      "correct": false,
@@ -1364,18 +1364,18 @@
     },
     {
      "correct": false,
-     "text": "Brutalist"
+     "text": "Brutalista"
     },
     {
      "correct": true,
-     "text": "Domino"
+     "text": "Dominó"
     }
    ],
    "id": "104007",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is NOT a real style of architecture?",
-   "text": "Which is NOT a real style of architecture?"
+   "questionAudio": "¿Cuál NO es un estilo de arquitectura real?",
+   "text": "¿Cuál NO es un estilo de arquitectura real?"
   },
   {
    "choices": [
@@ -1406,26 +1406,26 @@
    "choices": [
     {
      "correct": true,
-     "text": "canines"
+     "text": "dientes caninos"
     },
     {
      "correct": false,
-     "text": "molars"
+     "text": "molares"
     },
     {
      "correct": false,
-     "text": "front teeth"
+     "text": "dientes frontales"
     },
     {
      "correct": false,
-     "text": "wisdom teeth"
+     "text": "muelas del juicio"
     }
    ],
    "id": "104013",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which of your lovely little teeth are also known as your “eyeteeth”?",
-   "text": "Which of your lovely little teeth are also known as your “eyeteeth”?"
+   "questionAudio": "¿Cuáles de tus pequeños y encantadores dientes también se conocen como “colmillos”?",
+   "text": "¿Cuáles de tus pequeños y encantadores dientes también se conocen como “colmillos”?"
   },
   {
    "choices": [
@@ -1481,11 +1481,11 @@
    "choices": [
     {
      "correct": false,
-     "text": "epistolary"
+     "text": "epistolar"
     },
     {
      "correct": false,
-     "text": "Gothic"
+     "text": "gótico"
     },
     {
      "correct": true,
@@ -1493,14 +1493,14 @@
     },
     {
      "correct": false,
-     "text": "magical realism"
+     "text": "realismo mágico"
     }
    ],
    "id": "104017",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What kind of book focuses on the coming-of-age of a young person?",
-   "text": "What kind of book focuses on the coming-of-age of a young person?"
+   "questionAudio": "¿Qué tipo de libro se enfoca en transición de alguien joven a alguien maduro?",
+   "text": "¿Qué tipo de libro se enfoca en transición de alguien joven a alguien maduro?"
   },
   {
    "choices": [
@@ -1543,14 +1543,14 @@
     },
     {
      "correct": false,
-     "text": "kitty heel"
+     "text": "tacón felino"
     }
    ],
    "id": "104019",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is a real kind of shoe?",
-   "text": "Which is a real kind of shoe?"
+   "questionAudio": "¿Cuál es un tipo real de zapato?",
+   "text": "¿Cuál es un tipo real de zapato?"
   },
   {
    "choices": [
@@ -1574,18 +1574,18 @@
    "id": "104020",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which band was NOT part of the feminist-punk riot grrrl movement of the ’90s?",
-   "text": "Which band was NOT part of the feminist-punk riot grrrl movement of the ’90s?"
+   "questionAudio": "¿Qué banda NO fue parte del movimiento feminista-punk riot grrrl de los 90?",
+   "text": "¿Qué banda NO fue parte del movimiento feminista-punk riot grrrl de los 90?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "abseiling"
+     "text": "rapel"
     },
     {
      "correct": false,
-     "text": "dragon boat racing"
+     "text": "carreras de barco dragón"
     },
     {
      "correct": false,
@@ -1599,8 +1599,8 @@
    "id": "104021",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is NOT a water sport?",
-   "text": "Which is NOT a water sport?"
+   "questionAudio": "¿Cuál NO es un deporte acuático?",
+   "text": "¿Cuál NO es un deporte acuático?"
   },
   {
    "choices": [
@@ -1624,8 +1624,8 @@
    "id": "104022",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "“Kitten Thinks Of Nothing But Murder All Day” is my favorite headline from what satirical news website?",
-   "text": "“Kitten Thinks Of Nothing But Murder All Day” is my favorite headline from what satirical news website?"
+   "questionAudio": "¿“Gatito solo piensa en asesinatos todo el día” es mi titular favorito de qué sitio de noticias satíricas?",
+   "text": "¿“Gatito solo piensa en asesinatos todo el día” es mi titular favorito de qué sitio de noticias satíricas?"
   },
   {
    "choices": [
@@ -1731,26 +1731,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "Tom A. Sawyer Eludes Responsibilities"
+     "text": "Tom A. Sawyer elude responsabilidades"
     },
     {
      "correct": true,
-     "text": "Tom A. Swift Electric Rifle"
+     "text": "El rifle eléctrico de Tom A. Swift"
     },
     {
      "correct": false,
-     "text": "Teresa A. Solomon Electro-Rocket"
+     "text": "El electro-cohete de Teresa A. Solomon"
     },
     {
      "correct": false,
-     "text": "Tensile Arm Spring Extended Reamer"
+     "text": "Escariador extendido con resorte de brazo extensible"
     }
    ],
    "id": "104027",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "The word “Taser” is an acronym for what?",
-   "text": "The word “Taser” is an acronym for what?"
+   "questionAudio": "¿La palabra “Taser” es un acrónimo de qué?",
+   "text": "¿La palabra “Taser” es un acrónimo de qué?"
   },
   {
    "choices": [
@@ -1831,32 +1831,32 @@
    "choices": [
     {
      "correct": false,
-     "text": "Beethovinsanity"
+     "text": "Beethovinsanidad"
     },
     {
      "correct": true,
-     "text": "Lisztomania"
+     "text": "Lisztomanía"
     },
     {
      "correct": false,
-     "text": "Mozartmadness"
+     "text": "Mozartortura"
     },
     {
      "correct": false,
-     "text": "Bachfatuation"
+     "text": "Bachfatuación"
     }
    ],
    "id": "104031",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which term describes a real phenomenon that swept Europe in the mid-1800s?",
-   "text": "Which term describes a real phenomenon that swept Europe in the mid-1800s?"
+   "questionAudio": "¿Qué término describe un fenómeno real que arrasó Europa a mediados de los 1800s?",
+   "text": "¿Qué término describe un fenómeno real que arrasó Europa a mediados de los 1800s?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "Skull Dice"
+     "text": "Dados calavera"
     },
     {
      "correct": false,
@@ -1864,7 +1864,7 @@
     },
     {
      "correct": false,
-     "text": "Gifts"
+     "text": "Regalos"
     },
     {
      "correct": true,
@@ -1874,8 +1874,8 @@
    "id": "104032",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is NOT a real minigame in [i]Trivia Murder Party 2[/i]?",
-   "text": "Which is NOT a real minigame in [i]Trivia Murder Party 2[/i]?"
+   "questionAudio": "¿Cuál NO es un minijuego en [i]Trivia Murder Party 2[/i]?",
+   "text": "¿Cuál NO es un minijuego en [i]Trivia Murder Party 2[/i]?"
   },
   {
    "choices": [
@@ -1906,26 +1906,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "people who need pickles"
+     "text": "personas que necesitan pepinillos"
     },
     {
      "correct": false,
-     "text": "people who need dogs"
+     "text": "personas que necesitan perros"
     },
     {
      "correct": true,
-     "text": "people who need people"
+     "text": "personas que necesitan gente"
     },
     {
      "correct": false,
-     "text": "people who need money"
+     "text": "personas que necesitan dinero"
     }
    ],
    "id": "104041",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "According to Queen Barbra Streisand, who are the luckiest people in the world?",
-   "text": "According to Queen Barbra Streisand, who are the luckiest people in the world?"
+   "questionAudio": "Según la reina Barbra Streisand, ¿quiénes son las personas más afortunadas en el mundo?",
+   "text": "Según la reina Barbra Streisand, ¿quiénes son las personas más afortunadas en el mundo?"
   },
   {
    "choices": [
@@ -1956,11 +1956,11 @@
    "choices": [
     {
      "correct": false,
-     "text": "etude"
+     "text": "estudio"
     },
     {
      "correct": true,
-     "text": "concerto"
+     "text": "concierto"
     },
     {
      "correct": false,
@@ -1974,14 +1974,14 @@
    "id": "104046",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "In classical music, which kind of piece is traditionally performed by a full orchestra?",
-   "text": "In classical music, which kind of piece is traditionally performed by a full orchestra?"
+   "questionAudio": "En la música clásica, ¿qué tipo de piezas es tradicionalmente interpretada por una orquesta?",
+   "text": "En la música clásica, ¿qué tipo de piezas es tradicionalmente interpretada por una orquesta?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "oak"
+     "text": "roble"
     },
     {
      "correct": false,
@@ -1989,7 +1989,7 @@
     },
     {
      "correct": false,
-     "text": "willow"
+     "text": "sauce"
     },
     {
      "correct": true,
@@ -1999,8 +1999,8 @@
    "id": "104047",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which of the following is NOT a deciduous tree?",
-   "text": "Which of the following is NOT a deciduous tree?"
+   "questionAudio": "¿Cuál de los siguientes NO es un árbol deciduo?",
+   "text": "¿Cuál de los siguientes NO es un árbol deciduo?"
   },
   {
    "choices": [
@@ -2061,7 +2061,7 @@
     },
     {
      "correct": false,
-     "text": "owl"
+     "text": "búho"
     },
     {
      "correct": false,
@@ -2069,14 +2069,14 @@
     },
     {
      "correct": true,
-     "text": "hummingbird"
+     "text": "colibrí"
     }
    ],
    "id": "104052",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What is the only bird that can fly backwards?",
-   "text": "What is the only bird that can fly backwards?"
+   "questionAudio": "¿Cuál es el único ave que puede volar hacia atrás?",
+   "text": "¿Cuál es el único ave que puede volar hacia atrás?"
   },
   {
    "choices": [
@@ -2175,8 +2175,8 @@
    "id": "104065",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which wine bottle size is the largest?",
-   "text": "Which wine bottle size is the largest?"
+   "questionAudio": "¿Qué tamaño de botella de vino es el más grande?",
+   "text": "¿Qué tamaño de botella de vino es el más grande?"
   },
   {
    "choices": [
@@ -2300,8 +2300,8 @@
    "id": "104095",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Who was born Peter Gene Hernandez?",
-   "text": "Who was born Peter Gene Hernandez?"
+   "questionAudio": "¿Cuándo nació Peter Gene Hernandez?",
+   "text": "¿Cuándo nació Peter Gene Hernandez?"
   },
   {
    "choices": [
@@ -2450,8 +2450,8 @@
    "id": "104104",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What dark rock is formed by cooled volcanic lava?",
-   "text": "What dark rock is formed by cooled volcanic lava?"
+   "questionAudio": "¿Qué roca negra es formada por lava volcánica fría?",
+   "text": "¿Qué roca negra es formada por lava volcánica fría?"
   },
   {
    "choices": [
@@ -2500,58 +2500,58 @@
    "id": "104109",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What’s the area of expertise of a sommelier?",
-   "text": "What’s the area of expertise of a sommelier?"
+   "questionAudio": "¿Cuál es la especialidad de un sommelier?",
+   "text": "¿Cuál es la especialidad de un sommelier?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "a Heretic’s Fork"
+     "text": "un tenedor de herejes"
     },
     {
      "correct": true,
-     "text": "a Brannock Device"
+     "text": "un dispositivo de Brannock"
     },
     {
      "correct": false,
-     "text": "a Cortez Cradle"
+     "text": "una mecedora Cortez"
     },
     {
      "correct": false,
-     "text": "a Governor’s Rule"
+     "text": "una regla de gobernador"
     }
    ],
    "id": "104110",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "You know that sadistic-looking metal thing shoe stores use for foot measurements? What’s that called?",
-   "text": "You know that sadistic-looking metal thing shoe stores use for foot measurements? What’s that called?"
+   "questionAudio": "¿Conocen esa cosita de metal de apariencia sádica que los zapateros usan para medir talles de pies? ¿Cómo se llama?",
+   "text": "¿Conocen esa cosita de metal de apariencia sádica que los zapateros usan para medir talles de pies? ¿Cómo se llama?"
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "complete sunlight"
+     "text": "completa luz del sol"
     },
     {
      "correct": false,
-     "text": "complete darkness"
+     "text": "oscuridad absoluta"
     },
     {
      "correct": false,
-     "text": "half sunlight, half darkness"
+     "text": "mitad luz del sol, mitad oscuridad"
     },
     {
      "correct": false,
-     "text": "dancing polar bears"
+     "text": "osos polares bailando"
     }
    ],
    "id": "104111",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What will you see in the Arctic Circle during the summer solstice?",
-   "text": "What will you see in the Arctic Circle during the summer solstice?"
+   "questionAudio": "¿Qué puedes ver en el Círculo Polar Ártico durante el solsticio de verano?",
+   "text": "¿Qué puedes ver en el Círculo Polar Ártico durante el solsticio de verano?"
   },
   {
    "choices": [
@@ -2582,7 +2582,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "jet black"
+     "text": "negro azabache"
     },
     {
      "correct": true,
@@ -2594,39 +2594,39 @@
     },
     {
      "correct": false,
-     "text": "charcoal"
+     "text": "carbón"
     }
    ],
    "id": "104113",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which shade of black is the blackest?",
-   "text": "Which shade of black is the blackest?"
+   "questionAudio": "¿Qué tono de negro es el más negro?",
+   "text": "¿Qué tono de negro es el más negro?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "in kale"
+     "text": "en la col"
     },
     {
      "correct": false,
-     "text": "in any wool garment"
+     "text": "en cualquier prenda de lana"
     },
     {
      "correct": false,
-     "text": "in some canine saliva"
+     "text": "en la saliva de algunos canes"
     },
     {
      "correct": true,
-     "text": "in an embalmed corpse"
+     "text": "en un cadáver embalsamado"
     }
    ],
    "id": "104114",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Where could a guy like me find some formaldehyde for cheap?",
-   "text": "Where could a guy like me find some formaldehyde for cheap?"
+   "questionAudio": "¿Dónde puede alguien como yo conseguir algo de formaldehído barato?",
+   "text": "¿Dónde puede alguien como yo conseguir algo de formaldehído barato?"
   },
   {
    "choices": [
@@ -2650,14 +2650,14 @@
    "id": "104115",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "You, a simpleton, call it “jock itch.” I call it by its scientific name...",
-   "text": "You, a simpleton, call it “jock itch.” I call it by its scientific name..."
+   "questionAudio": "Tú, un tonto, lo llamas “jock itch”. Yo lo llamo por su nombre científico...",
+   "text": "Tú, un tonto, lo llamas “jock itch”. Yo lo llamo por su nombre científico..."
   },
   {
    "choices": [
     {
      "correct": true,
-     "text": "monitor lizard"
+     "text": "lagarto monitor"
     },
     {
      "correct": false,
@@ -2665,18 +2665,18 @@
     },
     {
      "correct": false,
-     "text": "tower lizard"
+     "text": "lagarto torre"
     },
     {
      "correct": false,
-     "text": "rom lizard"
+     "text": "lagarto rom"
     }
    ],
    "id": "104312",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "The beautiful, chunky-limbed Komodo dragon is a type of...",
-   "text": "The beautiful, chunky-limbed Komodo dragon is a type of..."
+   "questionAudio": "El hermoso dragón de Komodo, de extremidades gruesas, es un tipo de...",
+   "text": "El hermoso dragón de Komodo, de extremidades gruesas, es un tipo de..."
   },
   {
    "choices": [
@@ -2757,26 +2757,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "bottlenose dolphin"
+     "text": "delfín nariz de botella"
     },
     {
      "correct": true,
-     "text": "horseshoe crab"
+     "text": "cangrejo herradura"
     },
     {
      "correct": false,
-     "text": "electric eel"
+     "text": "anguila eléctrica"
     },
     {
      "correct": false,
-     "text": "common seagull"
+     "text": "gaviota común"
     }
    ],
    "id": "104323",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which of these spineless cowards is, well, spineless?",
-   "text": "Which of these spineless cowards is, well, spineless?"
+   "questionAudio": "¿Cuál de estos cobardes no tiene columna vertebral?",
+   "text": "¿Cuál de estos cobardes no tiene columna vertebral?"
   },
   {
    "choices": [
@@ -2800,8 +2800,8 @@
    "id": "104331",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "“Whoever wins, we lose” is the tagline to what horror flick?",
-   "text": "“Whoever wins, we lose” is the tagline to what horror flick?"
+   "questionAudio": "¿“Gane quien gane, nosotros perdemos” es el eslogan de qué película de terror?",
+   "text": "¿“Gane quien gane, nosotros perdemos” es el eslogan de qué película de terror?"
   },
   {
    "choices": [
@@ -2836,7 +2836,7 @@
     },
     {
      "correct": true,
-     "text": "cria"
+     "text": "cría"
     },
     {
      "correct": false,
@@ -2850,8 +2850,8 @@
    "id": "104333",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What would you call a baby llama?",
-   "text": "What would you call a baby llama?"
+   "questionAudio": "¿Cómo llamarías a una llama bebé?",
+   "text": "¿Cómo llamarías a una llama bebé?"
   },
   {
    "choices": [
@@ -2900,8 +2900,8 @@
    "id": "104335",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Who famously popularized the phrase “There are 3 kinds of lies: lies, damned lies, and statistics”?",
-   "text": "Who famously popularized the phrase “There are 3 kinds of lies: lies, damned lies, and statistics”?"
+   "questionAudio": "¿Quién popularizó la frase “Hay tres tipos de mentiras: mentiras, malditas mentiras y estadísticas”?",
+   "text": "¿Quién popularizó la frase “Hay tres tipos de mentiras: mentiras, malditas mentiras y estadísticas”?"
   },
   {
    "choices": [
@@ -3041,18 +3041,18 @@
     },
     {
      "correct": true,
-     "text": "matzah"
+     "text": "matzá"
     },
     {
      "correct": false,
-     "text": "challah"
+     "text": "jalá"
     }
    ],
    "id": "104342",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which food is traditionally eaten during the Jewish holiday of Passover?",
-   "text": "Which food is traditionally eaten during the Jewish holiday of Passover?"
+   "questionAudio": "¿Qué comida se come tradicionalmente durante la festividad judía de Pésaj?",
+   "text": "¿Qué comida se come tradicionalmente durante la festividad judía de Pésaj?"
   },
   {
    "choices": [
@@ -3102,8 +3102,8 @@
    "id": "104350",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Who headlined the Grateful Dead revival group Dead & Company from 2015-2023?",
-   "text": "Who headlined the Grateful Dead revival group Dead & Company from 2015-2023?"
+   "questionAudio": "¿Quién lidera Dead & Company, la banda sucesora a Grateful Dead, de 2015 a 2023?",
+   "text": "¿Quién lidera Dead & Company, la banda sucesora a Grateful Dead, de 2015 a 2023?"
   },
   {
    "choices": [
@@ -3127,58 +3127,58 @@
    "id": "104408",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Who is the current mascot for Honey Smacks cereal?",
-   "text": "Who is the current mascot for Honey Smacks cereal?"
+   "questionAudio": "¿Quién es la mascota actual del cereal Smacks?",
+   "text": "¿Quién es la mascota actual del cereal Smacks?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "a seashell"
+     "text": "una concha"
     },
     {
      "correct": true,
-     "text": "her hair"
+     "text": "su cabello"
     },
     {
      "correct": false,
-     "text": "seaweed"
+     "text": "algas marinas"
     },
     {
      "correct": false,
-     "text": "a flying fish"
+     "text": "un pez volador"
     }
    ],
    "id": "104409",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "In the painting [i]The Birth of Venus[/i], what does Venus use to cover her loins?",
-   "text": "In the painting [i]The Birth of Venus[/i], what does Venus use to cover her loins?"
+   "questionAudio": "En la pintura [i]El nacimiento de Venus[/i], ¿qué usa Venus para cubrir su ingle?",
+   "text": "En la pintura [i]El nacimiento de Venus[/i], ¿qué usa Venus para cubrir su ingle?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "for contactless menus"
+     "text": "para los menús sin contacto"
     },
     {
      "correct": false,
-     "text": "for airline boarding passes"
+     "text": "para los pases de abordaje de las aerolíneas"
     },
     {
      "correct": true,
-     "text": "to track auto parts"
+     "text": "para rastrear autopartes"
     },
     {
      "correct": false,
-     "text": "to join Wifi networks"
+     "text": "para unirse a redes Wifi"
     }
    ],
    "id": "104410",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Why were QR codes invented?",
-   "text": "Why were QR codes invented?"
+   "questionAudio": "¿Por qué se inventaron los códigos QR?",
+   "text": "¿Por qué se inventaron los códigos QR?"
   },
   {
    "choices": [
@@ -3284,7 +3284,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "Borax powder"
+     "text": "polvo de bórax"
     },
     {
      "correct": false,
@@ -3292,18 +3292,18 @@
     },
     {
      "correct": false,
-     "text": "glue"
+     "text": "pegamento"
     },
     {
      "correct": true,
-     "text": "bleach"
+     "text": "lavandina"
     }
    ],
    "id": "104415",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which is NOT a main ingredient in slime?",
-   "text": "Which is NOT a main ingredient in slime?"
+   "questionAudio": "¿Cuál NO ES un ingrediente principal del slime?",
+   "text": "¿Cuál NO ES un ingrediente principal del slime?"
   },
   {
    "choices": [
@@ -3334,7 +3334,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "whorl"
+     "text": "espiral"
     },
     {
      "correct": false,
@@ -3342,18 +3342,18 @@
     },
     {
      "correct": false,
-     "text": "arch"
+     "text": "arco"
     },
     {
      "correct": true,
-     "text": "spiral"
+     "text": "espiral"
     }
    ],
    "id": "104417",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "What is NOT one of the three major fingerprint pattern types?",
-   "text": "What is NOT one of the three major fingerprint pattern types?"
+   "questionAudio": "¿Cuál NO es uno de los tres patrones principales de huellas dactilares?",
+   "text": "¿Cuál NO es uno de los tres patrones principales de huellas dactilares?"
   },
   {
    "choices": [
@@ -3409,7 +3409,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "2,400 feet"
+     "text": "700 metros"
     },
     {
      "correct": false,
@@ -3417,43 +3417,43 @@
     },
     {
      "correct": false,
-     "text": "20 miles"
+     "text": "32 kilómetros"
     },
     {
      "correct": true,
-     "text": "50 miles"
+     "text": "80 kilómetros"
     }
    ],
    "id": "104420",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "About how long is the Panama Canal?",
-   "text": "About how long is the Panama Canal?"
+   "questionAudio": "¿Qué tan largo es el canal de Panamá aproximadamente?",
+   "text": "¿Qué tan largo es el canal de Panamá aproximadamente?"
   },
   {
    "choices": [
     {
      "correct": false,
-     "text": "polymethylmethacrylate"
+     "text": "polimetilmetacrilato"
     },
     {
      "correct": false,
-     "text": "poly-L-lactic acid"
+     "text": "ácido poli-L-láctico"
     },
     {
      "correct": true,
-     "text": "hydrochloric acid"
+     "text": "ácido clorhídrico"
     },
     {
      "correct": false,
-     "text": "calcium hydroxylapatite"
+     "text": "calcio hidroxiapatito"
     }
    ],
    "id": "104421",
    "introAudio": null,
    "outro": null,
-   "questionAudio": "Which chemical do people NOT inject into their face to make them youthful and gorgeous?",
-   "text": "Which chemical do people NOT inject into their face to make them youthful and gorgeous?"
+   "questionAudio": "¿Qué químico NO se inyectan las personas en la cara para verse más jóvenes y bellas?",
+   "text": "¿Qué químico NO se inyectan las personas en la cara para verse más jóvenes y bellas?"
   },
   {
    "choices": [
@@ -4134,7 +4134,7 @@
    "choices": [
     {
      "correct": true,
-     "text": "[i]Chicken Run[/i]"
+     "text": "[i]Pollitos en fuga[/i]"
     },
     {
      "correct": false,
@@ -4142,7 +4142,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Babe[/i]"
+     "text": "[i]Babe: el chanchito valiente[/i]"
     },
     {
      "correct": false,
@@ -4219,7 +4219,7 @@
     },
     {
      "correct": true,
-     "text": "[i]The Choice[/i]"
+     "text": "[i]En nombre del amor[/i]"
     },
     {
      "correct": false,
@@ -4227,7 +4227,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Dear John[/i]"
+     "text": "[i]Querido John[/i]"
     }
    ],
    "id": "54028",
@@ -5781,7 +5781,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]War & Pizza[/i]"
+     "text": "[i]Guerra y pizza[/i]"
     },
     {
      "correct": false,
@@ -6618,7 +6618,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "about 50°F"
+     "text": "más o menos 10°C"
     },
     {
      "correct": false,
@@ -6630,7 +6630,7 @@
     },
     {
      "correct": false,
-     "text": "about 110°F"
+     "text": "más o menos 43°C"
     }
    ],
    "id": "54205",
@@ -8778,11 +8778,11 @@
    "choices": [
     {
      "correct": true,
-     "text": "[i]Ghost Town[/i]"
+     "text": "[i]Un fantasma fastidioso[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Ghost World[/i]"
+     "text": "[i]Mundo fantasma[/i]"
     },
     {
      "correct": false,
@@ -9330,7 +9330,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Bridesmaids[/i]"
+     "text": "[i]Damas en guerra[/i]"
     }
    ],
    "id": "54425",
@@ -10410,7 +10410,7 @@
     },
     {
      "correct": false,
-     "text": "[i]The A-Team[/i]"
+     "text": "[i]Brigada A[/i]"
     }
    ],
    "id": "54498",
@@ -13071,7 +13071,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]Speed[/i]"
+     "text": "[i]Máxima velocidad[/i]"
     },
     {
      "correct": true,
@@ -14753,7 +14753,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Nancy[/i]"
+     "text": "[i]Nancy[/i] (Periquita)"
     },
     {
      "correct": false,
@@ -14772,7 +14772,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]Ask Savage[/i]"
+     "text": "[i]Ask Savage[/i] (Pregúntale a Savage)"
     },
     {
      "correct": false,
@@ -14784,7 +14784,7 @@
     },
     {
      "correct": true,
-     "text": "[i]Savage Love[/i]"
+     "text": "[i]Savage Love[/i] (Amor salvaje)"
     }
    ],
    "id": "54777",
@@ -15216,7 +15216,7 @@
     },
     {
      "correct": true,
-     "text": "[i]Labyrinth[/i]"
+     "text": "[i]Laberinto[/i]"
     }
    ],
    "id": "54801",
@@ -15590,7 +15590,7 @@
     },
     {
      "correct": false,
-     "text": "[i]The Sandlot[/i]"
+     "text": "[i]Nuestra pandilla[/i]"
     },
     {
      "correct": false,
@@ -15906,7 +15906,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]Lions’ Lair[/i]"
+     "text": "[i]Guarida de los leones[/i]"
     },
     {
      "correct": false,
@@ -19451,7 +19451,7 @@
     },
     {
      "correct": false,
-     "text": "[i]The Thinker[/i]"
+     "text": "[i]El pensador[/i]"
     },
     {
      "correct": false,
@@ -19632,7 +19632,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]The Omen[/i]"
+     "text": "[i]La profecía[/i]"
     },
     {
      "correct": false,
@@ -19640,7 +19640,7 @@
     },
     {
      "correct": false,
-     "text": "[i]The Birds[/i]"
+     "text": "[i]Los pájaros[/i]"
     },
     {
      "correct": true,
@@ -21792,7 +21792,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]I, Robot[/i]"
+     "text": "[i]Yo, robot[/i]"
     },
     {
      "correct": false,
@@ -21800,7 +21800,7 @@
     },
     {
      "correct": true,
-     "text": "[i]Dune[/i]"
+     "text": "[i]Duna[/i]"
     },
     {
      "correct": false,
@@ -24689,7 +24689,7 @@
     },
     {
      "correct": false,
-     "text": "[i]The Birds[/i]"
+     "text": "[i]Los pájaros[/i]"
     },
     {
      "correct": true,
@@ -28141,7 +28141,7 @@
     },
     {
      "correct": false,
-     "text": "[i]Shark Tale[/i]"
+     "text": "[i]El espantatiburones[/i]"
     },
     {
      "correct": false,

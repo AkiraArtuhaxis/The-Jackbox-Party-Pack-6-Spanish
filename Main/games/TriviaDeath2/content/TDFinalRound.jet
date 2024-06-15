@@ -753,7 +753,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "bunion"
+     "text": "juanete"
     },
     {
      "correct": true,
@@ -768,32 +768,32 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "blister"
+     "text": "ampolla"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "hammertoe"
+     "text": "dedo del pie en martillo"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "heel spurs"
+     "text": "espolones del talón"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "ingrown toenail"
+     "text": "uña encarnada"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "gout"
+     "text": "gota"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "overpronation"
+     "text": "sobrepronación"
     },
     {
      "correct": false,
@@ -803,7 +803,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "canker sores"
+     "text": "aftas"
     },
     {
      "correct": false,
@@ -813,53 +813,53 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Ekbom syndrome"
+     "text": "síndrome de Ekbom"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Guillain-Barré syndrome"
+     "text": "síndrome de Guillain-Barré"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "aphasia"
+     "text": "afasia"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "catarrh"
+     "text": "catarro"
     }
    ],
    "id": "104395",
-   "text": "Foot-Specific Problems"
+   "text": "Problemas específicos de los pies"
   },
   {
    "choices": [
     {
      "correct": true,
      "difficulty": 0,
-     "text": "cygnet"
+     "text": "pollo de cisne"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "cub"
+     "text": "cachorro"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "calf"
+     "text": "becerro"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "hatchling"
+     "text": "cría"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "pup"
+     "text": "cachorro"
     },
     {
      "correct": true,
@@ -869,57 +869,57 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "piglet"
+     "text": "cochinillo"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "chick"
+     "text": "polluelo"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "fawn"
+     "text": "cervato"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "doe"
+     "text": "cérvido"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "heifer"
+     "text": "vaquilla"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "drip"
+     "text": "goteo"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "hen"
+     "text": "gallo"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "bud"
+     "text": "compa"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "sprout"
+     "text": "retoño"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "scamp"
+     "text": "pícaro"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "mule"
+     "text": "mula"
     },
     {
      "correct": false,
@@ -928,7 +928,7 @@
     }
    ],
    "id": "104396",
-   "text": "Baby Animals"
+   "text": "Animales bebés"
   },
   {
    "choices": [
@@ -950,52 +950,52 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Rockies"
+     "text": "Rocallosas"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Appalachians"
+     "text": "Apalaches"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Alps"
+     "text": "Alpes"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Ural"
+     "text": "Montes Urales"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Caucasus"
+     "text": "Montañas del Cáucaso"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Antilles"
+     "text": "Antillas"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Frostfangs"
+     "text": "Colmillos Gélidos"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Oranges"
+     "text": "Monte Naranja"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Hurs"
+     "text": "Jurs"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Tiguans"
+     "text": "Tiguanos"
     },
     {
      "correct": false,
@@ -1005,16 +1005,16 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "The Large Stone Range"
+     "text": "La gran gama de piedras"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Melancholy Hills"
+     "text": "Colinas Melancólicas"
     }
    ],
    "id": "104397",
-   "text": "Mountain Ranges"
+   "text": "Cordilleras de montaña"
   },
   {
    "choices": [
@@ -1031,7 +1031,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "The Latin Quarter"
+     "text": "Barrio Latino"
     },
     {
      "correct": true,
@@ -1091,7 +1091,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Napoleon Square"
+     "text": "Plaza Napoleón"
     },
     {
      "correct": false,
@@ -1100,7 +1100,7 @@
     }
    ],
    "id": "104398",
-   "text": "Paris Neighborhoods"
+   "text": "Barrios de París"
   },
   {
    "choices": [
@@ -1223,7 +1223,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "sidestroke"
+     "text": "natación de costado"
     },
     {
      "correct": true,
@@ -1243,12 +1243,12 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "heatstroke"
+     "text": "golpe de calor"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "slitherstroke"
+     "text": "natación deslizante"
     },
     {
      "correct": false,
@@ -1258,21 +1258,21 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "the Phelps wave"
+     "text": "la ola Phelps"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "the fishie’s lament"
+     "text": "el lamento de los pececitos"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "mermaid-gone-mad"
+     "text": "sirena-enloquecida"
     }
    ],
    "id": "104400",
-   "text": "Swimming Strokes"
+   "text": "Brazadas de natación"
   },
   {
    "choices": [
@@ -1464,7 +1464,7 @@
     }
    ],
    "id": "104402",
-   "text": "Antidepressant Medications",
+   "text": "Medicamentos antidepresivos",
    "us": true
   },
   {
@@ -1551,7 +1551,7 @@
     }
    ],
    "id": "104403",
-   "text": "Fictional Doctors"
+   "text": "Dolores ficticios"
   },
   {
    "choices": [
@@ -1740,7 +1740,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Dr. Evil"
+     "text": "Dr. Malito"
     },
     {
      "correct": true,
@@ -1760,7 +1760,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "The Cat in the Hat"
+     "text": "El gato en el sombrero"
     },
     {
      "correct": true,
@@ -1795,7 +1795,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Basil Exposition"
+     "text": "Basil Exposición"
     },
     {
      "correct": false,
@@ -1805,7 +1805,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Prince Charming"
+     "text": "El príncipe azul"
     },
     {
      "correct": false,
@@ -1815,11 +1815,11 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Unfrozen Caveman Lawyer"
+     "text": "Abogado Cavernícola Descongelado"
     }
    ],
    "id": "104406",
-   "text": "Mike Myers Characters"
+   "text": "Personajes de Mike Myers"
   },
   {
    "choices": [
@@ -1836,17 +1836,17 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Tumbleweed"
+     "text": "Planta rodadora"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Raw Sienna"
+     "text": "Siena natural"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Burnt Sienna"
+     "text": "Siena quemada"
     },
     {
      "correct": true,
@@ -1856,52 +1856,52 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Blast Off Bronze"
+     "text": "Bronce despegue"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Antique Brass"
+     "text": "Metal antiguo"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Copper"
+     "text": "Cobre"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Bisque"
+     "text": "Bizcocho"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Scorched Sienna"
+     "text": "Siena chamuscada"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Blanched Sienna"
+     "text": "Siena blanqueada"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Log"
+     "text": "Tronco"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Brown Cow"
+     "text": "Vaca marrón"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Creamy Coffee"
+     "text": "Café cremoso"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Almond Milk"
+     "text": "Leche de almendra"
     },
     {
      "correct": false,
@@ -1911,21 +1911,21 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Violin"
+     "text": "Violín"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Cockroach"
+     "text": "Cucaracha"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Dug Up Dirt"
+     "text": "Tierra excavada"
     }
    ],
    "id": "104422",
-   "text": "Crayola Crayon Shades of Brown"
+   "text": "Tonos de marrón de los crayones de Crayola"
   },
   {
    "choices": [
@@ -2031,14 +2031,14 @@
     }
    ],
    "id": "104423",
-   "text": "Inflight Airline Magazines"
+   "text": "Revistas a bordo de aerolíneas"
   },
   {
    "choices": [
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Crete"
+     "text": "Creta"
     },
     {
      "correct": true,
@@ -2053,7 +2053,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Corfu"
+     "text": "Corfú"
     },
     {
      "correct": true,
@@ -2063,7 +2063,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Kos"
+     "text": "Cos"
     },
     {
      "correct": true,
@@ -2137,7 +2137,7 @@
     }
    ],
    "id": "104424",
-   "text": "Greek Islands"
+   "text": "Islas griegas"
   },
   {
    "choices": [
@@ -2159,37 +2159,37 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "anteater"
+     "text": "oso hormiguero"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "tree pangolin"
+     "text": "pangolín arborícola"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "seahorse"
+     "text": "caballito de mar"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "kinkajou"
+     "text": "kinkajú"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "New World porcupine"
+     "text": "eretizóntidos"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "harvest mouse"
+     "text": "ratón espiguero"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "chameleon"
+     "text": "camaleón"
     },
     {
      "correct": false,
@@ -2214,12 +2214,12 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Eurasian beaver"
+     "text": "\ncastor europeo"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "eastern gray squirrel"
+     "text": "ardilla de las Carolinas"
     },
     {
      "correct": false,
@@ -2229,12 +2229,12 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "whiptail stingray"
+     "text": "raya látigo"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "cat"
+     "text": "gato"
     },
     {
      "correct": false,
@@ -2243,7 +2243,7 @@
     }
    ],
    "id": "104425",
-   "text": "Animals With Tails That Can Grab Things"
+   "text": "Animales con cola que puede agarrar cosas"
   },
   {
    "choices": [
@@ -2325,27 +2325,27 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Bunny"
+     "text": "Liebre"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Owlette"
+     "text": "Buhita"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Baby Badger"
+     "text": "Bebé tejón"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Buzz Bee"
+     "text": "Abejita"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "Sweetie"
+     "text": "Dulce"
     },
     {
      "correct": false,
@@ -2361,32 +2361,32 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "kilometer"
+     "text": "kilómetro"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "hectometer"
+     "text": "hectómetro"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "decameter"
+     "text": "decámetro"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "centimeter"
+     "text": "centímetro"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "millimeter"
+     "text": "milímetro"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "nautical mile"
+     "text": "milla náutica"
     },
     {
      "correct": true,
@@ -2396,71 +2396,71 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "yard"
+     "text": "yarda"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "foot"
+     "text": "pie"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "inch"
+     "text": "pulgada"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "light-year"
+     "text": "año luz"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "liter"
+     "text": "litro"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "cubic meter"
+     "text": "metro cúbico"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "hectoliter"
+     "text": "hectolitro"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "milliliter"
+     "text": "mililitro"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "square inch"
+     "text": "pulgada cuadrada"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "gallon"
+     "text": "galón"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "pint"
+     "text": "pinta"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "kilogram"
+     "text": "kilogramo"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "ton"
+     "text": "tonelada"
     }
    ],
    "id": "104427",
-   "text": "Ways to Measure Length"
+   "text": "Formas de medir la longitud"
   },
   {
    "choices": [
@@ -2547,7 +2547,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Sisters[/i]"
+     "text": "[i]Hermanas[/i]"
     },
     {
      "correct": false,
@@ -2567,17 +2567,17 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]EuroTrip[/i]"
+     "text": "[i]Euroviaje censurado[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Aye, Matey![/i]"
+     "text": "[i]¡Hola, marinera![/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Twinning[/i]"
+     "text": "[i]Victoria de gemelas[/i]"
     },
     {
      "correct": false,
@@ -3682,7 +3682,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Jack & Jill[/i]"
+     "text": "[i]Jack y Jill[/i]"
     },
     {
      "correct": true,
@@ -4134,7 +4134,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Life of Pi[/i]"
+     "text": "[i]La vida de Pi[/i]"
     },
     {
      "correct": true,
@@ -5834,7 +5834,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Brillo Boxes[/i]"
+     "text": "[i]Cajas de Brillo[/i]"
     },
     {
      "correct": true,
@@ -5869,22 +5869,22 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Oreo Cookie[/i]"
+     "text": "[i]Galletita Oreo[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]More Cher[/i]"
+     "text": "[i]Más Cher[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Budweiser Bottle[/i]"
+     "text": "[i]Botella de Budweiser[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Silver Brando[/i]"
+     "text": "[i]Brando plateado[/i]"
     },
     {
      "correct": false,
@@ -6256,7 +6256,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Peril at End House[/i]"
+     "text": "[i]Peligro inminente[/i]"
     },
     {
      "correct": true,
@@ -8284,12 +8284,12 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Blondie[/i]"
+     "text": "[i]Pepita y Lorenzo[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Hi and Lois[/i]"
+     "text": "[i]Lalo y Lola[/i]"
     },
     {
      "correct": true,
@@ -8314,7 +8314,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Nancy[/i]"
+     "text": "[i]Nancy[/i] (Periquita)"
     },
     {
      "correct": true,
@@ -8344,7 +8344,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The Jerkos[/i]"
+     "text": "[i]Los Jerkos[/i]"
     },
     {
      "correct": false,
@@ -8374,7 +8374,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Spatulas[/i]"
+     "text": "[i]Espátulas[/i]"
     },
     {
      "correct": false,
@@ -9490,12 +9490,12 @@
     {
      "correct": true,
      "difficulty": -1,
-     "text": "[i]Psycho[/i]"
+     "text": "[i]Psicosis[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Birds[/i]"
+     "text": "[i]Los pájaros[/i]"
     },
     {
      "correct": true,
@@ -9510,7 +9510,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Rear Window[/i]"
+     "text": "[i]La ventana indiscreta[/i]"
     },
     {
      "correct": true,
@@ -9575,7 +9575,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Cemetery[/i]"
+     "text": "[i]Cementerio[/i]"
     },
     {
      "correct": false,
@@ -9693,7 +9693,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Aladdin[/i]"
+     "text": "[i]Aladdín[/i]"
     },
     {
      "correct": false,
@@ -9977,7 +9977,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Big[/i]"
+     "text": "[i]Quisiera ser grande[/i]"
     },
     {
      "correct": true,
@@ -9997,7 +9997,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Selma[/i]"
+     "text": "[i]Selma: el poder de un sueño[/i]"
     },
     {
      "correct": true,
@@ -10047,7 +10047,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Get Out[/i]"
+     "text": "[i]¡Huye![/i]"
     },
     {
      "correct": false,
@@ -10188,7 +10188,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "Danish krone"
+     "text": "Corona danesa"
     },
     {
      "correct": false,
@@ -10354,7 +10354,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]About Time[/i]"
+     "text": "[i]Cuestión de tiempo[/i]"
     },
     {
      "correct": true,
@@ -10399,7 +10399,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]In Time[/i]"
+     "text": "[i]El precio del mañana[/i]"
     },
     {
      "correct": false,
@@ -10419,7 +10419,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]127 Hours[/i]"
+     "text": "[i]127 horas[/i]"
     },
     {
      "correct": false,
@@ -10731,12 +10731,12 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Miser[/i]"
+     "text": "[i]El avaro[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Tartuffe[/i]"
+     "text": "[i]Tartufo[/i]"
     },
     {
      "correct": true,
@@ -10801,7 +10801,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The Rivals[/i]"
+     "text": "[i]Los rivales[/i]"
     },
     {
      "correct": false,
@@ -11522,7 +11522,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Knocked Up[/i]"
+     "text": "[i]Ligeramente embarazada[/i]"
     },
     {
      "correct": false,
@@ -12148,7 +12148,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The Phantom[/i]"
+     "text": "[i]El fantasma[/i]"
     },
     {
      "correct": false,
@@ -13824,27 +13824,27 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Boss[/i]"
+     "text": "[i]La jefa[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Spy[/i]"
+     "text": "[i]Spy: una espía despistada[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]St. Vincent[/i]"
+     "text": "[i]Sn. Vincent[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Heat[/i]"
+     "text": "[i]Armadas y peligrosas[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Bridesmaids[/i]"
+     "text": "[i]Damas en guerra[/i]"
     },
     {
      "correct": true,
@@ -13859,22 +13859,22 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Baby Mama[/i]"
+     "text": "[i]Mamá por encargo[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Girls Trip[/i]"
+     "text": "[i]Viaje de chicas[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Trainwreck[/i]"
+     "text": "[i]Esta chica es un desastre[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Bad Teacher[/i]"
+     "text": "[i]Malas enseñanzas[/i]"
     },
     {
      "correct": false,
@@ -13884,7 +13884,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Bad Moms[/i]"
+     "text": "[i]El club de las madres rebeldes[/i]"
     }
    ],
    "id": "55528",
@@ -14407,7 +14407,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Twits[/i]"
+     "text": "[i]Los Cretinos[/i]"
     },
     {
      "correct": true,
@@ -14417,7 +14417,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The BFG[/i]"
+     "text": "[i]El gran gigante bonachón[/i]"
     },
     {
      "correct": true,
@@ -14427,7 +14427,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Witches[/i]"
+     "text": "[i]Las brujas[/i]"
     },
     {
      "correct": true,
@@ -14487,7 +14487,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Beetle Boy[/i]"
+     "text": "[i]El chico escarabajo[/i]"
     },
     {
      "correct": false,
@@ -14502,7 +14502,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Bunnicula[/i]"
+     "text": "[i]Bonícula[/i]"
     },
     {
      "correct": false,
@@ -15171,7 +15171,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Cloud Atlas[/i]"
+     "text": "[i]El atlas de las nubes[/i]"
     },
     {
      "correct": false,
@@ -15664,12 +15664,12 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Sealab 2021[/i]"
+     "text": "[i]Laboratorio Submarino 2021[/i]"
     },
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Home Movies[/i]"
+     "text": "[i]Películas caseras[/i]"
     },
     {
      "correct": true,
@@ -16617,7 +16617,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The Thinker[/i]"
+     "text": "[i]El pensador[/i]"
     },
     {
      "correct": false,
@@ -17811,7 +17811,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The Witches[/i]"
+     "text": "[i]Las brujas[/i]"
     },
     {
      "correct": false,
@@ -20215,7 +20215,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Beach Party[/i]"
+     "text": "[i]Sucedió en la playa[/i]"
     },
     {
      "correct": true,
@@ -20240,7 +20240,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Bikini Dogs[/i]"
+     "text": "[i]Perros en bikini[/i]"
     },
     {
      "correct": false,
@@ -20250,7 +20250,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Sandy Pants[/i]"
+     "text": "[i]Pantalones arenados[/i]"
     },
     {
      "correct": false,
@@ -20587,7 +20587,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Big Fish[/i]"
+     "text": "[i]El gran pez[/i]"
     },
     {
      "correct": true,
@@ -20602,7 +20602,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Howling[/i]"
+     "text": "[i]Aullidos[/i]"
     },
     {
      "correct": true,
@@ -20622,7 +20622,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Underworld[/i]"
+     "text": "[i]Inframundo[/i]"
     },
     {
      "correct": true,
@@ -20642,12 +20642,12 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Peter and the Wolf[/i]"
+     "text": "[i]Pedro y el lobo[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The Grey[/i]"
+     "text": "[i]Un día para sobrevivir[/i]"
     },
     {
      "correct": false,
@@ -20662,7 +20662,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]K9[/i]"
+     "text": "[i]Superagente K9[/i]"
     },
     {
      "correct": false,
@@ -20672,7 +20672,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]White Fang[/i]"
+     "text": "[i]Colmillo blanco[/i]"
     }
    ],
    "id": "56518",
@@ -22140,7 +22140,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Ozma of Oz[/i]"
+     "text": "[i]Ozma de Oz[/i]"
     },
     {
      "correct": true,
@@ -22763,7 +22763,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Hook[/i]"
+     "text": "[i]Hook, el regreso del Capitán Garfio[/i]"
     },
     {
      "correct": true,
@@ -22783,7 +22783,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Patriot[/i]"
+     "text": "[i]El patriota[/i]"
     },
     {
      "correct": true,
@@ -22793,7 +22793,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Post[/i]"
+     "text": "[i]The Post: Los oscuros secretos del Pentágono[/i]"
     },
     {
      "correct": true,
@@ -22823,7 +22823,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Gladiator[/i]"
+     "text": "[i]Gladiador[/i]"
     },
     {
      "correct": false,
@@ -23896,7 +23896,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Salem’s Lot[/i]"
+     "text": "[i]El misterio de Salem's Lot[/i]"
     },
     {
      "correct": false,
@@ -24047,7 +24047,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Ikiru[/i]"
+     "text": "[i]Vivir[/i]"
     },
     {
      "correct": true,
@@ -24319,7 +24319,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]City Lights[/i]"
+     "text": "[i]Luces de la ciudad[/i]"
     },
     {
      "correct": true,
@@ -24329,7 +24329,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Kid[/i]"
+     "text": "[i]El chico[/i]"
     },
     {
      "correct": true,
@@ -24349,7 +24349,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]The Circus[/i]"
+     "text": "[i]El circo[/i]"
     },
     {
      "correct": true,
@@ -24364,17 +24364,17 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The Artist[/i]"
+     "text": "[i]El artista[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]The General[/i]"
+     "text": "[i]El maquinista de La General[/i]"
     },
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Metropolis[/i]"
+     "text": "[i]Metrópolis[/i]"
     },
     {
      "correct": false,
@@ -24389,7 +24389,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Safety Last![/i]"
+     "text": "[i]El hombre mosca[/i]"
     },
     {
      "correct": false,
@@ -25360,7 +25360,7 @@
     {
      "correct": true,
      "difficulty": 0,
-     "text": "[i]Sin City[/i]"
+     "text": "[i]Sin City: ciudad del pecado[/i]"
     },
     {
      "correct": true,
@@ -25400,7 +25400,7 @@
     {
      "correct": false,
      "difficulty": 0,
-     "text": "[i]Ex Machina[/i]"
+     "text": "[i]Ex-Máquina[/i]"
     },
     {
      "correct": false,
