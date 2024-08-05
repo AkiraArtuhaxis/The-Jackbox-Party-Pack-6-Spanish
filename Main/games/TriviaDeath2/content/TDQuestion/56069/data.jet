@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Sabré que no eres el asesino si me puedes decir qué continente contiene el desierto más grande.",
+            "t": "A",
+            "v": "801068_2",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]La investigación del FBI demuestra que el asesino trabaja en entornos tropicales y exuberantes, mientras que evita los desiertos... así que...",
+            "t": "A",
+            "v": "801075_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Asia] [Africa] [Australia] [Antarctica]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

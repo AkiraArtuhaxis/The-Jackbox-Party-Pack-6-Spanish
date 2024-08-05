@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál de estas criaturas es invertebrada?",
+            "t": "A",
+            "v": "797312_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Lo único que sabemos sobre el asesino es que no sabe NADA de la taxonomía animal. Así que dime...",
+            "t": "A",
+            "v": "797319_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[turtle] [eel] [crab] [snake]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

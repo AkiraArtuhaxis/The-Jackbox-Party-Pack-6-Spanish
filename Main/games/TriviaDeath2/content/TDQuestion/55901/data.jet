@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál de estos NO es parte de la trilogía de <i>La materia oscura</i>?",
+            "t": "A",
+            "v": "797961_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según nuestros perfiladores criminales, el asesino evita las novelas para adultos jóvenes porque lo hacen sentirse solo. Así que... dime...",
+            "t": "A",
+            "v": "797968_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[<i>The Golden Compass</i>] [<i>The Subtle Knife</i>] [<i>The Hickory Rope</i>] [<i>The Amber Spyglass</i>]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

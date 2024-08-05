@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál de estos NO es un ingrediente tradicional en la ensalada César?",
+            "t": "A",
+            "v": "801189_2",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según datos obtenidos en la escena del crimen, el asesino solo usa aderezo RANCHERO para sus ensaladas.... así que dime...",
+            "t": "A",
+            "v": "801196_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Worcestershire sauce] [garlic] [anchovy] [sugar]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál de estos vinos es tradicionalmente el más potente y oscuro?",
+            "t": "A",
+            "v": "797490_3",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según nuestro psíquico policial... el asesino solo bebe vinos tintos ligeros... así que si quieres limpiar tu nombre solo dime...",
+            "t": "A",
+            "v": "797497_3",
+            "n": "Intro"
+        },
+        {
+            "s": "[merlot] [mourvedre] [malbec] [cabernet sauvignon]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

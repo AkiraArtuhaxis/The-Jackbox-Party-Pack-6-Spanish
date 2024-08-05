@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Te dejaré ir si me puedes decir quién fue protagonista de la película <i>Nosotros</i> de Jordan Peele.",
+            "t": "A",
+            "v": "798175_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]He estado persiguiendo a este maníaco por años y de lo que estoy seguro es que no le gustan las películas de terror modernas porque le parecen demasiado aterradoras... Así que...",
+            "t": "A",
+            "v": "798182_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Viola Davis] [Danai Gurira] [Sonequa Martin-Green] [Lupita Nyong’o]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

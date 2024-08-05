@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¡Te dejaré ir si reconoces cuál de estas series es una serie original de Hulu!",
+            "t": "A",
+            "v": "798226_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Hemos revisado la cuenta bancaria del asesino, sabemos que no puede permitirse pagar servicios de streaming....",
+            "t": "A",
+            "v": "798233_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[<i>The Crown</i>] [<i>The Tick</i>] [<i>The OA</i>] [<i>The Handmaid’s Tale</i>]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

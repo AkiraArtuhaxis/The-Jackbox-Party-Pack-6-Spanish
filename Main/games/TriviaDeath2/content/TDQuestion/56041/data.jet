@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Cuál es el nombre del padre de Pinocho?",
+            "t": "A",
+            "v": "800593_2",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Si hay algo que sabemos del asesino, es que tiene una aversión violenta a las marionetas. Por lo que nunca podría responder esta pregunta...",
+            "t": "A",
+            "v": "800600_2",
+            "n": "Intro"
+        },
+        {
+            "s": "[Geronimo] [Giuseppe] [Geppetto] [Jiminy Cricket]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}

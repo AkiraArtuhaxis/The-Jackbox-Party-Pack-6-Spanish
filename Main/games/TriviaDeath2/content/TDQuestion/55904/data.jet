@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasIntro"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasPic"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasVamp"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasChoices"
+        },
+        {
+            "t": "B",
+            "v": "false",
+            "n": "HasOutro"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]¿Quién escribió las canciones “Big Yellow Taxi” y “River”?",
+            "t": "A",
+            "v": "798024_1",
+            "n": "Q"
+        },
+        {
+            "s": "[EventName=HOST/AltHost]Según el FBI, el asesino es un completo ignorante en lo que se refiere a reyes de la música folk de los 70. Así que responde esta pregunta si verdaderamente eres inocente...",
+            "t": "A",
+            "v": "798031_1",
+            "n": "Intro"
+        },
+        {
+            "s": "[Cat Stevens] [Joni Mitchell] [Joan Baez] [Alanis Morissette]",
+            "t": "A",
+            "n": "Choices"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Vamp"
+        },
+        {
+            "s": "",
+            "t": "A",
+            "n": "Outro"
+        },
+        {
+            "t": "G",
+            "n": "Pic"
+        }
+    ]
+}
